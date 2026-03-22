@@ -1,0 +1,169 @@
+import type { Metadata } from "next";
+import Link from "next/link";
+import CTABanner from "@/components/CTABanner";
+
+export const metadata: Metadata = {
+  title: "Vaccine Injury Claims — Find Out If You Qualify",
+  description:
+    "If you experienced a serious reaction after a vaccine, you may qualify for compensation. Get a free, confidential case review today.",
+};
+
+const faqs = [
+  {
+    q: "Is there a deadline to file a vaccine injury claim?",
+    a: "Yes. The National Vaccine Injury Compensation Program (VICP) generally requires claims to be filed within 36 months of the first symptom. Don't wait — deadlines vary by program and injury type.",
+  },
+  {
+    q: "Does it cost anything to find out if I qualify?",
+    a: "No. Our eligibility review is completely free and confidential. You only pay if you move forward and there is a recovery.",
+  },
+  {
+    q: "What vaccines are covered?",
+    a: "The VICP covers most routinely recommended vaccines, including flu, HPV, MMR, Tdap, and others. COVID-19 vaccine claims are handled separately under the CICP program.",
+  },
+  {
+    q: "Do I need to prove the vaccine caused my injury?",
+    a: "Not always. The government maintains a Vaccine Injury Table that lists injuries presumed to be caused by certain vaccines — which can simplify or eliminate the need to prove causation.",
+  },
+];
+
+export default function HomePage() {
+  return (
+    <>
+      {/* Hero */}
+      <section className="bg-gradient-to-b from-blue-950 to-blue-900 text-white py-20 px-4">
+        <div className="max-w-4xl mx-auto text-center">
+          <p className="text-blue-300 text-sm font-medium uppercase tracking-wide mb-4">
+            Free &amp; Confidential Case Review
+          </p>
+          <h1 className="text-4xl sm:text-5xl font-bold leading-tight mb-6">
+            Were You Injured by a Vaccine?
+          </h1>
+          <p className="text-blue-100 text-xl mb-8 max-w-2xl mx-auto leading-relaxed">
+            Federal programs exist specifically to compensate people who suffer serious reactions from recommended vaccines.
+            You may have a claim — and checking costs nothing.
+          </p>
+          <div className="flex flex-col sm:flex-row gap-4 justify-center">
+            <Link
+              href="/intake"
+              className="bg-white text-blue-900 font-semibold px-8 py-4 rounded-md hover:bg-blue-50 transition-colors text-lg"
+            >
+              Check My Eligibility — Free
+            </Link>
+            <Link
+              href="/how-it-works"
+              className="border border-blue-400 text-blue-100 font-medium px-8 py-4 rounded-md hover:bg-blue-800 transition-colors text-lg"
+            >
+              How It Works
+            </Link>
+          </div>
+          <p className="text-blue-400 text-sm mt-6">No cost. No obligation. Takes about 3 minutes.</p>
+        </div>
+      </section>
+
+      {/* Education section */}
+      <section className="py-16 px-4 bg-white">
+        <div className="max-w-5xl mx-auto">
+          <div className="text-center mb-12">
+            <h2 className="text-3xl font-bold text-gray-900 mb-4">
+              What Is Vaccine Injury Compensation?
+            </h2>
+            <p className="text-gray-600 text-lg max-w-2xl mx-auto">
+              The U.S. government created a no-fault compensation system for people injured by vaccines. It&apos;s separate from standard lawsuits — and most people don&apos;t know it exists.
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+            {[
+              {
+                title: "Federal Programs",
+                body: "The National Vaccine Injury Compensation Program (VICP) and the Countermeasures Injury Compensation Program (CICP) were created specifically to compensate vaccine-injured individuals.",
+              },
+              {
+                title: "No-Fault System",
+                body: "You don't need to prove negligence or that a manufacturer did something wrong. If your injury is listed on the Vaccine Injury Table, the burden shifts to the government.",
+              },
+              {
+                title: "Who It Covers",
+                body: "Anyone — adults or children — who received a covered vaccine and experienced a qualifying injury, illness, or disability may be eligible. Families of those who died may also qualify.",
+              },
+            ].map((item) => (
+              <div key={item.title} className="bg-gray-50 rounded-lg p-6">
+                <h3 className="font-semibold text-lg text-blue-900 mb-2">{item.title}</h3>
+                <p className="text-gray-600 leading-relaxed">{item.body}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* CTA Banner */}
+      <CTABanner />
+
+      {/* How It Works */}
+      <section className="py-16 px-4 bg-white">
+        <div className="max-w-4xl mx-auto">
+          <div className="text-center mb-12">
+            <h2 className="text-3xl font-bold text-gray-900 mb-4">How It Works</h2>
+            <p className="text-gray-600 text-lg">Three straightforward steps to understand your options.</p>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+            {[
+              {
+                step: "1",
+                title: "Answer a Few Questions",
+                body: "Tell us about the vaccine, the reaction, and when it happened. This takes about 3 minutes and is completely confidential.",
+              },
+              {
+                step: "2",
+                title: "We Review Your Information",
+                body: "Our team reviews your submission and determines whether your situation may qualify under federal compensation programs.",
+              },
+              {
+                step: "3",
+                title: "Get Connected to Legal Help",
+                body: "If it looks like you may have a claim, we connect you with an attorney who handles vaccine injury cases — at no upfront cost.",
+              },
+            ].map((item) => (
+              <div key={item.step} className="text-center">
+                <div className="w-12 h-12 bg-blue-700 text-white rounded-full flex items-center justify-center text-xl font-bold mx-auto mb-4">
+                  {item.step}
+                </div>
+                <h3 className="font-semibold text-lg text-gray-900 mb-2">{item.title}</h3>
+                <p className="text-gray-600 leading-relaxed">{item.body}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* FAQ Preview */}
+      <section className="py-16 px-4 bg-gray-50">
+        <div className="max-w-3xl mx-auto">
+          <div className="text-center mb-10">
+            <h2 className="text-3xl font-bold text-gray-900 mb-4">Common Questions</h2>
+          </div>
+
+          <div className="space-y-4">
+            {faqs.map((item) => (
+              <div key={item.q} className="bg-white rounded-lg p-6 shadow-sm">
+                <h3 className="font-semibold text-gray-900 mb-2">{item.q}</h3>
+                <p className="text-gray-600 leading-relaxed">{item.a}</p>
+              </div>
+            ))}
+          </div>
+
+          <div className="text-center mt-8">
+            <Link href="/faq" className="text-blue-700 font-medium hover:underline">
+              View all frequently asked questions →
+            </Link>
+          </div>
+        </div>
+      </section>
+
+      {/* Bottom CTA */}
+      <CTABanner />
+    </>
+  );
+}

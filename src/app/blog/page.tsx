@@ -1,0 +1,45 @@
+import type { Metadata } from "next";
+import Link from "next/link";
+import { blogPosts } from "@/content/blog/posts";
+
+export const metadata: Metadata = {
+  title: "Resources & Articles",
+  description:
+    "In-depth articles about vaccine injury compensation programs, eligibility, the claims process, and how to find legal help.",
+};
+
+export default function BlogIndexPage() {
+  return (
+    <>
+      <section className="bg-blue-950 text-white py-16 px-4">
+        <div className="max-w-4xl mx-auto text-center">
+          <h1 className="text-4xl font-bold mb-4">Resources &amp; Articles</h1>
+          <p className="text-blue-200 text-lg">
+            Clear, accurate information about vaccine injury compensation — written for people navigating this process for the first time.
+          </p>
+        </div>
+      </section>
+
+      <section className="py-16 px-4 bg-white">
+        <div className="max-w-4xl mx-auto">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+            {blogPosts.map((post) => (
+              <Link
+                key={post.slug}
+                href={`/blog/${post.slug}`}
+                className="group border border-gray-200 rounded-lg p-6 hover:shadow-md transition-shadow"
+              >
+                <p className="text-blue-700 text-xs font-medium uppercase tracking-wide mb-2">{post.category}</p>
+                <h2 className="text-lg font-semibold text-gray-900 group-hover:text-blue-700 transition-colors mb-2 leading-snug">
+                  {post.title}
+                </h2>
+                <p className="text-gray-600 text-sm leading-relaxed mb-4">{post.excerpt}</p>
+                <p className="text-sm text-gray-400">{post.date}</p>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+    </>
+  );
+}
