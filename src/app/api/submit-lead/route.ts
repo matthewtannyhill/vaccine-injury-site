@@ -47,7 +47,8 @@ export async function POST(request: NextRequest) {
 
     return NextResponse.json({ success: true }, { status: 200 });
   } catch (err) {
-    console.error("Lead submission error:", err);
-    return NextResponse.json({ error: "Failed to submit. Please try again." }, { status: 500 });
+    const message = err instanceof Error ? err.message : String(err);
+    console.error("Lead submission error:", message);
+    return NextResponse.json({ error: message }, { status: 500 });
   }
 }
