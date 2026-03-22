@@ -19,6 +19,7 @@ export default function Nav() {
             <Link href="/how-it-works" className="hover:text-blue-900 transition-colors">How It Works</Link>
             <Link href="/faq" className="hover:text-blue-900 transition-colors">FAQ</Link>
             <Link href="/blog" className="hover:text-blue-900 transition-colors">Resources</Link>
+            <Link href="/about" className="hover:text-blue-900 transition-colors">About</Link>
             <Link
               href="/intake"
               className="bg-blue-700 text-white px-4 py-2 rounded-md hover:bg-blue-800 transition-colors"
@@ -45,6 +46,7 @@ export default function Nav() {
             <Link href="/how-it-works" onClick={() => setOpen(false)}>How It Works</Link>
             <Link href="/faq" onClick={() => setOpen(false)}>FAQ</Link>
             <Link href="/blog" onClick={() => setOpen(false)}>Resources</Link>
+            <Link href="/about" onClick={() => setOpen(false)}>About</Link>
             <Link
               href="/intake"
               onClick={() => setOpen(false)}
