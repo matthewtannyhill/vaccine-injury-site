@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 import CTABanner from "@/components/CTABanner";
 
 export const metadata: Metadata = {
@@ -26,6 +27,19 @@ export default function AboutPage() {
           </p>
         </div>
       </section>
+
+      {/* Hero photo strip */}
+      <div className="relative w-full h-64 md:h-80 overflow-hidden">
+        <Image
+          src="https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1600&q=80"
+          alt="Person reviewing documents at a desk"
+          fill
+          className="object-cover object-center"
+          sizes="100vw"
+          priority
+        />
+        <div className="absolute inset-0 bg-blue-950/40" />
+      </div>
 
       {/* What We Do */}
       <section className="py-16 px-4 bg-white">
@@ -186,22 +200,33 @@ export default function AboutPage() {
 
       {/* Why We Built This */}
       <section className="py-16 px-4 bg-gray-50">
-        <div className="max-w-3xl mx-auto">
-          <h2 className="text-3xl font-bold text-gray-900 mb-4">Why we built this</h2>
-          <p className="text-gray-600 text-lg leading-relaxed mb-4">
-            People dealing with a possible vaccine injury are often already handling medical stress,
-            uncertainty, and paperwork. The last thing they need is a confusing website or vague
-            explanations.
-          </p>
-          <p className="text-gray-600 text-lg leading-relaxed mb-4">
-            We built this platform to make the process easier to understand, help people decide
-            whether they want a legal review, and make it easier to connect with the right kind of help.
-          </p>
-          <p className="text-gray-600 text-lg leading-relaxed">
-            We are building this site to be informative first and conversion-focused second. That
-            means our content is meant to help people understand the process, not pressure them into
-            taking action before they are ready.
-          </p>
+        <div className="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
+          <div>
+            <h2 className="text-3xl font-bold text-gray-900 mb-4">Why we built this</h2>
+            <p className="text-gray-600 text-lg leading-relaxed mb-4">
+              People dealing with a possible vaccine injury are often already handling medical stress,
+              uncertainty, and paperwork. The last thing they need is a confusing website or vague
+              explanations.
+            </p>
+            <p className="text-gray-600 text-lg leading-relaxed mb-4">
+              We built this platform to make the process easier to understand, help people decide
+              whether they want a legal review, and make it easier to connect with the right kind of help.
+            </p>
+            <p className="text-gray-600 text-lg leading-relaxed">
+              We are building this site to be informative first and conversion-focused second. That
+              means our content is meant to help people understand the process, not pressure them into
+              taking action before they are ready.
+            </p>
+          </div>
+          <div className="relative w-full h-72 md:h-80 rounded-xl overflow-hidden shadow-md">
+            <Image
+              src="https://images.unsplash.com/photo-1521791136064-7986c2920216?auto=format&fit=crop&w=800&q=80"
+              alt="Two people in a professional consultation"
+              fill
+              className="object-cover"
+              sizes="(max-width: 768px) 100vw, 50vw"
+            />
+          </div>
         </div>
       </section>
 

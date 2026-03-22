@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 import CTABanner from "@/components/CTABanner";
 
 export const metadata: Metadata = {
@@ -99,6 +100,43 @@ export default function HomePage() {
 
       {/* CTA Banner */}
       <CTABanner />
+
+      {/* Trust / People section */}
+      <section className="py-16 px-4 bg-gray-50">
+        <div className="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
+          <div className="relative w-full h-72 md:h-96 rounded-xl overflow-hidden shadow-md">
+            <Image
+              src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=800&q=80"
+              alt="A professional consultation"
+              fill
+              className="object-cover"
+              sizes="(max-width: 768px) 100vw, 50vw"
+            />
+          </div>
+          <div>
+            <p className="text-blue-700 text-sm font-semibold uppercase tracking-widest mb-3">
+              Built for real people
+            </p>
+            <h2 className="text-3xl font-bold text-gray-900 mb-4 leading-snug">
+              A resource designed to reduce confusion, not add to it
+            </h2>
+            <p className="text-gray-600 leading-relaxed mb-4">
+              Vaccine injury claims involve specific rules, federal programs, and strict deadlines
+              that most people have never heard of. We built this site to close that information gap —
+              giving you a clear picture of the process before you decide whether to move forward.
+            </p>
+            <p className="text-gray-600 leading-relaxed mb-6">
+              We are informational first. There is no pressure to act before you are ready.
+            </p>
+            <Link
+              href="/about"
+              className="text-blue-700 font-semibold hover:underline"
+            >
+              Learn more about this site →
+            </Link>
+          </div>
+        </div>
+      </section>
 
       {/* How It Works */}
       <section className="py-16 px-4 bg-white">
