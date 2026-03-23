@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Disclaimer",
-  description: "Legal disclaimer for VaccineClaimHelp.com.",
+  description: "Legal disclaimer for VaccineInjuries.org.",
 };
 
 export default function DisclaimerPage() {

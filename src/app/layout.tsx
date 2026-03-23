@@ -11,12 +11,12 @@ const geist = Geist({
 
 export const metadata: Metadata = {
   title: {
-    template: "%s | VaccineClaimHelp.com",
+    template: "%s | VaccineInjuries.org",
     default: "Vaccine Injury Claims — Find Out If You Qualify",
   },
   description:
     "If you or a loved one experienced a serious reaction after a vaccine, you may have a legal claim. Learn about your options and get a free case review.",
-  metadataBase: new URL("https://vaccineclaimhelp.com"),
+  metadataBase: new URL("https://vaccineinjuries.org"),
 };
 
 export default function RootLayout({

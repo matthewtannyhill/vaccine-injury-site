@@ -6,7 +6,7 @@ import CTABanner from "@/components/CTABanner";
 export const metadata: Metadata = {
   title: "About Us",
   description:
-    "Learn what VaccineClaimHelp is, how it works, and what happens after you submit your information. We are not a law firm and do not provide legal advice.",
+    "Learn what VaccineInjuries.org is, how it works, and what happens after you submit your information. We are not a law firm and do not provide legal advice.",
 };
 
 export default function AboutPage() {

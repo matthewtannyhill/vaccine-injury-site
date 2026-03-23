@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Privacy Policy",
-  description: "Privacy policy for VaccineClaimHelp.com.",
+  description: "Privacy policy for VaccineInjuries.org.",
 };
 
 export default function PrivacyPolicyPage() {
@@ -71,8 +71,8 @@ export default function PrivacyPolicyPage() {
             <h2 className="text-xl font-semibold text-gray-900 mb-2">Contact</h2>
             <p>
               For privacy-related questions or requests, please contact us at:{" "}
-              <a href="mailto:privacy@vaccineclaimhelp.com" className="text-blue-700 hover:underline">
-                privacy@vaccineclaimhelp.com
+              <a href="mailto:privacy@vaccineinjuries.org" className="text-blue-700 hover:underline">
+                privacy@vaccineinjuries.org
               </a>
             </p>
           </div>

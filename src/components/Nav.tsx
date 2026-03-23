@@ -11,7 +11,7 @@ export default function Nav() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <Link href="/" className="text-xl font-semibold text-blue-900 tracking-tight">
-            VaccineClaimHelp
+            VaccineInjuries.org
           </Link>
 
           {/* Desktop nav */}
