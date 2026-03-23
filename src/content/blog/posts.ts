@@ -79,6 +79,10 @@ If you believe a vaccine caused your injury, the first step is understanding whe
       "Not every vaccine injury claim is filed by the injured person directly. Here is who may be able to file and what to sort out before you begin.",
     date: "January 2025",
     category: "Eligibility",
+    heroImage: {
+      src: "https://images.unsplash.com/photo-1453227588063-bb302b62f50b?auto=format&fit=crop&w=1200&q=80",
+      alt: "Two people in a professional consultation setting",
+    },
     content: `
 ## Who Can File a Vaccine Injury Claim?
 
@@ -271,6 +275,10 @@ If you think your case may qualify, one of the smartest first moves is to collec
       "Not every vaccine reaction qualifies for compensation. Here is the seriousness threshold many people miss when they first start looking into the VICP.",
     date: "February 2025",
     category: "Eligibility",
+    heroImage: {
+      src: "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?auto=format&fit=crop&w=1200&q=80",
+      alt: "Doctor reviewing medical information with a patient",
+    },
     content: `
 ## What Are the Severity Requirements for Filing a VICP Claim?
 
@@ -355,6 +363,10 @@ If you are unsure whether your situation clears that threshold, the next step is
       "Many vaccine injury claims turn on one question: is this a Table injury or an off-Table injury? Here is what that means in plain English.",
     date: "February 2025",
     category: "Qualifying Injuries",
+    heroImage: {
+      src: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
+      alt: "Person studying and reviewing documents at a desk",
+    },
     content: `
 ## What Is the Difference Between a Table Injury and an Off-Table Injury?
 
@@ -434,6 +446,10 @@ That is why even small timeline details in the medical records can make a big di
       "COVID-19 vaccine injury claims are handled differently than other vaccines. Here's what you need to know about the CICP and your legal options.",
     date: "February 2025",
     category: "COVID-19 Vaccines",
+    heroImage: {
+      src: "https://images.unsplash.com/photo-1606206591513-adbfbf700690?auto=format&fit=crop&w=1200&q=80",
+      alt: "COVID-19 vaccine being administered",
+    },
     content: `
 ## COVID-19 Vaccines and the Legal Landscape
 
@@ -478,6 +494,10 @@ The COVID-19 vaccine injury space is evolving rapidly. Legal and regulatory guid
       "The Vaccine Injury Table lists conditions presumed to be caused by certain vaccines. Here's a plain-English overview of what qualifies.",
     date: "February 2025",
     category: "Qualifying Injuries",
+    heroImage: {
+      src: "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?auto=format&fit=crop&w=1200&q=80",
+      alt: "Medical professional preparing a vaccine injection",
+    },
     content: `
 ## The Vaccine Injury Table
 
@@ -528,6 +548,10 @@ The best first step is a free case review. Submit your information and we can he
       "Reporting a vaccine reaction to VAERS can be useful, but it is not the same thing as filing a compensation claim. Here is what the system does and does not do.",
     date: "February 2025",
     category: "Safety Reporting",
+    heroImage: {
+      src: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?auto=format&fit=crop&w=1200&q=80",
+      alt: "Person submitting information on a laptop",
+    },
     content: `
 ## Should I Report My Vaccine Reaction to VAERS?
 
@@ -706,6 +730,10 @@ Filing is a big step, but it is really the beginning of the case rather than the
       "Compensation depends on which program applies to your case. Here is the plain-English difference between what the VICP may cover and what the CICP may cover.",
     date: "March 2025",
     category: "Cost & Compensation",
+    heroImage: {
+      src: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=1200&q=80",
+      alt: "Financial documents and paperwork on a desk",
+    },
     content: `
 ## How Much Compensation Is Available in a Vaccine Injury Case?
 
@@ -890,6 +918,10 @@ If the pain started quickly, limited your shoulder function, and did not resolve
       "Missing the filing deadline can bar your claim entirely. Here's what you need to know about VICP and CICP deadlines.",
     date: "March 2025",
     category: "Filing & Deadlines",
+    heroImage: {
+      src: "https://images.unsplash.com/photo-1506784365847-bbad939e9335?auto=format&fit=crop&w=1200&q=80",
+      alt: "Calendar with pen marking an important deadline",
+    },
     content: `
 ## Deadlines Are Critical in Vaccine Injury Cases
 
@@ -929,6 +961,10 @@ Use our free eligibility form to get started — knowing your situation doesn't 
       "Many people assume a settlement proves the government admitted causation. That is usually not how these cases work.",
     date: "March 2025",
     category: "Claim Basics",
+    heroImage: {
+      src: "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1200&q=80",
+      alt: "Professional in formal attire reviewing case materials",
+    },
     content: `
 ## Does a Vaccine Injury Settlement Mean the Vaccine Caused the Injury?
 
@@ -1093,6 +1129,10 @@ Because the CICP deadline is short and the process is strict, good documentation
       "Vaccine injury law is specialized. Here's what to look for in an attorney, how fees work, and what questions to ask before you hire.",
     date: "March 2025",
     category: "Legal Help",
+    heroImage: {
+      src: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=1200&q=80",
+      alt: "Attorney consulting with a client across a desk",
+    },
     content: `
 ## Why You Need a Specialist
 
