@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
+import Image from "next/image";
 import { blogPosts } from "@/content/blog/posts";
 import CTABanner from "@/components/CTABanner";
 
@@ -39,6 +40,20 @@ export default async function BlogPostPage({ params }: Props) {
           <p className="text-blue-300 text-sm">{post.date}</p>
         </div>
       </section>
+
+      {post.heroImage && (
+        <div className="relative w-full h-64 md:h-80 overflow-hidden">
+          <Image
+            src={post.heroImage.src}
+            alt={post.heroImage.alt}
+            fill
+            className="object-cover object-center"
+            sizes="100vw"
+            priority
+          />
+          <div className="absolute inset-0 bg-blue-950/20" />
+        </div>
+      )}
 
       <section className="py-16 px-4 bg-white">
         <div className="max-w-3xl mx-auto">

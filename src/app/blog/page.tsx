@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 import { blogPosts } from "@/content/blog/posts";
 
 export const metadata: Metadata = {
@@ -27,14 +28,27 @@ export default function BlogIndexPage() {
               <Link
                 key={post.slug}
                 href={`/blog/${post.slug}`}
-                className="group border border-gray-200 rounded-lg p-6 hover:shadow-md transition-shadow"
+                className="group border border-gray-200 rounded-lg overflow-hidden hover:shadow-md transition-shadow flex flex-col"
               >
-                <p className="text-blue-700 text-xs font-medium uppercase tracking-wide mb-2">{post.category}</p>
-                <h2 className="text-lg font-semibold text-gray-900 group-hover:text-blue-700 transition-colors mb-2 leading-snug">
-                  {post.title}
-                </h2>
-                <p className="text-gray-600 text-sm leading-relaxed mb-4">{post.excerpt}</p>
-                <p className="text-sm text-gray-400">{post.date}</p>
+                {post.heroImage && (
+                  <div className="relative w-full h-40 overflow-hidden">
+                    <Image
+                      src={post.heroImage.src}
+                      alt={post.heroImage.alt}
+                      fill
+                      className="object-cover group-hover:scale-105 transition-transform duration-300"
+                      sizes="(max-width: 768px) 100vw, 50vw"
+                    />
+                  </div>
+                )}
+                <div className="p-6 flex flex-col flex-1">
+                  <p className="text-blue-700 text-xs font-medium uppercase tracking-wide mb-2">{post.category}</p>
+                  <h2 className="text-lg font-semibold text-gray-900 group-hover:text-blue-700 transition-colors mb-2 leading-snug">
+                    {post.title}
+                  </h2>
+                  <p className="text-gray-600 text-sm leading-relaxed mb-4 flex-1">{post.excerpt}</p>
+                  <p className="text-sm text-gray-400">{post.date}</p>
+                </div>
               </Link>
             ))}
           </div>
