@@ -9,7 +9,7 @@ A lead generation site for vaccine injury legal claims. Visitors learn about the
 - **Next.js 16** (App Router) — see AGENTS.md before writing any Next.js code
 - **Tailwind CSS** — all styling
 - **Airtable** — lead storage via REST API (`src/lib/airtable.ts`)
-- **Vercel** — hosting, auto-deploys on push to `main`
+- **Vercel** — hosting, auto-deploys on push to `main` (connected to `vaccineinjuriesorg` GitHub account)
 - **Google Analytics** — GA4, ID `G-GCL97RXRR0`, added via `@next/third-parties`
 
 ## Key files
