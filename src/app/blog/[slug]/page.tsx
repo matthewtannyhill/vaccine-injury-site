@@ -33,18 +33,18 @@ export default async function BlogPostPage({ params }: Props) {
 
   return (
     <>
-      <div className="bg-gray-50 border-b border-gray-200 px-4 py-3">
+      <div className="bg-white px-4 pt-6">
         <div className="max-w-3xl mx-auto">
           <Link
             href="/blog"
-            className="inline-flex items-center text-gray-600 hover:text-blue-700 text-sm transition-colors"
+            className="inline-flex items-center text-sm text-gray-500 hover:text-blue-700 transition-colors"
           >
-            ← Blog
+            ← All articles
           </Link>
         </div>
       </div>
 
-      <section className="bg-blue-950 text-white py-16 px-4">
+      <section className="bg-blue-950 text-white py-12 px-4 mt-6">
         <div className="max-w-3xl mx-auto">
           <p className="text-blue-300 text-sm font-medium uppercase tracking-wide mb-3">{post.category}</p>
           <h1 className="text-3xl sm:text-4xl font-bold leading-tight mb-4">{post.title}</h1>
