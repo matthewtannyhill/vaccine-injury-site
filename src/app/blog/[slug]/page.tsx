@@ -35,6 +35,12 @@ export default async function BlogPostPage({ params }: Props) {
     <>
       <section className="bg-blue-950 text-white py-16 px-4">
         <div className="max-w-3xl mx-auto">
+          <Link
+            href="/blog"
+            className="inline-flex items-center text-blue-300 hover:text-white text-sm font-medium mb-6 transition-colors"
+          >
+            ← Back to all articles
+          </Link>
           <p className="text-blue-300 text-sm font-medium uppercase tracking-wide mb-3">{post.category}</p>
           <h1 className="text-3xl sm:text-4xl font-bold leading-tight mb-4">{post.title}</h1>
           <p className="text-blue-300 text-sm">{post.date}</p>
