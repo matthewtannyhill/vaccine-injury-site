@@ -35,12 +35,19 @@ export default async function BlogPostPage({ params }: Props) {
     <>
       <div className="bg-white px-4 pt-6">
         <div className="max-w-3xl mx-auto">
-          <Link
-            href="/blog"
-            className="inline-flex items-center text-sm text-gray-500 hover:text-blue-700 transition-colors"
-          >
-            ← All articles
-          </Link>
+          <nav aria-label="Breadcrumb" className="text-xs text-gray-500">
+            <ol className="flex items-center flex-wrap gap-1.5">
+              <li>
+                <Link href="/" className="hover:text-blue-700 transition-colors">Home</Link>
+              </li>
+              <li className="text-gray-400" aria-hidden="true">/</li>
+              <li>
+                <Link href="/blog" className="hover:text-blue-700 transition-colors">Resources</Link>
+              </li>
+              <li className="text-gray-400" aria-hidden="true">/</li>
+              <li className="text-gray-700 truncate">{post.title}</li>
+            </ol>
+          </nav>
         </div>
       </div>
 
