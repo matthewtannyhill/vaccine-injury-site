@@ -3,6 +3,7 @@ import Link from "next/link";
 import CTABanner from "@/components/CTABanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/how-it-works" },
   title: "How It Works",
   description:
     "Learn how our free vaccine injury case review process works — from eligibility check to connecting you with experienced legal help.",

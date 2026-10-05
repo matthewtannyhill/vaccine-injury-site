@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/intake/thank-you" },
+  robots: { index: false, follow: false },
   title: "Thank You — We Received Your Submission",
   description: "Thank you for submitting your vaccine injury inquiry. We will review your information and be in touch soon.",
 };
