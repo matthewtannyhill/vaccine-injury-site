@@ -4,6 +4,7 @@ import Image from "next/image";
 import { blogPosts } from "@/content/blog/posts";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/blog" },
   title: "Resources & Articles",
   description:
     "In-depth articles about vaccine injury compensation programs, eligibility, the claims process, and how to find legal help.",

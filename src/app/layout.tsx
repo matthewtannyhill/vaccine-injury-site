@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { SITE_URL } from "@/lib/site";
 import { Geist } from "next/font/google";
 import { GoogleAnalytics } from "@next/third-parties/google";
 import { Analytics } from "@vercel/analytics/next";
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
   },
   description:
     "If you or a loved one experienced a serious reaction after a vaccine, you may have a legal claim. Learn about your options and get a free case review.",
-  metadataBase: new URL("https://vaccineinjuries.org"),
+  metadataBase: new URL(SITE_URL),
 };
 
 export default function RootLayout({

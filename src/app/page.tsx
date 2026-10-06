@@ -4,6 +4,7 @@ import Image from "next/image";
 import CTABanner from "@/components/CTABanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/" },
   title: "Vaccine Injury Claims — Find Out If You Qualify",
   description:
     "If you experienced a serious reaction after a vaccine, you may qualify for compensation. Get a free, confidential case review today.",

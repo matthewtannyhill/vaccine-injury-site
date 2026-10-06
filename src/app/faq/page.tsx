@@ -1,11 +1,8 @@
 "use client";
 
 import { useState } from "react";
-import type { Metadata } from "next";
 import Link from "next/link";
 
-// Note: metadata must be in a separate server component when using "use client"
-// For simplicity in V1 we define it separately below
 
 type FAQItem = { q: string; a: string; learnMoreSlug?: string };
 type FAQSection = { category: string; items: FAQItem[] };
