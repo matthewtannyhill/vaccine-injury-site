@@ -2,36 +2,25 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
 import CTABanner from "@/components/CTABanner";
+import JsonLd from "@/components/JsonLd";
+import { homeFaqs as faqs } from "@/content/faq";
+import { faqPageJsonLd, pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
-  alternates: { canonical: "/" },
+export const metadata: Metadata = pageMetadata({
   title: "Vaccine Injury Claims — Find Out If You Qualify",
+  ogTitle: "Vaccine Injury Claims — Find Out If You Qualify | VaccineInjuries.org",
   description:
     "If you experienced a serious reaction after a vaccine, you may qualify for compensation. Get a free, confidential case review today.",
-};
+  path: "/",
+});
 
-const faqs = [
-  {
-    q: "Is there a deadline to file a vaccine injury claim?",
-    a: "Yes. The National Vaccine Injury Compensation Program (VICP) generally requires claims to be filed within 36 months of the first symptom. Don't wait — deadlines vary by program and injury type.",
-  },
-  {
-    q: "Does it cost anything to find out if I qualify?",
-    a: "No. Our eligibility review is completely free and confidential. You only pay if you move forward and there is a recovery.",
-  },
-  {
-    q: "What vaccines are covered?",
-    a: "The VICP covers most routinely recommended vaccines, including flu, HPV, MMR, Tdap, and others. COVID-19 vaccine claims are handled separately under the CICP program.",
-  },
-  {
-    q: "Do I need to prove the vaccine caused my injury?",
-    a: "Not always. The government maintains a Vaccine Injury Table that lists injuries presumed to be caused by certain vaccines — which can simplify or eliminate the need to prove causation.",
-  },
-];
+
 
 export default function HomePage() {
   return (
     <>
+      <JsonLd data={faqPageJsonLd(faqs, "/")} />
+
       {/* Hero */}
       <section className="bg-gradient-to-b from-blue-950 to-blue-900 text-white py-20 px-4">
         <div className="max-w-4xl mx-auto text-center">
@@ -41,9 +30,13 @@ export default function HomePage() {
           <h1 className="text-4xl sm:text-5xl font-bold leading-tight mb-6">
             Were You Injured by a Vaccine?
           </h1>
-          <p className="text-blue-100 text-xl mb-8 max-w-2xl mx-auto leading-relaxed">
+          <p className="text-blue-100 text-xl mb-4 max-w-2xl mx-auto leading-relaxed">
             Federal programs exist specifically to compensate people who suffer serious reactions from recommended vaccines.
             You may have a claim — and checking costs nothing.
+          </p>
+          <p className="text-blue-200 text-base mb-8 max-w-2xl mx-auto leading-relaxed">
+            Serious vaccine injuries are uncommon. When they do happen, federal programs may help cover medical costs and
+            other losses. VaccineInjuries.org is an independent educational site — not a law firm or government agency.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link

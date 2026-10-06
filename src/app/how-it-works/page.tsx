@@ -1,17 +1,26 @@
 import type { Metadata } from "next";
+import { breadcrumbJsonLd, pageMetadata } from "@/lib/seo";
+import JsonLd from "@/components/JsonLd";
 import Link from "next/link";
 import CTABanner from "@/components/CTABanner";
 
-export const metadata: Metadata = {
-  alternates: { canonical: "/how-it-works" },
+export const metadata: Metadata = pageMetadata({
   title: "How It Works",
+  ogTitle: "How the Free Case Review Works | VaccineInjuries.org",
   description:
     "Learn how our free vaccine injury case review process works — from eligibility check to connecting you with experienced legal help.",
-};
+  path: "/how-it-works",
+});
 
 export default function HowItWorksPage() {
   return (
     <>
+      <JsonLd
+        data={breadcrumbJsonLd([
+          { name: "Home", path: "/" },
+          { name: "How It Works", path: "/how-it-works" },
+        ])}
+      />
       <section className="bg-blue-950 text-white py-16 px-4">
         <div className="max-w-3xl mx-auto text-center">
           <h1 className="text-4xl font-bold mb-4">How It Works</h1>

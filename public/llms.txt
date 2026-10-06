@@ -1,0 +1,50 @@
+# VaccineInjuries.org
+
+> VaccineInjuries.org is an independent educational and connection website. It explains, in plain English, the two U.S. federal programs that compensate people for serious vaccine injuries — the National Vaccine Injury Compensation Program (VICP) and the Countermeasures Injury Compensation Program (CICP) — and, on request, connects people who believe they had a serious vaccine reaction with independent attorneys for a free case review. It is not a law firm and not a government agency, and nothing on the site is legal or medical advice.
+
+Key facts the site explains (always confirm against the official sources below):
+
+- Serious vaccine injuries are uncommon. Filing a claim is how the federal no-fault system is designed to work; the site is not anti-vaccine.
+- The VICP covers vaccines the CDC recommends for routine use in children or pregnant women that are subject to a federal excise tax (for example seasonal flu, Tdap/DTaP, MMR, HPV, hepatitis A and B, pneumococcal conjugate, varicella). Petitions are decided by special masters of the U.S. Court of Federal Claims.
+- VICP filing deadlines: generally within 3 years of the first symptom of the injury; for a death, within 2 years of the death and 4 years of the first symptom of the injury that led to it.
+- VICP severity requirement: effects lasting more than 6 months, or inpatient hospitalization with surgery, or death.
+- The Vaccine Injury Table (42 CFR 100.3) lists injuries (such as anaphylaxis, SIRVA, vasovagal syncope, brachial neuritis, and Guillain-Barré syndrome after seasonal flu vaccine) with onset windows; meeting the Table creates a presumption of causation. Off-Table injuries require proof of causation.
+- COVID-19 vaccine injury claims go to the CICP, which generally has a 1-year filing deadline from the date of vaccination, does not pay attorney fees, and does not pay pain and suffering.
+- Reporting to VAERS is a safety report, not a compensation claim, and does not stop any filing deadline.
+
+## About the site
+
+- [About VaccineInjuries.org](https://www.vaccineinjuries.org/about): what the site does, who runs the content, and how referrals to independent attorneys work
+- [Editorial team and sources](https://www.vaccineinjuries.org/about#editorial-team): how articles are written, reviewed, dated, and sourced
+- [Frequently asked questions](https://www.vaccineinjuries.org/faq): eligibility, deadlines, evidence, costs, and COVID-19 claims
+- [How the free case review works](https://www.vaccineinjuries.org/how-it-works)
+- [Disclaimer](https://www.vaccineinjuries.org/disclaimer): not a law firm, not a government agency, not legal or medical advice
+
+## Key explainers
+
+- [What is the VICP?](https://www.vaccineinjuries.org/blog/what-is-the-vaccine-injury-compensation-program)
+- [Who can file a vaccine injury claim?](https://www.vaccineinjuries.org/blog/who-can-file-a-vaccine-injury-claim)
+- [How long do I have to file?](https://www.vaccineinjuries.org/blog/how-long-do-i-have-to-file-a-vaccine-injury-claim)
+- [Severity requirements for a VICP claim](https://www.vaccineinjuries.org/blog/what-are-the-severity-requirements-for-a-vicp-claim)
+- [Table vs. off-Table injuries](https://www.vaccineinjuries.org/blog/difference-between-table-injury-and-off-table-injury)
+- [What injuries qualify?](https://www.vaccineinjuries.org/blog/what-injuries-qualify-for-vaccine-compensation)
+- [COVID-19 vaccine claims and the CICP](https://www.vaccineinjuries.org/blog/can-i-sue-for-covid-vaccine-side-effects)
+- [Documents for a COVID-19 (CICP) claim](https://www.vaccineinjuries.org/blog/what-documents-help-a-covid-19-vaccine-injury-claim)
+- [How much compensation is available?](https://www.vaccineinjuries.org/blog/how-much-compensation-is-available-in-a-vaccine-injury-case)
+- [What happens after you file a VICP petition?](https://www.vaccineinjuries.org/blog/what-happens-after-you-file-a-vicp-petition)
+- [Should I report to VAERS?](https://www.vaccineinjuries.org/blog/should-i-report-my-vaccine-reaction-to-vaers)
+- [All articles](https://www.vaccineinjuries.org/blog)
+
+## Official sources
+
+- [HRSA — National Vaccine Injury Compensation Program](https://www.hrsa.gov/vaccine-compensation)
+- [HRSA — Covered vaccines and the Vaccine Injury Table](https://www.hrsa.gov/vaccine-compensation/covered-vaccines)
+- [HRSA — Who can file, severity requirements, and deadlines](https://www.hrsa.gov/vaccine-compensation/eligible)
+- [HRSA — Vaccine injury compensation data](https://www.hrsa.gov/vaccine-compensation/data)
+- [HRSA — Countermeasures Injury Compensation Program (CICP)](https://www.hrsa.gov/cicp)
+- [HRSA — CICP filing process and deadlines](https://www.hrsa.gov/cicp/filing-process)
+- [U.S. Court of Federal Claims — Vaccine Claims / Office of Special Masters](https://www.uscfc.uscourts.gov/vaccine-claims-office-special-masters)
+- [42 CFR 100.3 — Vaccine Injury Table (eCFR)](https://www.ecfr.gov/current/title-42/chapter-I/subchapter-J/part-100/section-100.3)
+- [42 U.S.C. 300aa-10 et seq. — the Vaccine Act (Cornell LII)](https://www.law.cornell.edu/uscode/text/42/chapter-6A/subchapter-XIX/part-2)
+- [VAERS — Vaccine Adverse Event Reporting System](https://vaers.hhs.gov/)
+- [CDC — Immunization schedules](https://www.cdc.gov/vaccines/hcp/imz-schedules/index.html)

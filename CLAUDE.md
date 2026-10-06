@@ -30,4 +30,4 @@ Airtable credentials are stored in `.env.local` (not checked in) and in Vercel's
 - `AIRTABLE_TABLE_NAME` (defaults to `"Leads"`)
 
 ## Blog posts
-All posts live in `src/content/blog/posts.ts` as a `BlogPost[]` array. To add a post, append a new object to the array with `slug`, `title`, `excerpt`, `date`, `category`, `heroImage`, and `content` (markdown string). No build step needed.
+All posts live in `src/content/blog/posts.ts` as a `BlogPost[]` array. To add a post, append a new object to the array with `slug`, `title`, `excerpt`, `date` (display month/year), `datePublished` and `lastReviewed` (ISO `YYYY-MM-DD`; keep them equal unless the post was actually reviewed later), `category`, optional `heroImage`, `sources` (official links from `src/lib/sources.ts`), and `content` (markdown string; supports `[text](url)` links). The byline defaults to "VaccineInjuries.org Editorial Team". Structured data (BlogPosting + BreadcrumbList) and the sitemap `lastmod` are generated from these fields automatically.

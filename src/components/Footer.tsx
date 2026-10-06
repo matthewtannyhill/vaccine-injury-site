@@ -31,9 +31,14 @@ export default function Footer() {
 
         <div className="border-t border-gray-800 pt-6 space-y-3">
           <p className="text-xs leading-relaxed text-gray-500">
-            <strong className="text-gray-400">Disclaimer:</strong> This website is for informational purposes only and does not constitute legal advice.
+            <strong className="text-gray-400">Disclaimer:</strong> VaccineInjuries.org is an independent educational site — not a law firm or government agency.
+            This website is for informational purposes only and does not constitute legal advice.
             Nothing on this site creates an attorney-client relationship. Use of this site does not establish representation.
             Results vary depending on individual facts and circumstances.
+          </p>
+          <p className="text-xs leading-relaxed text-gray-500">
+            <strong className="text-gray-400">Not medical advice:</strong> Information on this site is for general information only and is not medical advice.
+            Talk to your doctor about vaccine decisions and any symptoms you are experiencing.
           </p>
           <p className="text-xs text-gray-600">
             © {new Date().getFullYear()} VaccineInjuries.org. All rights reserved.
