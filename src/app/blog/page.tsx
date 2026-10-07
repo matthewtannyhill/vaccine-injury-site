@@ -33,6 +33,13 @@ export default function BlogIndexPage() {
 
       <section className="py-16 px-4 bg-white">
         <div className="max-w-4xl mx-auto">
+          <p className="text-gray-700 mb-8">
+            Looking for a specific injury, like SIRVA or Guillain-Barré syndrome? See our{" "}
+            <Link href="/injuries" className="text-blue-700 underline hover:text-blue-800">
+              injury guides
+            </Link>
+            .
+          </p>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             {[...blogPosts].reverse().map((post) => (
               <Link

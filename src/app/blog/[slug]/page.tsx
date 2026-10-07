@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
 import { blogPosts } from "@/content/blog/posts";
+import { hubsForPost } from "@/content/injuries";
 import CTABanner from "@/components/CTABanner";
 import JsonLd from "@/components/JsonLd";
 import PostContent from "@/components/PostContent";
@@ -60,6 +61,7 @@ export default async function BlogPostPage({ params }: Props) {
   const path = `/blog/${post.slug}`;
   const author = post.author ?? EDITORIAL_TEAM;
   const reviewedLater = post.lastReviewed !== post.datePublished;
+  const relatedHubs = hubsForPost(post.slug);
 
   return (
     <>
@@ -138,6 +140,28 @@ export default async function BlogPostPage({ params }: Props) {
       <section className="py-16 px-4 bg-white">
         <div className="max-w-3xl mx-auto">
           <PostContent content={post.content} />
+
+          {relatedHubs.length > 0 && (
+            <aside aria-labelledby="related-guides-heading" className="mt-12 border border-blue-100 bg-blue-50 rounded-lg p-6">
+              <h2 id="related-guides-heading" className="text-lg font-semibold text-gray-900 mb-3">
+                Related injury guides
+              </h2>
+              <ul className="space-y-1 text-sm">
+                {relatedHubs.map((hub) => (
+                  <li key={hub.slug}>
+                    <Link href={`/injuries/${hub.slug}`} className="text-blue-700 hover:underline">
+                      {hub.name}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+              <p className="mt-3 text-sm">
+                <Link href="/injuries" className="text-blue-700 hover:underline font-medium">
+                  See all injury guides →
+                </Link>
+              </p>
+            </aside>
+          )}
 
           <div className="mt-12 pt-8 border-t border-gray-200">
             <SourcesList

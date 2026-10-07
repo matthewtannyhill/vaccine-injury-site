@@ -166,3 +166,48 @@ export function articleJsonLd({
       : {}),
   };
 }
+
+/**
+ * WebPage about a medical condition (used by injury hub pages). Educational only: no
+ * MedicalWebPage/medical-authority claims.
+ */
+export function conditionPageJsonLd({
+  path,
+  name,
+  description,
+  condition,
+  datePublished,
+  lastReviewed,
+  sources,
+}: {
+  path: string;
+  name: string;
+  description: string;
+  condition: string;
+  datePublished: string;
+  lastReviewed: string;
+  sources?: Source[];
+}) {
+  const url = absoluteUrl(path);
+  return {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": url,
+    url,
+    name,
+    description,
+    inLanguage: "en-US",
+    isPartOf: { "@id": WEBSITE_ID },
+    publisher: { "@id": ORGANIZATION_ID },
+    author: { "@type": "Organization", name: EDITORIAL_TEAM, url: EDITORIAL_TEAM_URL },
+    about: { "@type": "MedicalCondition", name: condition },
+    datePublished,
+    dateModified: lastReviewed,
+    lastReviewed,
+    ...(sources && sources.length
+      ? {
+          citation: sources.map((s) => ({ "@type": "CreativeWork", name: s.title, url: s.url })),
+        }
+      : {}),
+  };
+}
