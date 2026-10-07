@@ -1,5 +1,6 @@
 import type { MetadataRoute } from "next";
 import { blogPosts } from "@/content/blog/posts";
+import { injuryHubs } from "@/content/injuries";
 import { SITE_URL, CORE_PAGES_LAST_MODIFIED } from "@/lib/site";
 
 // lastModified values are ISO dates (YYYY-MM-DD). Bump CORE_PAGES_LAST_MODIFIED in
@@ -8,6 +9,7 @@ const staticPages: MetadataRoute.Sitemap = [
   { url: SITE_URL, lastModified: CORE_PAGES_LAST_MODIFIED, priority: 1.0 },
   { url: `${SITE_URL}/about`, lastModified: CORE_PAGES_LAST_MODIFIED, priority: 0.8 },
   { url: `${SITE_URL}/blog`, lastModified: CORE_PAGES_LAST_MODIFIED, priority: 0.7 },
+  { url: `${SITE_URL}/injuries`, lastModified: CORE_PAGES_LAST_MODIFIED, priority: 0.8 },
   { url: `${SITE_URL}/faq`, lastModified: CORE_PAGES_LAST_MODIFIED, priority: 0.8 },
   { url: `${SITE_URL}/how-it-works`, lastModified: CORE_PAGES_LAST_MODIFIED, priority: 0.8 },
   { url: `${SITE_URL}/intake`, lastModified: CORE_PAGES_LAST_MODIFIED, priority: 0.9 },
@@ -22,5 +24,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }));
 
-  return [...staticPages, ...posts];
+  const hubs: MetadataRoute.Sitemap = injuryHubs.map((hub) => ({
+    url: `${SITE_URL}/injuries/${hub.slug}`,
+    lastModified: hub.lastReviewed,
+    priority: 0.8,
+  }));
+
+  return [...staticPages, ...hubs, ...posts];
 }

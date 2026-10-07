@@ -18,6 +18,7 @@ A lead generation site for vaccine injury legal claims. Visitors learn about the
 - `src/app/intake/page.tsx` — lead capture form
 - `src/app/api/submit-lead/route.ts` — form submission API route, writes to Airtable
 - `src/content/blog/posts.ts` — all blog posts as static TypeScript data (no CMS)
+- `src/content/injuries.ts` — injury guide hubs (`/injuries`, `/injuries/[slug]`) as static TypeScript data
 - `src/lib/airtable.ts` — Airtable client
 
 ## Deploying
@@ -31,3 +32,6 @@ Airtable credentials are stored in `.env.local` (not checked in) and in Vercel's
 
 ## Blog posts
 All posts live in `src/content/blog/posts.ts` as a `BlogPost[]` array. To add a post, append a new object to the array with `slug`, `title`, `excerpt`, `date` (display month/year), `datePublished` and `lastReviewed` (ISO `YYYY-MM-DD`; keep them equal unless the post was actually reviewed later), `category`, optional `heroImage`, `sources` (official links from `src/lib/sources.ts`), and `content` (markdown string; supports `[text](url)` links). The byline defaults to "VaccineInjuries.org Editorial Team". Structured data (BlogPosting + BreadcrumbList) and the sitemap `lastmod` are generated from these fields automatically.
+
+## Injury guides
+Hubs live in `src/content/injuries.ts` and render at `/injuries/[slug]` (index at `/injuries`). Vaccine Injury Table entries and onset windows must be quoted from 42 CFR 100.3 (never paraphrased or guessed), medical descriptions should come from NIH/CDC pages listed in the hub's `sources`, and no statistics. FAQ text is reused verbatim for FAQPage structured data. `relatedPosts` slugs also drive the "Related injury guides" box on blog posts. The sitemap picks up new hubs automatically.

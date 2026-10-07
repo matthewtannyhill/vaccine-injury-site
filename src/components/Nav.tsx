@@ -18,6 +18,7 @@ export default function Nav() {
           <nav className="hidden md:flex items-center gap-6 text-sm font-medium text-gray-600">
             <Link href="/how-it-works" className="hover:text-blue-900 transition-colors">How It Works</Link>
             <Link href="/faq" className="hover:text-blue-900 transition-colors">FAQ</Link>
+            <Link href="/injuries" className="hover:text-blue-900 transition-colors">Injury Guides</Link>
             <Link href="/blog" className="hover:text-blue-900 transition-colors">Resources</Link>
             <Link href="/about" className="hover:text-blue-900 transition-colors">About</Link>
             <Link
@@ -45,6 +46,7 @@ export default function Nav() {
           <nav className="md:hidden pb-4 flex flex-col gap-3 text-sm font-medium text-gray-600 border-t border-gray-100 pt-4">
             <Link href="/how-it-works" onClick={() => setOpen(false)}>How It Works</Link>
             <Link href="/faq" onClick={() => setOpen(false)}>FAQ</Link>
+            <Link href="/injuries" onClick={() => setOpen(false)}>Injury Guides</Link>
             <Link href="/blog" onClick={() => setOpen(false)}>Resources</Link>
             <Link href="/about" onClick={() => setOpen(false)}>About</Link>
             <Link

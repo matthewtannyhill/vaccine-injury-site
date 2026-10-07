@@ -35,6 +35,20 @@ Key facts the site explains (always confirm against the official sources below):
 - [Should I report to VAERS?](https://www.vaccineinjuries.org/blog/should-i-report-my-vaccine-reaction-to-vaers)
 - [All articles](https://www.vaccineinjuries.org/blog)
 
+## Injury guides
+
+Each guide covers symptoms and onset, whether and how the injury appears on the Vaccine Injury Table (quoting 42 CFR 100.3), filing deadlines, and helpful records.
+
+- [All injury guides](https://www.vaccineinjuries.org/injuries)
+- [SIRVA (shoulder injury related to vaccine administration)](https://www.vaccineinjuries.org/injuries/sirva): on the Table for most injected vaccines, pain within 48 hours
+- [Guillain-Barré syndrome](https://www.vaccineinjuries.org/injuries/guillain-barre-syndrome): on the Table for seasonal flu vaccines, 3-42 days
+- [Transverse myelitis](https://www.vaccineinjuries.org/injuries/transverse-myelitis): not on the Table (off-Table claim)
+- [CIDP](https://www.vaccineinjuries.org/injuries/cidp): not on the Table; excluded from Table GBS
+- [Brachial neuritis](https://www.vaccineinjuries.org/injuries/brachial-neuritis): on the Table for tetanus toxoid-containing vaccines, 2-28 days
+- [Anaphylaxis](https://www.vaccineinjuries.org/injuries/anaphylaxis): on the Table for many covered vaccines, within 4 hours
+- [ITP / thrombocytopenic purpura](https://www.vaccineinjuries.org/injuries/itp-thrombocytopenic-purpura): on the Table for measles-containing vaccines, 7-30 days
+- [Fainting (vasovagal syncope) injuries](https://www.vaccineinjuries.org/injuries/syncope-fainting): on the Table for injected vaccines, within 1 hour
+
 ## Official sources
 
 - [HRSA — National Vaccine Injury Compensation Program](https://www.hrsa.gov/vaccine-compensation)
