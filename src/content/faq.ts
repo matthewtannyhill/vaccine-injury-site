@@ -17,7 +17,7 @@ export const faqSections: FAQSection[] = [
       },
       {
         q: "What vaccines are covered by the VICP?",
-        a: "The VICP covers vaccines routinely recommended for children and adults, including: flu, MMR, chickenpox, Hepatitis A and B, HPV, Tdap/DTaP, polio, meningococcal, and others. COVID-19 vaccines are handled under the separate Countermeasures Injury Compensation Program (CICP).",
+        a: "The VICP covers vaccines the CDC routinely recommends for children or pregnant women that are subject to a federal excise tax. Adults who receive one of these covered vaccines can also file, since there is no age limit. Covered vaccines include: flu, MMR, chickenpox, Hepatitis A and B, HPV, Tdap/DTaP, polio, meningococcal, and others. COVID-19 vaccines are handled under the separate Countermeasures Injury Compensation Program (CICP).",
       },
       {
         q: "What injuries qualify for compensation?",

@@ -13,21 +13,62 @@ const US_STATES = [
   "Virginia","Washington","West Virginia","Wisconsin","Wyoming",
 ];
 
-const VACCINE_TYPES = [
-  "COVID-19 (Pfizer/BioNTech)",
-  "COVID-19 (Moderna)",
-  "COVID-19 (Johnson & Johnson / Janssen)",
-  "Influenza (Flu)",
-  "HPV (Gardasil / Cervarix)",
-  "MMR (Measles, Mumps, Rubella)",
-  "Tdap / DTaP",
-  "Hepatitis A",
-  "Hepatitis B",
-  "Varicella (Chickenpox)",
-  "Meningococcal",
-  "Pneumococcal",
-  "Other / Not Sure",
+type VaccineNote = "cicp" | "notCovered" | "unsure";
+
+type VaccineOption = { label: string; note?: VaccineNote };
+
+// Option labels are saved as-is to the Airtable "Vaccine Type" field, so keep them readable.
+const VACCINE_GROUPS: { label: string; options: VaccineOption[] }[] = [
+  {
+    label: "Covered by the VICP (National Vaccine Injury Compensation Program)",
+    options: [
+      { label: "Flu shot or nasal spray (seasonal flu)" },
+      { label: "Tetanus, diphtheria, or whooping cough (Tdap, Td, DTaP)" },
+      { label: "HPV (Gardasil 9)" },
+      { label: "Measles, mumps, rubella (MMR or MMRV)" },
+      { label: "Chickenpox (varicella)" },
+      { label: "Hepatitis B" },
+      { label: "Hepatitis A, or combined Hepatitis A & B (Twinrix)" },
+      { label: "Meningococcal / meningitis (MenACWY, MenB)" },
+      { label: "Pneumococcal conjugate (Prevnar, Vaxneuvance, Capvaxive)" },
+      { label: "Polio (IPV)" },
+      { label: "Hib" },
+      { label: "Rotavirus" },
+      { label: "Combination baby or child shot (Pediarix, Pentacel, Vaxelis, Kinrix, Quadracel)" },
+    ],
+  },
+  {
+    label: "COVID-19 and emergency vaccines (CICP)",
+    options: [
+      { label: "COVID-19 vaccine, any brand (Pfizer, Moderna, Novavax, or J&J 2021–2023)", note: "cicp" },
+      { label: "Other emergency vaccine (mpox/smallpox, anthrax, pandemic flu)", note: "cicp" },
+    ],
+  },
+  {
+    label: "Other / not sure",
+    options: [
+      { label: "Shingles (Shingrix)", note: "notCovered" },
+      { label: "RSV vaccine or infant RSV shot", note: "notCovered" },
+      { label: "Pneumovax 23 (pneumococcal polysaccharide)", note: "notCovered" },
+      { label: "Travel or other vaccine", note: "unsure" },
+      { label: "I'm not sure which vaccine", note: "unsure" },
+    ],
+  },
 ];
+
+const VACCINE_NOTES: Record<VaccineNote, string> = {
+  cicp: "COVID-19 and emergency vaccine claims go to the Countermeasures Injury Compensation Program (CICP), not the VICP. CICP claims generally must be filed within 1 year of vaccination.",
+  notCovered: "This vaccine isn't currently covered by the VICP. You can still submit your information and we'll help you understand your options.",
+  unsure: "That's okay. Share what you know and we'll help you figure it out.",
+};
+
+function vaccineNoteFor(label: string): string | null {
+  for (const group of VACCINE_GROUPS) {
+    const match = group.options.find((o) => o.label === label);
+    if (match) return match.note ? VACCINE_NOTES[match.note] : null;
+  }
+  return null;
+}
 
 type FormData = {
   vaccineType: string;
@@ -61,6 +102,7 @@ export default function IntakePage() {
   const [error, setError] = useState("");
 
   const totalSteps = 3;
+  const vaccineNote = vaccineNoteFor(form.vaccineType);
 
   function update(field: keyof FormData, value: string | boolean) {
     setForm((prev) => ({ ...prev, [field]: value }));
@@ -136,19 +178,31 @@ export default function IntakePage() {
                 <p className="text-gray-500 text-sm mb-4">Tell us about the vaccine and the reaction or injury you experienced.</p>
 
                 <div>
-                  <label className="block text-sm font-medium text-gray-700 mb-1">
+                  <label htmlFor="vaccineType" className="block text-sm font-medium text-gray-700 mb-1">
                     Which vaccine did you receive? <span className="text-red-500">*</span>
                   </label>
                   <select
+                    id="vaccineType"
+                    required
+                    aria-describedby={vaccineNote ? "vaccineType-note" : undefined}
                     className="w-full border border-gray-300 rounded-md px-3 py-2 text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500"
                     value={form.vaccineType}
                     onChange={(e) => update("vaccineType", e.target.value)}
                   >
                     <option value="">Select a vaccine</option>
-                    {VACCINE_TYPES.map((v) => (
-                      <option key={v} value={v}>{v}</option>
+                    {VACCINE_GROUPS.map((group) => (
+                      <optgroup key={group.label} label={group.label}>
+                        {group.options.map((o) => (
+                          <option key={o.label} value={o.label}>{o.label}</option>
+                        ))}
+                      </optgroup>
                     ))}
                   </select>
+                  {vaccineNote && (
+                    <p id="vaccineType-note" className="mt-2 text-sm text-gray-600" aria-live="polite">
+                      {vaccineNote}
+                    </p>
+                  )}
                 </div>
 
                 <div>
