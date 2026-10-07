@@ -518,7 +518,7 @@ Yes. According to HRSA, a CICP Request for Benefits must generally be filed with
 1. Seek medical care and document your symptoms and diagnosis thoroughly.
 2. Report the injury to [VAERS](https://vaers.hhs.gov/reportevent.html) (the Vaccine Adverse Event Reporting System).
 3. Consult with an attorney who is familiar with the CICP and COVID-19 vaccine injury claims.
-4. Submit your information through our eligibility form for a free review.
+4. Submit your information through our free form to be connected with an independent attorney who can evaluate your situation.
 
 The COVID-19 vaccine injury space is evolving rapidly. Legal and regulatory guidance continues to develop, and the advice you receive today may change.
     `.trim(),
@@ -589,7 +589,7 @@ COVID-19 vaccine injuries are handled by the [CICP](https://www.hrsa.gov/cicp), 
 
 ## How to Find Out If Your Injury Qualifies
 
-The best first step is a free case review. Submit your information and we can help you understand whether your situation may qualify — at no cost and with no obligation.
+The best first step is a free case review. Submit your information and we can connect you with an independent attorney who can evaluate whether your situation may qualify. It's free to submit, with no obligation.
     `.trim(),
   },
   {
@@ -1240,7 +1240,7 @@ When evaluating vaccine injury attorneys:
 
 ## How We Can Help
 
-We connect people who may have vaccine injury claims with experienced legal professionals. Submit your information for a free review, and if your case looks like it may qualify, we'll help connect you with an appropriate attorney.
+We connect people who may have vaccine injury claims with experienced legal professionals. Submit your information for free, and we can connect you with an independent attorney who can evaluate your situation.
     `.trim(),
   },
 
@@ -1692,7 +1692,7 @@ No — according to HRSA’s covered-vaccines list as reviewed in September 2026
 
 VaccineInjuries.org is not a law firm and does not represent clients. The site exists to help people understand these programs in plain English and, when appropriate, connect with lawyers who handle vaccine injury cases.
 
-If you want help sorting whether your situation may fit any available path, you can use the free eligibility review on VaccineInjuries.org. There is no obligation to move forward before you are ready.
+If you want to talk with an independent attorney about whether your situation may fit any available path, you can submit your information for free on VaccineInjuries.org. There is no obligation to move forward before you are ready.
 
 ## Disclaimer
 
@@ -1778,7 +1778,7 @@ Anaphylaxis after vaccination is uncommon, but when it happens, people deserve c
 
 VaccineInjuries.org is not a law firm and does not represent clients. The site exists to help people understand these programs in plain English and, when appropriate, connect with lawyers who handle vaccine injury cases.
 
-If you want help sorting whether your situation may fit a federal program, you can use the free eligibility review on VaccineInjuries.org. There is no obligation to move forward before you are ready.
+If you want to talk with an independent attorney about whether your situation may fit a federal program, you can submit your information for free on VaccineInjuries.org. There is no obligation to move forward before you are ready.
 
 ## Disclaimer
 
@@ -1877,7 +1877,7 @@ VaccineInjuries.org is not a law firm and does not represent clients. The site e
 
 If you are dealing with serious shoulder or arm symptoms after a vaccine — especially weakness that developed days to a few weeks later — start with medical care and clear documentation of the timeline. Keep your vaccine record and any nerve-study results together.
 
-When you are ready, you can use the free eligibility review on VaccineInjuries.org to better understand whether your situation may fit federal compensation programs and, if appropriate, get connected to legal help. There is no obligation to move forward before you are ready.
+When you are ready, you can submit your information for free on VaccineInjuries.org to get connected with an independent attorney who can evaluate whether your situation may fit federal compensation programs. There is no obligation to move forward before you are ready.
 
 ## Disclaimer
 
@@ -1997,7 +1997,7 @@ Only a clinician can diagnose these conditions. Timing alone is not proof. Other
 2. Write down the vaccination date and the date symptoms first appeared.
 3. Gather medical records and a short timeline.
 4. Ask your clinician about ongoing care.
-5. If the injury was serious or lasting, consider a free eligibility review so you can learn whether a VICP pathway may fit your facts.
+5. If the injury was serious or lasting, consider a free eligibility review with counsel familiar with vaccine-related claims so you can learn whether a VICP pathway may fit your facts.
 
 ## Bottom line
 
@@ -2005,7 +2005,7 @@ Yes — according to HRSA, Tdap, DTaP, Td, DT, TT, and related diphtheria/tetanu
 
 ## About VaccineInjuries.org
 
-VaccineInjuries.org is an educational resource for people trying to understand vaccine injury compensation programs and find help. We are not a law firm and do not provide legal advice. If you want to see whether connecting with a lawyer who handles these cases makes sense for your situation, you can start with a free eligibility review through our site.
+VaccineInjuries.org is an educational resource for people trying to understand vaccine injury compensation programs and find help. We are not a law firm and do not provide legal advice. If you want to see whether connecting with a lawyer who handles these cases makes sense for your situation, you can submit your information for free through our site.
     `.trim(),
   },
   {
@@ -2090,7 +2090,7 @@ It depends on the product. According to HRSA, pneumococcal conjugate (PCV) vacci
 
 ## About VaccineInjuries.org
 
-VaccineInjuries.org is an educational resource for people trying to understand vaccine injury compensation programs and find help. We are not a law firm and do not provide legal advice. If you want to see whether connecting with a lawyer who handles these cases makes sense for your situation, you can start with a free eligibility review through our site.
+VaccineInjuries.org is an educational resource for people trying to understand vaccine injury compensation programs and find help. We are not a law firm and do not provide legal advice. If you want to see whether connecting with a lawyer who handles these cases makes sense for your situation, you can submit your information for free through our site.
     `.trim(),
   },
   {
@@ -2172,7 +2172,7 @@ No — according to HRSA, herpes zoster (shingles) vaccines are not covered by t
 
 ## About VaccineInjuries.org
 
-VaccineInjuries.org is an educational resource for people trying to understand vaccine injury compensation programs and find help. We are not a law firm and do not provide legal advice. If you want to see whether connecting with a lawyer who handles these cases makes sense for your situation, you can start with a free eligibility review through our site.
+VaccineInjuries.org is an educational resource for people trying to understand vaccine injury compensation programs and find help. We are not a law firm and do not provide legal advice. If you want to see whether connecting with a lawyer who handles these cases makes sense for your situation, you can submit your information for free through our site.
     `.trim(),
   },
   {
@@ -2261,7 +2261,7 @@ Serious problems after a flu shot are uncommon, but when they happen, people des
 
 VaccineInjuries.org is not a law firm and does not represent clients. The site exists to help people understand these programs in plain English and, when appropriate, connect with lawyers who handle vaccine injury cases.
 
-If you want help sorting whether your situation may fit a federal program, you can use the free eligibility review on VaccineInjuries.org. There is no obligation to move forward before you are ready.
+If you want to talk with an independent attorney about whether your situation may fit a federal program, you can submit your information for free on VaccineInjuries.org. There is no obligation to move forward before you are ready.
 
 ## Disclaimer
 
@@ -2348,7 +2348,7 @@ VaccineInjuries.org is not a law firm and does not represent clients. The site h
 
 If GBS is part of your story after vaccination, start with care and records: follow your medical team's guidance, keep a clear timeline, and assemble vaccination and neurological records in one place. Note the dates that may affect filing windows.
 
-When you are ready, you can use the free eligibility review on VaccineInjuries.org to better understand whether your situation may fit federal compensation programs and, if appropriate, get connected to legal help. There is no obligation to move forward before you are ready.
+When you are ready, you can submit your information for free on VaccineInjuries.org to get connected with an independent attorney who can evaluate whether your situation may fit federal compensation programs. There is no obligation to move forward before you are ready.
 
 ## Disclaimer
 
@@ -2454,7 +2454,7 @@ Focus on care, documentation, and timelines. Legal decisions can follow once the
 
 If you are still sorting through what happened, start with the basics: get care, write down the timeline, keep vaccine and medical records, consider VAERS as a safety report (not a claim), and note the dates that may affect filing windows.
 
-When you are ready, you can use the free eligibility review on VaccineInjuries.org to better understand whether your situation may fit federal compensation programs and, if appropriate, get connected to legal help. There is no obligation to move forward before you are ready.
+When you are ready, you can submit your information for free on VaccineInjuries.org to get connected with an independent attorney who can evaluate whether your situation may fit federal compensation programs. There is no obligation to move forward before you are ready.
 
 ## Disclaimer
 

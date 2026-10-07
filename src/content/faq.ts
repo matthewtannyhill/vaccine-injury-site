@@ -85,7 +85,7 @@ export const faqSections: FAQSection[] = [
       },
       {
         q: "Do I need an attorney?",
-        a: "You are not required to have an attorney, but it is strongly recommended. Vaccine injury law is specialized. Importantly, in cases that result in compensation, attorney fees are paid by the federal government — not out of your award.",
+        a: "You are not required to have an attorney, but it is strongly recommended. Vaccine injury law is specialized. Importantly, for VICP claims, reasonable attorneys' fees and costs are paid by the program, separately from any award.",
         learnMoreSlug: "how-to-find-a-vaccine-injury-attorney",
       },
     ],
@@ -95,7 +95,7 @@ export const faqSections: FAQSection[] = [
     items: [
       {
         q: "What does it cost to file a claim?",
-        a: "Filing with the VICP costs nothing. If your case is successful, attorneys' fees and costs are paid separately by the government — they do not come out of your compensation.",
+        a: "Filing a VICP petition has a court filing fee, which can be waived in some cases. Reasonable attorneys' fees and costs are paid by the program, separately from any award, and lawyers can't charge you a contingency fee for a VICP case.",
       },
       {
         q: "What can I be compensated for?",
@@ -109,7 +109,7 @@ export const faqSections: FAQSection[] = [
       },
       {
         q: "What if my case is not successful — do I owe legal fees?",
-        a: "In most VICP cases, no. The program may pay reasonable attorney fees and costs even if the claim is unsuccessful, as long as it was filed in good faith and had a reasonable basis. CICP claims work differently and do not reimburse attorney fees, so most CICP cases are handled without fees being charged to you. Confirm fee terms with any attorney before signing.",
+        a: "In most VICP cases, no. The program may pay reasonable attorney fees and costs even if the claim is unsuccessful, as long as it was filed in good faith and had a reasonable basis. Lawyers can't charge you a contingency fee for a VICP case. The CICP doesn't pay attorneys' fees, so an attorney may charge you for a CICP claim. Ask any attorney about costs upfront.",
       },
       {
         q: "Does checking my eligibility cost anything?",
@@ -152,8 +152,8 @@ export const homeFaqs: FAQItem[] = [
     a: "Yes. The National Vaccine Injury Compensation Program (VICP) generally requires claims to be filed within 36 months of the first symptom. Don't wait — deadlines vary by program and injury type.",
   },
   {
-    q: "Does it cost anything to find out if I qualify?",
-    a: "No. Our eligibility review is completely free and confidential. You only pay if you move forward and there is a recovery.",
+    q: "Does it cost anything to submit my information?",
+    a: "No. Submitting your information is free and confidential. For VICP claims, attorneys' fees are paid by the program, separately from any award, and lawyers can't charge a contingency fee. For COVID-19 (CICP) claims, ask any attorney about fees upfront.",
   },
   {
     q: "What vaccines are covered?",

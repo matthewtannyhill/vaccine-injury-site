@@ -45,16 +45,16 @@ export default function HowItWorksPage() {
               step: "Step 2",
               title: "Our Team Reviews Your Submission",
               body: [
-                "Once we receive your form, we review the details to assess whether your situation may qualify under the National Vaccine Injury Compensation Program (VICP) or other applicable programs.",
-                "We look at the type of vaccine, the injury or reaction, the timing, and other relevant factors.",
+                "Once we receive your form, we review it for basic details, like the vaccine, the timing, and how to reach you, so we can connect you with an independent vaccine-injury attorney who can evaluate your situation.",
+                "We don't provide legal advice or decide whether you qualify under the VICP, the CICP, or any other program.",
               ],
             },
             {
               step: "Step 3",
               title: "We Contact You Within 1–2 Business Days",
               body: [
-                "If your case looks like it may qualify, we will reach out by phone or email to discuss next steps.",
-                "If it doesn't appear to qualify, we will let you know and explain why — no guesswork.",
+                "We will reach out by phone or email to confirm your details and explain next steps.",
+                "Whether you may have a claim is for an independent attorney to evaluate. There's no pressure and no obligation.",
               ],
             },
             {
@@ -62,7 +62,7 @@ export default function HowItWorksPage() {
               title: "Get Connected With a Vaccine Injury Attorney",
               body: [
                 "If appropriate, we connect you with an attorney experienced in vaccine injury claims.",
-                "Most vaccine injury attorneys work on a contingency basis — meaning you pay nothing unless there is a recovery. Attorney fees in VICP cases are paid by the government, not out of your compensation.",
+                "For VICP claims, attorneys' fees and costs are paid by the program, separately from any award. Lawyers can't charge you a contingency fee for a VICP case. For COVID-19 claims under the CICP, the program doesn't pay attorneys' fees, so ask any attorney about costs upfront.",
               ],
             },
           ].map((item) => (
@@ -89,7 +89,7 @@ export default function HowItWorksPage() {
           <h2 className="text-2xl font-bold text-gray-900 mb-6">What You Should Know</h2>
           <ul className="space-y-3 text-gray-600">
             {[
-              "There is no cost to submit your information or receive an initial review.",
+              "There is no cost to submit your information through this site.",
               "Submitting this form does not create an attorney-client relationship.",
               "Deadlines apply — VICP claims must generally be filed within 36 months of the first symptom.",
               "Your information is handled confidentially and is not sold or shared with marketers.",

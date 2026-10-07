@@ -150,12 +150,12 @@ export default function HomePage() {
               {
                 step: "2",
                 title: "We Review Your Information",
-                body: "Our team reviews your submission and determines whether your situation may qualify under federal compensation programs.",
+                body: "We review your submission for basic details, like the vaccine, the timing, and how to reach you. We don't provide legal advice or decide whether you qualify.",
               },
               {
                 step: "3",
                 title: "Get Connected to Legal Help",
-                body: "If it looks like you may have a claim, we connect you with an attorney who handles vaccine injury cases — at no upfront cost.",
+                body: "If you'd like, we connect you with an independent attorney who handles vaccine injury cases and can evaluate your situation.",
               },
             ].map((item) => (
               <div key={item.step} className="text-center">
