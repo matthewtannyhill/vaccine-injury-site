@@ -2,10 +2,10 @@ import type { Metadata } from "next";
 import { pageMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = pageMetadata({
-  title: "Check Your Eligibility",
-  ogTitle: "Free Vaccine Injury Case Review | VaccineInjuries.org",
+  title: "Get Connected With an Attorney",
+  ogTitle: "Get Connected With a Vaccine Injury Attorney | VaccineInjuries.org",
   description:
-    "Start a free, confidential vaccine injury eligibility review. Tell us about your situation and we will follow up.",
+    "Submit your information free and confidentially. Tell us about your situation and we can connect you with an independent attorney.",
   path: "/intake",
 });
 

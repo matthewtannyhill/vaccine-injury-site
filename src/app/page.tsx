@@ -7,10 +7,10 @@ import { homeFaqs as faqs } from "@/content/faq";
 import { faqPageJsonLd, pageMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = pageMetadata({
-  title: "Vaccine Injury Claims — Find Out If You Qualify",
-  ogTitle: "Vaccine Injury Claims — Find Out If You Qualify | VaccineInjuries.org",
+  title: "Vaccine Injury Claims — Get Connected With an Attorney",
+  ogTitle: "Vaccine Injury Claims — Get Connected With an Attorney | VaccineInjuries.org",
   description:
-    "If you experienced a serious reaction after a vaccine, you may qualify for compensation. Get a free, confidential case review today.",
+    "If you experienced a serious reaction after a vaccine, you may have options under federal compensation programs. Submit your information free — we can connect you with an independent attorney.",
   path: "/",
 });
 
@@ -25,14 +25,14 @@ export default function HomePage() {
       <section className="bg-gradient-to-b from-blue-950 to-blue-900 text-white py-20 px-4">
         <div className="max-w-4xl mx-auto text-center">
           <p className="text-blue-300 text-sm font-medium uppercase tracking-wide mb-4">
-            Free &amp; Confidential Case Review
+            Free to Submit — Connect With an Attorney
           </p>
           <h1 className="text-4xl sm:text-5xl font-bold leading-tight mb-6">
             Were You Injured by a Vaccine?
           </h1>
           <p className="text-blue-100 text-xl mb-4 max-w-2xl mx-auto leading-relaxed">
             Federal programs exist specifically to compensate people who suffer serious reactions from recommended vaccines.
-            You may have a claim — and checking costs nothing.
+            You may have a claim — and getting connected costs nothing.
           </p>
           <p className="text-blue-200 text-base mb-8 max-w-2xl mx-auto leading-relaxed">
             Serious vaccine injuries are uncommon. When they do happen, federal programs may help cover medical costs and
@@ -43,7 +43,7 @@ export default function HomePage() {
               href="/intake"
               className="bg-white text-blue-900 font-semibold px-8 py-4 rounded-md hover:bg-blue-50 transition-colors text-lg"
             >
-              Check My Eligibility — Free
+              Get Connected With an Attorney
             </Link>
             <Link
               href="/how-it-works"

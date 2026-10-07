@@ -141,7 +141,7 @@ export default function IntakePage() {
     <>
       <section className="bg-blue-950 text-white py-10 px-4">
         <div className="max-w-2xl mx-auto text-center">
-          <h1 className="text-3xl font-bold mb-2">Check Your Eligibility</h1>
+          <h1 className="text-3xl font-bold mb-2">Get Connected With an Attorney</h1>
           <p className="text-blue-200">Free, confidential, no obligation. Takes about 3 minutes.</p>
         </div>
       </section>

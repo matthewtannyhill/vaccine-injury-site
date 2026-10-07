@@ -112,7 +112,7 @@ export const faqSections: FAQSection[] = [
         a: "In most VICP cases, no. The program may pay reasonable attorney fees and costs even if the claim is unsuccessful, as long as it was filed in good faith and had a reasonable basis. Lawyers can't charge you a contingency fee for a VICP case. The CICP doesn't pay attorneys' fees, so an attorney may charge you for a CICP claim. Ask any attorney about costs upfront.",
       },
       {
-        q: "Does checking my eligibility cost anything?",
+        q: "Does submitting my information cost anything?",
         a: "No. Submitting your information through this site is completely free. There is no obligation, and no attorney-client relationship is created by submitting this form.",
       },
     ],

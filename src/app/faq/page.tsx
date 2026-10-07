@@ -81,7 +81,7 @@ export default function FAQPage() {
             href="/intake"
             className="inline-block bg-blue-700 text-white font-semibold px-6 py-3 rounded-md hover:bg-blue-800 transition-colors"
           >
-            Check My Eligibility — Free
+            Get Connected With an Attorney
           </Link>
         </div>
       </section>

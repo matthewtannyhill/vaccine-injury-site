@@ -6,7 +6,7 @@ export const SITE_NAME = "VaccineInjuries.org";
 
 /** Plain-language description of what the site is (and is not). Used in structured data. */
 export const SITE_DESCRIPTION =
-  "VaccineInjuries.org is an independent educational and connection website. It explains the federal National Vaccine Injury Compensation Program (VICP) and Countermeasures Injury Compensation Program (CICP) in plain English and, on request, connects people who believe they had a serious vaccine reaction with independent attorneys for a free case review. It is not a law firm or a government agency and does not provide legal or medical advice.";
+  "VaccineInjuries.org is an independent educational and connection website. It explains the federal National Vaccine Injury Compensation Program (VICP) and Countermeasures Injury Compensation Program (CICP) in plain English and, on request, connects people who believe they had a serious vaccine reaction with independent attorneys so they can discuss their options. It is not a law firm or a government agency and does not provide legal or medical advice.";
 
 /** Default byline for articles until individual authors/reviewers are named. */
 export const EDITORIAL_TEAM = "VaccineInjuries.org Editorial Team";

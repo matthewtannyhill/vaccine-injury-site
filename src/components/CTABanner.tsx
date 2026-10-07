@@ -14,7 +14,7 @@ export default function CTABanner() {
           href="/intake"
           className="inline-block bg-white text-blue-700 font-semibold px-8 py-3 rounded-md hover:bg-blue-50 transition-colors"
         >
-          Check My Eligibility — It&apos;s Free
+          Get Connected With an Attorney — It&apos;s Free
         </Link>
       </div>
     </section>

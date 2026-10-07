@@ -6,9 +6,9 @@ import CTABanner from "@/components/CTABanner";
 
 export const metadata: Metadata = pageMetadata({
   title: "How It Works",
-  ogTitle: "How the Free Case Review Works | VaccineInjuries.org",
+  ogTitle: "How Getting Connected Works | VaccineInjuries.org",
   description:
-    "Learn how our free vaccine injury case review process works — from eligibility check to connecting you with experienced legal help.",
+    "Learn how our free connection process works — from submitting your information to connecting you with an independent vaccine injury attorney.",
   path: "/how-it-works",
 });
 
@@ -35,7 +35,7 @@ export default function HowItWorksPage() {
           {[
             {
               step: "Step 1",
-              title: "Complete the Short Eligibility Form",
+              title: "Submit Your Information",
               body: [
                 "Tell us which vaccine you received and when, what symptoms or injuries you experienced, your state, and your contact information.",
                 "This takes about 3 minutes. Your information is confidential and never shared without your consent.",
