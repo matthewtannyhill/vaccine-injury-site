@@ -1,18 +1,29 @@
 import type { Metadata } from "next";
+import { breadcrumbJsonLd, pageMetadata } from "@/lib/seo";
+import JsonLd from "@/components/JsonLd";
 import Link from "next/link";
 import Image from "next/image";
 import CTABanner from "@/components/CTABanner";
+import SourcesList from "@/components/SourcesList";
+import { CORE_SOURCES } from "@/lib/sources";
 
-export const metadata: Metadata = {
-  alternates: { canonical: "/about" },
+export const metadata: Metadata = pageMetadata({
   title: "About Us",
+  ogTitle: "About VaccineInjuries.org",
   description:
     "Learn what VaccineInjuries.org is, how it works, and what happens after you submit your information. We are not a law firm and do not provide legal advice.",
-};
+  path: "/about",
+});
 
 export default function AboutPage() {
   return (
     <>
+      <JsonLd
+        data={breadcrumbJsonLd([
+          { name: "Home", path: "/" },
+          { name: "About", path: "/about" },
+        ])}
+      />
       {/* Hero */}
       <section className="bg-gradient-to-b from-blue-950 to-blue-900 text-white py-20 px-4">
         <div className="max-w-3xl mx-auto text-center">
@@ -196,6 +207,34 @@ export default function AboutPage() {
               .
             </p>
           </div>
+        </div>
+      </section>
+
+      {/* Editorial Team */}
+      <section id="editorial-team" className="pb-16 px-4 bg-white scroll-mt-20">
+        <div className="max-w-3xl mx-auto">
+          <h2 className="text-3xl font-bold text-gray-900 mb-4">Our editorial team and sources</h2>
+          <p className="text-gray-600 text-lg leading-relaxed mb-4">
+            Articles on this site are written and reviewed by the VaccineInjuries.org Editorial Team. Our goal is
+            plain-English explanations that are calm, accurate, and easy to check. We are not lawyers or doctors
+            giving advice — we explain how the federal programs work and point you to the official rules.
+          </p>
+          <p className="text-gray-600 text-lg leading-relaxed mb-4">
+            Each article shows when it was published and when it was last reviewed, and lists the official sources
+            it relies on — primarily the Health Resources and Services Administration (HRSA), the U.S. Court of
+            Federal Claims, the federal Vaccine Injury Table regulation, and the Vaccine Act itself. When official rules
+            change, we aim to update the affected articles.
+          </p>
+          <p className="text-gray-600 text-lg leading-relaxed mb-8">
+            Serious vaccine injuries are uncommon. This site exists so that people who do experience one can
+            understand their options — it is not intended to discourage anyone from getting vaccinated. Please talk
+            to your doctor about vaccine decisions and symptoms.
+          </p>
+          <SourcesList
+            sources={CORE_SOURCES}
+            heading="Official sources we rely on"
+            id="official-sources"
+          />
         </div>
       </section>
 

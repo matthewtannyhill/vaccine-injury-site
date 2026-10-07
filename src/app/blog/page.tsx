@@ -1,18 +1,27 @@
 import type { Metadata } from "next";
+import { breadcrumbJsonLd, pageMetadata } from "@/lib/seo";
+import JsonLd from "@/components/JsonLd";
 import Link from "next/link";
 import Image from "next/image";
 import { blogPosts } from "@/content/blog/posts";
 
-export const metadata: Metadata = {
-  alternates: { canonical: "/blog" },
+export const metadata: Metadata = pageMetadata({
   title: "Resources & Articles",
+  ogTitle: "Vaccine Injury Compensation Resources & Articles | VaccineInjuries.org",
   description:
     "In-depth articles about vaccine injury compensation programs, eligibility, the claims process, and how to find legal help.",
-};
+  path: "/blog",
+});
 
 export default function BlogIndexPage() {
   return (
     <>
+      <JsonLd
+        data={breadcrumbJsonLd([
+          { name: "Home", path: "/" },
+          { name: "Resources", path: "/blog" },
+        ])}
+      />
       <section className="bg-blue-950 text-white py-16 px-4">
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-4xl font-bold mb-4">Resources &amp; Articles</h1>
