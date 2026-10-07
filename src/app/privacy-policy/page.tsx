@@ -33,7 +33,7 @@ export default function PrivacyPolicyPage() {
             <h2 className="text-xl font-semibold text-gray-900 mb-2">How We Use Your Information</h2>
             <p>We use the information you provide to:</p>
             <ul className="list-disc pl-5 mt-2 space-y-1">
-              <li>Review your eligibility for vaccine injury compensation programs</li>
+              <li>Review your submission for basic details, like the vaccine and timing</li>
               <li>Contact you about your inquiry</li>
               <li>Connect you with legal professionals who may be able to assist you</li>
               <li>Improve the content and functionality of this website</li>

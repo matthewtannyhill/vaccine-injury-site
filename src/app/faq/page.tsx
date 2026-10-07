@@ -76,7 +76,7 @@ export default function FAQPage() {
         </div>
 
         <div className="max-w-3xl mx-auto mt-12 bg-blue-50 rounded-lg p-6 text-center">
-          <p className="text-gray-700 mb-4">Still have questions? The fastest way to find out if you qualify is to submit your information.</p>
+          <p className="text-gray-700 mb-4">Still have questions? Submit your information and we can connect you with an independent attorney who can evaluate your situation.</p>
           <Link
             href="/intake"
             className="inline-block bg-blue-700 text-white font-semibold px-6 py-3 rounded-md hover:bg-blue-800 transition-colors"

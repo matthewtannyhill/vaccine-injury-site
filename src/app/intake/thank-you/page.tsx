@@ -20,7 +20,7 @@ export default function ThankYouPage() {
 
         <h1 className="text-3xl font-bold text-gray-900 mb-4">We Received Your Information</h1>
         <p className="text-gray-600 text-lg mb-6 leading-relaxed">
-          Thank you for reaching out. Our team will review your submission and contact you within 1–2 business days to discuss your situation and next steps.
+          Thank you for reaching out. Our team will review your submission and contact you within 1–2 business days to confirm your details and explain next steps.
         </p>
 
         <div className="bg-blue-50 rounded-lg p-5 text-left mb-8">
@@ -28,7 +28,7 @@ export default function ThankYouPage() {
           <ul className="text-blue-800 text-sm space-y-2">
             <li className="flex items-start gap-2">
               <span className="mt-0.5">1.</span>
-              <span>We review your submission against program eligibility criteria.</span>
+              <span>We review your submission for basic details, like the vaccine, the timing, and how to reach you.</span>
             </li>
             <li className="flex items-start gap-2">
               <span className="mt-0.5">2.</span>
@@ -36,7 +36,7 @@ export default function ThankYouPage() {
             </li>
             <li className="flex items-start gap-2">
               <span className="mt-0.5">3.</span>
-              <span>If your case looks like it may qualify, we connect you with a vaccine injury attorney.</span>
+              <span>If you&apos;d like, we connect you with an independent vaccine-injury attorney who can evaluate your situation. We don&apos;t provide legal advice or decide whether you qualify.</span>
             </li>
           </ul>
         </div>
