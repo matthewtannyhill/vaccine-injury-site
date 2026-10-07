@@ -97,7 +97,7 @@ export default function AboutPage() {
           </p>
           <ul className="space-y-3">
             {[
-              "Trying to understand whether their situation may qualify for review",
+              "Trying to understand whether their situation may fit a compensation program",
               "Gathering information after symptoms began following a vaccination",
               "Looking for help after being overwhelmed by the legal or administrative process",
               "Seeking a lawyer who handles vaccine injury matters",
@@ -125,8 +125,8 @@ export default function AboutPage() {
             that can be difficult to navigate without guidance.
           </p>
           <p className="text-gray-600 text-lg leading-relaxed">
-            That is one reason many people start by looking for reliable information and a qualified
-            legal review before deciding whether to move forward.
+            That is one reason many people start by looking for reliable information and talking with a
+            qualified attorney before deciding whether to move forward.
           </p>
         </div>
       </section>
@@ -140,7 +140,7 @@ export default function AboutPage() {
               {
                 step: "1",
                 title: "Read educational content",
-                body: "Start by browsing our articles and eligibility information to understand the landscape before making any decisions.",
+                body: "Start by browsing our articles and program information to understand the landscape before making any decisions.",
               },
               {
                 step: "2",

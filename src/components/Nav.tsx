@@ -25,7 +25,7 @@ export default function Nav() {
               href="/intake"
               className="bg-blue-700 text-white px-4 py-2 rounded-md hover:bg-blue-800 transition-colors"
             >
-              Check My Eligibility
+              Connect With an Attorney
             </Link>
           </nav>
 
@@ -54,7 +54,7 @@ export default function Nav() {
               onClick={() => setOpen(false)}
               className="bg-blue-700 text-white px-4 py-2 rounded-md text-center hover:bg-blue-800 transition-colors"
             >
-              Check My Eligibility
+              Connect With an Attorney
             </Link>
           </nav>
         )}

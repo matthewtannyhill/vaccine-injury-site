@@ -19,7 +19,7 @@ export default function PrivacyPolicyPage() {
         <div className="space-y-6 text-gray-700 leading-relaxed">
           <div>
             <h2 className="text-xl font-semibold text-gray-900 mb-2">Information We Collect</h2>
-            <p>When you submit the eligibility form on this site, we collect the following information:</p>
+            <p>When you submit the intake form on this site, we collect the following information:</p>
             <ul className="list-disc pl-5 mt-2 space-y-1">
               <li>Your name, email address, and phone number</li>
               <li>Your state of residence</li>

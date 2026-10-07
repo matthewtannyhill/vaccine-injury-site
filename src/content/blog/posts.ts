@@ -90,7 +90,7 @@ Claims must generally be filed within **36 months** of the first symptom of the 
 
 ## Next Steps
 
-If you believe a vaccine caused your injury, the first step is understanding whether your situation may qualify. Use our free eligibility form to get started.
+If you believe a vaccine caused your injury, the first step is understanding your options. Submit your information free and we can connect you with an independent attorney.
     `.trim(),
   },
   {
@@ -587,9 +587,9 @@ Injuries not listed on the Vaccine Injury Table can still be compensated — but
 
 COVID-19 vaccine injuries are handled by the [CICP](https://www.hrsa.gov/cicp), not the VICP. There is currently no COVID-19 injury table, so each claim is reviewed on its own evidence. According to HRSA's [CICP data](https://www.hrsa.gov/cicp/cicp-data), most COVID-19 vaccine claims compensated so far have involved myocarditis or myopericarditis following vaccination.
 
-## How to Find Out If Your Injury Qualifies
+## Ready to Talk With an Attorney?
 
-The best first step is a free case review. Submit your information and we can connect you with an independent attorney who can evaluate whether your situation may qualify. It's free to submit, with no obligation.
+The best first step is to submit your information. We can connect you with an independent attorney who can evaluate whether your situation may fit a compensation program. It's free to submit, with no obligation.
     `.trim(),
   },
   {
@@ -1017,7 +1017,7 @@ In rare circumstances, legal arguments may exist for why a late filing should be
 - Document everything. Keep all medical records related to your symptoms and treatment.
 - Talk to an attorney. A specialist can confirm which deadline applies to your specific vaccine and injury.
 
-Use our free eligibility form to get started — knowing your situation doesn't cost anything.
+Submit your information to get started — it's free, with no obligation.
     `.trim(),
   },
   {
@@ -1573,7 +1573,7 @@ The program may pay reasonable attorney fees and costs in many cases, including 
 
 HPV vaccines are covered by the VICP. The Table lists anaphylaxis, SIRVA, and fainting with specific time windows. Other injuries may still be claimed off-Table, but they need stronger medical proof. Either way, the severity rule and filing deadlines apply.
 
-Not sure where you stand? Our free eligibility review asks a few quick questions and can connect you with an independent attorney who handles vaccine injury claims. We are not a law firm and do not give legal advice. We help people understand their options and find the right help.
+Not sure where you stand? Submit a few quick questions and we can connect you with an independent attorney who handles vaccine injury claims. We are not a law firm and do not give legal advice. We help people understand their options and find the right help.
 
 This article is for general education only and is not medical or legal advice.
     `.trim(),
@@ -1672,7 +1672,7 @@ A few practical points:
 - Keep the vaccination record. Product name, date, location, and lot number (if available) help sort out which program — if any — might apply, and help a lawyer review the facts accurately.
 - Do not mix up programs. The VICP covers listed routine vaccine categories. The CICP covers certain PREP Act countermeasures such as COVID-19 vaccines. RSV vaccines are not on HRSA’s VICP covered list; they also do not appear on HRSA’s summary list of CICP PREP Act declaration categories.
 - If more than one shot was given. Write down each product and date. Coverage can differ shot by shot. For example, a seasonal flu vaccine is generally VICP-covered, while an RSV vaccine given the same day is not on the VICP list. HRSA notes in other contexts that when both a VICP-covered vaccine and a CICP-covered countermeasure are involved, a person may be able to explore either program or both, depending on the facts — but that still depends on which products were actually given.
-- Talk with someone who knows this area. Vaccine injury and product-liability questions are specialized. An eligibility conversation with a lawyer who handles these cases can help you understand what does and does not fit — without you having to decode federal coverage charts alone.
+- Talk with someone who knows this area. Vaccine injury and product-liability questions are specialized. A conversation with a lawyer who handles these cases can help you understand what does and does not fit — without you having to decode federal coverage charts alone.
 
 ## Soft checklist if you are sorting this out
 
@@ -1680,7 +1680,7 @@ A few practical points:
 2. Note the date of vaccination and when symptoms first appeared.
 3. Gather related medical records and a simple symptom timeline.
 4. Ask a clinician about ongoing care needs.
-5. If the injury was serious or lasting, consider a free eligibility review with counsel familiar with vaccine-related claims so you can learn whether any compensation pathway fits your facts.
+5. If the injury was serious or lasting, consider talking with counsel familiar with vaccine-related claims so you can learn whether any compensation pathway fits your facts.
 
 Deadlines matter in federal programs that do apply. For VICP injury petitions involving covered vaccines, HRSA materials state that petitions generally must be filed within three years after the first symptom or significant aggravation of the injury. Death claims follow different timing rules. For the CICP, HRSA states that a Request for Benefits generally must be filed within one year of receiving or using the countermeasure. Those clocks are not a substitute for advice about an RSV-only case; they are a reminder that waiting can close doors when a covered product is involved.
 
@@ -1989,7 +1989,7 @@ Only a clinician can diagnose these conditions. Timing alone is not proof. Other
 3. Note other vaccines given the same day. Coverage and programs can differ by product. Seasonal flu shots are generally VICP-covered; COVID-19 vaccines usually fall under the CICP; shingles vaccines are not VICP-covered per HRSA.
 4. Understand reporting vs. filing. Reporting a reaction to VAERS is not the same as filing a VICP petition. Both can matter for different reasons.
 5. Watch deadlines. For VICP injury petitions involving covered vaccines, HRSA materials and related educational explainers commonly note that petitions generally must be filed within three years after the first symptom or significant aggravation of the injury. Death claims follow different timing rules. Missing a filing deadline can bar a claim entirely.
-6. Consider a specialized eligibility conversation. Vaccine injury petitions are filed in the U.S. Court of Federal Claims. Most people use a lawyer. HRSA notes that the Court generally may award reasonable attorneys’ fees and costs when a petition is filed in good faith and has a reasonable basis — including, in many situations, even when compensation is not awarded to the petitioner. That fee structure is one reason an early eligibility review can be lower-risk than people expect.
+6. Consider talking with a specialized attorney. Vaccine injury petitions are filed in the U.S. Court of Federal Claims. Most people use a lawyer. HRSA notes that the Court generally may award reasonable attorneys’ fees and costs when a petition is filed in good faith and has a reasonable basis — including, in many situations, even when compensation is not awarded to the petitioner. That fee structure is one reason an early conversation with counsel can be lower-risk than people expect.
 
 ## Soft checklist
 
@@ -1997,7 +1997,7 @@ Only a clinician can diagnose these conditions. Timing alone is not proof. Other
 2. Write down the vaccination date and the date symptoms first appeared.
 3. Gather medical records and a short timeline.
 4. Ask your clinician about ongoing care.
-5. If the injury was serious or lasting, consider a free eligibility review with counsel familiar with vaccine-related claims so you can learn whether a VICP pathway may fit your facts.
+5. If the injury was serious or lasting, consider talking with counsel familiar with vaccine-related claims so you can learn whether a VICP pathway may fit your facts.
 
 ## Bottom line
 
@@ -2070,7 +2070,7 @@ A few practical points:
 - Get medical care first. Serious or worsening symptoms deserve prompt evaluation. Tell clinicians which vaccine you received and when symptoms began, and ask that the timeline be recorded clearly.
 - Keep the vaccination record. Product name, date, location, and lot number (if available) help determine whether a conjugate or polysaccharide product was given.
 - Do not mix up programs. The VICP covers many routine vaccines, including pneumococcal conjugate vaccines. The CICP covers certain countermeasures such as COVID-19 vaccines. Pneumococcal polysaccharide vaccines are not covered by the VICP according to HRSA.
-- Talk with someone who knows this area. Vaccine injury questions are specialized. An eligibility conversation with a lawyer who handles these cases can help you understand what does and does not fit.
+- Talk with someone who knows this area. Vaccine injury questions are specialized. A conversation with a lawyer who handles these cases can help you understand what does and does not fit.
 
 If you received more than one vaccine around the same time (for example, a pneumococcal shot and a seasonal flu shot), write down each product and date. Coverage can differ shot by shot. HRSA notes in related contexts that when both a VICP-covered vaccine and a CICP-covered countermeasure are involved, a person may be able to explore either program or both, depending on the facts — but that still depends on which products were actually given.
 
@@ -2080,7 +2080,7 @@ If you received more than one vaccine around the same time (for example, a pneum
 2. Note the date of vaccination and when symptoms first appeared.
 3. Gather related medical records and a simple symptom timeline.
 4. Ask a clinician about ongoing care needs.
-5. If the injury was serious or lasting, consider a free eligibility review with counsel familiar with vaccine-related claims so you can learn whether any compensation pathway fits your facts.
+5. If the injury was serious or lasting, consider talking with counsel familiar with vaccine-related claims so you can learn whether any compensation pathway fits your facts.
 
 Deadlines matter in federal programs that do apply. For VICP injury petitions involving covered vaccines, HRSA states that petitions generally must be filed within three years after the first symptom or significant aggravation of the injury. Death claims follow different timing rules. Those clocks are a reminder that waiting can close doors when a covered vaccine is involved.
 
@@ -2152,7 +2152,7 @@ A few practical points:
 - Get medical care first. Serious or worsening symptoms deserve prompt evaluation. Tell clinicians what vaccine you received and when symptoms began, and ask that the timeline be recorded clearly.
 - Keep the vaccination record. Product name, date, location, and lot number (if available) help sort out which program — if any — might apply.
 - Do not mix up programs. The VICP covers many routine vaccines. The CICP covers certain countermeasures such as COVID-19 vaccines. Shingles vaccines are not covered by the VICP according to HRSA; whether any other pathway applies depends on the facts of your situation.
-- Talk with someone who knows this area. Vaccine injury and product-liability questions are specialized. An eligibility conversation with a lawyer who handles these cases can help you understand what does and does not fit — without you having to decode federal coverage charts alone.
+- Talk with someone who knows this area. Vaccine injury and product-liability questions are specialized. A conversation with a lawyer who handles these cases can help you understand what does and does not fit — without you having to decode federal coverage charts alone.
 
 If you received more than one vaccine around the same time (for example, a shingles shot and a seasonal flu shot), write down each product and date. Coverage can differ shot by shot. HRSA notes in other contexts that when both a VICP-covered vaccine and a CICP-covered countermeasure are involved, a person may be able to explore either program or both, depending on the facts — but that still depends on which products were actually given.
 
@@ -2162,7 +2162,7 @@ If you received more than one vaccine around the same time (for example, a shing
 2. Note the date of vaccination and when symptoms first appeared.
 3. Gather related medical records and a simple symptom timeline.
 4. Ask a clinician about ongoing care needs.
-5. If the injury was serious or lasting, consider a free eligibility review with counsel familiar with vaccine-related claims so you can learn whether any compensation pathway fits your facts.
+5. If the injury was serious or lasting, consider talking with counsel familiar with vaccine-related claims so you can learn whether any compensation pathway fits your facts.
 
 Deadlines matter in federal programs that do apply. For VICP injury petitions involving covered vaccines, HRSA states that petitions generally must be filed within three years after the first symptom or significant aggravation of the injury. Death claims follow different timing rules. Those VICP clocks are not a substitute for advice about a shingles-only case; they are a reminder that waiting can close doors when a covered vaccine is involved.
 

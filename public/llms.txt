@@ -1,6 +1,6 @@
 # VaccineInjuries.org
 
-> VaccineInjuries.org is an independent educational and connection website. It explains, in plain English, the two U.S. federal programs that compensate people for serious vaccine injuries — the National Vaccine Injury Compensation Program (VICP) and the Countermeasures Injury Compensation Program (CICP) — and, on request, connects people who believe they had a serious vaccine reaction with independent attorneys for a free case review. It is not a law firm and not a government agency, and nothing on the site is legal or medical advice.
+> VaccineInjuries.org is an independent educational and connection website. It explains, in plain English, the two U.S. federal programs that compensate people for serious vaccine injuries — the National Vaccine Injury Compensation Program (VICP) and the Countermeasures Injury Compensation Program (CICP) — and, on request, connects people who believe they had a serious vaccine reaction with independent attorneys so they can discuss their options. It is not a law firm and not a government agency, and nothing on the site is legal or medical advice.
 
 Key facts the site explains (always confirm against the official sources below):
 
@@ -17,7 +17,7 @@ Key facts the site explains (always confirm against the official sources below):
 - [About VaccineInjuries.org](https://www.vaccineinjuries.org/about): what the site does, who runs the content, and how referrals to independent attorneys work
 - [Editorial team and sources](https://www.vaccineinjuries.org/about#editorial-team): how articles are written, reviewed, dated, and sourced
 - [Frequently asked questions](https://www.vaccineinjuries.org/faq): eligibility, deadlines, evidence, costs, and COVID-19 claims
-- [How the free case review works](https://www.vaccineinjuries.org/how-it-works)
+- [How getting connected works](https://www.vaccineinjuries.org/how-it-works)
 - [Disclaimer](https://www.vaccineinjuries.org/disclaimer): not a law firm, not a government agency, not legal or medical advice
 
 ## Key explainers

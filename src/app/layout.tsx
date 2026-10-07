@@ -17,10 +17,10 @@ const geist = Geist({
 export const metadata: Metadata = {
   title: {
     template: "%s | VaccineInjuries.org",
-    default: "Vaccine Injury Claims — Find Out If You Qualify",
+    default: "Vaccine Injury Claims — Get Connected With an Attorney",
   },
   description:
-    "If you or a loved one experienced a serious reaction after a vaccine, you may have a legal claim. Learn about your options and get a free case review.",
+    "If you or a loved one experienced a serious reaction after a vaccine, you may have a legal claim. Learn about your options and get connected with an independent attorney — submitting is free.",
   metadataBase: new URL(SITE_URL),
   openGraph: {
     siteName: SITE_NAME,

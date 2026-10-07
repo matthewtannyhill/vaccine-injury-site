@@ -270,15 +270,15 @@ export default async function InjuryHubPage({ params }: Props) {
           <section className="border border-blue-100 bg-blue-50 rounded-lg p-6 text-center">
             <h2 className="text-xl font-bold text-gray-900 mb-2">Want to talk through your situation?</h2>
             <p className="text-gray-700 leading-relaxed mb-4">
-              If you&apos;re dealing with an injury like this after a vaccine, you can request a free,
-              no-obligation case review. We can connect you with an independent attorney who handles vaccine
+              If you&apos;re dealing with an injury like this after a vaccine, you can submit your information free,
+              with no obligation. We can connect you with an independent attorney who handles vaccine
               injury claims and can evaluate your situation.
             </p>
             <Link
               href="/intake"
               className="inline-block bg-blue-700 text-white font-semibold px-6 py-3 rounded-md hover:bg-blue-800 transition-colors"
             >
-              Request a Free Case Review
+              Get Connected With an Attorney
             </Link>
           </section>
 
