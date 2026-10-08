@@ -62,6 +62,10 @@ export const SOURCES = {
     title: "U.S. Court of Federal Claims — Vaccine Claims / Office of Special Masters",
     url: "https://www.uscfc.uscourts.gov/vaccine-claims-office-special-masters",
   },
+  osmGuidelines: {
+    title: "U.S. Court of Federal Claims — Guidelines for Practice Under the National Vaccine Injury Compensation Program (Office of Special Masters)",
+    url: "https://www.uscfc.uscourts.gov/guidelines-practice-under-national-vaccine-injury-compensation-program",
+  },
   injuryTable: {
     title: "42 CFR § 100.3 — Vaccine Injury Table (eCFR)",
     url: "https://www.ecfr.gov/current/title-42/chapter-I/subchapter-J/part-100/section-100.3",
@@ -78,6 +82,10 @@ export const SOURCES = {
     title: "42 U.S.C. § 300aa-11 — Petitions for compensation (Cornell LII)",
     url: "https://www.law.cornell.edu/uscode/text/42/300aa-11",
   },
+  usc300aa12: {
+    title: "42 U.S.C. § 300aa-12 — Court jurisdiction, special masters, 240-day decision timeline, and review (Cornell LII)",
+    url: "https://www.law.cornell.edu/uscode/text/42/300aa-12",
+  },
   usc300aa14: {
     title: "42 U.S.C. § 300aa-14 — Vaccine Injury Table (Cornell LII)",
     url: "https://www.law.cornell.edu/uscode/text/42/300aa-14",
@@ -90,9 +98,26 @@ export const SOURCES = {
     title: "42 U.S.C. § 300aa-16 — Limitations of actions (Cornell LII)",
     url: "https://www.law.cornell.edu/uscode/text/42/300aa-16",
   },
+  usc300aa21: {
+    title: "42 U.S.C. § 300aa-21 — Election after judgment; continuing or withdrawing a petition (Cornell LII)",
+    url: "https://www.law.cornell.edu/uscode/text/42/300aa-21",
+  },
   prepActCicp: {
     title: "42 U.S.C. § 247d-6e — PREP Act covered countermeasure process (Cornell LII)",
     url: "https://www.law.cornell.edu/uscode/text/42/247d-6e",
+  },
+  // ─── Court decisions (opened and read in full before citing) ───────────────
+  caseStegall2023: {
+    title: "Stegall v. Sec'y of Health & Human Servs., No. 22-1737V (Fed. Cl. Spec. Mstr. Dec. 6, 2023) — Decision Awarding Damages (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_22-vv-01737/pdf/USCOURTS-cofc-1_22-vv-01737-1.pdf",
+  },
+  caseHoover2021: {
+    title: "Hoover v. Sec'y of Health & Human Servs., No. 20-1394V (Fed. Cl. Spec. Mstr. Nov. 1, 2021) — Decision on Attorneys' Fees and Costs (U.S. Court of Federal Claims)",
+    url: "https://ecf.cofc.uscourts.gov/cgi-bin/show_public_doc?2020vv1394-34-0",
+  },
+  caseChu2026: {
+    title: "Chu v. Sec'y of Health & Human Servs., No. 21-1185V (Fed. Cl. Jan. 28, 2026) — Opinion and Order (U.S. Court of Federal Claims)",
+    url: "https://ecf.cofc.uscourts.gov/cgi-bin/show_public_doc?2021vv1185-66-0",
   },
   vaers: {
     title: "VAERS — Vaccine Adverse Event Reporting System (HHS)",

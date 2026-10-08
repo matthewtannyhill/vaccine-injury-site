@@ -2461,4 +2461,133 @@ When you are ready, you can submit your information for free on VaccineInjuries.
 This article is for informational purposes only and is not legal advice. Vaccine injury claims involve specific rules, programs, and deadlines that depend on the facts of each case. Reading this page does not create an attorney-client relationship. For advice about your situation, speak with a qualified attorney.
     `.trim(),
   },
+  {
+    slug: "how-long-does-a-vicp-claim-take",
+    title: "How Long Does a VICP Claim Take?",
+    excerpt:
+      "HRSA says the average VICP petition takes 2 to 3 years to resolve. Here is what the law's 240-day timeline really means, why some cases move faster than others, and three real court decisions that show the range.",
+    date: "October 2026",
+    datePublished: "2026-10-08",
+    lastReviewed: "2026-10-08",
+    category: "Claim Process",
+    sources: [
+      S.hrsaVicpData,
+      S.usc300aa12,
+      S.usc300aa21,
+      S.usc300aa16,
+      S.osmGuidelines,
+      S.hrsaCoveredVaccines,
+      S.hrsaCicpVsVicp,
+      S.caseStegall2023,
+      S.caseHoover2021,
+      S.caseChu2026,
+    ],
+    content: `
+## The short answer
+
+Most VICP claims take years, not months. The Health Resources and Services Administration (HRSA), the HHS agency that publishes official VICP statistics, says in its [VICP data report](https://www.hrsa.gov/vaccine-compensation/data): "On average, it takes 2 to 3 years to adjudicate a petition after it is filed."
+
+That is an average. Some claims wrap up in about a year. Others take longer, especially when the medical questions are disputed or a decision is appealed.
+
+It also helps to keep perspective. Vaccines are generally safe, and serious injuries are rare. HRSA estimates that for petitions filed from 2006 to 2024, about one person was compensated for every 1 million doses of covered vaccines distributed in the U.S. But if you are that one person, a long, uncertain wait is hard. Knowing what to expect can make it a little easier.
+
+This post covers the VICP, which handles claims in the U.S. Court of Federal Claims. Claims involving COVID-19 vaccines go to a different program, the Countermeasures Injury Compensation Program (CICP), which HHS decides through an administrative process rather than a court case. The [CICP and VICP comparison from HRSA](https://www.hrsa.gov/cicp/cicp-vicp) explains the differences.
+
+## What about the "240 days" in the law?
+
+If you read the Vaccine Act, you may see a much shorter number. The law says a special master's decision should be issued "as expeditiously as practicable but not later than 240 days" after the petition is filed, not counting time when the case is formally suspended ([42 U.S.C. § 300aa-12](https://www.law.cornell.edu/uscode/text/42/300aa-12)).
+
+In practice, that 240-day mark works more like a checkpoint than a deadline for finishing the case:
+
+- If a special master has not decided the case within 240 days (not counting suspended time), the court has to notify the petitioner.
+- The petitioner can then choose to keep the case going or withdraw it. The law gives 30 days from that notice to file the choice ([42 U.S.C. § 300aa-21](https://www.law.cornell.edu/uscode/text/42/300aa-21)).
+- A similar notice applies if the court has not entered a judgment within 420 days.
+
+Withdrawing is a serious legal decision with consequences for what you can do next, so it is something to talk through with a lawyer rather than decide on your own.
+
+One special master put it plainly in a 2021 decision: "Given current caseloads, resolution of a claim within 240 days is very rare apart from facially defective petitions (i.e. non-covered vaccine)." (That case, Hoover, is discussed below.) Put that together with HRSA's 2-to-3-year average, and it is clear that most claims run well past the 240-day mark.
+
+## The main stages of a VICP claim
+
+Every case is different, but most move through the same basic stages. The Office of Special Masters describes them in its [Guidelines for Practice](https://www.uscfc.uscourts.gov/guidelines-practice-under-national-vaccine-injury-compensation-program).
+
+1. **Filing the petition and medical records.** The case starts when a petition is filed with the U.S. Court of Federal Claims. The medical records are the backbone of the case.
+2. **The government's review.** The Department of Health and Human Services (HHS), represented by Department of Justice lawyers, reviews the claim and files what is called a Rule 4(c) report, giving its position. Under the court's rules that report is due within 90 days of filing, but the court's own Guidelines say the deadline is "frequently extended," often because records are incomplete, an expert report is needed, or the parties are discussing settlement.
+3. **Entitlement.** VICP cases are split into two phases. The first decides whether the person is entitled to compensation at all. If the government agrees, this can be quick. If it does not, this phase can involve expert reports, briefs, and sometimes a hearing.
+4. **Damages.** If entitlement is found, the case moves to deciding the amount. Straightforward cases often settle on a number. More complex ones, such as injuries needing long-term care, can take longer.
+5. **Possible review.** After a special master's decision, either side has 30 days to ask a judge of the Court of Federal Claims to review it. Either side can then appeal that judge's ruling to the U.S. Court of Appeals for the Federal Circuit. Each step adds time.
+6. **Judgment and election.** After judgment, the petitioner has 90 days to file a written choice to accept the judgment or reject it and file a civil lawsuit instead ([42 U.S.C. § 300aa-21](https://www.law.cornell.edu/uscode/text/42/300aa-21)). The Guidelines note that in a settled case, the parties can speed up entry of judgment by giving up the right to seek review.
+
+## Why some claims move faster
+
+The court has a track built for speed. Its **Special Processing Unit (SPU)**, according to the Guidelines, "is designed to increase the Vaccine Program's ability to provide for the expedited and informal resolution of claims that appear reasonably likely to settle at the outset of the matter's filing." The Guidelines say cases involving Table injuries (injuries listed on the federal Vaccine Injury Table) may be good candidates for the SPU. If the parties cannot settle, the Chief Special Master decides the case or reassigns it to another special master.
+
+Being placed in the SPU does not guarantee a quick result, or any result. It just means the court sees the case as one that may resolve without a long fight. (The Guidelines say the SPU also takes some cases that look likely to be dismissed early, such as a claim involving a vaccine the program does not cover.)
+
+## Why some claims take much longer
+
+Based on the court's Guidelines and the decisions below, common reasons include:
+
+- **Missing or incomplete medical records.** This is one of the reasons the Guidelines give for extending the government's review.
+- **A disputed diagnosis or timeline.** When the government contests whether the injury fits the Table, or whether the vaccine caused it, the case may need expert opinions and more briefing.
+- **Settlement talks that stall.** Negotiations can take months. If they reach an impasse, the case goes back to litigation.
+- **Complex damages.** The Guidelines note that more complex cases may need "life care planners" to document future care needs, which takes time.
+- **Review and appeals.** A motion for review or an appeal can add many months.
+
+## Three real cases that show the range
+
+These are real decisions from the U.S. Court of Federal Claims. We include them only to show how long different paths can take. Each outcome depended on that case's specific facts and records. None of them predicts what will happen in another case, and none should be read as binding precedent.
+
+### A faster path: Stegall v. Secretary of Health and Human Services
+
+- **Docket:** No. 22-1737V
+- **Decided:** December 6, 2023 (Chief Special Master Brian H. Corcoran)
+- **Read it:** [Decision awarding damages (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_22-vv-01737/pdf/USCOURTS-cofc-1_22-vv-01737-1.pdf)
+
+The petitioner filed on November 23, 2022, alleging a shoulder injury related to vaccine administration (SIRVA) after a flu shot. The case was assigned to the Special Processing Unit. On December 5, 2023, the government filed its Rule 4(c) report agreeing that the injury was consistent with SIRVA as defined by the Vaccine Injury Table and that the legal requirements were met. The next day, the Chief Special Master found the petitioner entitled to compensation and approved an award of $67,000 for pain and suffering, an amount the government proposed and the petitioner agreed to.
+
+**Time from filing to decision:** a little over one year. That is about as smooth as a VICP case gets, and it still took more than 12 months.
+
+### The 240-day notice in action: Hoover v. Secretary of Health and Human Services
+
+- **Docket:** No. 20-1394V
+- **Decided:** November 1, 2021 (Special Master Nora Beth Dorsey)
+- **Read it:** [Decision on attorneys' fees and costs (U.S. Court of Federal Claims)](https://ecf.cofc.uscourts.gov/cgi-bin/show_public_doc?2020vv1394-34-0)
+
+A parent filed a petition on October 14, 2020, on behalf of her child, alleging that the child developed a movement disorder and other symptoms after HPV vaccinations. The government's report, filed in April 2021, argued against compensation, and the special master ordered more records and an expert report. On June 11, 2021, the special master issued the statutory 240-day notice. The petitioner then chose to withdraw from the program, with the stated goal of suing the vaccine manufacturer in another court.
+
+The decision we cite is about whether the program should pay the family's attorneys' fees after that withdrawal. The special master granted the request in part. Along the way, she wrote the line quoted above about how rarely claims are resolved within 240 days. The case shows that the 240-day notice is real, but that it marks a decision point, not the end of a typical claim.
+
+### A long, contested path: Chu v. Secretary of Health and Human Services
+
+- **Docket:** No. 21-1185V
+- **Decided:** Opinion filed under seal January 13, 2026, and reissued publicly January 28, 2026 (Judge Ryan T. Holte, U.S. Court of Federal Claims)
+- **Read it:** [Opinion and order (U.S. Court of Federal Claims)](https://ecf.cofc.uscourts.gov/cgi-bin/show_public_doc?2021vv1185-66-0)
+
+The petitioner filed on April 12, 2021, alleging a Table SIRVA after a Tdap vaccine. According to the opinion, the parties discussed settlement until they reached an impasse in May 2024. The government then opposed compensation, both sides filed briefs, and on July 18, 2025, the Chief Special Master dismissed the claim. The petitioner asked a Court of Federal Claims judge to review that decision. In January 2026 the judge granted the review, vacated the dismissal, and sent the case back to the Chief Special Master for further proceedings.
+
+The judge noted that the dismissal came "after four years of litigation." Nearly five years after filing, the case was not finished. Contested facts, stalled settlement talks, and a review can stretch a claim far beyond the average.
+
+## What you can do while you wait
+
+You cannot control the court's calendar, but a few things are within your reach:
+
+- **Don't let the long timeline make you put off learning your options.** For most injuries, a VICP petition must be filed within 36 months (three years) of the first symptom ([42 U.S.C. § 300aa-16](https://www.law.cornell.edu/uscode/text/42/300aa-16)). That clock runs from when symptoms start, not from when you feel ready to deal with a court case. Our guide on [how long you have to file](/blog/how-long-do-i-have-to-file-a-vaccine-injury-claim) explains the deadlines.
+- **Gather complete records early.** Incomplete records are one of the delays the court's Guidelines specifically mention. Our post on [what medical records you need](/blog/what-medical-records-do-i-need-for-a-vaccine-injury-claim) can help you get organized.
+- **Keep track of ongoing costs and lost work.** If a case reaches the damages phase, this information matters.
+- **Know how fees work.** According to HRSA, attorneys can be paid reasonable fees by the VICP directly, whether or not compensation is awarded, if certain minimal requirements are met. By law, they may not charge any other fee for VICP representation, including a contingency fee.
+
+For a closer look at the steps after filing, see [what happens after you file a VICP petition](/blog/what-happens-after-you-file-a-vicp-petition).
+
+## Get connected with an attorney
+
+A lawyer who handles VICP cases can tell you which path your situation is likely to follow and what records matter most. VaccineInjuries.org is not a law firm and does not evaluate claims. We can connect you with an independent attorney who does.
+
+[Get Connected With an Attorney](/intake). It is free to submit your information, and there is no obligation.
+
+## Disclaimer
+
+This article is for informational purposes only and is not legal advice. Court decisions are described in plain language for general education. Outcomes depend on the specific facts and records of each case, and a past decision does not predict the result of another claim. Reading this page does not create an attorney-client relationship. For advice about your situation, speak with a qualified attorney.
+    `.trim(),
+  },
 ];
