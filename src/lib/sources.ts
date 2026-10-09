@@ -119,6 +119,18 @@ export const SOURCES = {
     title: "Chu v. Sec'y of Health & Human Servs., No. 21-1185V (Fed. Cl. Jan. 28, 2026) — Opinion and Order (U.S. Court of Federal Claims)",
     url: "https://ecf.cofc.uscourts.gov/cgi-bin/show_public_doc?2021vv1185-66-0",
   },
+  caseTaing2024: {
+    title: "Taing v. Sec'y of Health & Human Servs., No. 21-118V (Fed. Cl. Spec. Mstr. Oct. 30, 2024) — Decision on Attorney's Fees and Costs (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_21-vv-00118/pdf/USCOURTS-cofc-1_21-vv-00118-1.pdf",
+  },
+  caseDruery2024: {
+    title: "Druery v. Sec'y of Health & Human Servs., No. 17-1213V (Fed. Cl. Spec. Mstr. Oct. 25, 2024) — Decision Awarding Attorneys' Fees and Costs (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_17-vv-01213/pdf/USCOURTS-cofc-1_17-vv-01213-3.pdf",
+  },
+  caseHasanovic2025: {
+    title: "Hasanovic v. Sec'y of Health & Human Servs., No. 21-1828V (Fed. Cl. Spec. Mstr. Mar. 13, 2025) — Decision on Attorneys' Fees and Costs (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_21-vv-01828/pdf/USCOURTS-cofc-1_21-vv-01828-1.pdf",
+  },
   vaers: {
     title: "VAERS — Vaccine Adverse Event Reporting System (HHS)",
     url: "https://vaers.hhs.gov/",
