@@ -107,6 +107,26 @@ export const SOURCES = {
     url: "https://www.law.cornell.edu/uscode/text/42/247d-6e",
   },
   // ─── Court decisions (opened and read in full before citing) ───────────────
+  caseSchrothEntitlement2024: {
+    title: "Schroth v. Sec'y of Health & Human Servs., No. 24-585V (Fed. Cl. Spec. Mstr. Dec. 6, 2024) — Ruling on Entitlement (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_24-vv-00585/pdf/USCOURTS-cofc-1_24-vv-00585-0.pdf",
+  },
+  caseSchrothDamages2025: {
+    title: "Schroth v. Sec'y of Health & Human Servs., No. 24-585V (Fed. Cl. Spec. Mstr. Feb. 6, 2025) — Decision Awarding Damages (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_24-vv-00585/pdf/USCOURTS-cofc-1_24-vv-00585-1.pdf",
+  },
+  caseMaupin2026: {
+    title: "Maupin v. Sec'y of Health & Human Servs., No. 24-1813V (Fed. Cl. Spec. Mstr. Jan. 6, 2026) — Ruling on Entitlement (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_24-vv-01813/pdf/USCOURTS-cofc-1_24-vv-01813-0.pdf",
+  },
+  caseCampbellEntitlement2022: {
+    title: "Campbell v. Sec'y of Health & Human Servs., No. 20-381V (Fed. Cl. Spec. Mstr. Mar. 9, 2022) — Ruling on Entitlement (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_20-vv-00381/pdf/USCOURTS-cofc-1_20-vv-00381-0.pdf",
+  },
+  caseCampbellDamages2023: {
+    title: "Campbell v. Sec'y of Health & Human Servs., No. 20-381V (Fed. Cl. Spec. Mstr. Jan. 4, 2023) — Decision Awarding Damages (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_20-vv-00381/pdf/USCOURTS-cofc-1_20-vv-00381-1.pdf",
+  },
   caseStegall2023: {
     title: "Stegall v. Sec'y of Health & Human Servs., No. 22-1737V (Fed. Cl. Spec. Mstr. Dec. 6, 2023) — Decision Awarding Damages (GovInfo)",
     url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_22-vv-01737/pdf/USCOURTS-cofc-1_22-vv-01737-1.pdf",
