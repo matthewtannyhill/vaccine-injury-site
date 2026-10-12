@@ -2590,4 +2590,163 @@ A lawyer who handles VICP cases can tell you which path your situation is likely
 This article is for informational purposes only and is not legal advice. Court decisions are described in plain language for general education. Outcomes depend on the specific facts and records of each case, and a past decision does not predict the result of another claim. Reading this page does not create an attorney-client relationship. For advice about your situation, speak with a qualified attorney.
     `.trim(),
   },
+  {
+    slug: "fainting-after-vaccine-syncope-claims",
+    title: "Fainting After a Vaccine: A Plain-English Guide to Vasovagal Syncope Claims",
+    excerpt:
+      "Fainting after a shot is usually brief and harmless, but a fall can cause real injuries. Here is how the Vaccine Injury Table treats vasovagal syncope, why the 1-hour window and loss of consciousness matter, and three real court decisions that show how these claims have gone.",
+    date: "October 2026",
+    datePublished: "2026-10-12",
+    lastReviewed: "2026-10-12",
+    category: "Qualifying Injuries",
+    sources: [
+      S.injuryTable,
+      S.cdcFainting,
+      S.usc300aa11,
+      S.usc300aa15,
+      S.usc300aa16,
+      S.hrsaCoveredVaccines,
+      S.hrsaCicpVsVicp,
+      S.osmGuidelines,
+      S.caseSchrothEntitlement2024,
+      S.caseSchrothDamages2025,
+      S.caseMaupin2026,
+      S.caseCampbellEntitlement2022,
+      S.caseCampbellDamages2023,
+    ],
+    content: `
+## The short answer
+
+Fainting after a vaccine is usually brief and harmless. The CDC says in its page on [fainting and vaccines](https://www.cdc.gov/vaccine-safety/about/fainting.html) that people who faint after vaccination "generally recover within a few minutes." When fainting becomes part of a vaccine injury claim, it is usually because of what happened during the fall, such as a broken bone, a head injury, or damaged teeth.
+
+Under the National Vaccine Injury Compensation Program (VICP), fainting has its own entry on the federal [Vaccine Injury Table](https://www.ecfr.gov/current/title-42/chapter-I/subchapter-J/part-100/section-100.3). It is listed as "vasovagal syncope" for covered vaccines that are injected, when the loss of consciousness happens within 1 hour of the shot.
+
+It helps to keep this in perspective. Vaccines are generally safe, and serious injuries are rare. The CDC notes that fainting can be triggered by many types of medical procedures, and that scientists think fainting after a shot "is due to the vaccination process and not to the vaccines themselves," although the CDC adds that there is not yet a definite answer. Either way, a fall can still cause real harm.
+
+## What vasovagal syncope is
+
+The Vaccine Injury Table defines it this way: "Vasovagal syncope (also sometimes called neurocardiogenic syncope) means loss of consciousness (fainting) and postural tone caused by a transient decrease in blood flow to the brain occurring after the administration of an injected vaccine."
+
+In plain words, blood flow to the brain drops for a moment, and the person passes out and loses muscle control. According to the Table:
+
+- It may be preceded by nausea, lightheadedness, sweating, or looking pale.
+- It may come with brief seizure-like movements, but awareness generally returns as the faint ends.
+- It "is usually a benign condition but may result in falling and injury with significant sequela." (A sequela is a lasting effect or complication.)
+
+The CDC says fainting after a vaccine is most commonly reported after three vaccines given to adolescents: HPV, meningococcal (MCV4), and Tdap. It also says one study of reports to the Vaccine Adverse Event Reporting System (VAERS) found that 62% of fainting reports involved people 11 to 18 years old, while cautioning that VAERS data cannot show how often fainting actually happens. The CDC's main concern is head injury from a fall.
+
+## How the Vaccine Injury Table treats fainting
+
+### Which vaccines
+
+Vasovagal syncope is listed, with the same "≤1 hour" time window, for each of these covered vaccine categories in [42 CFR 100.3](https://www.ecfr.gov/current/title-42/chapter-I/subchapter-J/part-100/section-100.3):
+
+- Tetanus-containing vaccines (for example DTaP, Tdap, and Td) and pertussis-containing vaccines
+- Measles, mumps, and rubella (MMR) vaccines
+- Inactivated polio vaccine (IPV)
+- Hepatitis A and hepatitis B vaccines
+- Haemophilus influenzae type b (Hib) vaccines
+- Varicella (chickenpox) vaccines
+- Pneumococcal conjugate vaccines
+- Seasonal flu vaccines
+- Meningococcal vaccines
+- HPV vaccines
+- Any new vaccine added to the program for routine use in children or pregnant women
+
+It is not listed for rotavirus vaccines or oral polio vaccine, which are not injected.
+
+### The 1-hour window and loss of consciousness
+
+For a Table claim, the person must actually lose consciousness, and it must happen within 1 hour of vaccination. Feeling faint, dizzy, or "woozy" without passing out (sometimes called presyncope or near-fainting) does not meet the Table definition. The Campbell case below shows what that can mean in practice.
+
+### What does not count
+
+The Table says loss of consciousness caused by any of these will not be considered vasovagal syncope: organic heart disease, cardiac arrhythmias (heart rhythm problems), transient ischemic attacks (mini-strokes), hyperventilation, metabolic conditions, neurological conditions, and seizures. It also says repeated fainting episodes after the 1-hour window are not treated as part of the Table injury.
+
+### Why the fall injuries matter
+
+The Table's general rules say that an acute complication or sequela of a listed condition also qualifies as a Table injury, unless the condition's definition excludes it. Combined with the syncope definition's own mention of "falling and injury," this is why fainting claims usually center on the injuries from the fall.
+
+Meeting the Table's requirements gives the petitioner a presumption that the vaccine caused the injury. In one of the cases below, the government's report described the Table as affording "a presumption of causation if the onset of vasovagal syncope occurs within one hour after a seasonal flu vaccination and there is no apparent alternative cause."
+
+## The other rules still apply
+
+Being on the Table does not replace the program's other requirements:
+
+- **Severity.** The Vaccine Act ([42 U.S.C. § 300aa-11](https://www.law.cornell.edu/uscode/text/42/300aa-11)) requires that the injured person had residual effects for more than 6 months after the vaccine, or had inpatient hospitalization and surgical intervention, or died. A faint followed by a full recovery within minutes would not meet these thresholds on its own, so the question is usually whether the injuries from the fall do.
+- **Deadline.** For most injuries, a VICP petition must be filed within 36 months (three years) after the first symptom ([42 U.S.C. § 300aa-16](https://www.law.cornell.edu/uscode/text/42/300aa-16)). A faint covered by the Table happens within an hour of the shot, so the clock can start on the day of vaccination. If you are unsure how the deadline applies to you, ask an attorney well before three years have passed.
+- **COVID-19 vaccines are different.** HRSA, the federal agency that runs the VICP, directs claims involving COVID-19 vaccines to the separate Countermeasures Injury Compensation Program (CICP) ([HRSA covered vaccines page](https://www.hrsa.gov/vaccine-compensation/covered-vaccines)). The CICP has its own rules, including a one-year filing deadline ([HRSA comparison of the CICP and VICP](https://www.hrsa.gov/cicp/cicp-vicp)). Our post on [COVID-19 vaccine claims](/blog/can-i-sue-for-covid-vaccine-side-effects) explains more.
+
+## Three real cases
+
+These are real decisions from the U.S. Court of Federal Claims. We describe them in plain words to show how fainting claims have actually been handled. Each outcome depended on that case's specific facts and records. None of them predicts what will happen in another case, and none should be read as binding precedent. The dollar amounts below were awarded for pain and suffering, and each of those decisions says the award represents compensation for all damages that would be available under the Vaccine Act.
+
+### A teenager's Table claim: Schroth v. Secretary of Health and Human Services
+
+- **Docket:** No. 24-585V
+- **Decided:** Ruling on entitlement December 6, 2024; decision awarding damages February 6, 2025 (Chief Special Master Brian H. Corcoran)
+- **Read it:** [Ruling on entitlement (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_24-vv-00585/pdf/USCOURTS-cofc-1_24-vv-00585-0.pdf) and [decision awarding damages (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_24-vv-00585/pdf/USCOURTS-cofc-1_24-vv-00585-1.pdf)
+
+On April 16, 2024, two parents filed a petition on behalf of their minor son, alleging that he suffered vasovagal syncope after receiving HPV, Tdap, and meningococcal conjugate vaccines on June 29, 2023. (Those are the same three adolescent vaccines the CDC names as most often linked to fainting reports.) The case was assigned to the court's Special Processing Unit, which, according to the court's [Guidelines for Practice](https://www.uscfc.uscourts.gov/guidelines-practice-under-national-vaccine-injury-compensation-program), is meant for claims that appear reasonably likely to settle early.
+
+On December 5, 2024, the government filed its report conceding the claim. It agreed that the family had met the Table criteria and that the son had residual effects for more than six months. The next day, the Chief Special Master found the family entitled to compensation. In February 2025, the government proposed $55,000 for pain and suffering, used to buy an annuity that pays out in later years, and the parents agreed. The Chief Special Master awarded that amount.
+
+**Time from filing to damages decision:** under 10 months. The published decisions do not describe the son's specific injuries.
+
+### Serious fall injuries after a flu shot: Maupin v. Secretary of Health and Human Services
+
+- **Docket:** No. 24-1813V
+- **Decided:** Ruling on entitlement January 6, 2026, with the public copy filed February 10, 2026 (Chief Special Master Brian H. Corcoran)
+- **Read it:** [Ruling on entitlement (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_24-vv-01813/pdf/USCOURTS-cofc-1_24-vv-01813-0.pdf)
+
+The petitioner filed on November 5, 2024, alleging that he suffered vasovagal syncope when he received a flu vaccine on November 15, 2021. According to the petition, the faint led to facial cuts, a broken nose, a concussion, a spinal cord injury in the neck, and neck surgery (a laminectomy and fusion), among other problems.
+
+On September 2, 2025, the government filed its report conceding that the petitioner met the Table criteria for vasovagal syncope after a flu shot and that he had more than six months of residual effects. The Chief Special Master found him entitled to compensation. We did not find a published damages decision in this case when we wrote this post.
+
+The case shows how a brief faint can be followed by very serious injuries. It is also a reminder about timing: the petition was filed about 10 days before the three-year anniversary of the vaccination. The ruling does not discuss the deadline, so we mention the dates only to show how close to the line some claims are filed.
+
+### No loss of consciousness: Campbell v. Secretary of Health and Human Services
+
+- **Docket:** No. 20-381V
+- **Decided:** Ruling on entitlement March 9, 2022; decision awarding damages January 4, 2023 (Chief Special Master Brian H. Corcoran)
+- **Read it:** [Ruling on entitlement (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_20-vv-00381/pdf/USCOURTS-cofc-1_20-vv-00381-0.pdf) and [decision awarding damages (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_20-vv-00381/pdf/USCOURTS-cofc-1_20-vv-00381-1.pdf)
+
+A 64-year-old hospital employee received a flu shot at an outdoor clinic at work on September 17, 2018. Walking away, she became "woozy," fell down several stairs, and was taken to the emergency room with a serious fracture of her left leg near the knee.
+
+She filed a Table claim for vasovagal syncope, but her medical records consistently showed that she had not lost consciousness. The Chief Special Master found that "the record clearly demonstrates that she did not experience loss of consciousness" and dismissed the Table claim.
+
+She had also argued, in the alternative, that the vaccine caused a vasovagal reaction that led to her fall. That is an "off-Table" claim, which means there is no presumption and the petitioner has to prove the vaccine caused the injury. The government eventually stopped defending the case on entitlement, and the Chief Special Master found that she had proved this claim. He found that the flu vaccine can cause a vasovagal response, that her dizziness and weakness within minutes of the shot caused her fall, and that her injury led to inpatient hospitalization and surgery.
+
+Her recovery was long. The damages decision describes three knee surgeries, ending in a total knee replacement, and about a year of medically excused time away from work. The two sides could not agree on pain and suffering. She asked for $250,000 (the most the Vaccine Act allows for pain and suffering under [42 U.S.C. § 300aa-15](https://www.law.cornell.edu/uscode/text/42/300aa-15)), and the government proposed $150,000. The Chief Special Master awarded $190,000.
+
+The decision also explains why there are few court decisions like this one: "Because most vaccine injury claims involving syncope, presyncope, and vasovagal response are resolved informally, there are few reasoned decisions that can guide this outcome."
+
+## Records that help
+
+If you fainted after a shot and were hurt, records made at the time are often the most important evidence. Useful records can include:
+
+- The vaccination record, including the vaccine and the time it was given
+- Clinic or pharmacy notes about the faint, and any incident report
+- Names of anyone who saw what happened
+- EMS, emergency room, or urgent care records
+- Imaging such as X-rays or CT scans, and dental records if teeth were injured
+- Follow-up records showing how long the injury affected you
+
+Whether you lost consciousness, and how soon after the shot it happened, can matter a great deal, as the Campbell case shows. Our post on [what medical records you need](/blog/what-medical-records-do-i-need-for-a-vaccine-injury-claim) can help you get organized, and our [fainting injury guide](/injuries/syncope-fainting) summarizes the Table rules on one page.
+
+## Lowering the risk of a fall
+
+The CDC says many falls from fainting can be prevented by having the person sit or lie down for the shot, and that patients should be observed for 15 minutes after vaccination. It also says that giving a drink, a snack, or some reassurance about the procedure has been shown to prevent some fainting.
+
+## Get connected with an attorney
+
+If you or your child fainted after a vaccine and were seriously hurt in the fall, a lawyer who handles VICP cases can explain whether the Table rules may fit your situation and what records matter most. VaccineInjuries.org is not a law firm and does not evaluate claims. We can connect you with an independent attorney who does.
+
+[Get Connected With an Attorney](/intake). It is free to submit your information, and there is no obligation.
+
+## Disclaimer
+
+This article is for informational purposes only and is not legal or medical advice. Court decisions are described in plain language for general education. Outcomes depend on the specific facts and records of each case, and a past decision does not predict the result of another claim. Reading this page does not create an attorney-client relationship. For medical questions, speak with a qualified clinician; for advice about your situation, speak with a qualified attorney.
+    `.trim(),
+  },
 ];

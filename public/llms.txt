@@ -49,6 +49,7 @@ Each guide covers symptoms and onset, whether and how the injury appears on the 
 - [Anaphylaxis](https://www.vaccineinjuries.org/injuries/anaphylaxis): on the Table for many covered vaccines, within 4 hours
 - [ITP / thrombocytopenic purpura](https://www.vaccineinjuries.org/injuries/itp-thrombocytopenic-purpura): on the Table for measles-containing vaccines, 7-30 days
 - [Fainting (vasovagal syncope) injuries](https://www.vaccineinjuries.org/injuries/syncope-fainting): on the Table for injected vaccines, within 1 hour
+- [Fainting after a vaccine: a guide to vasovagal syncope claims](https://www.vaccineinjuries.org/blog/fainting-after-vaccine-syncope-claims): the Table's 1-hour rule, what happens without loss of consciousness, and three real court decisions
 
 ## Official sources
 
