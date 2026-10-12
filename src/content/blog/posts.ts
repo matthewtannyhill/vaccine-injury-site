@@ -2590,4 +2590,126 @@ A lawyer who handles VICP cases can tell you which path your situation is likely
 This article is for informational purposes only and is not legal advice. Court decisions are described in plain language for general education. Outcomes depend on the specific facts and records of each case, and a past decision does not predict the result of another claim. Reading this page does not create an attorney-client relationship. For advice about your situation, speak with a qualified attorney.
     `.trim(),
   },
+  {
+    slug: "how-do-vicp-attorneys-get-paid",
+    title: "How Do VICP Attorneys Get Paid? Fees and Costs, Explained",
+    excerpt:
+      "In a VICP case, the special master decides what the lawyer is paid, and the law bars any extra fee. Here is how fees and costs work, what can be cut, and three real fee decisions with the actual numbers.",
+    date: "October 2026",
+    datePublished: "2026-10-09",
+    lastReviewed: "2026-10-09",
+    category: "Cost & Compensation",
+    sources: [
+      S.usc300aa15,
+      S.cfcOsm,
+      S.cicpRegs,
+      S.hrsaCicp,
+      S.cdcVaccineSafety,
+      S.caseTaing2024,
+      S.caseDruery2024,
+      S.caseHasanovic2025,
+    ],
+    content: `
+## The short answer
+
+In the National Vaccine Injury Compensation Program (VICP), you generally don't pay your lawyer out of your own pocket or out of your award. Instead, the lawyer asks the special master (the judicial officer who handles VICP cases at the U.S. Court of Federal Claims) to award reasonable attorneys' fees and costs. The special master reviews the billing records and decides the amount.
+
+The law also says the lawyer can't charge you anything more. That's very different from a typical injury lawsuit, where a lawyer often takes a percentage of what you recover.
+
+It helps to keep perspective. Vaccines are generally safe, and serious injuries are rare. But if you believe you were injured, knowing how lawyers are paid can make the first conversation with one a lot less stressful.
+
+## What the law says
+
+The rules are in the Vaccine Act, at [42 U.S.C. § 300aa-15(e)](https://www.law.cornell.edu/uscode/text/42/300aa-15). In plain words:
+
+- **If you are awarded compensation,** the special master or court "shall also award" an amount to cover reasonable attorneys' fees and other costs.
+- **If you are not awarded compensation,** the special master or court "may" still award reasonable fees and costs, if it finds "the petition was brought in good faith and there was a reasonable basis for the claim for which the petition was brought."
+- **No extra fee is allowed.** The statute says: "No attorney may charge any fee for services in connection with a petition filed under section 300aa–11 of this title which is in addition to any amount awarded as compensation by the special master or court under paragraph (1)."
+
+Two words in there matter a lot: **reasonable** and **may**. Fees are not automatic in a case that loses, and even in a winning case the special master can cut hours or rates that look too high.
+
+## How the amount is figured
+
+Special masters generally use what courts call the "lodestar" approach. As one decision below explains, the starting point is "multiplying the number of hours reasonably expended on the litigation times a reasonable hourly rate," and the special master can then adjust up or down based on specific findings.
+
+In practice, that means:
+
+1. **The lawyer files a fee application** with detailed, day-by-day billing records showing the work done and the time spent.
+2. **The government responds.** In the three decisions below, the government said it was satisfied that the legal requirements for a fee award were met and left the amount to the special master's discretion.
+3. **The special master decides.** The special master checks the hourly rates against what that lawyer has been awarded before and looks for time that is excessive, duplicated, or not legal work.
+
+"Costs" are separate from fees. In one decision below, the costs were for getting medical records, postage, the court's filing fee, courier services, and translation. Costs have to be reasonable and documented too.
+
+## What can get cut
+
+The decisions below show a few common reasons a fee request gets reduced:
+
+- **Clerical work billed as legal work.** Tasks like organizing files, filing documents, and calendaring deadlines are treated as office overhead. One decision quotes an earlier ruling: "[B]illing for clerical and other secretarial work is not permitted in the Vaccine Program."
+- **Overlapping or excessive work.** If two lawyers do the same work, or a brief takes far more hours than it should, the special master can trim it.
+- **Rates that don't fit.** A lawyer has to be admitted to practice in the U.S. Court of Federal Claims to work in the Vaccine Program. In one case, a lawyer's work from before her admission was paid at a paralegal rate.
+
+Cuts like these come out of what the lawyer is paid. And because the law bars any extra fee, the lawyer can't make up the difference by billing you.
+
+## Fees during a long case
+
+VICP cases can take years. Our post on [how long a VICP claim takes](/blog/how-long-does-a-vicp-claim-take) explains why. In some long cases, a special master awards "interim" fees partway through, before the case ends. The Druery decision below is one example.
+
+## Three real fee decisions
+
+These are real decisions from the Office of Special Masters at the U.S. Court of Federal Claims. We include them only to show how fee decisions work in practice. Each outcome depended on that case's specific facts and billing records, none of them predicts what will happen in another case, and none should be read as binding precedent.
+
+### A simple settled case: Taing v. Secretary of Health and Human Services
+
+- **Docket:** No. 21-118V
+- **Decided:** October 30, 2024 (Chief Special Master Brian H. Corcoran)
+- **Read it:** [Decision on attorney's fees and costs (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_21-vv-00118/pdf/USCOURTS-cofc-1_21-vv-00118-1.pdf)
+
+The petitioner alleged a shoulder injury related to vaccine administration (SIRVA) after a flu shot and was awarded compensation in June 2024, based on an agreement (a "stipulation") between the parties. The lawyer then asked for $22,094.00 in fees and $539.11 in costs. The petitioner filed a signed statement saying he had no personal out-of-pocket expenses. The Chief Special Master found the request reasonable and awarded the full $22,633.11, with no reductions.
+
+### Fees cut, but still far more than the award: Hasanovic v. Secretary of Health and Human Services
+
+- **Docket:** No. 21-1828V
+- **Decided:** March 13, 2025 (Special Master Jennifer A. Shah)
+- **Read it:** [Decision on attorneys' fees and costs (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_21-vv-01828/pdf/USCOURTS-cofc-1_21-vv-01828-1.pdf)
+
+The petitioner alleged anaphylaxis and vasovagal syncope (fainting) with other effects after a Tdap vaccine. The case settled by stipulation, and she was awarded $9,500.00. Her lawyers then asked for $62,483.20 in fees and $1,579.96 in costs. The special master paid one lawyer's 2022 work at a paralegal rate because that lawyer wasn't yet admitted to the Court of Federal Claims bar, and cut the fees by 5% more for clerical and administrative entries. The final award for fees and costs was $59,909.11.
+
+This case shows two things. Fee requests get real scrutiny, even in a case the government settled. And the fee award was its own separate amount, about six times the petitioner's compensation in this case.
+
+### A case that lost, with fees still paid: Druery v. Secretary of Health and Human Services
+
+- **Docket:** No. 17-1213V
+- **Decided:** October 25, 2024 (Special Master Daniel T. Horner)
+- **Read it:** [Decision awarding attorneys' fees and costs (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_17-vv-01213/pdf/USCOURTS-cofc-1_17-vv-01213-3.pdf)
+
+The petitioner filed in 2017, alleging that a flu vaccine led to a heart event that required a defibrillator. Partway through, in 2020, she asked for interim fees, and the special master then handling the case awarded a reduced $51,962.10. In July 2023, the special master denied compensation. A judge of the Court of Federal Claims denied her request to review that decision, and judgment entered in January 2024.
+
+Her lawyers then asked for $118,034.59 in final fees and costs. The government said the legal requirements for an award were met. The special master found the request "largely reasonable" but cut the fees for briefing by 25%, finding the 143.9 hours billed for that work excessive given how similar the filings were. The final award was $106,268.21. A footnote spells out that the Vaccine Act "prevents an attorney from charging or collecting fees (including costs) that would be in addition to the amount awarded herein."
+
+This case shows that a claim that doesn't win can still have its reasonable fees paid, when the special master finds the legal requirements met. It doesn't mean every unsuccessful claim will.
+
+## COVID-19 vaccine claims are different
+
+Claims for COVID-19 vaccine injuries generally go to the Countermeasures Injury Compensation Program (CICP), not the VICP, and the fee rules are very different. The CICP regulations say: "The Act does not authorize the Secretary to pay for, or reimburse, any fees or costs associated with the requester's use of the services of a legal or personal representative under this Program, including those of an attorney." ([42 CFR 110.44(d)](https://www.ecfr.gov/current/title-42/chapter-I/subchapter-J/part-110)). If you talk with a lawyer about a CICP claim, ask how they charge. Our post on [COVID-19 vaccine claims](/blog/can-i-sue-for-covid-vaccine-side-effects) explains the CICP.
+
+## Questions worth asking a lawyer
+
+- Will you be asking the special master for fees and costs at the end of my case, and possibly along the way?
+- Will I need to pay for anything myself, such as medical records or the filing fee, and if so, can those be reimbursed?
+- What would happen to fees if my claim isn't successful?
+- Are you admitted to practice in the U.S. Court of Federal Claims?
+
+For more on choosing a lawyer, see [how to find a vaccine injury attorney](/blog/how-to-find-a-vaccine-injury-attorney).
+
+## Get connected with an attorney
+
+VaccineInjuries.org is not a law firm and doesn't evaluate claims. We can connect you with an independent attorney who handles vaccine injury cases and can explain how fees would work in your situation.
+
+[Get Connected With an Attorney](/intake). It's free to submit your information, and there's no obligation.
+
+## Disclaimer
+
+This article is for informational purposes only and is not legal advice. Court decisions are described in plain language for general education. Outcomes depend on the specific facts and records of each case, and a past decision doesn't predict the result of another claim. Reading this page doesn't create an attorney-client relationship. For advice about your situation, speak with a qualified attorney.
+    `.trim(),
+  },
 ];
