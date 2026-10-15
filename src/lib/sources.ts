@@ -151,6 +151,18 @@ export const SOURCES = {
     title: "Hasanovic v. Sec'y of Health & Human Servs., No. 21-1828V (Fed. Cl. Spec. Mstr. Mar. 13, 2025) — Decision on Attorneys' Fees and Costs (GovInfo)",
     url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_21-vv-01828/pdf/USCOURTS-cofc-1_21-vv-01828-1.pdf",
   },
+  caseWhite2023: {
+    title: "White v. Sec'y of Health & Human Servs., No. 22-535V (Fed. Cl. Spec. Mstr. Oct. 18, 2023) — Decision Awarding Damages (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_22-vv-00535/pdf/USCOURTS-cofc-1_22-vv-00535-1.pdf",
+  },
+  caseFelix2024: {
+    title: "Felix v. Sec'y of Health & Human Servs., No. 21-1728V (Fed. Cl. Aug. 14, 2024) — Opinion and Order Sustaining Dismissal (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_21-vv-01728/pdf/USCOURTS-cofc-1_21-vv-01728-1.pdf",
+  },
+  caseVanLeerGreenberg2023: {
+    title: "Van Leer-Greenberg v. Sec'y of Health & Human Servs., No. 20-1150V (Fed. Cl. Spec. Mstr. Nov. 30, 2023) — Decision on Entitlement (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_20-vv-01150/pdf/USCOURTS-cofc-1_20-vv-01150-0.pdf",
+  },
   vaers: {
     title: "VAERS — Vaccine Adverse Event Reporting System (HHS)",
     url: "https://vaers.hhs.gov/",

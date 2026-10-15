@@ -2871,4 +2871,134 @@ If you or your child fainted after a vaccine and were seriously hurt in the fall
 This article is for informational purposes only and is not legal or medical advice. Court decisions are described in plain language for general education. Outcomes depend on the specific facts and records of each case, and a past decision does not predict the result of another claim. Reading this page does not create an attorney-client relationship. For medical questions, speak with a qualified clinician; for advice about your situation, speak with a qualified attorney.
     `.trim(),
   },
+  {
+    slug: "itp-after-mmr-vaccine-vicp",
+    title: "Can ITP After the MMR Vaccine Qualify for VICP Compensation?",
+    excerpt:
+      "Thrombocytopenic purpura is on the Vaccine Injury Table for measles-containing vaccines like MMR when onset is 7 to 30 days later. Here is what the Table requires, why the six-month severity rule often decides these cases, and three real court decisions.",
+    date: "October 2026",
+    datePublished: "2026-10-15",
+    lastReviewed: "2026-10-15",
+    category: "Qualifying Injuries",
+    sources: [
+      S.injuryTable,
+      S.hrsaCoveredVaccines,
+      S.hrsaWhoCanFile,
+      S.usc300aa11,
+      S.usc300aa16,
+      S.nhlbiItp,
+      S.caseWhite2023,
+      S.caseFelix2024,
+      S.caseVanLeerGreenberg2023,
+    ],
+    content: `
+## The short answer
+
+Yes, sometimes. Immune thrombocytopenia (often called ITP) after an MMR shot can be a VICP claim when the facts fit the federal rules. The Vaccine Injury Table lists **thrombocytopenic purpura** for vaccines that contain measles virus — including MMR and MMRV — when the first symptom begins **7 to 30 days** after vaccination ([42 CFR § 100.3](https://www.ecfr.gov/current/title-42/chapter-I/subchapter-J/part-100/section-100.3)). Meeting that Table definition creates a presumption that the vaccine caused the injury, unless another cause is shown.
+
+That presumption is not the whole story. The Vaccine Act still requires a severity threshold: residual effects lasting more than six months after the vaccination, or inpatient hospitalization with surgical intervention, or death ([42 U.S.C. § 300aa-11](https://www.law.cornell.edu/uscode/text/42/300aa-11)). In ITP cases involving children, that six-month rule is often the make-or-break issue, because many pediatric cases resolve in weeks or months.
+
+It also helps to keep perspective. Vaccines are generally safe, and serious injuries are rare. The National Heart, Lung, and Blood Institute (NHLBI) says vaccines such as MMR "rarely" raise the risk of ITP, especially in children, and lists infections, certain medicines, and other immune conditions among other risk factors ([NHLBI — Immune Thrombocytopenia](https://www.nhlbi.nih.gov/health/immune-thrombocytopenia)).
+
+This post is about the VICP, which covers MMR. Claims involving COVID-19 vaccines go to a different program, the Countermeasures Injury Compensation Program (CICP).
+
+## What ITP is, in plain English
+
+ITP is a platelet disorder. Platelets help blood clot. When the count is too low, a person can bruise easily, develop tiny red or purple dots on the skin (petechiae), or have trouble stopping bleeding. NHLBI explains that ITP can be acute (short-term) or chronic (long-term), and that acute ITP in children often goes away on its own within a few weeks or months.
+
+Doctors sometimes write "ITP," "immune thrombocytopenia," or "idiopathic thrombocytopenic purpura." The Vaccine Injury Table uses the term **thrombocytopenic purpura** and supplies its own definition, which is what the court applies for a Table claim.
+
+## What the Vaccine Injury Table requires
+
+Under [42 CFR § 100.3](https://www.ecfr.gov/current/title-42/chapter-I/subchapter-J/part-100/section-100.3), for vaccines containing measles virus (for example MMR, MM, or MMRV):
+
+- **Injury listed:** thrombocytopenic purpura
+- **Onset window:** 7 to 30 days after vaccination (not less than 7 days and not more than 30 days)
+
+The Table's qualifications and aids to interpretation (QAIs) define thrombocytopenic purpura as clinical signs such as petechiae, significant bruising, or spontaneous bleeding, **and** a serum platelet count less than **50,000/mm³**, with normal red and white blood cell indices. The Table definition also excludes thrombocytopenia from other listed causes, including immune thrombocytopenic purpura mediated by viral or fungal infections, toxins, or drugs.
+
+If the diagnosis, lab values, and timing fit, a petitioner can try to prove a **Table** injury. If they do not — for example, onset outside the 7-to-30-day window, or ITP after a vaccine that does not contain measles virus — the claim would be **off-Table** and would need proof that the vaccine caused the condition. Our guide to [Table vs. off-Table injuries](/blog/difference-between-table-injury-and-off-table-injury) explains the difference, and our [ITP injury guide](/injuries/itp-thrombocytopenic-purpura) summarizes the Table rules on one page.
+
+MMR is a covered vaccine under the VICP according to HRSA's [covered vaccines page](https://www.hrsa.gov/vaccine-compensation/covered-vaccines).
+
+## The six-month severity rule (and why it matters for ITP)
+
+Even a well-documented Table injury can fail if it does not meet the Vaccine Act's severity requirement. In general, the petition must show that the injured person:
+
+- suffered residual effects or complications for **more than six months after the vaccination**, or
+- had inpatient hospitalization and surgical intervention, or
+- died
+
+([42 U.S.C. § 300aa-11(c)(1)(D)](https://www.law.cornell.edu/uscode/text/42/300aa-11); see also HRSA's [who can file](https://www.hrsa.gov/vaccine-compensation/eligible) page).
+
+That timing starts from the vaccination date, not from when someone later decides to check a claim. NHLBI notes that acute ITP in children often resolves within weeks or months. When platelets return to normal relatively quickly, special masters have repeatedly asked whether ongoing blood tests or activity precautions alone count as "residual effects." The Federal Circuit addressed that question in *Wright v. Secretary of Health & Human Services*, 22 F.4th 999 (Fed. Cir. 2022), which the decisions below apply. We describe those cases only to show how the rule has played out; none of them predicts another claim's result, and none should be read as binding precedent for a different set of facts.
+
+Our post on [severity requirements](/blog/what-are-the-severity-requirements-for-a-vicp-claim) covers the threshold in more detail.
+
+## Filing deadlines
+
+For most VICP injury claims, a petition must be filed within **36 months (three years)** of the first symptom ([42 U.S.C. § 300aa-16](https://www.law.cornell.edu/uscode/text/42/300aa-16)). For a death, the usual window is within two years of the death and within four years of the first symptom of the injury that led to it. Reporting a reaction to VAERS is not the same as filing a VICP petition and does not stop the clock. See [how long you have to file](/blog/how-long-do-i-have-to-file-a-vaccine-injury-claim).
+
+## Three real VICP decisions involving ITP after MMR
+
+These are real decisions from the U.S. Court of Federal Claims. We include them only to show how Table timing, medical records, and the six-month severity rule have been applied in ITP-after-MMR cases. Each outcome depended on that case's specific facts and records. None of them predicts what will happen in another case, and none should be read as binding precedent.
+
+### A compensated Table claim: White v. Secretary of Health and Human Services
+
+- **Docket:** No. 22-535V
+- **Decided:** October 18, 2023 (Chief Special Master Brian H. Corcoran)
+- **Read it:** [Decision awarding damages (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_22-vv-00535/pdf/USCOURTS-cofc-1_22-vv-00535-1.pdf)
+
+Taylor White filed on May 13, 2022, on behalf of her minor child, T.J., alleging a Table ITP injury after an MMR vaccination on May 28, 2021. On May 10, 2023, the government filed its Rule 4(c) report and conceded the claim. According to the decision, HHS reviewed the petition and medical records and concluded that T.J. suffered ITP as a result of the MMR vaccine and that onset occurred within the appropriate timeframe. The Chief Special Master found entitlement the next day.
+
+On October 18, 2023, the Chief Special Master adopted the government's proffer and awarded **$50,000.00** in pain and suffering for T.J.'s benefit, plus **$1,510.72** for past unreimbursable expenses — **$51,510.72** total under 42 U.S.C. § 300aa-15(a).
+
+This case shows a path where the government agrees the Table criteria are met and the parties resolve damages by proffer. It does not describe every medical detail in the published damages decision, and it does not mean every similar-looking case will be conceded or paid the same amount.
+
+### Dismissed for severity: Felix v. Secretary of Health and Human Services
+
+- **Docket:** No. 21-1728V
+- **Decided:** Opinion filed under seal July 30, 2024, and reissued publicly August 14, 2024 (Judge Armando O. Bonilla, U.S. Court of Federal Claims), sustaining the special master's April 29, 2024 dismissal
+- **Read it:** [Opinion and order (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_21-vv-01728/pdf/USCOURTS-cofc-1_21-vv-01728-1.pdf)
+
+Parents of a child identified as E.A.F. alleged a Table injury after an MMR vaccination on August 6, 2018. About two weeks later, E.A.F. had severe bruising and was found to have a platelet count of 7,000/mm³. He was treated with IVIG and improved. The Office of Special Masters dismissed the petition for failure to meet the six-month severity requirement. On review, the Court of Federal Claims sustained that dismissal.
+
+The court described platelet counts that returned to (and stayed in) a normal range well before six months after vaccination, and it applied the Federal Circuit's reasoning in *Wright*: ongoing platelet monitoring, without lingering or recurring signs of the blood disorder past the six-month mark, was not enough. The opinion notes that the acute disorder did not linger beyond that mark and that there were no recurring manifestations of the kind *Wright* discussed.
+
+This case is a clear illustration of a common ITP pattern: a scary acute drop in platelets after MMR that improves with treatment, followed by a claim that fails because the statutory severity threshold is not met.
+
+### Also dismissed for severity: Van Leer-Greenberg v. Secretary of Health and Human Services
+
+- **Docket:** No. 20-1150V
+- **Decided:** November 30, 2023 (Special Master Herbrina D. Sanders)
+- **Read it:** [Decision on entitlement (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_20-vv-01150/pdf/USCOURTS-cofc-1_20-vv-01150-0.pdf)
+
+Brett Van Leer-Greenberg filed on September 4, 2020, on behalf of his child, H.V.L., alleging Table thrombocytopenic purpura after an MMR vaccine on September 10, 2018 (and alternatively causation-in-fact from MMR, hepatitis A, and varicella given the same day). H.V.L. presented to the ER on October 1, 2018, with bruising and a platelet count of 7,000, received IVIG, and had follow-up platelet counts that rose over the following months, including 149,000 on February 4, 2019, and 150,000 on April 1, 2019.
+
+The special master found that the petitioner had not provided preponderant evidence that the injury's residual effects lasted more than six months after the September 10, 2018 vaccinations, and denied compensation. The decision discusses *Wright* at length and concludes that ongoing monitoring and the activity-restriction evidence in the record did not meet the severity requirement.
+
+Together with *Felix*, this decision shows why families whose child's ITP improves relatively quickly still need careful legal and medical review before assuming a VICP award is available — and why complete contemporaneous records matter.
+
+## Records that often matter in these cases
+
+- The vaccination record (vaccine, date, and lot if available)
+- ER, hospital, and hematology notes from the acute episode
+- Complete blood count (CBC) results over time, with dates
+- Notes about petechiae, bruising, bleeding, IVIG or other treatment, and activity restrictions
+- Follow-up visits showing how long low platelets or related precautions continued
+
+Our post on [what medical records you need](/blog/what-medical-records-do-i-need-for-a-vaccine-injury-claim) can help you get organized.
+
+## Get connected with an attorney
+
+If your child (or you) developed ITP or thrombocytopenic purpura after an MMR vaccine, a lawyer who handles VICP cases can explain how the Table window and the six-month severity rule may apply to those records. VaccineInjuries.org is not a law firm and does not evaluate claims. We can connect you with an independent attorney who does.
+
+[Get Connected With an Attorney](/intake). It is free to submit your information, and there is no obligation.
+
+## Disclaimer
+
+This article is for informational purposes only and is not legal or medical advice. Court decisions are described in plain language for general education. Outcomes depend on the specific facts and records of each case, and a past decision does not predict the result of another claim. Reading this page does not create an attorney-client relationship. For medical questions, speak with a qualified clinician; for advice about your situation, speak with a qualified attorney.
+    `.trim(),
+  }
+
 ];
