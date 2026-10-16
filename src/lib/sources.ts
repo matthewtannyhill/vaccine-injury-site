@@ -34,6 +34,10 @@ export const SOURCES = {
     title: "HRSA — Vaccine Injury Compensation Data",
     url: "https://www.hrsa.gov/vaccine-compensation/data",
   },
+  hrsaVicpDataReportSep2026: {
+    title: "HRSA — National Vaccine Injury Compensation Program Monthly Statistics Report (updated September 1, 2026) (Internet Archive copy of official PDF)",
+    url: "https://web.archive.org/web/20260921183008/https://www.hrsa.gov/sites/default/files/hrsa/vicp/vicp-stats-09-01-26.pdf",
+  },
   hrsaCicp: {
     title: "HRSA — Countermeasures Injury Compensation Program (CICP)",
     url: "https://www.hrsa.gov/cicp",
@@ -162,6 +166,18 @@ export const SOURCES = {
   caseVanLeerGreenberg2023: {
     title: "Van Leer-Greenberg v. Sec'y of Health & Human Servs., No. 20-1150V (Fed. Cl. Spec. Mstr. Nov. 30, 2023) — Decision on Entitlement (GovInfo)",
     url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_20-vv-01150/pdf/USCOURTS-cofc-1_20-vv-01150-0.pdf",
+  },
+  caseCrawford2025: {
+    title: "Crawford v. Sec'y of Health & Human Servs., No. 25-148V (Fed. Cl. Spec. Mstr. Nov. 7, 2025) — Decision Awarding Damages (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_25-vv-00148/pdf/USCOURTS-cofc-1_25-vv-00148-1.pdf",
+  },
+  caseBickel2026: {
+    title: "Bickel v. Sec'y of Health & Human Servs., No. 21-867V (Fed. Cl. Spec. Mstr. Jan. 23, 2026) — Entitlement Decision (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_21-vv-00867/pdf/USCOURTS-cofc-1_21-vv-00867-0.pdf",
+  },
+  caseGrigsbyFees2026: {
+    title: "Grigsby v. Sec'y of Health & Human Servs., No. 24-1515V (Fed. Cl. Spec. Mstr. Feb. 19, 2026) — Decision Granting Award of Attorney's Fees and Costs (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_24-vv-01515/pdf/USCOURTS-cofc-1_24-vv-01515-1.pdf",
   },
   vaers: {
     title: "VAERS — Vaccine Adverse Event Reporting System (HHS)",
