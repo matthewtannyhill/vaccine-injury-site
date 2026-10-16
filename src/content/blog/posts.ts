@@ -2999,6 +2999,123 @@ If your child (or you) developed ITP or thrombocytopenic purpura after an MMR va
 
 This article is for informational purposes only and is not legal or medical advice. Court decisions are described in plain language for general education. Outcomes depend on the specific facts and records of each case, and a past decision does not predict the result of another claim. Reading this page does not create an attorney-client relationship. For medical questions, speak with a qualified clinician; for advice about your situation, speak with a qualified attorney.
     `.trim(),
-  }
+  },
+  {
+    slug: "how-many-vicp-claims-compensated-each-year",
+    title: "How Many VICP Claims Are Compensated Each Year?",
+    excerpt:
+      "In fiscal year 2025, HRSA’s statistics show 1,048 petitions found compensable and 259 dismissed. Here is what those program-wide numbers mean — including the settlement caveat — with three real court decisions.",
+    date: "October 2026",
+    datePublished: "2026-10-16",
+    lastReviewed: "2026-10-16",
+    category: "Claim Process",
+    sources: [
+      S.hrsaVicpData,
+      S.hrsaVicpDataReportSep2026,
+      S.usc300aa15,
+      S.injuryTable,
+      S.cdcVaccineSafety,
+      S.caseCrawford2025,
+      S.caseBickel2026,
+      S.caseGrigsbyFees2026,
+    ],
+    content: `
+## The short answer
+
+In fiscal year 2025, the Health Resources and Services Administration (HRSA) reported **1,300** VICP petitions filed. Among **1,307** adjudications that year, **1,048** were found compensable and **259** were dismissed. Awards actually paid in fiscal year 2025 included about **$142.9 million** to petitioners ($142,867,925.42) and about **$206.6 million** in total outlays ($206,632,556.54), which also cover attorneys' fees and costs.
+
+Those figures come from HRSA's [National Vaccine Injury Compensation Program Monthly Statistics Report updated September 1, 2026](https://web.archive.org/web/20260921183008/https://www.hrsa.gov/sites/default/files/hrsa/vicp/vicp-stats-09-01-26.pdf) (an Internet Archive copy of the official PDF). Fiscal year 2026 was still in progress when that report was updated. Through the September 1 report, HRSA showed **1,066** petitions filed in fiscal year 2026, and **1,059** adjudications (**893** compensable and **166** dismissed). Those are year-to-date counts in that report, not a finished year. HRSA's live [vaccine injury compensation data](https://www.hrsa.gov/vaccine-compensation/data) page now lists a newer statistics report updated October 1, 2026. We could not use that later file for the numbers in this article, so treat the September 1 figures as the latest ones we could verify. HRSA also notes that ongoing data validation can cause minor changes across fiscal years.
+
+These are program-wide counts. They are not your personal odds of being compensated.
+
+It also helps to keep perspective. Vaccines are generally safe, and serious injuries are rare. The [CDC's vaccine safety pages](https://www.cdc.gov/vaccine-safety/) describe how vaccines are monitored. HRSA, citing the CDC, says that from 2006 to 2024 over 5 billion doses of covered vaccines were distributed in the U.S. For petitions filed in that period, 15,108 were adjudicated and 11,152 of those were compensated — about one person compensated for every 1 million doses.
+
+## What "compensated" means
+
+HRSA's report states it directly: "Being awarded compensation for a petition does not necessarily mean that the vaccine caused the alleged injury."
+
+The same page explains why. Approximately **60 percent** of all compensation awarded by the VICP comes from a negotiated settlement in which HHS has not concluded, based on its review of the evidence, that the vaccine caused the alleged injury. A settlement resolves the case. HRSA says it is not an admission by the United States or the Secretary of Health and Human Services that the vaccine caused the injury, and in settled cases the court does not decide causation. Our post on [whether a vaccine injury settlement means the vaccine caused the injury](/blog/does-a-vaccine-injury-settlement-mean-the-vaccine-caused-the-injury) walks through that distinction.
+
+HRSA defines the two adjudication outcomes this way:
+
+- **Compensable** means the person who filed was paid money by the VICP. That can happen through a concession by HHS, a decision on the merits by a special master or a judge of the U.S. Court of Federal Claims, or a settlement between the parties.
+- **Dismissed** (HRSA also calls these non-compensable) means the person who filed was ultimately not paid. That includes a court decision finding the injury was not shown to be caused by a covered vaccine or did not meet the Vaccine Injury Table, a dismissal for another statutory requirement (such as the filing deadline, a vaccine the program does not cover, or the severity requirement), or a voluntary withdrawal.
+
+"Compensable" in a given fiscal year is also not the same thing as "dollars paid" in that year. HRSA notes that petitioners' awards and attorneys' fees and costs are not necessarily paid in the same fiscal year as the decision that a petition is compensable. And adjudications in a fiscal year are generally not the same group of cases as the petitions filed that year. HRSA says it takes, on average, 2 to 3 years to adjudicate a petition after it is filed. Our post on [how long a VICP claim takes](/blog/how-long-does-a-vicp-claim-take) explains that timeline.
+
+The amounts the program can pay, and the rules for attorneys' fees, are set out in the Vaccine Act at [42 U.S.C. § 300aa-15](https://www.law.cornell.edu/uscode/text/42/300aa-15). Reasonable fees can be awarded even when the petitioner is not compensated, if the petition was brought in good faith and there was a reasonable basis for the claim. By statute, the lawyer may not charge a separate fee, including a contingency fee. HRSA's report says the same thing: when the requirements are met, attorneys are paid by the VICP directly.
+
+## A recent snapshot from HRSA's data report
+
+The table below compares the two most recent complete fiscal years in the September 1, 2026 report. Petitions filed, adjudications, and awards paid are three different counts. A case filed in one year may be decided in another, and the check may go out in a third.
+
+| | FY 2024 | FY 2025 |
+|---|---|---|
+| Petitions filed | 1,185 | 1,300 |
+| Adjudications found compensable | 1,132 | 1,048 |
+| Adjudications dismissed | 308 | 259 |
+| Total adjudications | 1,440 | 1,307 |
+| Paid to petitioners | $149,653,343.68 | $142,867,925.42 |
+| Total outlays (petitioners plus attorneys' fees and costs) | $203,127,230.94 | $206,632,556.54 |
+
+In fiscal year 2025, HRSA counted **1,037** compensated awards paid. That is close to, but not the same as, the **1,048** compensable adjudications that year. Total outlays were a bit higher in fiscal year 2025 than in fiscal year 2024 even though the amount paid to petitioners was a bit lower, because total outlays also include attorneys' fees and costs (including some fees in dismissed cases and interim fee payments).
+
+Influenza accounts for a large share of the program's recent work. In the report's table of petitions filed from January 1, 2006, through December 31, 2024, influenza was the first vaccine listed on **9,771** of **15,108** adjudicated petitions, and **8,369** of those influenza petitions were compensable. HRSA notes that influenza vaccine "now is named in the majority of all VICP petitions." A petition can name more than one vaccine; the table counts the first vaccine listed. Those historical rows are not the same as the fiscal-year counts above.
+
+The September 1, 2026 report is the source for every figure in this section. You can read it on the [Internet Archive copy of the official PDF](https://web.archive.org/web/20260921183008/https://www.hrsa.gov/sites/default/files/hrsa/vicp/vicp-stats-09-01-26.pdf), and HRSA's current data page is at [hrsa.gov/vaccine-compensation/data](https://www.hrsa.gov/vaccine-compensation/data). As of this writing, that live page points to a statistics report updated October 1, 2026. If that update revises a number, the September 1 figures here are the ones we were able to check.
+
+## Three real cases
+
+Yearly totals hide how different one petition can be from the next. These are real decisions from the U.S. Court of Federal Claims. We include them only to show a compensated Table claim, a denied claim, and a dismissed claim in which fees were still paid. Each outcome depended on that case's specific facts and records. None of them predicts what will happen in another case, and none should be read as binding precedent.
+
+### A compensated Table claim: Crawford v. Secretary of Health and Human Services
+
+- **Docket:** No. 25-148V
+- **Decided:** November 7, 2025 (Chief Special Master Brian H. Corcoran)
+- **Read it:** [Decision awarding damages (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_25-vv-00148/pdf/USCOURTS-cofc-1_25-vv-00148-1.pdf)
+
+Deborah Crawford filed on January 27, 2025, alleging a Table shoulder injury related to vaccine administration (SIRVA) after a flu vaccine she received on September 28, 2023. The case was assigned to the Special Processing Unit. On August 5, 2025, the Secretary's report said the claim was appropriate for compensation as a SIRVA Table injury. The next day, the Chief Special Master ruled that she was entitled to compensation. On November 7, 2025, the government proffered **$40,000.00** for pain and suffering, she agreed, and the Chief Special Master awarded that lump sum. The decision says the amount represents compensation for all damages available under Section 15(a) of the Vaccine Act.
+
+SIRVA is listed on the [Vaccine Injury Table](https://www.ecfr.gov/current/title-42/chapter-I/subchapter-J/part-100/section-100.3). Meeting a Table injury creates a legal presumption. This case shows one path where HHS reviews the records, agrees the Table criteria are met, and the parties resolve the amount by proffer. It does not mean every shoulder claim will be conceded or paid $40,000.
+
+### Entitlement denied: Bickel v. Secretary of Health and Human Services
+
+- **Docket:** No. 21-867V
+- **Decided:** January 23, 2026 (Chief Special Master Brian H. Corcoran); the public copy on GovInfo was filed February 17, 2026
+- **Read it:** [Entitlement decision (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_21-vv-00867/pdf/USCOURTS-cofc-1_21-vv-00867-0.pdf)
+
+Allen Bickel filed on February 4, 2021, alleging Guillain-Barré syndrome (GBS) after a Tdap vaccine he received on May 24, 2019. The Chief Special Master decided the case on the written record. He wrote: "I hereby deny entitlement." He found: "Petitioner has not preponderantly established that the Tdap vaccine can cause GBS, or did so to him." The conclusion states: "Petitioner is therefore not entitled to compensation."
+
+The decision also notes that there is a Table claim for GBS after flu vaccine, and that there is no Table claim for GBS after a tetanus-containing vaccine such as Tdap. This petition was an off-Table claim, which means the petitioner had to prove causation. A denial is one of the outcomes inside HRSA's "dismissed" column. It is a reasoned decision on one record, not a rule for every GBS or Tdap claim.
+
+### A dismissed claim, with fees still paid: Grigsby v. Secretary of Health and Human Services
+
+- **Docket:** No. 24-1515V
+- **Decided:** February 19, 2026 (Chief Special Master Brian H. Corcoran)
+- **Read it:** [Decision granting award of attorney's fees and costs (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_24-vv-01515/pdf/USCOURTS-cofc-1_24-vv-01515-1.pdf)
+
+Michael Grigsby filed on September 27, 2024, alleging chronic inflammatory demyelinating polyneuropathy (CIDP) after a Tdap vaccine administered on January 30, 2023. The government opposed entitlement. On July 14, 2025, the Chief Special Master ordered the petitioner to show cause why the claim should not be dismissed. On September 19, 2025, the petitioner moved to dismiss, stating that further investigation would not show he was entitled to compensation. The claim was dismissed.
+
+The February 19, 2026 decision is about fees, not about awarding compensation for the injury. The Chief Special Master found a reasonable basis for the claim and granted attorneys' fees and costs of **$33,625.76** ($31,868.40 in fees and $1,757.36 in costs), even though the petitioner was not compensated. That is the statute at work: [42 U.S.C. § 300aa-15](https://www.law.cornell.edu/uscode/text/42/300aa-15) allows reasonable fees in an unsuccessful case when the good-faith and reasonable-basis requirements are met. It does not mean every dismissed claim will have its fees paid. Our post on [how VICP attorneys get paid](/blog/how-do-vicp-attorneys-get-paid) explains the fee rules in more detail.
+
+## What this means if you are considering a claim
+
+Start with what the statistics do not say. A year with 1,048 compensable adjudications is not a promise that a particular injury will be paid, and a year with 259 dismissals is not a reason to assume a well-documented claim will fail. Settlements, concessions, and litigated decisions are all inside the compensable count, and HRSA is explicit that most compensation comes from settlements in which HHS has not concluded the vaccine caused the injury.
+
+Timing still matters. Filing deadlines are short, and they run from the injury, not from when you read a statistics report. Our guide on [how long you have to file](/blog/how-long-do-i-have-to-file-a-vaccine-injury-claim) explains the deadlines. If you are gathering records while you decide, [what medical records you need](/blog/what-medical-records-do-i-need-for-a-vaccine-injury-claim) is a practical starting point.
+
+A lawyer who handles VICP cases can tell you whether the Vaccine Injury Table may apply, what has to be proved if it does not, and how fees would work if the claim is paid, denied, or dismissed.
+
+## Get connected with an attorney
+
+VaccineInjuries.org is not a law firm and does not evaluate claims. We can connect you with an independent attorney who handles vaccine injury cases.
+
+[Get Connected With an Attorney](/intake). It is free to submit your information, and there is no obligation.
+
+## Disclaimer
+
+This article is for informational purposes only and is not legal advice. Court decisions are described in plain language for general education. Outcomes depend on the specific facts and records of each case, and a past decision does not predict the result of another claim. Reading this page does not create an attorney-client relationship. For advice about your situation, speak with a qualified attorney.
+    `.trim(),
+  },
 
 ];
