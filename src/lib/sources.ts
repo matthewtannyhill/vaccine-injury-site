@@ -179,6 +179,18 @@ export const SOURCES = {
     title: "Grigsby v. Sec'y of Health & Human Servs., No. 24-1515V (Fed. Cl. Spec. Mstr. Feb. 19, 2026) — Decision Granting Award of Attorney's Fees and Costs (GovInfo)",
     url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_24-vv-01515/pdf/USCOURTS-cofc-1_24-vv-01515-1.pdf",
   },
+  caseSongero2025: {
+    title: "Songero v. Sec'y of Health & Human Servs., No. 18-300V (Fed. Cl. Spec. Mstr. Oct. 3, 2025) — Ruling on Entitlement (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_18-vv-00300/pdf/USCOURTS-cofc-1_18-vv-00300-0.pdf",
+  },
+  caseGoodwin2026: {
+    title: "Goodwin v. Sec'y of Health & Human Servs., No. 19-503V (Fed. Cl. Apr. 23, 2026) — Opinion and Order Sustaining Denial of Compensation (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_19-vv-00503/pdf/USCOURTS-cofc-1_19-vv-00503-3.pdf",
+  },
+  caseVarughese2026: {
+    title: "Varughese v. Sec'y of Health & Human Servs., No. 22-1408V (Fed. Cl. Spec. Mstr. July 23, 2026) — Decision Denying Compensation (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_22-vv-01408/pdf/USCOURTS-cofc-1_22-vv-01408-0.pdf",
+  },
   vaers: {
     title: "VAERS — Vaccine Adverse Event Reporting System (HHS)",
     url: "https://vaers.hhs.gov/",
