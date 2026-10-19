@@ -3117,5 +3117,137 @@ VaccineInjuries.org is not a law firm and does not evaluate claims. We can conne
 This article is for informational purposes only and is not legal advice. Court decisions are described in plain language for general education. Outcomes depend on the specific facts and records of each case, and a past decision does not predict the result of another claim. Reading this page does not create an attorney-client relationship. For advice about your situation, speak with a qualified attorney.
     `.trim(),
   },
+  {
+    slug: "transverse-myelitis-after-vaccine-vicp-claims",
+    title: "Transverse Myelitis After a Vaccine: A Plain-English Guide to VICP Claims",
+    excerpt:
+      "Transverse myelitis is not on the Vaccine Injury Table, so a VICP claim has to prove the vaccine caused it. Here is what that takes, why the timing of the first symptoms often decides these cases, and three real court decisions.",
+    date: "October 2026",
+    datePublished: "2026-10-19",
+    lastReviewed: "2026-10-19",
+    category: "Qualifying Injuries",
+    sources: [
+      S.nindsTm,
+      S.injuryTable,
+      S.usc300aa11,
+      S.usc300aa16,
+      S.cicpRegs,
+      S.caseSongero2025,
+      S.caseGoodwin2026,
+      S.caseVarughese2026,
+    ],
+    content: `
+## The short answer
+
+Transverse myelitis (TM) after a vaccine can be the basis of a VICP claim, but it is one of the harder kinds of claim. TM is **not listed on the Vaccine Injury Table for any vaccine** ([42 CFR § 100.3](https://www.ecfr.gov/current/title-42/chapter-I/subchapter-J/part-100/section-100.3)). That means there is no presumption that the vaccine caused it. Instead, the person filing (the petitioner) has to prove, with medical records, medical literature and usually expert opinion, that the vaccine more likely than not caused their TM.
+
+It also helps to keep perspective. Vaccines are generally safe, and serious injuries like this are rare. The National Institute of Neurological Disorders and Stroke (NINDS) says transverse myelitis "is usually caused by other conditions," such as immune system disorders and infections. It lists a post-vaccine autoimmune reaction as one possible cause, describing it as happening "rarely" ([NINDS — Transverse Myelitis](https://www.ninds.nih.gov/health-information/disorders/transverse-myelitis)). In many cases, no cause is found.
+
+This guide is about the VICP, which covers routinely recommended vaccines such as flu, Tdap and HPV. COVID-19 vaccine injury claims go to a different program, the Countermeasures Injury Compensation Program (CICP), which has a much shorter deadline. See [Can I sue for COVID-19 vaccine side effects?](/blog/can-i-sue-for-covid-vaccine-side-effects)
+
+## What transverse myelitis is, in plain English
+
+NINDS describes TM as a neurological disorder caused by inflammation of the spinal cord. The inflammation can damage myelin, the insulating material around nerve fibers. Which parts of the body are affected depends on where in the spinal cord the damage is, and usually it is the area at and below that spot. Many people feel a band-like sensation across the trunk.
+
+According to NINDS, classic symptoms include:
+
+- Weakness in the legs, and sometimes the arms, that can worsen quickly
+- Pain, often in the lower back or as sharp, shooting pain down the legs or arms or around the torso
+- Abnormal sensations such as burning, tingling or numbness
+- Bladder and bowel problems
+
+TM can develop over minutes to several days (acute) or over one to four weeks (subacute). Doctors usually confirm it with an MRI, and blood tests and a spinal tap help rule out other causes. NINDS says most people have at least partial recovery, with most of it in the first three months, though healing can take many months and some people have lasting effects.
+
+Our [transverse myelitis injury guide](/injuries/transverse-myelitis) summarizes the basics on one page.
+
+## Why TM is an "off-Table" claim
+
+The Vaccine Injury Table lists specific injuries for specific vaccines, each with a time window. If an injury fits the Table, causation is presumed unless another cause is shown. TM does not appear on the Table at all, so every TM claim is an off-Table claim. Our guide to [Table vs. off-Table injuries](/blog/difference-between-table-injury-and-off-table-injury) explains the difference.
+
+The final diagnosis matters, too. Guillain-Barré syndrome (GBS) *is* on the Table for seasonal flu vaccines, with onset 3 to 42 days after vaccination. But the Table's GBS definition lists **myelitis** among the diagnoses that rule out Table GBS. So when early records say "GBS versus a spinal cord problem," and the final diagnosis is TM, the claim is generally treated as off-Table.
+
+## What an off-Table claim has to prove
+
+Court decisions in TM cases apply a three-part test from a Federal Circuit case called *Althen*. As the Court of Federal Claims summarized it in the *Goodwin* opinion discussed below, a petitioner must show "(1) a medical theory causally connecting the vaccination and the injury; (2) a logical sequence of cause and effect showing that the vaccination was the reason for the injury; and (3) a showing of a proximate temporal relationship between vaccination and injury."
+
+In plain words:
+
+1. **Can it happen?** A reliable medical explanation of how this vaccine could cause TM.
+2. **Did it happen here?** Evidence that the vaccine actually caused this person's TM, often including what treating doctors wrote.
+3. **Does the timing fit?** The first symptoms started within a window that, medically, makes it reasonable to link them to the vaccine.
+
+The third part, timing, comes up again and again in TM cases. The three decisions below show onset that was found acceptable, onset found too late, and onset found too soon.
+
+## Three real VICP decisions involving transverse myelitis
+
+These are real decisions from the U.S. Court of Federal Claims. We include them only to show how the rules have been applied. Each outcome depended on that case's own medical records, experts and evidence. None of them predicts what will happen in another case, and none should be read as binding precedent.
+
+### Compensation found at 63 days: Songero v. Secretary of Health and Human Services
+
+- **Docket:** No. 18-300V
+- **Decided:** Ruling on entitlement filed October 3, 2025 (Special Master Mindy Michaels Roth)
+- **Read it:** [Ruling on entitlement (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_18-vv-00300/pdf/USCOURTS-cofc-1_18-vv-00300-0.pdf)
+
+Diana Songero received a flu vaccine on September 24, 2016, when she was 68. Sixty-three days later, on November 26, 2016, she went to the emergency room with numbness in both arms and weakness in both hands, and she was later diagnosed with TM. The government argued that 63 days was too long after the vaccine and that an undiagnosed urinary tract infection was the more likely trigger.
+
+The special master found that, on the facts of this case, the records and the medical literature supported a 63-day onset as medically appropriate. The ruling noted that program decisions had found entitlement, "albeit rarely," in TM, ADEM and GBS cases with onset up to 65 days after vaccination. The special master also rejected the infection theory, pointing out that the urinalysis was negative for bacteria and that extensive testing found no bacterial or viral infection. The special master ruled that Ms. Songero was entitled to compensation, with damages to be decided separately. The ruling itself does not set an amount.
+
+The special master was careful to say this was not a finding that there is no limit on how long after a vaccine these conditions can start.
+
+### Too late at 68 days: Goodwin v. Secretary of Health and Human Services
+
+- **Docket:** No. 19-503V
+- **Decided:** Opinion and order filed under seal April 2, 2026, and reissued publicly April 23, 2026 (Judge Zachary N. Somers, U.S. Court of Federal Claims), sustaining Special Master Christian J. Moran's October 7, 2025 decision denying compensation
+- **Read it:** [Opinion and order (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_19-vv-00503/pdf/USCOURTS-cofc-1_19-vv-00503-3.pdf)
+
+Trenton Goodwin received an HPV vaccine on March 22, 2018, when he was a minor. On May 30, 2018, 68 days later, he was hospitalized with numbness, weakness, balance problems and trouble standing, and an MRI led to a TM diagnosis that both sides' neurologists agreed was correct. His mother filed the claim on April 4, 2019.
+
+The case went back and forth. The special master first denied the claim in 2024 because of the timing. The Court of Federal Claims sent it back for a fuller explanation. After more expert reports and a multi-day hearing, the special master denied it again on October 7, 2025, this time finding that the claim failed all three parts of the *Althen* test. On review, the court explained that "the special master concluded that the medically accepted onset window for transverse myelitis following vaccination is up to 42 days," found that the special master's reasoning was not arbitrary, an abuse of discretion or contrary to law, and sustained the denial.
+
+*Songero* and *Goodwin* involved different vaccines, different experts and different records, which is part of why a 63-day onset was accepted in one case and a 68-day onset was rejected in the other. They are a good illustration of why timing arguments in TM cases are so fact-specific.
+
+### Too soon at about one day: Varughese v. Secretary of Health and Human Services
+
+- **Docket:** No. 22-1408V
+- **Decided:** Decision filed July 23, 2026, and posted publicly September 1, 2026 (Special Master Daniel T. Horner)
+- **Read it:** [Decision (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_22-vv-01408/pdf/USCOURTS-cofc-1_22-vv-01408-0.pdf)
+
+Annamma Varughese received a flu vaccine on September 21, 2021, at age 66. Her symptoms began the next day. On September 24 she went to the emergency department with chest pain radiating to her back and weakness and numbness in both legs. Doctors first considered GBS, but she was later diagnosed with TM and treated with a five-day course of IV steroids. A second-opinion neurologist called it idiopathic TM, meaning no cause was identified.
+
+Her expert proposed that parts of the flu vaccine triggered an immune attack on neurofascin, a molecule found on nerve fibers. The government's experts said the immune response that theory depends on takes days to develop, not one day. The special master found that the theory was not shown to be reliable on this record and that the timing did not fit it. The decision acknowledged that symptoms the day after a flu shot can look like a "striking coincidence," but concluded that "the onset of petitioner’s TM occurred too soon after vaccination to be causally related" and denied compensation. A decision like this can be challenged with a motion for review; as of October 19, 2026, we did not find a later opinion in this case on GovInfo.
+
+Taken together with *Songero*, this case also shows that two flu-vaccine TM claims can come out differently. The outcome turned on the specific theory, experts, timing and records in each case.
+
+## The severity rule and filing deadlines
+
+Even a strong causation case has to meet the Vaccine Act's severity requirement. In general, the injured person must have had residual effects for **more than six months after the vaccination**, or have been hospitalized and had surgery for the injury, or have died ([42 U.S.C. § 300aa-11(c)(1)(D)](https://www.law.cornell.edu/uscode/text/42/300aa-11)). See our post on [severity requirements](/blog/what-are-the-severity-requirements-for-a-vicp-claim).
+
+For most VICP injury claims, the petition must be filed within **36 months of the first symptom** ([42 U.S.C. § 300aa-16](https://www.law.cornell.edu/uscode/text/42/300aa-16)). Because TM symptoms can start quickly and recovery can take a long time, it is easy to lose track of that clock. Reporting a reaction to VAERS is not the same as filing a claim. For COVID-19 vaccines, CICP rules require a request to be filed within one year of the vaccination ([42 CFR § 110.42](https://www.ecfr.gov/current/title-42/chapter-I/subchapter-J/part-110)). See [how long you have to file](/blog/how-long-do-i-have-to-file-a-vaccine-injury-claim).
+
+## Records that often matter in TM claims
+
+Because there is no Table presumption, the records carry a lot of weight. In the decisions above, the exact date of the first symptom, the tests used to rule out other causes and what treating doctors wrote all played a part. Records that often matter include:
+
+- The vaccination record (vaccine, date and lot number if available)
+- A clear, dated timeline of the first symptoms, written as close to the time as possible
+- ER, hospital and neurology notes, including early possible diagnoses
+- MRI reports of the spine and brain
+- Spinal tap (lumbar puncture) results, antibody tests and blood work used to rule out other causes
+- Any notes from treating doctors about what they think caused the TM
+- Rehabilitation, urology and follow-up records showing recovery or lasting effects
+
+Our post on [what medical records you need](/blog/what-medical-records-do-i-need-for-a-vaccine-injury-claim) can help you get organized, and [what to do in the first 30 days](/blog/first-30-days-suspected-vaccine-injury) covers early steps.
+
+## Get connected with an attorney
+
+If you or a family member developed transverse myelitis after a vaccine, a lawyer who handles VICP cases can explain how the timing, the medical records and the six-month severity rule may apply. Off-Table claims usually depend on expert medical opinion, which is one reason many families work with an attorney. VaccineInjuries.org is not a law firm and does not evaluate claims. We can connect you with an independent attorney who does.
+
+[Get Connected With an Attorney](/intake). It is free to submit your information, and there is no obligation.
+
+## Disclaimer
+
+This article is for informational purposes only and is not legal or medical advice. Court decisions are described in plain language for general education. Outcomes depend on the specific facts and records of each case, and a past decision does not predict the result of another claim. Reading this page does not create an attorney-client relationship. For medical questions, speak with a qualified clinician; for advice about your situation, speak with a qualified attorney.
+    `.trim(),
+  },
 
 ];

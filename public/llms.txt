@@ -46,6 +46,7 @@ Each guide covers symptoms and onset, whether and how the injury appears on the 
 - [SIRVA (shoulder injury related to vaccine administration)](https://www.vaccineinjuries.org/injuries/sirva): on the Table for most injected vaccines, pain within 48 hours
 - [Guillain-Barré syndrome](https://www.vaccineinjuries.org/injuries/guillain-barre-syndrome): on the Table for seasonal flu vaccines, 3-42 days
 - [Transverse myelitis](https://www.vaccineinjuries.org/injuries/transverse-myelitis): not on the Table (off-Table claim)
+- [Transverse myelitis after a vaccine: a guide to VICP claims](https://www.vaccineinjuries.org/blog/transverse-myelitis-after-vaccine-vicp-claims): why TM is an off-Table claim, how onset timing has decided recent cases, and three real court decisions
 - [CIDP](https://www.vaccineinjuries.org/injuries/cidp): not on the Table; excluded from Table GBS
 - [Brachial neuritis](https://www.vaccineinjuries.org/injuries/brachial-neuritis): on the Table for tetanus toxoid-containing vaccines, 2-28 days
 - [Anaphylaxis](https://www.vaccineinjuries.org/injuries/anaphylaxis): on the Table for many covered vaccines, within 4 hours
