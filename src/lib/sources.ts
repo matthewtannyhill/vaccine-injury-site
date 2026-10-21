@@ -191,6 +191,34 @@ export const SOURCES = {
     title: "Varughese v. Sec'y of Health & Human Servs., No. 22-1408V (Fed. Cl. Spec. Mstr. July 23, 2026) — Decision Denying Compensation (GovInfo)",
     url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_22-vv-01408/pdf/USCOURTS-cofc-1_22-vv-01408-0.pdf",
   },
+  caseFisher2025: {
+    title: "Fisher v. Sec'y of Health & Human Servs., No. 24-1732V (Fed. Cl. Spec. Mstr. Sept. 2025, reissued Oct. 20, 2025) — Decision on Entitlement (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_24-vv-01732/pdf/USCOURTS-cofc-1_24-vv-01732-0.pdf",
+  },
+  casePartovi2024: {
+    title: "Partovi v. Sec'y of Health & Human Servs., No. 23-1094V (Fed. Cl. Spec. Mstr. Feb. 29, 2024) — Decision on Damages (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_23-vv-01094/pdf/USCOURTS-cofc-1_23-vv-01094-1.pdf",
+  },
+  caseWJCosts2025: {
+    title: "W.J. v. Sec'y of Health & Human Servs., No. 21-1342V (Fed. Cl. Spec. Mstr. Apr. 23, 2025, reissued May 23, 2025) — Decision Awarding Petitioners' Costs (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_21-vv-01342/pdf/USCOURTS-cofc-1_21-vv-01342-3.pdf",
+  },
+  cfcVaccineProSe: {
+    title: "U.S. Court of Federal Claims — Vaccine Pro Se Information (sample petitions and forms for people filing without a lawyer)",
+    url: "https://www.uscfc.uscourts.gov/vaccine-pro-se-information",
+  },
+  cfcVaccineAttorneysList: {
+    title: "U.S. Court of Federal Claims — Vaccine Attorneys List (Office of Special Masters)",
+    url: "https://www.uscfc.uscourts.gov/vaccine-attorneys-list",
+  },
+  cfcFeeSchedule: {
+    title: "U.S. Court of Federal Claims — Fee Schedule (effective July 28, 2025)",
+    url: "https://www.uscfc.uscourts.gov/fee-schedule",
+  },
+  osmGuidelinesPdf: {
+    title: "U.S. Court of Federal Claims — Guidelines for Practice Under the National Vaccine Injury Compensation Program (PDF, as amended through March 3, 2025)",
+    url: "https://www.uscfc.uscourts.gov/sites/cfc/files/Vaccine%20Guidelines%203.03.2025.pdf",
+  },
   vaers: {
     title: "VAERS — Vaccine Adverse Event Reporting System (HHS)",
     url: "https://vaers.hhs.gov/",
