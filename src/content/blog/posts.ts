@@ -3249,5 +3249,132 @@ If you or a family member developed transverse myelitis after a vaccine, a lawye
 This article is for informational purposes only and is not legal or medical advice. Court decisions are described in plain language for general education. Outcomes depend on the specific facts and records of each case, and a past decision does not predict the result of another claim. Reading this page does not create an attorney-client relationship. For medical questions, speak with a qualified clinician; for advice about your situation, speak with a qualified attorney.
     `.trim(),
   },
+  {
+    slug: "do-i-need-a-lawyer-to-file-a-vicp-claim",
+    title: "Do I Need a Lawyer to File a VICP Claim?",
+    excerpt:
+      "No, the law lets you file a VICP petition on your own, but HRSA says most people hire a lawyer. Here is what filing without one involves, how lawyers are paid in the VICP, and three real court decisions involving people who filed on their own.",
+    date: "October 2026",
+    datePublished: "2026-10-21",
+    lastReviewed: "2026-10-21",
+    category: "Legal Help",
+    sources: [
+      S.hrsaHowToFile,
+      S.hrsaVicpFaq,
+      S.cfcVaccineProSe,
+      S.cfcVaccineAttorneysList,
+      S.osmGuidelinesPdf,
+      S.cfcFeeSchedule,
+      S.usc300aa11,
+      S.usc300aa15,
+      S.usc300aa16,
+      S.hrsaCicpVsVicp,
+      S.casePartovi2024,
+      S.caseFisher2025,
+      S.caseWJCosts2025,
+    ],
+    content: `
+## The short answer
+
+No. You are not required to have a lawyer to file a claim with the National Vaccine Injury Compensation Program (VICP). The Health Resources and Services Administration (HRSA), the HHS agency that runs the program, says on its [How to File a Petition](https://www.hrsa.gov/vaccine-compensation/how-to-file) page: "The petition is a legal document that you can prepare yourself, or hire a lawyer to prepare and file on your behalf. Because this is a legal process, most people hire a lawyer."
+
+The court that hears these claims says something similar. The Office of Special Masters at the U.S. Court of Federal Claims keeps a [list of vaccine attorneys](https://www.uscfc.uscourts.gov/vaccine-attorneys-list) and notes that people filing on their own "are not required, but are encouraged, to retain an attorney."
+
+So the honest answer is: you can do it yourself, but most people don't, and the way lawyers are paid in this program is a big part of why.
+
+A quick word of perspective first. Vaccines are generally safe, and serious vaccine injuries are rare. HRSA's [VICP FAQ](https://www.hrsa.gov/vaccine-compensation/faq) describes the program as "an alternative to the tort system" and "a no-fault compensation program" for the uncommon cases where someone may have been seriously hurt.
+
+## What filing "pro se" means
+
+Courts use the term **pro se** for a person who represents themselves without a lawyer. In a VICP case, the person filing is called the petitioner, and the other side is the Secretary of Health and Human Services, represented by lawyers from the U.S. Department of Justice. That is worth knowing up front: if you file on your own, government lawyers will still review and respond to your claim.
+
+The court does try to make self-filing possible. Its [Vaccine Pro Se Information](https://www.uscfc.uscourts.gov/vaccine-pro-se-information) page offers sample petitions (one for Table claims and one for off-Table claims), a sample certificate of service, the petition cover sheet, and an application to proceed without paying the filing fee. The Office of Special Masters' [Guidelines for Practice](https://www.uscfc.uscourts.gov/sites/cfc/files/Vaccine%20Guidelines%203.03.2025.pdf) say they "were written to aid such attorneys and pro se litigants."
+
+## What you would have to do on your own
+
+Based on the Vaccine Act and the court's Guidelines, a person filing without a lawyer is responsible for things like:
+
+- **Writing and signing the petition.** The Guidelines say the petition must be signed by the petitioner if appearing pro se.
+- **Gathering and filing the records.** The Vaccine Act says a petition must include supporting documents, including medical records ([42 U.S.C. § 300aa-11(c)](https://www.law.cornell.edu/uscode/text/42/300aa-11)). The Guidelines say a pro se petitioner must also file an exhibit list, a kind of table of contents for the records, and follow the court's exhibit and page-numbering rules.
+- **Showing the injury is serious enough.** The petition has to show, among other things, that the injury's effects lasted more than six months, or that it led to an inpatient hospital stay and surgery, or that it caused a death.
+- **Meeting the deadline.** For most injuries, a petition must be filed within 36 months after the first symptom or manifestation of onset ([42 U.S.C. § 300aa-16](https://www.law.cornell.edu/uscode/text/42/300aa-16)). Our guide on [how long you have to file](/blog/how-long-do-i-have-to-file-a-vaccine-injury-claim) covers the deadlines, including the different rules for a death.
+- **Paying the filing fee or asking to have it waived.** The court's [fee schedule](https://www.uscfc.uscourts.gov/fee-schedule) (effective July 28, 2025) lists a $405 filing fee for a complaint or petition. The fee schedule says all filing fees are waived for non-prisoner filers who are granted in forma pauperis status, which is the court's term for permission to proceed without paying because of limited income. HRSA says that if you are unable to pay the filing fee, you can call the court at 202-357-6400.
+- **Sending a copy to HHS.** HRSA says that after you submit your petition to the court, you must also send a copy to HHS, either through the HRSA Injury Compensation Programs website or by mail.
+- **Following separate filing procedures.** The Guidelines say people without lawyers cannot use the court's electronic case filing system and describe other ways for them to file, such as paper or email.
+
+If the claim moves forward, it can also involve medical expert reports, legal briefs, a hearing, and negotiation over the amount of compensation. Our post on [what happens after you file a VICP petition](/blog/what-happens-after-you-file-a-vicp-petition) walks through those stages.
+
+## Why most people hire a lawyer anyway
+
+The main reason is how VICP lawyers are paid. Under the Vaccine Act ([42 U.S.C. § 300aa-15(e)](https://www.law.cornell.edu/uscode/text/42/300aa-15)):
+
+- If you are awarded compensation, the special master or court must also award reasonable attorneys' fees and costs.
+- If you are not awarded compensation, the special master or court may still award reasonable fees and costs if the petition was brought in good faith and there was a reasonable basis for the claim.
+- An attorney may not charge any fee for work on a VICP petition beyond the amount the special master or court awards. That rules out a separate contingency fee on top of the award.
+
+The court's Guidelines describe it this way: "Unlike the contingent fee system prevailing in most other tort litigation, petitioners' reasonable attorneys' fees and costs are paid by the Vaccine Program, including, in most cases, fees and costs for unsuccessful litigants."
+
+In other words, the system is set up so that a VICP lawyer's pay is set by the special master and paid by the program, rather than taken as a percentage of your award. It is still smart to ask any lawyer, before you sign anything, exactly how fees and costs will be handled in your case. Our explainer on [how VICP attorneys get paid](/blog/how-do-vicp-attorneys-get-paid) goes into more detail.
+
+Other reasons people hire a lawyer include knowing which records matter, finding and working with medical experts (especially for injuries that are not on the Vaccine Injury Table), and negotiating with government lawyers who handle these cases every day.
+
+## Three real cases involving people who filed on their own
+
+These are real decisions from the U.S. Court of Federal Claims involving petitioners who filed without a lawyer. We include them only to show what can happen in different situations. Each outcome depended on that case's specific facts and records, none of them predicts what will happen in another case, and none should be read as binding precedent.
+
+### A self-filed claim that was compensated: Partovi v. Secretary of Health and Human Services
+
+- **Docket:** No. 23-1094V
+- **Decided:** February 29, 2024 (Special Master Thomas L. Gowen)
+- **Read it:** [Decision on damages (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_23-vv-01094/pdf/USCOURTS-cofc-1_23-vv-01094-1.pdf)
+
+The petitioner filed pro se on July 17, 2023, alleging a shoulder injury related to vaccine administration (SIRVA) after flu and HPV vaccinations on October 12, 2022. On February 29, 2024, the government filed a combined report and proffer conceding that he was entitled to compensation, and the special master issued a ruling on entitlement the same day. The petitioner agreed to the government's proffer, and the special master awarded a lump sum of $40,000 for pain and suffering.
+
+This case shows that a person filing alone can be compensated, particularly when the government agrees the claim meets the requirements. Many claims are not that straightforward.
+
+### A self-filed claim that missed the deadline: Fisher v. Secretary of Health and Human Services
+
+- **Docket:** No. 24-1732V
+- **Decided:** September 2025, reissued for public availability October 20, 2025 (Special Master Herbrina D. S. Young)
+- **Read it:** [Decision on entitlement (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_24-vv-01732/pdf/USCOURTS-cofc-1_24-vv-01732-0.pdf)
+
+The petitioner filed pro se on October 23, 2024, alleging Guillain-Barré syndrome and/or chronic inflammatory demyelinating polyneuropathy (CIDP) after a flu vaccine given on September 7, 2021. The government opposed compensation and argued, among other things, that the claim was filed too late. The special master looked at when the first symptoms began, which the medical records and the petitioner's own account placed in October 2021. Whether the symptoms started as early as October 8 or as late as October 15, 2021, the special master found that the 36-month deadline had passed before the petition was filed. The petition was dismissed as time-barred.
+
+This case shows how unforgiving the filing deadline is. The clock runs from the first symptom, not from the diagnosis or from when you decide to file.
+
+### Costs repaid after a self-filed claim was dismissed: W.J. v. Secretary of Health and Human Services
+
+- **Docket:** No. 21-1342V
+- **Decided:** April 23, 2025, reissued for public availability May 23, 2025 (Special Master Nora Beth Dorsey)
+- **Read it:** [Decision awarding petitioners' costs (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_21-vv-01342/pdf/USCOURTS-cofc-1_21-vv-01342-3.pdf)
+
+Parents filed a petition on their own on behalf of their child, alleging injuries after an MMR vaccination given in 2005. The special master dismissed the claim in 2022 as filed too late under the Vaccine Act's statute of limitations, a judge of the Court of Federal Claims denied review, the U.S. Court of Appeals for the Federal Circuit affirmed the dismissal, and the Supreme Court declined to hear the case. The parents then asked the program to repay their costs. The special master found that the claim appeared to have been brought in good faith and on a reasonable basis, and awarded $1,833.81 for filing fees in three courts, printing, and postage.
+
+This case shows that the fees-and-costs rule can apply even to people without a lawyer, and even when the claim itself is not successful. Of course, with no lawyer there were no attorneys' fees to award, only the costs the family paid themselves.
+
+## What about COVID-19 vaccine claims?
+
+Claims involving COVID-19 vaccines do not go to the VICP. They go to the Countermeasures Injury Compensation Program (CICP), which HHS decides through an administrative process rather than a court case. According to HRSA's [comparison of the two programs](https://www.hrsa.gov/cicp/cicp-vicp), the CICP does not pay attorneys' fees and costs, and it generally has a one-year filing deadline. Our post on [COVID-19 vaccine claims and the CICP](/blog/can-i-sue-for-covid-vaccine-side-effects) explains more.
+
+## If you decide to talk to a lawyer
+
+Whether you file on your own or with help is your choice. If you want to explore working with a lawyer, a few practical tips:
+
+- **Start early.** Because of the filing deadline, it helps to talk with someone well before the three-year mark.
+- **Look for VICP experience.** Vaccine claims are heard in a specialized federal court with its own rules. The court's [Vaccine Attorneys List](https://www.uscfc.uscourts.gov/vaccine-attorneys-list) is one public starting point; the court notes that it does not endorse the attorneys on the list and that you are not limited to them.
+- **Ask about fees and costs in writing.** Ask how fees are handled under the Vaccine Act and whether you will be expected to pay anything yourself.
+- **Organize your records.** Our post on [what medical records you need](/blog/what-medical-records-do-i-need-for-a-vaccine-injury-claim) can help, whoever ends up filing.
+
+## Get connected with an attorney
+
+VaccineInjuries.org is not a law firm, does not give legal advice and does not evaluate claims. If you would like to talk with someone who handles VICP cases, we can connect you with an independent attorney who can explain your options.
+
+[Get Connected With an Attorney](/intake). It is free to submit your information, and there is no obligation.
+
+## Disclaimer
+
+This article is for informational purposes only and is not legal advice. Court decisions are described in plain language for general education. Outcomes depend on the specific facts and records of each case, and a past decision does not predict the result of another claim. Reading this page does not create an attorney-client relationship. For advice about your situation, speak with a qualified attorney.
+    `.trim(),
+  },
 
 ];
