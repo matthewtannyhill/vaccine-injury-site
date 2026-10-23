@@ -3376,5 +3376,153 @@ VaccineInjuries.org is not a law firm, does not give legal advice and does not e
 This article is for informational purposes only and is not legal advice. Court decisions are described in plain language for general education. Outcomes depend on the specific facts and records of each case, and a past decision does not predict the result of another claim. Reading this page does not create an attorney-client relationship. For advice about your situation, speak with a qualified attorney.
     `.trim(),
   },
+  {
+    slug: "how-vicp-compensation-is-decided",
+    title: "Settlement, Proffer, or Court Decision? How VICP Compensation Gets Decided",
+    excerpt:
+      "Most paid VICP claims never reach a trial. HRSA's data show most are resolved by settlement or by a government concession. Here is how each path works, what happens after the decision, and three real court decisions that show each one.",
+    date: "October 2026",
+    datePublished: "2026-10-23",
+    lastReviewed: "2026-10-23",
+    category: "Claim Process",
+    sources: [
+      S.hrsaVicpDataReportOct2026,
+      S.hrsaVicpData,
+      S.osmGuidelinesPdf,
+      S.vaccineRules,
+      S.usc300aa15,
+      S.usc300aa21,
+      S.caseEberling2024,
+      S.caseGreeley2026,
+      S.caseMarcillo2023,
+    ],
+    content: `
+## The short answer
+
+A National Vaccine Injury Compensation Program (VICP) claim that gets paid usually ends in one of three ways: the government concedes the claim, the two sides settle it, or a special master decides it after weighing the evidence. Most paid claims end in the first two ways, not with a judge picking a winner.
+
+Whichever way it goes, the money is not paid until a special master at the U.S. Court of Federal Claims signs a written decision, the court enters judgment, and the person who filed accepts it in writing or lets the 90-day deadline for choosing pass.
+
+A word of perspective first. Vaccines are generally safe, and serious vaccine injuries are rare. The Health Resources and Services Administration (HRSA), the HHS agency that runs the VICP, says in its [monthly statistics report](https://web.archive.org/web/20261015000519/https://www.hrsa.gov/sites/default/files/hrsa/vicp/vicp-stats-10-01-26.pdf) that from 2006 to 2024 over 5 billion doses of covered vaccines were distributed in the U.S., and that "for every 1 million doses of vaccine that were distributed, approximately 1 individual was compensated."
+
+## Two questions every claim has to answer
+
+It helps to know that a VICP case is really two questions:
+
+1. **Entitlement.** Is the person entitled to compensation at all? This is where the government (formally, the Secretary of Health and Human Services, represented by U.S. Department of Justice lawyers) either agrees or fights about whether the injury fits the [Vaccine Injury Table](https://www.ecfr.gov/current/title-42/chapter-I/subchapter-J/part-100/section-100.3) or was caused by the vaccine.
+2. **Damages.** If so, how much? This covers things like pain and suffering, medical expenses and lost wages.
+
+The two questions can be resolved in different ways. A case can have entitlement conceded by the government and still end up with a fight over damages, as one of the cases below shows.
+
+## The three ways a paid claim gets resolved
+
+HRSA's statistics report defines three ways a claim can end up compensable:
+
+- **Concession.** HHS reviews the evidence and concludes the petitioner is entitled to compensation, either because it is more likely than not that the vaccine caused the injury or because the evidence supports the criteria of the Vaccine Injury Table.
+- **Court decision.** A special master or a judge of the Court of Federal Claims "issues a legal decision after weighing the evidence presented by both sides." HRSA says HHS abides by the final decision even if it still disagrees.
+- **Settlement.** The two sides negotiate a resolution. HRSA is explicit that a settlement "is not an admission by the United States or the Secretary of Health and Human Services that the vaccine caused the petitioner's alleged injuries," and that in settled cases the court does not decide that the vaccine caused the injury.
+
+Here is how compensated petitions broke down in HRSA's report updated October 1, 2026, for petitions filed from January 1, 2006 through December 31, 2024:
+
+| How the paid petitions were resolved | Number | Share of paid petitions |
+| --- | --- | --- |
+| Settlement | 6,581 | about 59% |
+| Concession | 4,103 | about 36% |
+| Court decision | 564 | about 5% |
+| **Total compensated** | **11,248** | 100% |
+
+For the same group of petitions, HRSA counts 3,997 that were dismissed or found non-compensable, out of 15,245 adjudicated. (The percentages are our own arithmetic from HRSA's counts. HRSA's report separately says that "approximately 60 percent of all compensation awarded by the VICP comes as result of a negotiated settlement.")
+
+One more note: HRSA counts each petition in one category, but real cases can mix paths. In the third case below, the government conceded entitlement, and the special master still had to decide part of the damages.
+
+## Step one: the government's report
+
+After a petition is filed and the medical records are in, the government has to take a position. Under [Vaccine Rule 4(c)](https://www.uscfc.uscourts.gov/sites/cfc/files/Vaccine%20Rules%207.27.26.pdf), within 90 days after the petition is filed, or on a schedule the special master sets once the required records are filed, the government must file a report giving "a full and complete statement of its position as to why an award should or should not be granted." The rule adds that "general denials are not sufficient."
+
+That report, often called the Rule 4(c) report, is a fork in the road. If the government concedes, the special master usually issues a ruling that the petitioner is entitled to compensation, and the case moves to damages. If the government opposes, the case heads toward expert reports, briefs and possibly a hearing, unless the parties settle along the way.
+
+## Path one: concession, then a proffer
+
+When the government has conceded entitlement, damages are often resolved by a **proffer**. A proffer is the government's written statement of the amount it believes should be awarded. If the petitioner agrees, the special master adopts it in a decision.
+
+The court's [Guidelines for Practice](https://www.uscfc.uscourts.gov/sites/cfc/files/Vaccine%20Guidelines%203.03.2025.pdf) explain why this path can be quicker: "If entitlement has been determined prior to the tentative settlement, a proffer is often used, resulting in faster processing."
+
+## Path two: settlement by stipulation
+
+When the government has not conceded, the parties can still agree to settle. The deal is written up as a **stipulation**, an agreement filed with the court that sets out the payment. In the stipulations we have read, the government keeps its position that the vaccine did not cause the injury and settles anyway.
+
+HRSA lists reasons a petition might settle, including "consideration of prior U.S. Court of Federal Claims decisions," "a desire to minimize the risk, time, and expense of litigating a case," and "the desire to resolve a petition quickly." The Guidelines add that when entitlement has not been decided, the special master will issue a "15-Week Order" setting deadlines for finalizing and filing the signed settlement.
+
+## Path three: the special master decides
+
+When the two sides can't agree, the special master decides. That can happen on entitlement (did the vaccine cause the injury, or does it meet the Table?) or on damages (how much?), or both. The Guidelines say that "when a particular damages component is contested, the special master often will hold a hearing on the matter before deciding the issue."
+
+For pain and suffering, the Vaccine Act caps the award at $250,000 ([42 U.S.C. § 300aa-15(a)(4)](https://www.law.cornell.edu/uscode/text/42/300aa-15)). Other items, like medical expenses and lost earnings, are covered under separate parts of the same section.
+
+## Three real cases, one for each path
+
+These are real decisions from the U.S. Court of Federal Claims. All three happen to involve fainting (vasovagal syncope) after a vaccine, which makes it easier to compare how the process played out. We include them only to show how each path works. Each outcome depended on that case's own facts and records, none predicts what would happen in another case, and none should be read as binding precedent.
+
+### Concession and proffer: Eberling v. Secretary of Health and Human Services
+
+- **Docket:** No. 22-778V
+- **Decided:** October 8, 2024 (Chief Special Master Brian H. Corcoran)
+- **Read it:** [Decision awarding damages, with the government's proffer attached (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_22-vv-00778/pdf/USCOURTS-cofc-1_22-vv-00778-1.pdf)
+
+Andrew Eberling filed on July 18, 2022, alleging that he fainted after receiving an HPV vaccine on August 2, 2019, and suffered injuries including a broken nose and cuts to his face. The case was assigned to the court's Special Processing Unit. On September 10, 2024, the government filed a Rule 4(c) report saying the case was appropriate for compensation as a vasovagal syncope Table injury, and the Chief Special Master issued a ruling on entitlement the same day. On October 4, 2024, the government filed a proffer of $10,000 for pain and suffering, and the petitioner agreed. Four days later, the Chief Special Master awarded that amount.
+
+This case shows how fast the last steps can move once the government concedes. Most of the time was spent before the concession.
+
+### Settlement by stipulation: Greeley v. Secretary of Health and Human Services
+
+- **Docket:** No. 24-319V
+- **Decided:** January 22, 2026 (Special Master Mindy Michaels Roth)
+- **Read it:** [Decision on joint stipulation, with the stipulation attached (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_24-vv-00319/pdf/USCOURTS-cofc-1_24-vv-00319-0.pdf)
+
+Joshua T. Greeley filed on February 29, 2024, alleging vasovagal syncope with residual effects lasting more than six months after Tdap and HPV vaccines on May 24, 2022. The government denied that he had a vasovagal syncope Table injury and denied that the vaccines caused his alleged injury. In the decision's words: "Nevertheless, the parties have agreed to settle the case." The special master adopted the stipulation and awarded a lump sum of $37,500.00. The stipulation said attorneys' fees and costs would be handled in later proceedings.
+
+This case shows that a settlement can pay a claim without anyone deciding that the vaccine caused the injury.
+
+### Conceded, but damages decided by the special master: Marcillo v. Secretary of Health and Human Services
+
+- **Docket:** No. 20-2061V
+- **Decided:** April 14, 2023 (Chief Special Master Brian H. Corcoran)
+- **Read it:** [Decision awarding damages (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_20-vv-02061/pdf/USCOURTS-cofc-1_20-vv-02061-1.pdf)
+
+Francisco Marcillo filed on December 30, 2020, alleging that he fainted after a Tdap vaccine on March 13, 2020, and was injured. According to the decision, his jaw and facial bones were badly fractured, and he went through multiple surgeries. The government conceded entitlement in its Rule 4(c) report in September 2021, but the parties could not agree on pain and suffering. He asked for $225,000 for past pain and suffering plus $25,000 for future pain and suffering. The government proposed $125,000. They agreed on $30,312.03 for past unreimbursable expenses and $5,999.88 for lost wages.
+
+After a hearing on April 3, 2023, the Chief Special Master noted that "there is no precise formula for assigning a monetary value to a person's pain and suffering and emotional distress," weighed the severity and length of his treatment, and awarded $250,000 for pain and suffering, the statutory cap. The total award was $286,311.91.
+
+This case shows that a concession doesn't always end the dispute. It also shows how long the damages stage alone can take: about a year and a half passed between the government's concession and the decision.
+
+## After the decision: judgment, election and payment
+
+Whichever path a case takes, the Guidelines say "the special master will issue a written decision awarding compensation," and even a settlement or proffer "must be formally approved by a decision of the special master." Then:
+
+- **A 30-day window for review.** Under Vaccine Rule 11(a), if no motion for review is filed within 30 days after the decision, the clerk enters judgment. The parties can speed this up by each filing a notice that they won't seek review. The Guidelines mention this for situations like a settled case.
+- **An election within 90 days.** After judgment, the Vaccine Act requires the petitioner to file a written election either to accept the compensation or to file a civil lawsuit instead ([42 U.S.C. § 300aa-21(a)](https://www.law.cornell.edu/uscode/text/42/300aa-21)). The election must be filed within 90 days, and a petitioner who doesn't file one is treated as having accepted the judgment.
+- **Payment after the election.** The Guidelines say the government "cannot process an award until the election is filed or deemed filed at the close of 90 days, even if the judgment results from a settlement with respondent."
+- **Fees decided separately.** Attorneys' fees and costs are often handled in a separate decision. Our explainer on [how VICP attorneys get paid](/blog/how-do-vicp-attorneys-get-paid) covers how that works.
+
+## What this means if you're thinking about a claim
+
+- **A settlement is not a finding about the vaccine.** HRSA says plainly that a settlement "cannot be characterized as a decision by HHS or by the Court that the vaccine caused an injury." It is still a real payment.
+- **The government's report shapes the rest of the case.** Whether the government concedes or opposes largely decides which path a claim takes and how long it runs. Our post on [how long a VICP claim takes](/blog/how-long-does-a-vicp-claim-take) goes deeper on timing.
+- **Amounts vary widely.** The three awards above ranged from $10,000 to $286,311.91 because the injuries and their effects were very different. No past award predicts another.
+- **The paperwork matters at every step.** Medical records drive the government's report, the settlement talks and any damages decision. Our guide on [what medical records you need](/blog/what-medical-records-do-i-need-for-a-vaccine-injury-claim) is a good starting point.
+
+COVID-19 vaccine claims work differently. They go to the Countermeasures Injury Compensation Program (CICP), an administrative program run by HRSA, not to the VICP or the Court of Federal Claims. Our post on [COVID-19 vaccine claims](/blog/can-i-sue-for-covid-vaccine-side-effects) explains more.
+
+## Get connected with an attorney
+
+VaccineInjuries.org is not a law firm, does not give legal advice and does not evaluate claims. If you would like to talk with someone who handles VICP cases about how these paths might apply to you, we can connect you with an independent attorney who can explain your options.
+
+[Get Connected With an Attorney](/intake). It is free to submit your information, and there is no obligation.
+
+## Disclaimer
+
+This article is for informational purposes only and is not legal advice. Court decisions are described in plain language for general education. Outcomes depend on the specific facts and records of each case, and a past decision does not predict the result of another claim. Reading this page does not create an attorney-client relationship. For advice about your situation, speak with a qualified attorney.
+    `.trim(),
+  },
 
 ];

@@ -38,6 +38,10 @@ export const SOURCES = {
     title: "HRSA — National Vaccine Injury Compensation Program Monthly Statistics Report (updated September 1, 2026) (Internet Archive copy of official PDF)",
     url: "https://web.archive.org/web/20260921183008/https://www.hrsa.gov/sites/default/files/hrsa/vicp/vicp-stats-09-01-26.pdf",
   },
+  hrsaVicpDataReportOct2026: {
+    title: "HRSA — National Vaccine Injury Compensation Program Monthly Statistics Report (updated October 1, 2026) (Internet Archive copy of official PDF)",
+    url: "https://web.archive.org/web/20261015000519/https://www.hrsa.gov/sites/default/files/hrsa/vicp/vicp-stats-10-01-26.pdf",
+  },
   hrsaCicp: {
     title: "HRSA — Countermeasures Injury Compensation Program (CICP)",
     url: "https://www.hrsa.gov/cicp",
@@ -203,6 +207,18 @@ export const SOURCES = {
     title: "W.J. v. Sec'y of Health & Human Servs., No. 21-1342V (Fed. Cl. Spec. Mstr. Apr. 23, 2025, reissued May 23, 2025) — Decision Awarding Petitioners' Costs (GovInfo)",
     url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_21-vv-01342/pdf/USCOURTS-cofc-1_21-vv-01342-3.pdf",
   },
+  caseEberling2024: {
+    title: "Eberling v. Sec'y of Health & Human Servs., No. 22-778V (Fed. Cl. Spec. Mstr. Oct. 8, 2024) — Decision Awarding Damages (proffer) (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_22-vv-00778/pdf/USCOURTS-cofc-1_22-vv-00778-1.pdf",
+  },
+  caseGreeley2026: {
+    title: "Greeley v. Sec'y of Health & Human Servs., No. 24-319V (Fed. Cl. Spec. Mstr. Jan. 22, 2026) — Decision on Joint Stipulation (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_24-vv-00319/pdf/USCOURTS-cofc-1_24-vv-00319-0.pdf",
+  },
+  caseMarcillo2023: {
+    title: "Marcillo v. Sec'y of Health & Human Servs., No. 20-2061V (Fed. Cl. Spec. Mstr. Apr. 14, 2023) — Decision Awarding Damages (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_20-vv-02061/pdf/USCOURTS-cofc-1_20-vv-02061-1.pdf",
+  },
   cfcVaccineProSe: {
     title: "U.S. Court of Federal Claims — Vaccine Pro Se Information (sample petitions and forms for people filing without a lawyer)",
     url: "https://www.uscfc.uscourts.gov/vaccine-pro-se-information",
@@ -214,6 +230,10 @@ export const SOURCES = {
   cfcFeeSchedule: {
     title: "U.S. Court of Federal Claims — Fee Schedule (effective July 28, 2025)",
     url: "https://www.uscfc.uscourts.gov/fee-schedule",
+  },
+  vaccineRules: {
+    title: "U.S. Court of Federal Claims — Vaccine Rules (Appendix B to the court's rules, as amended through July 27, 2026)",
+    url: "https://www.uscfc.uscourts.gov/sites/cfc/files/Vaccine%20Rules%207.27.26.pdf",
   },
   osmGuidelinesPdf: {
     title: "U.S. Court of Federal Claims — Guidelines for Practice Under the National Vaccine Injury Compensation Program (PDF, as amended through March 3, 2025)",
