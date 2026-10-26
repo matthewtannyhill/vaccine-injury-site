@@ -27,7 +27,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const path = `/blog/${post.slug}`;
   const images = post.heroImage ? [{ url: post.heroImage.src, alt: post.heroImage.alt }] : undefined;
   return {
-    title: post.title,
+    // seoTitle is written to fit search results on its own, so it skips the " | VaccineInjuries.org" suffix.
+    title: post.seoTitle ? { absolute: post.seoTitle } : post.title,
     description: post.excerpt,
     alternates: { canonical: path },
     authors: [{ name: post.author ?? EDITORIAL_TEAM, url: "/about#editorial-team" }],

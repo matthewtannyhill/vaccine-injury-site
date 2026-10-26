@@ -28,8 +28,13 @@ export type InjuryHub = {
   shortName: string;
   /** Name as used mid-sentence in headings ("What is {term}?"). */
   term: string;
-  /** <title> (the layout appends " | VaccineInjuries.org"). */
+  /** <title> (the layout appends " | VaccineInjuries.org"). Also used for social cards. */
   metaTitle: string;
+  /**
+   * Optional search-result title, rendered as-is without the site-name suffix. Keep under 60
+   * characters and lead with the words people actually search (see Search Console).
+   */
+  seoTitle?: string;
   description: string;
   /** One- or two-sentence summary for the hero and the index card. */
   summary: string;
@@ -105,10 +110,11 @@ export const injuryHubs: InjuryHub[] = [
     shortName: "SIRVA",
     term: "SIRVA",
     metaTitle: "SIRVA: Shoulder Injury After a Vaccine — Symptoms, Table Rules & Deadlines",
+    seoTitle: "SIRVA Symptoms: Shoulder Pain After a Vaccine & VICP Claims",
     description:
-      "What SIRVA is, how it differs from ordinary soreness, how the Vaccine Injury Table defines it (pain within 48 hours), filing deadlines, and which records matter.",
+      "What is SIRVA? Learn the symptoms of shoulder pain and stiffness after a shot, the Table's 48-hour rule, the 6-month severity rule, and deadlines.",
     summary:
-      "A shoulder injury — not a nerve injury — that can follow a shot given in the upper arm, with pain and reduced range of motion that don't fade like ordinary soreness.",
+      "A shoulder injury — not a nerve injury — that can follow a shot given in the upper arm. The main SIRVA symptoms are shoulder pain and reduced range of motion that don't fade like ordinary soreness.",
     onTable: true,
     tableLabel: "On the Table for most covered vaccines",
     uncommonNote:
@@ -186,10 +192,11 @@ Your doctor may record the injury using a more specific shoulder diagnosis. For 
     shortName: "Guillain-Barré syndrome",
     term: "Guillain-Barré syndrome",
     metaTitle: "Guillain-Barré Syndrome (GBS) After a Vaccine — Table Rules & Deadlines",
+    seoTitle: "Guillain-Barré After a Flu Shot: 3–42 Day Table Rule",
     description:
-      "A plain-language guide to Guillain-Barré syndrome after vaccination: symptoms, the Vaccine Injury Table rule for seasonal flu vaccines (3–42 days), deadlines, and records.",
+      "When does Guillain-Barré start after a vaccine? GBS 3 to 42 days after a seasonal flu shot is on the Vaccine Injury Table. Symptoms, deadlines, records.",
     summary:
-      "A rare disorder in which the immune system attacks the peripheral nerves, causing weakness that can come on quickly. It is on the Table for seasonal flu vaccines.",
+      "A rare disorder in which the immune system attacks the peripheral nerves, causing weakness that can come on quickly. It is on the Table for seasonal flu vaccines when it starts 3 to 42 days after the shot.",
     onTable: true,
     tableLabel: "On the Table for seasonal flu vaccines",
     uncommonNote:
@@ -581,8 +588,9 @@ Because most cases resolve fully with prompt treatment, the VICP's severity requ
     shortName: "ITP / thrombocytopenic purpura",
     term: "ITP",
     metaTitle: "ITP (Thrombocytopenic Purpura) After a Vaccine — Table Rules & Deadlines",
+    seoTitle: "ITP (Low Platelets) After a Vaccine: VICP Table Rules",
     description:
-      "What ITP is, its signs, the Vaccine Injury Table rule for measles-containing vaccines (7–30 days), severity rules, deadlines, and which records matter.",
+      "Bruising or tiny red dots after an MMR shot? Learn what ITP is, the 7–30 day Table rule for measles vaccines, the 6-month rule, and filing deadlines.",
     summary:
       "A low platelet count that can cause easy bruising and bleeding. Thrombocytopenic purpura is on the Table for measles-containing vaccines such as MMR.",
     onTable: true,
@@ -640,6 +648,7 @@ The Vaccine Injury Table uses the term **thrombocytopenic purpura** rather than 
       },
     ],
     relatedPosts: [
+      "itp-after-mmr-vaccine-vicp",
       "what-injuries-qualify-for-vaccine-compensation",
       "difference-between-table-injury-and-off-table-injury",
       "what-are-the-severity-requirements-for-a-vicp-claim",
@@ -658,8 +667,9 @@ The Vaccine Injury Table uses the term **thrombocytopenic purpura** rather than 
     shortName: "Fainting (syncope) injuries",
     term: "vasovagal syncope (fainting)",
     metaTitle: "Fainting (Vasovagal Syncope) After a Vaccine — Table Rules & Injuries",
+    seoTitle: "Fainting After Vaccination: VICP Table Rule (Within 1 Hour)",
     description:
-      "How fainting after a shot is treated under the Vaccine Injury Table (within 1 hour), why claims usually involve injuries from falls, deadlines, and records.",
+      "Fainted after a shot and hurt in the fall? See how the Vaccine Injury Table treats vasovagal syncope within 1 hour, which records matter, and deadlines.",
     summary:
       "Brief loss of consciousness after an injected vaccine. The faint itself usually passes quickly; claims typically involve injuries from a fall. It is on the Table for injected vaccines.",
     onTable: true,
@@ -715,6 +725,7 @@ The faint itself is usually harmless. The Vaccine Injury Table notes that vasova
       },
     ],
     relatedPosts: [
+      "fainting-after-vaccine-syncope-claims",
       "hpv-vaccine-vicp-coverage",
       "tdap-td-vaccine-vicp-coverage",
       "flu-shot-injury-vicp-compensation",

@@ -28,13 +28,14 @@ export function pageMetadata({
   path,
   ogTitle,
 }: {
-  title: string;
+  /** A plain string uses the layout's " | VaccineInjuries.org" template; `{ absolute }` skips it. */
+  title: string | { absolute: string };
   description: string;
   path: string;
   /** Title used for social cards (defaults to `title`). */
   ogTitle?: string;
 }): Metadata {
-  const socialTitle = ogTitle ?? title;
+  const socialTitle = ogTitle ?? (typeof title === "string" ? title : title.absolute);
   return {
     title,
     description,
