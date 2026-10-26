@@ -307,6 +307,26 @@ export const SOURCES = {
     title: "NHLBI (NIH) — Immune Thrombocytopenia (ITP)",
     url: "https://www.nhlbi.nih.gov/health/immune-thrombocytopenia",
   },
+  cdcRotavirusSafety: {
+    title: "CDC — Rotavirus Vaccine Safety",
+    url: "https://www.cdc.gov/vaccine-safety/vaccines/rotavirus.html",
+  },
+  cdcRotavirusVis: {
+    title: "CDC — Rotavirus Vaccine Information Statement (Oct. 15, 2021)",
+    url: "https://www.cdc.gov/vaccines/hcp/current-vis/rotavirus.html",
+  },
+  caseBarton2025: {
+    title: "Barton v. Sec'y of Health & Human Servs., No. 21-799V (Fed. Cl. Spec. Mstr. Aug. 22, 2025) — Ruling on Damages (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_21-vv-00799/pdf/USCOURTS-cofc-1_21-vv-00799-1.pdf",
+  },
+  caseWilliams2025: {
+    title: "Williams v. Sec'y of Health & Human Servs., No. 24-80V (Fed. Cl. Spec. Mstr. Mar. 25, 2025) — Findings of Fact and Conclusions of Law Dismissing Table Claim (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_24-vv-00080/pdf/USCOURTS-cofc-1_24-vv-00080-0.pdf",
+  },
+  caseRamos2024: {
+    title: "Ramos v. Sec'y of Health & Human Servs., No. 20-583V (Fed. Cl. Spec. Mstr. June 3, 2024) — Entitlement Decision (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_20-vv-00583/pdf/USCOURTS-cofc-1_20-vv-00583-0.pdf",
+  },
 } satisfies Record<string, Source>;
 
 /** Core official sources linked from /about, /faq, /disclaimer, and llms.txt. */

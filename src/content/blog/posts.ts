@@ -3524,5 +3524,142 @@ VaccineInjuries.org is not a law firm, does not give legal advice and does not e
 This article is for informational purposes only and is not legal advice. Court decisions are described in plain language for general education. Outcomes depend on the specific facts and records of each case, and a past decision does not predict the result of another claim. Reading this page does not create an attorney-client relationship. For advice about your situation, speak with a qualified attorney.
     `.trim(),
   },
+  {
+    slug: "intussusception-after-rotavirus-vaccine-vicp",
+    title: "Intussusception After the Rotavirus Vaccine: A Plain-English Guide to VICP Claims",
+    excerpt:
+      "Intussusception is the one injury the Vaccine Injury Table lists for rotavirus vaccines. Here is what the 1-to-21-day rule covers, why the surgery question often decides these claims, and three real court decisions.",
+    date: "October 2026",
+    datePublished: "2026-10-26",
+    lastReviewed: "2026-10-26",
+    category: "Qualifying Injuries",
+    sources: [
+      S.cdcRotavirusSafety,
+      S.cdcRotavirusVis,
+      S.injuryTable,
+      S.usc300aa11,
+      S.usc300aa15,
+      S.usc300aa16,
+      S.caseBarton2025,
+      S.caseWilliams2025,
+      S.caseRamos2024,
+    ],
+    content: `
+## The short answer
 
+If a baby develops intussusception, a type of bowel blockage, within 1 to 21 days after a rotavirus vaccine, the injury can fit the Vaccine Injury Table ([42 CFR § 100.3](https://www.ecfr.gov/current/title-42/chapter-I/subchapter-J/part-100/section-100.3)). When an injury fits the Table, the law presumes the vaccine caused it unless something else is shown to be the cause. Intussusception is the only injury the Table lists for rotavirus vaccines.
+
+Fitting the Table is not the whole story, though. Every VICP claim also has to meet a severity rule. For intussusception, that usually comes down to one question: did the baby need surgery while admitted to the hospital? The three court decisions below show how much that question matters.
+
+It also helps to keep perspective. The CDC says almost all babies who get rotavirus vaccine will be protected from severe rotavirus diarrhea, and most babies who get the vaccine do not have any problems with it. Studies show a small increase in the risk of intussusception after rotavirus vaccination, and the CDC calls this side effect "very rare" ([CDC — Rotavirus Vaccine Safety](https://www.cdc.gov/vaccine-safety/vaccines/rotavirus.html)).
+
+## What intussusception is, in plain English
+
+Intussusception happens when one segment of the intestine slides into the next one, the way a telescope folds into itself. The Table's definition says this causes a bowel obstruction and reduces blood flow to that part of the bowel, and that it is marked by "a sudden onset of abdominal pain that may be manifested by anguished crying, irritability, vomiting, abdominal swelling, and/or passing of stools mixed with blood and mucus" (42 CFR § 100.3(c)(4)(i)).
+
+The CDC's vaccine information statement for rotavirus explains that intussusception is treated in a hospital and could require surgery. It also says intussusception "happens naturally in some infants every year in the United States, and usually there is no known reason for it" ([CDC — Rotavirus Vaccine Information Statement](https://www.cdc.gov/vaccines/hcp/current-vis/rotavirus.html)).
+
+According to the CDC, the added risk from the vaccine usually shows up within a week after the first or second dose. The CDC estimates it at about 1 in 20,000 to 1 in 100,000 U.S. infants who get the vaccine, which means that between 40 and 120 U.S. infants a year might develop intussusception related to the vaccine.
+
+## Warning signs parents are told to watch for
+
+The CDC's information statement tells parents to look for stomach pain along with severe crying. Early on, these episodes can last just a few minutes and come and go several times in an hour. Babies might pull their legs up to their chest, vomit several times, have blood in the stool, or seem weak or very irritable.
+
+If you think your baby has intussusception, the CDC says to contact a health care provider right away, or go to a hospital if you can't reach one, and to tell them when your baby got the rotavirus vaccine. This is a medical emergency first. Any thought of a claim can wait until your child is safe.
+
+## What the Vaccine Injury Table says
+
+Rotavirus vaccines are item XI on the Table, and the only injury listed is intussusception, with onset "not less than 1 day and not more than 21 days" after the vaccine (42 CFR § 100.3(a)).
+
+The Table's rules also list situations that **do not** count as a Table intussusception (42 CFR § 100.3(c)(4)(ii)). In plain words, these are:
+
+- Onset with or after the **third dose** of a rotavirus vaccine
+- Onset within 14 days after an infection that is linked to intussusception, such as certain viral, bacterial or parasitic infections
+- A preexisting growth or structure in the bowel that is identified as the starting point (the "lead point") for the intussusception, such as a polyp or a Meckel's diverticulum
+- Abnormalities of the bowel, including ones present at birth or caused by earlier abdominal surgery
+- Underlying conditions linked to intussusception, such as cystic fibrosis, celiac disease or Kawasaki disease
+
+A claim that falls outside the Table is not automatically over, but it becomes an off-Table claim. That means the family has to prove, usually with expert medical opinion, that the vaccine actually caused the intussusception. Our guide to [Table vs. off-Table injuries](/blog/difference-between-table-injury-and-off-table-injury) explains the difference.
+
+## The severity rule, and why surgery matters so much
+
+The Vaccine Act requires that the injured person either had effects from the injury for **more than six months** after the vaccine, died, or had an injury that "resulted in inpatient hospitalization and surgical intervention" ([42 U.S.C. § 300aa-11(c)(1)(D)](https://www.law.cornell.edu/uscode/text/42/300aa-11)).
+
+As the *Williams* decision below explains, intussusception usually resolves well within six months, so the six-month path rarely works. That decision also explains that Congress added the hospitalization-and-surgery option in 2000 largely with rotavirus-related intussusception in mind. In practice, then, many of these claims turn on how the blockage was treated:
+
+- **An enema** (air or contrast liquid used to push the bowel back into place) can often fix intussusception without an operation. Program decisions have treated an enema as **not** being surgery.
+- **Surgery** while admitted to the hospital can meet the severity rule even if the baby recovers fully afterward.
+
+Our post on [severity requirements](/blog/what-are-the-severity-requirements-for-a-vicp-claim) covers this rule in more detail.
+
+## Three real VICP decisions involving intussusception
+
+These are real decisions from the U.S. Court of Federal Claims. We include them only to show how the rules have been applied. Each outcome depended on that case's own medical records and evidence. None of them predicts what will happen in another case, and none should be read as binding precedent.
+
+### Table injury with surgery, damages awarded: Barton v. Secretary of Health and Human Services
+
+- **Docket:** No. 21-799V
+- **Decided:** Ruling on damages filed August 22, 2025, and posted publicly March 12, 2026 (Special Master Thomas L. Gowen)
+- **Read it:** [Ruling on damages (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_21-vv-00799/pdf/USCOURTS-cofc-1_21-vv-00799-1.pdf)
+
+A.B. received the second dose of the oral rotavirus vaccine on March 14, 2018, when he was about four months old. Two days later he was fussy, not eating and had diarrhea, then woke from a nap screaming, vomited and had a diaper full of bright red blood. He was transferred by air to a children's hospital, where three attempts to fix the intussusception with an air contrast enema did not work. The next day he had abdominal surgery that took more than four hours, and he stayed in the hospital until March 22, 2018.
+
+The government's report agreed that the claim met the Table criteria, and the family was found entitled to compensation in February 2022. The parties could not agree on an amount. The family asked for $144,000 for past pain and suffering, and the government argued for $50,000. The special master noted that A.B. had years of follow-up visits for diarrhea and constipation and a permanent scar across his abdomen, and awarded $100,000 for past pain and suffering, $1,000 a year for the rest of A.B.'s life for future pain and suffering (paid through an annuity), and $1,170.32 for out-of-pocket expenses. The ruling directed the parties to file a proffer based on it, with a damages decision to follow.
+
+The Vaccine Act caps pain and suffering at $250,000 ([42 U.S.C. § 300aa-15(a)(4)](https://www.law.cornell.edu/uscode/text/42/300aa-15)). This award was for one child's specific injury and recovery and does not say what another family might receive.
+
+### Table timing met, but no surgery: Williams v. Secretary of Health and Human Services
+
+- **Docket:** No. 24-80V
+- **Decided:** Findings of fact and conclusions of law dismissing the Table claim, filed March 25, 2025 (Chief Special Master Brian H. Corcoran)
+- **Read it:** [Ruling dismissing the Table claim (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_24-vv-00080/pdf/USCOURTS-cofc-1_24-vv-00080-0.pdf)
+
+A.I.W. received her second dose of rotavirus vaccine on February 22, 2021, at four months old. Ten days later she began vomiting and was taken to the emergency department, where an ultrasound showed intussusception. An air enema fixed it that same night. She was discharged home after about ten hours in the emergency department and was never formally admitted. Four days later her pediatrician noted she was doing much better.
+
+The government acknowledged that the facts appeared to meet the Table definition of intussusception but argued the severity rule was not met. The Chief Special Master agreed. The ruling said that "prior Program cases have consistently determined that an enema is not a surgical intervention." It also found that a stay treated only in the emergency department did not appear to be an inpatient hospitalization. Because her intussusception also resolved well within six months, the Table claim was dismissed. The family was given a chance to show a different kind of claim, and the case was later dismissed on April 7, 2025, after a joint stipulation of dismissal ([order concluding proceedings](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_24-vv-00080/pdf/USCOURTS-cofc-1_24-vv-00080-1.pdf)).
+
+This case shows that a real and frightening injury that fits the Table's timing can still fall short of the Vaccine Act's severity rule.
+
+### Surgery, but timing outside the window: Ramos v. Secretary of Health and Human Services
+
+- **Docket:** No. 20-583V
+- **Decided:** Entitlement decision filed June 3, 2024 (Chief Special Master Brian H. Corcoran)
+- **Read it:** [Entitlement decision (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_20-vv-00583/pdf/USCOURTS-cofc-1_20-vv-00583-0.pdf)
+
+T.R. received his first rotavirus vaccine at his two-month checkup on October 19, 2017. On November 18, 2017, thirty days later, he was brought to the emergency room, and he later had surgery that reduced a small-bowel intussusception and removed 8 to 10 centimeters of small bowel and his appendix. So the surgery part of the severity rule was not the problem. Timing was.
+
+Because the emergency visit came after the Table's 21-day window, the family argued that T.R. had milder stomach symptoms starting in early November that were the true beginning of his intussusception. Family members described those symptoms in statements filed after the case began, but the medical records did not mention them. The Chief Special Master found that the records supported an onset within about two days of the hospital visit, and that the family had not shown that intussusception can build up over a couple of weeks of milder symptoms the way they described. Without a Table claim, the family had to prove the timing was medically reasonable, and the decision found they had not done so. Entitlement was denied.
+
+A later decision in the same case noted that the entitlement decision was not appealed, and still awarded the family's attorneys $107,663.77 in fees and costs because the claim had a reasonable basis ([fees decision](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_20-vv-00583/pdf/USCOURTS-cofc-1_20-vv-00583-1.pdf)). Our post on [how VICP attorneys get paid](/blog/how-do-vicp-attorneys-get-paid) explains how fees can be paid even when a claim loses.
+
+## Filing deadlines
+
+For most VICP injury claims, the petition must be filed within **36 months of the first symptom** ([42 U.S.C. § 300aa-16](https://www.law.cornell.edu/uscode/text/42/300aa-16)). The clock starts with the first symptom, not with the diagnosis or the day you learn about the program. Reporting a reaction to VAERS is not the same as filing a claim. Parents or legal guardians can file on behalf of a child. See [how long you have to file](/blog/how-long-do-i-have-to-file-a-vaccine-injury-claim) and [who can file](/blog/who-can-file-a-vaccine-injury-claim).
+
+## Records that often matter in intussusception claims
+
+In the decisions above, the exact date and dose of the vaccine, the date of the first symptoms, and how the blockage was treated all played a part. Records that often matter include:
+
+- The vaccination record, including which rotavirus dose it was (first, second or third)
+- A clear, dated timeline of the first symptoms, written down as close to the time as possible
+- Emergency department and pediatrician notes, especially any that describe when symptoms started
+- Ultrasound and X-ray reports
+- Records of how the intussusception was treated, such as an enema, surgery, or both
+- Admission and discharge records showing whether your child was admitted as an inpatient
+- Operative reports and any pathology reports
+- Follow-up records showing recovery or lasting problems
+
+Our post on [what medical records you need](/blog/what-medical-records-do-i-need-for-a-vaccine-injury-claim) can help you get organized, and [what to do in the first 30 days](/blog/first-30-days-suspected-vaccine-injury) covers early steps.
+
+## Get connected with an attorney
+
+If your child developed intussusception after a rotavirus vaccine, a lawyer who handles VICP cases can explain how the Table's timing rules, the dose exclusions and the severity rule may apply. VaccineInjuries.org is not a law firm and does not evaluate claims. We can connect you with an independent attorney who does.
+
+[Get Connected With an Attorney](/intake). It is free to submit your information, and there is no obligation.
+
+## Disclaimer
+
+This article is for informational purposes only and is not legal or medical advice. Court decisions are described in plain language for general education. Outcomes depend on the specific facts and records of each case, and a past decision does not predict the result of another claim. Reading this page does not create an attorney-client relationship. If you think your child has intussusception, contact a health care provider or go to a hospital right away; for advice about a claim, speak with a qualified attorney.
+    `.trim(),
+  },
 ];
