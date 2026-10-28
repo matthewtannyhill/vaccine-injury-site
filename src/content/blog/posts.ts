@@ -2,7 +2,14 @@ import { SOURCES as S, type Source } from "@/lib/sources";
 
 export type BlogPost = {
   slug: string;
+  /** H1, breadcrumb, and structured-data headline. */
   title: string;
+  /**
+   * Optional search-result <title>, rendered as-is without the site-name suffix. Keep under 60
+   * characters and lead with the words people actually search (see Search Console).
+   */
+  seoTitle?: string;
+  /** Meta description and post-card summary. Keep under 155 characters. */
   excerpt: string;
   /** Display date (month and year) shown in the post list. */
   date: string;
@@ -1702,8 +1709,9 @@ This article is for informational purposes only and is not legal or medical advi
   {
     slug: "anaphylaxis-after-vaccine-vicp",
     title: "Anaphylaxis After a Vaccine: What the VICP Table Says",
+    seoTitle: "Anaphylaxis After a Vaccine: The 4-Hour VICP Table Rule",
     excerpt:
-      "Anaphylaxis is listed on the federal Vaccine Injury Table for many covered vaccines, with a short onset window. Learn what that means for VICP claims, records to keep, and how COVID-19 claims differ.",
+      "Severe allergic reaction after a shot? Anaphylaxis within 4 hours is on the Vaccine Injury Table for many covered vaccines. See the rules and records.",
     date: "October 2026",
     datePublished: "2026-10-05",
     lastReviewed: "2026-10-06",
@@ -1724,7 +1732,7 @@ If you or someone with you may be having anaphylaxis, treat it as an emergency. 
 
 The [Vaccine Injury Table](https://www.ecfr.gov/current/title-42/chapter-I/subchapter-J/part-100/section-100.3) is a federal list of certain vaccines and associated injuries. When Table requirements are met — including the listed time window for first symptoms and the Table’s clinical definition — causation may be presumed unless another cause is proven.
 
-For many vaccines covered by the VICP, anaphylaxis is listed with a first-symptom onset of 4 hours or less after vaccination. The Health Resources and Services Administration (HRSA) uses a similar example in its program materials: a severe allergic reaction (anaphylaxis) within four hours after a tetanus vaccine, when the Table’s definition is met and no other cause is proven, may receive that presumption.
+For many vaccines covered by the VICP, anaphylaxis is listed with a first-symptom onset of 4 hours or less after vaccination. The Health Resources and Services Administration (HRSA) uses a similar example in its program materials: a severe allergic reaction (anaphylaxis) within four hours after a tetanus vaccine, when the Table’s definition is met and no other cause is proven, may receive that presumption. Our [anaphylaxis injury guide](/injuries/anaphylaxis) lists each vaccine category that carries this Table entry.
 
 The Table’s Qualification and Aids to Interpretation describe anaphylaxis as an acute, severe, and potentially lethal systemic reaction that occurs as a single discrete event with simultaneous involvement of two or more organ systems. Signs and symptoms begin minutes to a few hours after exposure. There are no specific pathological findings that alone confirm the diagnosis; the medical record and clinical picture drive the analysis.
 
@@ -2011,8 +2019,9 @@ VaccineInjuries.org is an educational resource for people trying to understand v
   {
     slug: "pneumococcal-vaccine-vicp-coverage",
     title: "Are Pneumococcal Vaccines Covered by the VICP?",
+    seoTitle: "Pneumonia Shot Injury: Is PCV or PPSV Covered by the VICP?",
     excerpt:
-      "HRSA covers pneumococcal conjugate (PCV) vaccines under the VICP, but not pneumococcal polysaccharide (PPSV/PPV) shots. Learn how to tell which you received and what to do next.",
+      "Hurt after a pneumonia shot? The VICP covers pneumococcal conjugate (PCV) vaccines but not polysaccharide (PPSV) shots. Here's how to tell which you got.",
     date: "October 2026",
     datePublished: "2026-10-05",
     lastReviewed: "2026-10-06",
@@ -2096,8 +2105,9 @@ VaccineInjuries.org is an educational resource for people trying to understand v
   {
     slug: "shingles-vaccine-vicp-coverage",
     title: "Is the Shingles Vaccine Covered by the VICP?",
+    seoTitle: "Shingles Vaccine Injury: Is Shingrix Covered by the VICP?",
     excerpt:
-      "HRSA states herpes zoster (shingles) vaccines are not covered by the VICP. Learn how that differs from chickenpox (varicella) vaccines, why coverage rules work that way, and what to do if you were seriously hurt after a shot.",
+      "HRSA says shingles (zoster) vaccines like Shingrix are not covered by the VICP, unlike chickenpox vaccines. What that means and what to look into next.",
     date: "October 2026",
     datePublished: "2026-10-05",
     lastReviewed: "2026-10-06",
@@ -2178,8 +2188,9 @@ VaccineInjuries.org is an educational resource for people trying to understand v
   {
     slug: "flu-shot-injury-vicp-compensation",
     title: "Can a Flu Shot Injury Qualify for VICP Compensation?",
+    seoTitle: "Flu Shot Injury? What the VICP Covers (SIRVA, GBS & More)",
     excerpt:
-      "Seasonal flu vaccines are covered by the VICP. Learn which Vaccine Injury Table conditions may apply, how seasonal and pandemic flu shots differ, and what to do if you were seriously hurt after a flu shot.",
+      "Seasonal flu shots are covered by the VICP. See which Table injuries apply, like SIRVA (48 hours) and GBS (3–42 days), plus deadlines and next steps.",
     date: "October 2026",
     datePublished: "2026-10-05",
     lastReviewed: "2026-10-06",
@@ -2227,11 +2238,11 @@ Mild soreness that resolves quickly is not what these programs are designed to a
 
 ## Common situations people ask about after a flu shot
 
-Shoulder pain that does not go away. SIRVA involves shoulder pain and limited range of motion after an intramuscular vaccine in the upper arm. It is treated as a musculoskeletal problem related to how the shot was administered into or around the shoulder structures, not as a neurological injury. Early medical notes that capture when pain started and how it limited movement matter a great deal.
+Shoulder pain that does not go away. SIRVA involves shoulder pain and limited range of motion after an intramuscular vaccine in the upper arm. It is treated as a musculoskeletal problem related to how the shot was administered into or around the shoulder structures, not as a neurological injury. Early medical notes that capture when pain started and how it limited movement matter a great deal. Our [SIRVA injury guide](/injuries/sirva) covers symptoms and the Table rule in more detail.
 
-Sudden progressive weakness weeks later. GBS is a rare neurological condition. It can follow infections and, in some contexts, appears in vaccine-injury discussions. For seasonal flu vaccines, the Table window for GBS is roughly 3 to 42 days after vaccination. Timing alone does not prove causation, and only a clinician can diagnose GBS. Progressive weakness needs prompt medical care. Our [Guillain-Barré syndrome guide](/blog/guillain-barre-vaccine-injury-claims) explains more.
+Sudden progressive weakness weeks later. GBS is a rare neurological condition. It can follow infections and, in some contexts, appears in vaccine-injury discussions. For seasonal flu vaccines, the Table window for GBS is roughly 3 to 42 days after vaccination. Timing alone does not prove causation, and only a clinician can diagnose GBS. Progressive weakness needs prompt medical care. Our [Guillain-Barré syndrome guide](/blog/guillain-barre-vaccine-injury-claims) explains more, and the [GBS injury guide](/injuries/guillain-barre-syndrome) walks through the Table definition.
 
-A severe allergic reaction right after the shot. Anaphylaxis is a medical emergency. The Table lists a short onset window (within 4 hours). Emergency records and the vaccination timeline are the core documents.
+A severe allergic reaction right after the shot. Anaphylaxis is a medical emergency. The Table lists a short onset window (within 4 hours). Emergency records and the vaccination timeline are the core documents. See our [anaphylaxis injury guide](/injuries/anaphylaxis) for more.
 
 None of these labels replace a doctor’s evaluation. The Table is a legal framework for certain petitions; it is not a self-diagnosis checklist.
 
@@ -2715,8 +2726,9 @@ This article is for informational purposes only and is not legal advice. Court d
   {
     slug: "fainting-after-vaccine-syncope-claims",
     title: "Fainting After a Vaccine: A Plain-English Guide to Vasovagal Syncope Claims",
+    seoTitle: "Injured in a Faint After a Shot? 3 Real VICP Syncope Cases",
     excerpt:
-      "Fainting after a shot is usually brief and harmless, but a fall can cause real injuries. Here is how the Vaccine Injury Table treats vasovagal syncope, why the 1-hour window and loss of consciousness matter, and three real court decisions that show how these claims have gone.",
+      "Fainting after a shot is usually harmless, but a fall can cause real injuries. Learn the 1-hour Table rule for vasovagal syncope and see 3 real decisions.",
     date: "October 2026",
     datePublished: "2026-10-12",
     lastReviewed: "2026-10-12",
@@ -2874,8 +2886,9 @@ This article is for informational purposes only and is not legal or medical advi
   {
     slug: "itp-after-mmr-vaccine-vicp",
     title: "Can ITP After the MMR Vaccine Qualify for VICP Compensation?",
+    seoTitle: "ITP After the MMR Vaccine: The 7–30 Day Rule & 3 Real Cases",
     excerpt:
-      "Thrombocytopenic purpura is on the Vaccine Injury Table for measles-containing vaccines like MMR when onset is 7 to 30 days later. Here is what the Table requires, why the six-month severity rule often decides these cases, and three real court decisions.",
+      "Low platelets 7 to 30 days after an MMR shot? ITP is on the Vaccine Injury Table, but the 6-month rule often decides these claims. See 3 real decisions.",
     date: "October 2026",
     datePublished: "2026-10-15",
     lastReviewed: "2026-10-15",

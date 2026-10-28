@@ -27,7 +27,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const hub = getInjuryHub(slug);
   if (!hub) return {};
   return pageMetadata({
-    title: hub.metaTitle,
+    // seoTitle is written to fit search results on its own, so it skips the " | VaccineInjuries.org" suffix.
+    title: hub.seoTitle ? { absolute: hub.seoTitle } : hub.metaTitle,
     ogTitle: `${hub.metaTitle} | ${SITE_NAME}`,
     description: hub.description,
     path: `/injuries/${hub.slug}`,
