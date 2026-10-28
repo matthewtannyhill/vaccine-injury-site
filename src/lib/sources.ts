@@ -110,6 +110,10 @@ export const SOURCES = {
     title: "42 U.S.C. § 300aa-21 — Election after judgment; continuing or withdrawing a petition (Cornell LII)",
     url: "https://www.law.cornell.edu/uscode/text/42/300aa-21",
   },
+  usc300aa22: {
+    title: "42 U.S.C. § 300aa-22 — Standards of responsibility (limits on civil actions against manufacturers) (Cornell LII)",
+    url: "https://www.law.cornell.edu/uscode/text/42/300aa-22",
+  },
   prepActCicp: {
     title: "42 U.S.C. § 247d-6e — PREP Act covered countermeasure process (Cornell LII)",
     url: "https://www.law.cornell.edu/uscode/text/42/247d-6e",
@@ -326,6 +330,18 @@ export const SOURCES = {
   caseRamos2024: {
     title: "Ramos v. Sec'y of Health & Human Servs., No. 20-583V (Fed. Cl. Spec. Mstr. June 3, 2024) — Entitlement Decision (GovInfo)",
     url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_20-vv-00583/pdf/USCOURTS-cofc-1_20-vv-00583-0.pdf",
+  },
+  caseCavanaugh2026: {
+    title: "Cavanaugh v. Sec'y of Health & Human Servs., No. 21-567V (Fed. Cl. Mar. 24, 2026) — Opinion and Order denying motion for review (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_21-vv-00567/pdf/USCOURTS-cofc-1_21-vv-00567-1.pdf",
+  },
+  caseRadke2026: {
+    title: "Radke v. Sec'y of Health & Human Servs., No. 22-1384V (Fed. Cl. Apr. 23, 2026) — Opinion and Order granting motion for review and remanding (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_22-vv-01384/pdf/USCOURTS-cofc-1_22-vv-01384-1.pdf",
+  },
+  caseExum2025: {
+    title: "Exum v. Sec'y of Health & Human Servs., No. 21-1513V (Fed. Cl. Sept. 30, 2025) — Memorandum and Order sustaining remand decision (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_21-vv-01513/pdf/USCOURTS-cofc-1_21-vv-01513-4.pdf",
   },
 } satisfies Record<string, Source>;
 
