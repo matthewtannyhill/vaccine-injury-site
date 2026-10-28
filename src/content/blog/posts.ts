@@ -3675,4 +3675,151 @@ If your child developed intussusception after a rotavirus vaccine, a lawyer who 
 This article is for informational purposes only and is not legal or medical advice. Court decisions are described in plain language for general education. Outcomes depend on the specific facts and records of each case, and a past decision does not predict the result of another claim. Reading this page does not create an attorney-client relationship. If you think your child has intussusception, contact a health care provider or go to a hospital right away; for advice about a claim, speak with a qualified attorney.
     `.trim(),
   },
+  {
+    slug: "what-happens-if-vicp-claim-is-denied",
+    title: "What Happens If My VICP Claim Is Denied?",
+    seoTitle: "VICP Claim Denied? Your Options and Deadlines",
+    excerpt:
+      "A VICP denial is not always the last word. Here are the review, appeal, and election deadlines in the Vaccine Act, plus three real court decisions.",
+    date: "October 2026",
+    datePublished: "2026-10-28",
+    lastReviewed: "2026-10-28",
+    category: "Claim Process",
+    sources: [
+      S.usc300aa12,
+      S.usc300aa21,
+      S.usc300aa22,
+      S.usc300aa15,
+      S.vaccineRules,
+      S.injuryTable,
+      S.hrsaVicpFaq,
+      S.cfcVaccineAttorneysList,
+      S.caseCavanaugh2026,
+      S.caseRadke2026,
+      S.caseExum2025,
+    ],
+    content: `
+## The short answer
+
+If a special master denies your claim in the National Vaccine Injury Compensation Program (VICP), that decision is not automatically the end. The Vaccine Act gives you **30 days** to ask a judge of the U.S. Court of Federal Claims to review it ([42 U.S.C. § 300aa-12(e)](https://www.law.cornell.edu/uscode/text/42/300aa-12)). After the court enters judgment, there is a further appeal to the U.S. Court of Appeals for the Federal Circuit, and a separate **90-day** choice about whether to accept the judgment or file a civil lawsuit instead ([42 U.S.C. § 300aa-21](https://www.law.cornell.edu/uscode/text/42/300aa-21)).
+
+The deadlines are short, and a review is not a do-over. The judge does not simply rehear the case. Below is how each step works, what the deadlines are, and three real decisions that show how reviews have actually gone.
+
+A word of perspective first. Vaccines are generally safe, and serious vaccine injuries are rare. HRSA's [VICP FAQ](https://www.hrsa.gov/vaccine-compensation/faq) describes the program as "a no-fault compensation program" for the uncommon cases where someone may have been seriously hurt.
+
+## What a "denial" actually is
+
+In the VICP, a claim is first decided by a **special master**, a judicial officer of the Court of Federal Claims. By law, the special master's decision must "include findings of fact and conclusions of law" ([42 U.S.C. § 300aa-12(d)](https://www.law.cornell.edu/uscode/text/42/300aa-12)). When people say a claim was "denied," they usually mean the special master decided the person who filed (the petitioner) did not prove what the law requires. Common reasons include:
+
+- **Timing or symptoms did not match the Vaccine Injury Table.** For example, the Table says shoulder pain from a shoulder injury related to vaccine administration (SIRVA) must begin within 48 hours of the shot ([42 C.F.R. § 100.3](https://www.ecfr.gov/current/title-42/chapter-I/subchapter-J/part-100/section-100.3)).
+- **Causation was not proven** in an off-Table claim, meaning the medical theory, the chain of cause and effect, or the timing was not shown by a preponderance of the evidence.
+- **A legal requirement was not met**, such as the filing deadline or the requirement that the injury's effects last more than six months (with some exceptions).
+
+## Your options after a denial, step by step
+
+### 1. Ask the special master to reconsider (21 days)
+
+Under the court's [Vaccine Rules](https://www.uscfc.uscourts.gov/sites/cfc/files/Vaccine%20Rules%207.27.26.pdf), either side may ask the special master to reconsider a decision within 21 days, as long as judgment has not been entered and no motion for review has been filed (Vaccine Rule 10(e)). The special master has discretion to grant or deny it. The rules also say that filing this motion does **not** pause the 30-day clock for asking a judge to review the decision.
+
+### 2. Ask a judge to review the decision (30 days)
+
+The main way to challenge a denial is a **motion for review**. The Vaccine Act says the parties "shall have 30 days" after the special master's decision to file it ([42 U.S.C. § 300aa-12(e)(1)](https://www.law.cornell.edu/uscode/text/42/300aa-12)). The other side then has 30 days to respond.
+
+A judge of the Court of Federal Claims then may do one of three things:
+
+- **Sustain** the special master's decision (leave it in place).
+- **Set aside** findings or conclusions that are "arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law" and issue the court's own findings.
+- **Remand** the case, which means sending it back to the special master to do more work under the court's direction. The law allows no more than 90 days for a remand.
+
+The statute says the court "shall complete its action" within 120 days of the response, not counting time the case spends back with the special master on remand.
+
+Two things make a review hard to win:
+
+- **The judge does not reweigh the evidence.** In the *Cavanaugh* decision below, the court quoted the Federal Circuit: the reviewing court does "not reweigh the factual evidence, assess whether the special master correctly evaluated the evidence, or examine the probative value of the evidence or the credibility of the witnesses." Legal questions get a fresh look; fact-finding gets a lot of deference.
+- **New arguments generally come too late.** Vaccine Rule 8(f)(1) says: "Any fact or argument not raised specifically in the record before the special master will be considered waived and cannot be raised by either party in proceedings on review of a special master's decision."
+
+If nobody files a motion for review within 30 days, the clerk enters judgment "immediately" (Vaccine Rule 11(a)).
+
+### 3. Appeal to the Federal Circuit (60 days)
+
+After the Court of Federal Claims enters judgment, either side may ask the U.S. Court of Appeals for the Federal Circuit to review it. The petition for review must be filed within **60 days** of the date the judgment is entered ([42 U.S.C. § 300aa-12(f)](https://www.law.cornell.edu/uscode/text/42/300aa-12)).
+
+### 4. Decide whether to accept the judgment or sue (90 days)
+
+This is the step people most often don't know about. When the judgment did not award compensation, the Vaccine Act requires the petitioner to file a written election "to accept the judgment or to file a civil action for damages for such injury or death" ([42 U.S.C. § 300aa-21(a)](https://www.law.cornell.edu/uscode/text/42/300aa-21)). The election is due **no later than 90 days** after the court's final judgment. If you file nothing, the law treats you as having accepted the judgment.
+
+Rejecting the judgment opens the door to a regular lawsuit, but the Vaccine Act still limits those suits. For example, it says no vaccine manufacturer "shall be liable in a civil action" for an injury that "resulted from side effects that were unavoidable even though the vaccine was properly prepared and was accompanied by proper directions and warnings" ([42 U.S.C. § 300aa-22(b)(1)](https://www.law.cornell.edu/uscode/text/42/300aa-22)). Whether a civil suit makes sense is a question for a lawyer who knows your facts.
+
+## The deadlines at a glance
+
+| Step | Deadline | Where it comes from |
+| --- | --- | --- |
+| Ask the special master to reconsider | 21 days after the decision | Vaccine Rule 10(e) |
+| File a motion for review with a judge | 30 days after the decision | 42 U.S.C. § 300aa-12(e)(1) |
+| Appeal to the Federal Circuit | 60 days after judgment is entered | 42 U.S.C. § 300aa-12(f) |
+| Accept the judgment or elect a civil action | 90 days after the court's final judgment | 42 U.S.C. § 300aa-21(a) |
+
+Rules and deadlines can change, and how they apply depends on the details of each case. Treat this table as a starting point for a conversation with a lawyer, not a calendar to rely on by itself.
+
+## Can attorneys' fees still be paid after a denial?
+
+Sometimes. The Vaccine Act says that when a petition does not result in compensation, the special master or court may still award reasonable attorneys' fees and costs "if the special master or court determines that the petition was brought in good faith and there was a reasonable basis for the claim" ([42 U.S.C. § 300aa-15(e)(1)](https://www.law.cornell.edu/uscode/text/42/300aa-15)). That is not automatic. Our post on [how VICP attorneys get paid](/blog/how-do-vicp-attorneys-get-paid) explains the fee rules.
+
+## Three real decisions on review
+
+These are real opinions from judges of the U.S. Court of Federal Claims reviewing special masters' decisions to deny compensation. We include them only to show how the review step has worked in practice. Each outcome depended on that case's specific facts and records. None of them predicts what will happen in another case, and none should be read as binding precedent.
+
+### Denial upheld: Cavanaugh v. Secretary of Health and Human Services
+
+- **Docket:** No. 21-567V
+- **Decided:** Filed under seal March 9, 2026, and publicly filed March 24, 2026 (Judge Armando O. Bonilla)
+- **Read it:** [Opinion and order (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_21-vv-00567/pdf/USCOURTS-cofc-1_21-vv-00567-1.pdf)
+
+The petitioner received a flu shot on January 14, 2020, and filed a Table claim for SIRVA. Her first message to her doctor, two days after the shot, described a strong reaction in detail but did not mention shoulder pain, and neither did the record of a visit about two weeks later. The first mention of shoulder pain in her medical records came in May 2020. On November 20, 2025, the special master denied compensation, finding she had not proved that her shoulder pain began within the Table's 48-hour window, along with two other SIRVA requirements.
+
+She filed a motion for review on December 19, 2025, arguing that the special master had created a "bright-line rule" against claims whose early records don't mention the shoulder. The judge disagreed. The opinion says the special master "did not foreclose that possibility for Ms. Cavanaugh as a matter of law; it merely concluded that she did not carry her burden as a matter of fact." The motion was denied, the decision was upheld, and the petition was dismissed. The opinion also notes that she did not challenge the other two findings against her.
+
+### Denial sent back for a better explanation: Radke v. Secretary of Health and Human Services
+
+- **Docket:** No. 22-1384V
+- **Decided:** Filed under seal April 2, 2026, and reissued April 23, 2026 (Judge Zachary N. Somers)
+- **Read it:** [Opinion and order (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_22-vv-01384/pdf/USCOURTS-cofc-1_22-vv-01384-1.pdf)
+
+The petitioner alleged that a pneumococcal vaccine he received on September 30, 2019, caused polymyalgia rheumatica (PMR). On October 6, 2025, the Chief Special Master denied entitlement, finding that the petitioner had not shown the vaccine could cause PMR. The petitioner filed a motion for review on November 5, 2025.
+
+The judge found that the Chief Special Master's decision "did not adequately explain his reasoning for denying Petitioner's claim." The court granted the motion, vacated the decision, and sent the case back for a new decision within 90 days. The opinion was careful to add: "Although the result the chief special master reached in this case may ultimately be correct, the Court simply cannot sustain that result based on the lack of explanation given." In other words, winning a review here did not mean winning compensation. As of October 28, 2026, GovInfo listed no later decision in this case, and we do not know how it ended.
+
+### Sent back once, then denied again: Exum v. Secretary of Health and Human Services
+
+- **Docket:** No. 21-1513V
+- **Decided:** Filed under seal September 18, 2025, and published September 30, 2025 (Judge Eleni M. Roumel)
+- **Read it:** [Memorandum and order (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_21-vv-01513/pdf/USCOURTS-cofc-1_21-vv-01513-4.pdf)
+
+The petitioner filed on June 25, 2021, alleging that MMR and Tdap vaccines she received on August 20, 2018, caused autoimmune hepatitis. This was an off-Table claim. The Chief Special Master denied it on August 29, 2024. On her first motion for review, the court granted it in part and remanded, "instructing the Chief Special Master to provide a more fulsome explanation of his weighing of the record evidence" (that first opinion was published March 20, 2025). On May 27, 2025, the Chief Special Master issued a second decision and again denied the claim.
+
+The petitioner sought review a second time. This time the court sustained the denial and denied the motion. The opinion said, "The difficulties associated with Petitioner's circumstances are not lost on this Court," but the court found no basis to set the decision aside. The case shows that a remand can lead to a fuller decision that reaches the same result, and that each round adds months.
+
+## What these cases have in common
+
+- **The record before the special master matters most.** Reviews focus on whether the special master's reasoning holds up, not on new evidence.
+- **Winning a review can mean a remand, not a payment.** In *Radke* and the first round of *Exum*, the court sent the case back for a better explanation.
+- **Time adds up.** *Exum* was filed in 2021 and was still being reviewed in September 2025.
+
+## If your claim was just denied
+
+- **Note the date of the decision.** The 30-day review clock starts when the special master's decision is issued.
+- **Talk with a VICP lawyer quickly.** If you already have one, ask them right away what they recommend and why. If you filed on your own, the court's [Vaccine Attorneys List](https://www.uscfc.uscourts.gov/vaccine-attorneys-list) is one public starting point; the Office of Special Masters says it does not endorse representation by attorneys on the list.
+- **Ask about the election deadline too.** Even if you don't seek review, the 90-day election after judgment still matters.
+
+## Get connected with an attorney
+
+VaccineInjuries.org is not a law firm, does not give legal advice and does not evaluate claims. If your VICP claim was denied, or you are worried it might be, we can connect you with an independent attorney who handles VICP cases and can explain your options.
+
+[Get Connected With an Attorney](/intake). It is free to submit your information, and there is no obligation.
+
+## Disclaimer
+
+This article is for informational purposes only and is not legal advice. Court decisions are described in plain language for general education. Outcomes depend on the specific facts and records of each case, and a past decision does not predict the result of another claim. Deadlines described here come from the Vaccine Act and the court's Vaccine Rules as of the date of this article. Reading this page does not create an attorney-client relationship. For advice about your situation, speak with a qualified attorney.
+    `.trim(),
+  },
 ];
