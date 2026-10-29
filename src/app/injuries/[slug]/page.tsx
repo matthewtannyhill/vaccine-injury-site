@@ -199,6 +199,12 @@ export default async function InjuryHubPage({ params }: Props) {
             </p>
           </section>
 
+          {hub.details && (
+            <section aria-label={`More about ${hub.term}`}>
+              <PostContent content={hub.details} />
+            </section>
+          )}
+
           <FilingDeadlines />
 
           <section aria-labelledby="records-heading">

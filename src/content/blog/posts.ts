@@ -1808,6 +1808,8 @@ Shoulder and arm pain after a shot are common. Most of the time that discomfort 
 
 This guide explains, in plain English, what brachial neuritis means under the federal Vaccine Injury Table, which vaccines list it as a Table condition, how it differs from shoulder injury related to vaccine administration (SIRVA), and what practical steps often help if you are dealing with serious arm or shoulder symptoms after vaccination. It is educational information, not medical or legal advice.
 
+For a reference page with the exact Table wording, a side-by-side comparison with SIRVA, and summaries of real Court of Federal Claims decisions, see our [brachial neuritis injury guide](/injuries/brachial-neuritis).
+
 ## What brachial neuritis means
 
 Brachial neuritis (sometimes discussed with terms such as brachial plexopathy) involves dysfunction of the upper-extremity nerve plexus — the trunks, divisions, or cords that carry signals to the shoulder and arm.

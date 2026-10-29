@@ -52,6 +52,11 @@ export type InjuryHub = {
   /** Verbatim quote from the 42 CFR 100.3 definition (qualifications and aids to interpretation). */
   tableQuote?: string;
   tableNotes: string[];
+  /**
+   * Optional extra sections rendered after the Table section (lightweight markdown with
+   * "## " headings, lists, and pipe tables). Use for comparisons and court-decision summaries.
+   */
+  details?: string;
   records: string[];
   faqs: FaqItem[];
   /** Blog post slugs (must exist in src/content/blog/posts.ts). */
@@ -139,7 +144,7 @@ Your doctor may record the injury using a more specific shoulder diagnosis. For 
       "SIRVA manifests as shoulder pain and limited range of motion occurring after the administration of a vaccine intended for intramuscular administration in the upper arm.",
     tableNotes: [
       "The Table definition requires all four of these: no history of pain, inflammation, or dysfunction of that shoulder before the vaccine that would explain the symptoms; pain within the time period; pain and reduced range of motion limited to the shoulder where the shot was given; and no other condition that would explain the symptoms.",
-      "The regulation states that SIRVA \"is not a neurological injury.\" Abnormal nerve testing points away from Table SIRVA, though it may support a different claim.",
+      "The regulation states that SIRVA \"is not a neurological injury.\" Abnormal nerve testing points away from Table SIRVA, though it may support a different claim, such as [brachial neuritis](/injuries/brachial-neuritis).",
       "SIRVA is not listed for rotavirus or oral polio vaccines, which are not given as shots in the arm. COVID-19 vaccines are not covered by the VICP; those claims go to the [CICP](/blog/can-i-sue-for-covid-vaccine-side-effects).",
       "If the facts don't fit the Table definition, an off-Table claim may still be possible, but it requires proof that the vaccine caused the injury.",
     ],
@@ -222,6 +227,7 @@ People with GBS are usually treated in the hospital. NINDS notes that most peopl
       "The Table describes GBS as \"an acute monophasic peripheral neuropathy\" in which the time from first symptoms to the worst point of weakness \"is between 12 hours and 28 days,\" followed by a plateau or improvement.",
       "The Table excludes cases where another diagnosis is more likely, and it lists conditions that rule out Table GBS, including chronic immune demyelinating polyradiculopathy ([CIDP](/injuries/cidp)) and myelitis.",
       "After other VICP-covered vaccines, GBS is not on the Table. A claim would be off-Table and would need proof that the vaccine caused it.",
+      "Other nerve conditions follow different Table rules. [Brachial neuritis](/injuries/brachial-neuritis), which is limited to the nerves of the shoulder and arm, is listed for tetanus-containing vaccines (2 to 28 days), not flu vaccines.",
       "COVID-19 vaccines are covered by the CICP rather than the VICP, and there is currently no COVID-19 injury table.",
     ],
     records: [
@@ -425,8 +431,9 @@ Some people are first diagnosed with GBS and later re-diagnosed with CIDP when s
     shortName: "Brachial neuritis",
     term: "brachial neuritis",
     metaTitle: "Brachial Neuritis After a Vaccine — Table Rules (2–28 Days) & Deadlines",
+    seoTitle: "Brachial Neuritis After a Tdap or Tetanus Shot: VICP Guide",
     description:
-      "What brachial neuritis is, how it differs from SIRVA, the Vaccine Injury Table rule for tetanus-containing vaccines (2–28 days), deadlines, and records.",
+      "Brachial neuritis (Parsonage-Turner) after a Tdap or tetanus shot: symptoms, the 2–28 day Table rule, how it differs from SIRVA, deadlines, and court cases.",
     summary:
       "A nerve injury involving the brachial plexus, usually starting with deep shoulder and arm pain followed by weakness. It is on the Table for tetanus-containing vaccines.",
     onTable: true,
@@ -435,7 +442,9 @@ Some people are first diagnosed with GBS and later re-diagnosed with CIDP when s
       "Brachial neuritis is uncommon, and it can also occur after infections, surgery, or with no known trigger. Most people vaccinated with Tdap or Td never experience it.",
     overview: `Brachial neuritis is a disorder of the brachial plexus, the network of nerves that runs from the neck through the shoulder and into the arm. Doctors may also call it brachial plexopathy or Parsonage-Turner syndrome, which [MedlinePlus](https://medlineplus.gov/ency/article/001418.htm) describes as a rare inflammatory or post-viral brachial plexus disease.
 
-The Vaccine Injury Table describes it this way: a deep, steady, often severe aching pain in the shoulder and upper arm usually comes first, and it is typically followed in days or weeks by weakness in the affected arm muscles. Unlike [SIRVA](/injuries/sirva), brachial neuritis is a **nerve** injury. The Table notes it can appear on the same side as the injection, the opposite side, or both arms.`,
+The Vaccine Injury Table describes it this way: a deep, steady, often severe aching pain in the shoulder and upper arm usually comes first, and it is typically followed in days or weeks by weakness in the affected arm muscles. Sensory loss may come with the weakness but is generally less noticeable, and the affected muscles may shrink (atrophy). Unlike [SIRVA](/injuries/sirva), brachial neuritis is a **nerve** injury. The Table notes it can appear on the same side as the injection, the opposite side, or both arms.
+
+On the federal Vaccine Injury Table, brachial neuritis is listed for vaccines that contain tetanus toxoid, such as Tdap and Td, when the first symptom starts 2 to 28 days after the shot. It can also be claimed after other covered vaccines, such as a flu shot, but those claims are off-Table and need proof that the vaccine caused it. Below, we compare it with SIRVA and [Guillain-Barré syndrome](/injuries/guillain-barre-syndrome), explain the filing deadline, and summarize three real Court of Federal Claims decisions.`,
     symptoms: [
       "Deep, steady, often severe aching pain in the shoulder and upper arm",
       "Weakness in arm or shoulder muscles that follows the pain, often days or weeks later",
@@ -454,6 +463,48 @@ The Vaccine Injury Table describes it this way: a deep, steady, often severe ach
       "If weakness is limited to muscles supplied by a single nerve, nerve conduction studies and EMG localizing the injury to the brachial plexus are required for the diagnosis.",
       "After vaccines that don't contain tetanus toxoid, brachial neuritis is not on the Table. A claim would be off-Table and would need proof of causation.",
     ],
+    details: `## Brachial neuritis vs. SIRVA
+
+Both can start with shoulder pain after a shot in the arm, which is why they are often confused. The Vaccine Injury Table treats them as different injuries with different rules:
+
+| | Brachial neuritis | SIRVA |
+| --- | --- | --- |
+| What is injured | Nerves: "dysfunction limited to the upper extremity nerve plexus" | The shoulder's musculoskeletal structures, such as tendons, ligaments, and bursae |
+| Vaccines on the Table | Vaccines containing tetanus toxoid (Tdap, Td, DTaP, DT, TT) | Most covered vaccines given as a shot, including flu and tetanus-containing vaccines (not rotavirus or oral polio) |
+| Table time period for the first symptom | 2 to 28 days after vaccination | Within 48 hours |
+| Which arm | The injected side, the opposite side, or both arms | Only the shoulder where the shot was given |
+| Main symptoms | Deep aching pain, then weakness days or weeks later | Shoulder pain and reduced range of motion |
+| Nerve tests (NCS/EMG) | Findings, if done, must point to the brachial plexus | The Table says abnormal results "would not support SIRVA" |
+
+The SIRVA definition in 42 CFR 100.3 lists brachial neuritis among the conditions that rule out a Table SIRVA claim. In practice, that means the same shoulder symptoms are not treated as both injuries at once. In one 2026 case summarized below, the government agreed the petitioner had Table brachial neuritis but said she "cannot establish a Table SIRVA claim due to her brachial neuritis," and she amended her petition to claim brachial neuritis only. For the shoulder-joint injury, see our [SIRVA guide](/injuries/sirva).
+
+## Brachial neuritis vs. Guillain-Barré syndrome
+
+Both are nerve conditions, but they are very different on the Table. Brachial neuritis is defined as limited to the brachial plexus, the nerves of the shoulder and arm, and is listed for tetanus-containing vaccines (2 to 28 days). [Guillain-Barré syndrome](/injuries/guillain-barre-syndrome) is an immune attack on the peripheral nervous system, with weakness that often starts in the feet and legs, and it is listed only for seasonal flu vaccines (3 to 42 days).
+
+## The filing deadline for brachial neuritis
+
+For a VICP injury claim, the Vaccine Act says no petition may be filed "after the expiration of 36 months after the date of the occurrence of the first symptom or manifestation of onset" of the injury ([42 U.S.C. § 300aa-16](https://www.law.cornell.edu/uscode/text/42/300aa-16)). The clock starts with the first symptom, not the date of diagnosis. With brachial neuritis, the Table notes that shoulder and upper arm pain usually comes first, and a diagnosis can come weeks or months later, so it helps to write down when the pain began. Death claims have different deadlines, listed in the section below.
+
+The VICP also has a severity requirement: the effects of the injury generally must last more than 6 months after vaccination, unless the injury led to inpatient hospitalization and surgery, or to death ([42 U.S.C. § 300aa-11](https://www.law.cornell.edu/uscode/text/42/300aa-11)).
+
+## What recent court decisions show
+
+These are real decisions from the U.S. Court of Federal Claims, each opened and read in full. Every case turns on its own medical records, so the result in one case doesn't predict another.
+
+### Wilson-Russell (No. 25-983V): Table claim after a Tdap shot, conceded
+
+The petitioner received a Tdap vaccine on January 26, 2023, and originally claimed both SIRVA and brachial neuritis. The government conceded a Table brachial neuritis injury, agreeing that her symptoms "first manifested between two and twenty-eight days" after the Tdap vaccine, that she had a clinical diagnosis of brachial plexopathy, that her EMG/NCV findings were consistent with brachial neuritis, and that no other condition explained her symptoms. The Chief Special Master found her entitled to compensation on January 21, 2026 ([ruling](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_25-vv-00983/pdf/USCOURTS-cofc-1_25-vv-00983-0.pdf)). On March 26, 2026, he awarded $81,489.89 based on the government's proffer: $80,000.00 for pain and suffering and $1,489.89 for past unreimbursable expenses ([decision](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_25-vv-00983/pdf/USCOURTS-cofc-1_25-vv-00983-1.pdf)).
+
+### Moyler (No. 21-1720V): Tdap claim dismissed over a gap in care, later settled
+
+The petitioner received a Tdap vaccine on September 9, 2019, and sought care for arm pain within weeks. After that, her records showed no visits for the arm for about nine months, although she had four visits with her primary care doctor for other conditions. During that gap she started a job that involved heavy lifting, and the special master found that her symptoms when she returned to care were different from her earlier ones. On March 12, 2025, the Chief Special Master dismissed the claim because the record did not show that her vaccine-related symptoms lasted more than 6 months. He did not decide whether she had brachial neuritis ([decision](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_21-vv-01720/pdf/USCOURTS-cofc-1_21-vv-01720-0.pdf)). A Court of Federal Claims judge upheld the dismissal in September 2025, noting that "the court cannot second guess the special master's weighing of the evidence" ([opinion](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_21-vv-01720/pdf/USCOURTS-cofc-1_21-vv-01720-1.pdf)). While her appeal to the Federal Circuit was pending, the parties settled. The government kept denying that the vaccine caused her injury, and on May 4, 2026, the Chief Special Master adopted a stipulation awarding a $90,000.00 lump sum ([decision](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_21-vv-01720/pdf/USCOURTS-cofc-1_21-vv-01720-3.pdf)).
+
+### LaBine (No. 17-1443V): brachial neuritis after a flu shot, proved off-Table
+
+A 19-year-old college golfer received a flu vaccine on October 9, 2014. His petition originally described a shoulder injury (SIRVA) including brachial neuritis. Because brachial neuritis is on the Table only for tetanus-containing vaccines, he had to prove the flu vaccine caused it. After a hearing, the special master found that he did, noting that "special masters have, on many occasions, found preponderant evidence was presented that other vaccines—including the flu vaccine—might also be causal of the condition." His symptoms began about six days after the shot. The government's expert pointed to his normal EMG and MRI, but the special master noted that brachial neuritis "has been described as a clinical diagnosis that does not require objective findings on EMG." He was found entitled to compensation on October 27, 2025, with damages to be decided separately ([ruling](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_17-vv-01443/pdf/USCOURTS-cofc-1_17-vv-01443-1.pdf)).
+
+For more on how awards are reached, see [settlement, proffer, or court decision](/blog/how-vicp-compensation-is-decided).`,
     records: [
       "Vaccination record showing the vaccine (for example, Tdap or Td), date, and arm",
       "The first notes documenting shoulder and arm pain and when it began",
@@ -462,6 +513,7 @@ The Vaccine Injury Table describes it this way: a deep, steady, often severe ach
       "MRI or other imaging used to rule out neck or shoulder causes",
       "Physical or occupational therapy records",
       "Follow-up records showing recovery or lasting weakness",
+      "Notes from every visit where the arm or shoulder came up, including routine visits for other conditions, since long gaps in care can make it harder to show symptoms lasted more than 6 months",
     ],
     faqs: [
       {
@@ -480,17 +532,58 @@ The Vaccine Injury Table describes it this way: a deep, steady, often severe ach
         q: "What if I had a flu shot, not a tetanus shot?",
         a: "Brachial neuritis is listed on the Table only for vaccines containing tetanus toxoid. After other covered vaccines, a claim would generally be off-Table and would need proof that the vaccine caused the injury.",
       },
+      {
+        q: "Can you get compensation for brachial neuritis after a flu shot?",
+        a: "It is possible, but the claim is off-Table, so the petitioner has to prove the flu vaccine caused it. In LaBine v. Secretary of HHS (No. 17-1443V), a special master found in October 2025 that a flu vaccine caused a college student's brachial neuritis and ruled he was entitled to compensation. Each case depends on its own medical evidence.",
+      },
+      {
+        q: "Can brachial neuritis affect the arm that didn't get the shot?",
+        a: "Yes. The Vaccine Injury Table says the neuritis may be on the same side as the injection or the opposite side, and it is sometimes bilateral, affecting both arms. That is one way it differs from SIRVA, which is limited to the shoulder where the shot was given.",
+      },
+      {
+        q: "Is brachial neuritis the same as Guillain-Barré syndrome?",
+        a: "No. Both involve nerves, but the Table defines brachial neuritis as limited to the brachial plexus, the nerves of the shoulder and arm, and lists it for tetanus-containing vaccines with onset 2 to 28 days after vaccination. Guillain-Barré syndrome is listed only for seasonal flu vaccines, with onset 3 to 42 days after vaccination.",
+      },
+      {
+        q: "Is brachial neuritis permanent?",
+        a: "Not always. MedlinePlus says a good recovery is possible if the cause is found and properly treated, but in some cases there is partial or complete loss of movement or sensation, and nerve pain may be severe and last a long time. For a VICP claim, the effects generally must last more than 6 months unless the injury led to inpatient hospitalization and surgery, or to death.",
+      },
+      {
+        q: "How long do I have to file a brachial neuritis claim?",
+        a: "For the VICP, a petition generally must be filed within 36 months (3 years) after the first symptom or manifestation of onset, under 42 U.S.C. § 300aa-16. The clock starts with the first symptom, which is usually shoulder and arm pain, not the date of diagnosis.",
+      },
+      {
+        q: "Does a gap in treatment matter for a brachial neuritis claim?",
+        a: "It can. In Moyler v. Secretary of HHS (No. 21-1720V), a Tdap brachial neuritis claim was dismissed in 2025 because the records showed about nine months without care for the arm, so the special master found the 6-month severity requirement wasn't shown. The case later settled while on appeal, with the government still denying that the vaccine caused the injury.",
+      },
     ],
     relatedPosts: [
       "brachial-neuritis-vaccine-injury",
       "tdap-td-vaccine-vicp-coverage",
+      "flu-shot-injury-vicp-compensation",
+      "what-are-the-severity-requirements-for-a-vicp-claim",
+      "how-long-do-i-have-to-file-a-vaccine-injury-claim",
       "what-is-sirva-and-can-it-qualify-for-compensation",
       "difference-between-table-injury-and-off-table-injury",
       "understanding-vaccine-injury-claims-legal-rights-and-options",
     ],
-    sources: [S.injuryTable, S.medlineBrachial, S.hrsaCoveredVaccines, S.hrsaWhoCanFile],
+    sources: [
+      S.injuryTable,
+      S.medlineBrachial,
+      S.usc300aa16,
+      S.usc300aa11,
+      S.nindsGbs,
+      S.hrsaCoveredVaccines,
+      S.hrsaWhoCanFile,
+      S.caseWilsonRussellEntitlement2026,
+      S.caseWilsonRussellDamages2026,
+      S.caseMoylerDismissal2025,
+      S.caseMoylerReview2025,
+      S.caseMoylerStipulation2026,
+      S.caseLaBineEntitlement2025,
+    ],
     datePublished: PUBLISHED,
-    lastReviewed: REVIEWED,
+    lastReviewed: "2026-10-28",
   },
 
   // ─── ANAPHYLAXIS ─────────────────────────────────────────────────────────────
