@@ -219,6 +219,30 @@ export const SOURCES = {
     title: "Greeley v. Sec'y of Health & Human Servs., No. 24-319V (Fed. Cl. Spec. Mstr. Jan. 22, 2026) — Decision on Joint Stipulation (GovInfo)",
     url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_24-vv-00319/pdf/USCOURTS-cofc-1_24-vv-00319-0.pdf",
   },
+  caseWilsonRussellEntitlement2026: {
+    title: "Wilson-Russell v. Sec'y of Health & Human Servs., No. 25-983V (Fed. Cl. Spec. Mstr. Jan. 21, 2026) — Ruling on Entitlement (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_25-vv-00983/pdf/USCOURTS-cofc-1_25-vv-00983-0.pdf",
+  },
+  caseWilsonRussellDamages2026: {
+    title: "Wilson-Russell v. Sec'y of Health & Human Servs., No. 25-983V (Fed. Cl. Spec. Mstr. Mar. 26, 2026) — Decision Awarding Damages (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_25-vv-00983/pdf/USCOURTS-cofc-1_25-vv-00983-1.pdf",
+  },
+  caseMoylerDismissal2025: {
+    title: "Moyler v. Sec'y of Health & Human Servs., No. 21-1720V (Fed. Cl. Spec. Mstr. Mar. 12, 2025) — Dismissal Decision (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_21-vv-01720/pdf/USCOURTS-cofc-1_21-vv-01720-0.pdf",
+  },
+  caseMoylerReview2025: {
+    title: "Moyler v. United States, No. 21-1720V (Fed. Cl. Sept. 3, 2025, reissued Sept. 18, 2025) — Opinion and Order denying motion for review (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_21-vv-01720/pdf/USCOURTS-cofc-1_21-vv-01720-1.pdf",
+  },
+  caseMoylerStipulation2026: {
+    title: "Moyler v. Sec'y of Health & Human Servs., No. 21-1720V (Fed. Cl. Spec. Mstr. May 4, 2026) — Decision on Joint Stipulation (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_21-vv-01720/pdf/USCOURTS-cofc-1_21-vv-01720-3.pdf",
+  },
+  caseLaBineEntitlement2025: {
+    title: "LaBine v. Sec'y of Health & Human Servs., No. 17-1443V (Fed. Cl. Spec. Mstr. Oct. 27, 2025) — Ruling on Entitlement (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_17-vv-01443/pdf/USCOURTS-cofc-1_17-vv-01443-1.pdf",
+  },
   caseMarcillo2023: {
     title: "Marcillo v. Sec'y of Health & Human Servs., No. 20-2061V (Fed. Cl. Spec. Mstr. Apr. 14, 2023) — Decision Awarding Damages (GovInfo)",
     url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_20-vv-02061/pdf/USCOURTS-cofc-1_20-vv-02061-1.pdf",

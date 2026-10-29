@@ -64,7 +64,20 @@ export const organizationJsonLd = {
   "@id": ORGANIZATION_ID,
   name: SITE_NAME,
   url: SITE_URL,
+  // Raster logo (180×180 PNG served from src/app/apple-icon.png); Google requires at least 112×112.
+  logo: {
+    "@type": "ImageObject",
+    "@id": `${SITE_URL}/#logo`,
+    url: `${SITE_URL}/apple-icon.png`,
+    contentUrl: `${SITE_URL}/apple-icon.png`,
+    width: 180,
+    height: 180,
+    caption: SITE_NAME,
+  },
+  image: { "@id": `${SITE_URL}/#logo` },
   description: SITE_DESCRIPTION,
+  // sameAs is intentionally omitted: the site has no official social or directory profiles yet.
+  // Add only real, verified profile URLs here (e.g. LinkedIn, X) once they exist.
 };
 
 export const websiteJsonLd = {
