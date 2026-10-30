@@ -3824,4 +3824,132 @@ VaccineInjuries.org is not a law firm, does not give legal advice and does not e
 This article is for informational purposes only and is not legal advice. Court decisions are described in plain language for general education. Outcomes depend on the specific facts and records of each case, and a past decision does not predict the result of another claim. Deadlines described here come from the Vaccine Act and the court's Vaccine Rules as of the date of this article. Reading this page does not create an attorney-client relationship. For advice about your situation, speak with a qualified attorney.
     `.trim(),
   },
+  {
+    slug: "how-to-prove-vaccine-caused-injury-althen-test",
+    title: "How Do You Prove a Vaccine Caused an Injury? The Althen Test, Explained",
+    seoTitle: "Proving Vaccine Injury Causation: The Althen Test",
+    excerpt:
+      "If your injury isn't on the Vaccine Injury Table, you have to prove the vaccine caused it. Here is the three-part Althen test, in plain words, with three real decisions.",
+    date: "October 2026",
+    datePublished: "2026-10-30",
+    lastReviewed: "2026-10-30",
+    category: "Claim Process",
+    sources: [
+      S.usc300aa11,
+      S.usc300aa13,
+      S.injuryTable,
+      S.vaccineRules,
+      S.hrsaVicpDataReportOct2026,
+      S.caseLemieux2025,
+      S.caseRomine2026,
+      S.caseAlthaus2026,
+    ],
+    content: `
+## The short answer
+
+There are two ways to show a vaccine injury in the National Vaccine Injury Compensation Program (VICP). If the injury is listed on the [Vaccine Injury Table](https://www.ecfr.gov/current/title-42/chapter-I/subchapter-J/part-100/section-100.3) and started within the Table's time window, the law presumes the vaccine caused it. If it isn't on the Table, or it started outside the window, the person filing has to prove the vaccine actually caused it.
+
+For that second kind of claim, special masters at the U.S. Court of Federal Claims use a three-part test from a 2005 Federal Circuit case, Althen v. Secretary of Health & Human Services. The person filing has to show, by a "preponderance of the evidence" (more likely than not), a medical theory, a logical chain of cause and effect, and a timeline that makes medical sense.
+
+A word of perspective first. Vaccines are generally safe, and serious vaccine injuries are rare. The Health Resources and Services Administration (HRSA), the HHS agency that runs the VICP, says in its [monthly statistics report](https://web.archive.org/web/20261015000519/https://www.hrsa.gov/sites/default/files/hrsa/vicp/vicp-stats-10-01-26.pdf) that "for every 1 million doses of vaccine that were distributed, approximately 1 individual was compensated."
+
+## Table claims vs. off-Table claims
+
+The Vaccine Act lists what a petition has to show ([42 U.S.C. § 300aa-11(c)(1)](https://www.law.cornell.edu/uscode/text/42/300aa-11)). On causation, there are two routes:
+
+- **A Table injury.** The person sustained an illness or condition "set forth in the Vaccine Injury Table" and the first symptom happened "within the time period after vaccine administration set forth in the Vaccine Injury Table." HRSA's statistics report explains that an injury meeting all the Table's requirements "is given the legal presumption of causation."
+- **An off-Table injury (often called "causation-in-fact").** The condition is not on the Table, or it is on the Table but started outside the Table's time window, and it "was caused by" the vaccine.
+
+Either way, the other requirements still apply, including the severity requirement and the filing deadline. Our explainer on [Table vs. off-Table injuries](/blog/difference-between-table-injury-and-off-table-injury) covers the basics, and the rest of this post focuses on how off-Table causation is proved.
+
+## The legal standard: more likely than not
+
+The Vaccine Act says compensation is awarded if the special master finds that the petitioner "has demonstrated by a preponderance of the evidence" what the petition requires, and that there is not a preponderance of the evidence that the injury is "due to factors unrelated to the administration of the vaccine" ([42 U.S.C. § 300aa-13(a)(1)](https://www.law.cornell.edu/uscode/text/42/300aa-13)).
+
+Two details in that same section matter a lot in practice:
+
+- **Your word alone isn't enough.** The special master "may not make such a finding based on the claims of a petitioner alone, unsubstantiated by medical records or by medical opinion."
+- **Doctors' opinions are considered, but they don't control.** The special master must consider any diagnosis or medical judgment in the record about causation, but "any such diagnosis, conclusion, judgment, test result, report, or summary shall not be binding on the special master or court" ([§ 300aa-13(b)(1)](https://www.law.cornell.edu/uscode/text/42/300aa-13)).
+
+## The three Althen prongs
+
+As the special master summarized it in the Lemieux ruling discussed below, a petitioner must establish, by preponderant evidence:
+
+| Prong | What it asks | In plain words |
+| --- | --- | --- |
+| One | "a medical theory causally connecting the vaccine and his injury" | Can this vaccine cause this kind of injury at all? |
+| Two | "a logical sequence of cause and effect showing that the vaccine was the reason for her injury" | Did it actually cause it in this person, based on their records? |
+| Three | "a showing of a proximate temporal relationship between the vaccine and her injury" | Did the symptoms start at a time that fits the medical theory? |
+
+A few points from recent decisions help explain how the prongs work:
+
+- **Certainty isn't required.** The Lemieux ruling notes that the explanation need only be "legally probable, not medically or scientifically certain," quoting an earlier Federal Circuit case.
+- **Timing alone isn't enough.** The same ruling says that "a temporal relationship between a vaccine and an injury, standing alone, does not constitute preponderant evidence of vaccine causation."
+- **The timing has to match the theory.** A timeline is judged against the medical theory offered. Too soon can fail just as surely as too late, as the Althaus case below shows.
+- **Close calls go to the petitioner.** The Lemieux ruling cites Althen for the point that "close calls" are resolved in the petitioner's favor.
+
+## How these claims are decided
+
+Off-Table claims are where most of the expert fights happen. Each side usually files reports from medical experts, often with medical literature attached. The special master then decides either after an entitlement hearing, where the experts testify, or on the written record. Under [Vaccine Rule 8(d)](https://www.uscfc.uscourts.gov/sites/cfc/files/Vaccine%20Rules%207.27.26.pdf), "the special master may decide a case on the basis of written submissions without conducting an evidentiary hearing." Vaccine Rule 8(b) adds that the special master "will not be bound by common law or statutory rules of evidence but must consider all relevant and reliable evidence."
+
+These cases can take years. In the three cases below, roughly six to seven years passed between the petition and the decision on entitlement. Our post on [how long a VICP claim takes](/blog/how-long-does-a-vicp-claim-take) explains why.
+
+## Three real decisions, one for each prong
+
+These are real decisions by special masters of the U.S. Court of Federal Claims. Each one turned mostly on a different prong. Each outcome depended on that case's own facts, records and expert evidence, none predicts what would happen in another case, and none is binding precedent. As the special master in Romine put it, "special masters do not bind each other."
+
+### All three prongs met: Lemieux v. Secretary of Health and Human Services
+
+- **Docket:** No. 19-1121V
+- **Decided:** December 16, 2025 (Special Master Thomas L. Gowen), ruling on entitlement
+- **Read it:** [Ruling on entitlement (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_19-vv-01121/pdf/USCOURTS-cofc-1_19-vv-01121-1.pdf)
+
+Joel Lemieux filed on August 1, 2019, alleging that a flu vaccine he received on October 11, 2016, caused immune thrombocytopenia (ITP), a condition where the platelet count drops. ITP after a flu vaccine is not a Table injury, so he had to prove causation. The government recommended against compensation, and the case went to an entitlement hearing on May 16, 2024, with experts testifying for both sides.
+
+Timing was disputed. A record written nearly two years later said his bruising began two to three days after the shot, which the government's expert said was too fast for the proposed theory. The special master found the records made in November and December 2016, closer to the events, "more reliable as to the date of onset," and found onset about three weeks after vaccination. He found all three prongs met, noting that "there was no alternative cause found in the medical records," and concluded that the petitioner "is entitled to compensation." Damages were left for a separate order.
+
+This case shows how much the dates in early medical records can matter.
+
+### Theory not proven (prong one): Romine v. Secretary of Health and Human Services
+
+- **Docket:** No. 19-468V
+- **Decided:** March 13, 2026 (Special Master Christian J. Moran), published decision denying entitlement
+- **Read it:** [Decision denying entitlement (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_19-vv-00468/pdf/USCOURTS-cofc-1_19-vv-00468-0.pdf)
+
+Lawrence Romine filed on March 29, 2019, alleging that the Prevnar 13 pneumococcal vaccine he received on March 15, 2018, caused Guillain-Barré syndrome (GBS). GBS is on the Table only for seasonal flu vaccines, so this was an off-Table claim. His symptoms began about 13 days after the shot, and the decision notes that the government's own expert accepted that timing as one where an inference of causation is appropriate.
+
+Even so, the claim failed on prong one. After a hearing where four experts and Mr. Romine testified, the special master found that "He has not presented a reliable theory to explain how Prevnar can cause GBS. Accordingly, he is not entitled to compensation." The decision openly acknowledges that "in other cases, petitioners presenting the same claim have prevailed," and says the different results may come from how different special masters have weighed similar evidence.
+
+This case shows that good timing can't make up for a medical theory the special master doesn't find reliable.
+
+### Timing too short (prongs two and three): Althaus v. Secretary of Health and Human Services
+
+- **Docket:** No. 18-1868V
+- **Decided:** February 10, 2026 (Special Master Nora Beth Dorsey), decision dismissing the petition
+- **Read it:** [Decision (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_18-vv-01868/pdf/USCOURTS-cofc-1_18-vv-01868-0.pdf)
+
+Colleen Althaus filed on December 6, 2018, alleging that a flu vaccine caused a neurological condition affecting her vision and balance. A planned hearing was cancelled because her expert was unavailable, and the case was decided on the written record.
+
+Her records consistently showed that her double vision started on December 9, 2015, the day after the vaccine. Her theory was an autoimmune process called molecular mimicry. The special master assumed for the sake of argument that the theory could work, but found that "one day is too soon for molecular mimicry to create a cross reaction resulting in autoantibodies that would attack host structures and cause injury." She concluded that the petitioner "is not entitled to compensation and the petition must be dismissed," while noting her sympathy and that the decision had to rest "on the evidence and law."
+
+This case shows that onset can be too fast, not just too slow, for the theory offered.
+
+## What this means if you're thinking about a claim
+
+- **Check the Table first.** Whether an injury is on the Table, and whether it started inside the Table's window, decides whether causation is presumed or has to be proved. Our guide on [what injuries qualify](/blog/what-injuries-qualify-for-vaccine-compensation) is a good starting point.
+- **Write down dates while they're fresh.** In both Lemieux and Althaus, the date symptoms began, as recorded by doctors at the time, shaped the result. Our post on the [first 30 days after a suspected vaccine injury](/blog/first-30-days-suspected-vaccine-injury) covers what to keep.
+- **Off-Table claims usually need expert support.** The law says a claim can't rest on the petitioner's word alone, and all three cases above turned on competing expert opinions and medical literature.
+- **Results vary, even on similar facts.** Romine itself notes that other petitioners with the same vaccine and injury have won. That is one more reason no past decision predicts a new one.
+
+## Get connected with an attorney
+
+VaccineInjuries.org is not a law firm, does not give legal advice and does not evaluate claims. If you would like to talk with someone who handles VICP cases about whether your injury is on the Table and what proving causation might involve, we can connect you with an independent attorney who can explain your options.
+
+[Get Connected With an Attorney](/intake). It is free to submit your information, and there is no obligation.
+
+## Disclaimer
+
+This article is for informational purposes only and is not legal advice. Court decisions are described in plain language for general education. Outcomes depend on the specific facts, records and expert evidence of each case, and a past decision does not predict the result of another claim. Reading this page does not create an attorney-client relationship. For advice about your situation, speak with a qualified attorney.
+    `.trim(),
+  },
 ];
