@@ -94,6 +94,10 @@ export const SOURCES = {
     title: "42 U.S.C. § 300aa-12 — Court jurisdiction, special masters, 240-day decision timeline, and review (Cornell LII)",
     url: "https://www.law.cornell.edu/uscode/text/42/300aa-12",
   },
+  usc300aa13: {
+    title: "42 U.S.C. § 300aa-13 — Determination of eligibility and compensation (Cornell LII)",
+    url: "https://www.law.cornell.edu/uscode/text/42/300aa-13",
+  },
   usc300aa14: {
     title: "42 U.S.C. § 300aa-14 — Vaccine Injury Table (Cornell LII)",
     url: "https://www.law.cornell.edu/uscode/text/42/300aa-14",
@@ -366,6 +370,18 @@ export const SOURCES = {
   caseExum2025: {
     title: "Exum v. Sec'y of Health & Human Servs., No. 21-1513V (Fed. Cl. Sept. 30, 2025) — Memorandum and Order sustaining remand decision (GovInfo)",
     url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_21-vv-01513/pdf/USCOURTS-cofc-1_21-vv-01513-4.pdf",
+  },
+  caseLemieux2025: {
+    title: "Lemieux v. Sec'y of Health & Human Servs., No. 19-1121V (Fed. Cl. Spec. Mstr. Dec. 16, 2025) — Ruling on Entitlement (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_19-vv-01121/pdf/USCOURTS-cofc-1_19-vv-01121-1.pdf",
+  },
+  caseRomine2026: {
+    title: "Romine v. Sec'y of Health & Human Servs., No. 19-468V (Fed. Cl. Spec. Mstr. Mar. 13, 2026) — Published Decision Denying Entitlement (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_19-vv-00468/pdf/USCOURTS-cofc-1_19-vv-00468-0.pdf",
+  },
+  caseAlthaus2026: {
+    title: "Althaus v. Sec'y of Health & Human Servs., No. 18-1868V (Fed. Cl. Spec. Mstr. Feb. 10, 2026) — Decision dismissing petition (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_18-vv-01868/pdf/USCOURTS-cofc-1_18-vv-01868-0.pdf",
   },
 } satisfies Record<string, Source>;
 
