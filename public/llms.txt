@@ -59,6 +59,7 @@ Each guide covers symptoms and onset, whether and how the injury appears on the 
 - [Fainting (vasovagal syncope) injuries](https://www.vaccineinjuries.org/injuries/syncope-fainting): on the Table for injected vaccines, within 1 hour
 - [Fainting after a vaccine: a guide to vasovagal syncope claims](https://www.vaccineinjuries.org/blog/fainting-after-vaccine-syncope-claims): the Table's 1-hour rule, what happens without loss of consciousness, and three real court decisions
 - [Intussusception after the rotavirus vaccine: a guide to VICP claims](https://www.vaccineinjuries.org/blog/intussusception-after-rotavirus-vaccine-vicp): the Table's 1-21 day rule for rotavirus vaccines, the third-dose and other exclusions, why surgery often decides severity, and three real court decisions
+- [Encephalopathy or encephalitis after a vaccine: a guide to VICP claims](https://www.vaccineinjuries.org/blog/encephalopathy-after-vaccine-vicp): the Table's 72-hour rule for pertussis-containing vaccines (such as DTaP) and 5-15 day rule for MMR/MMRV, what counts as an acute and chronic (6-month) encephalopathy, why seizures alone are not enough, and three real court decisions
 
 ## Official sources
 

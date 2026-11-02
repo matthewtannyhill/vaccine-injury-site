@@ -3952,4 +3952,176 @@ VaccineInjuries.org is not a law firm, does not give legal advice and does not e
 This article is for informational purposes only and is not legal advice. Court decisions are described in plain language for general education. Outcomes depend on the specific facts, records and expert evidence of each case, and a past decision does not predict the result of another claim. Reading this page does not create an attorney-client relationship. For advice about your situation, speak with a qualified attorney.
     `.trim(),
   },
+  {
+    slug: "encephalopathy-after-vaccine-vicp",
+    title: "Encephalopathy or Encephalitis After a Vaccine: A Plain-English Guide to VICP Claims",
+    seoTitle: "Encephalopathy After a Vaccine: DTaP & MMR VICP Rules",
+    excerpt:
+      "Encephalopathy is a Table injury for DTaP and MMR vaccines. Here are the 72-hour and 5-to-15-day rules, the 6-month test, and three real court cases.",
+    date: "November 2026",
+    datePublished: "2026-11-02",
+    lastReviewed: "2026-11-02",
+    category: "Qualifying Injuries",
+    sources: [
+      S.injuryTable,
+      S.cdcDtapVis,
+      S.cdcMmrVis,
+      S.usc300aa11,
+      S.usc300aa14,
+      S.usc300aa15,
+      S.usc300aa16,
+      S.caseNina2025,
+      S.caseWhiteheadEntitlement2021,
+      S.caseWhiteheadDamages2024,
+      S.caseSimsEntitlement2024,
+      S.caseSimsReview2025,
+    ],
+    content: `
+## The short answer
+
+"Encephalopathy" means a problem with how the brain is working, such as a major drop in alertness or a big change in mental state. "Encephalitis" means inflammation of the brain. The Vaccine Injury Table ([42 CFR § 100.3](https://www.ecfr.gov/current/title-42/chapter-I/subchapter-J/part-100/section-100.3)) lists "encephalopathy or encephalitis" for two groups of vaccines:
+
+- **Vaccines that contain pertussis (whooping cough) antigens, such as DTaP:** first symptom within **72 hours**
+- **Vaccines that contain measles, mumps and rubella, such as MMR or MMRV:** first symptom **5 to 15 days** after the shot (not less than 5 days and not more than 15 days)
+
+When an injury fits the Table, the law presumes the vaccine caused it unless something else is shown to be the cause. But the Table's definitions for these injuries are detailed and strict. Symptoms have to meet specific medical descriptions, and in most cases the change in brain function has to last at least six months. The three court decisions below show how those details decide real claims.
+
+It also helps to keep perspective. CDC's vaccine information statements list the usual reactions as things like soreness, fever and fussiness after DTaP, or a sore arm, fever and mild rash after MMR, and say more serious reactions happen much less often or rarely. Both say there is "a very remote chance of a vaccine causing a severe allergic reaction, other serious injury, or death" ([CDC — DTaP VIS](https://www.cdc.gov/vaccines/hcp/current-vis/dtap.html); [CDC — MMR VIS](https://www.cdc.gov/vaccines/hcp/current-vis/mmr.html)). Vaccines are generally safe, and serious injuries like the ones in this guide are rare.
+
+## Which vaccines are covered, and the time windows
+
+The Table groups vaccines by what they contain. For these injuries:
+
+| Vaccine group on the Table | Examples the Table gives | Window for the first symptom |
+| --- | --- | --- |
+| Item II: vaccines containing whole-cell, partial-cell or specific pertussis antigens | DTP, DTaP, P, DTP-Hib | 72 hours or less |
+| Item III: vaccines containing measles, mumps and rubella virus or any of its components | MMR, MM, MMRV | 5 to 15 days |
+
+Combination shots count by what is in them. A combination shot with a DTaP component falls under the pertussis group, and MMRV (measles, mumps, rubella and varicella) falls under the MMR group.
+
+Encephalopathy and encephalitis are **not** on the Table for other covered vaccines, such as flu, hepatitis B or HPV shots. A brain injury after one of those vaccines, or one that starts outside the windows above, can still be claimed, but it is an off-Table claim. That means proving, usually with expert medical opinion, that the vaccine actually caused it. Our guides to [Table vs. off-Table injuries](/blog/difference-between-table-injury-and-off-table-injury) and [the Althen test for proving causation](/blog/how-to-prove-vaccine-caused-injury-althen-test) explain how that works.
+
+## What counts as a Table encephalopathy
+
+The Table's rules (called "qualifications and aids to interpretation") define the injury in two steps: an **acute** encephalopathy that starts inside the time window, which then becomes a **chronic** encephalopathy (42 CFR § 100.3(c)(2)).
+
+### Step one: the acute encephalopathy
+
+For **children younger than 18 months**, the Table says an acute encephalopathy is shown by "a significantly decreased level of consciousness that lasts at least 24 hours." If it follows a seizure, the decreased consciousness also cannot be explained by the normal recovery period after a seizure or by medication.
+
+The Table explains that a significantly decreased level of consciousness means at least one of these signs (42 CFR § 100.3(d)(4)):
+
+- Decreased or absent response to the environment (responding, if at all, only to a loud voice or pain)
+- Decreased or absent eye contact (not fixing their gaze on family members or other people)
+- Inconsistent or absent responses to things around them (not recognizing familiar people or things)
+
+For **adults and children 18 months or older**, the acute encephalopathy must last at least 24 hours and include at least two of these: a significant change in mental status that is not caused by medication (such as confusion, delirium or psychosis), a significantly decreased level of consciousness that is not caused by a seizure or medication, and a seizure with loss of consciousness.
+
+### What does not count by itself
+
+This is where many families are surprised. The Table says these features "in themselves do not demonstrate an acute encephalopathy": sleepiness, irritability (fussiness), high-pitched and unusual screaming, poor feeding, persistent inconsolable crying, a bulging soft spot (fontanelle), or symptoms of dementia (42 CFR § 100.3(c)(2)(i)(C)).
+
+Seizures are treated the same way. The Table says "seizures in themselves are not sufficient to constitute a diagnosis of encephalopathy" (42 CFR § 100.3(c)(2)(i)(D)). A seizure after a vaccine can be frightening and serious, but a Table encephalopathy needs more, such as a long period of greatly reduced responsiveness.
+
+### Step two: the chronic encephalopathy
+
+The change in brain function has to persist for **at least six months** from the first symptom (42 CFR § 100.3(d)(1)). If the person returns to their usual neurologic state, as confirmed by clinical findings, in less than six months, the law does not presume lasting brain damage from that episode. A later brain problem is not presumed to be connected to it.
+
+### Exclusions
+
+Even when the timing and symptoms fit, the Table says an encephalopathy does not count if it is shown to have been caused by an unrelated underlying condition (examples listed include a structural brain lesion, a genetic disorder, or a brain injury before or around birth) or by an unrelated acute event such as head trauma, a stroke, drug use or an infection (42 CFR § 100.3(c)(2)(ii)).
+
+## What counts as a Table encephalitis
+
+Encephalitis on the Table needs two things (42 CFR § 100.3(c)(3)):
+
+1. **Signs that the brain isn't working normally.** These can be an acute encephalopathy as described above, or a specific finding such as trouble with speech or reading, cranial nerve problems, vision field loss, certain abnormal reflexes, or problems with balance and coordination.
+2. **Evidence of inflammation in the brain.** This means an elevated white blood cell count in the spinal fluid, or at least two of these: a fever of 100.4°F or higher, EEG findings consistent with encephalitis, or brain or spine imaging findings consistent with encephalitis.
+
+Like encephalopathy, the encephalitis must lead to a chronic encephalopathy lasting at least six months. And it is excluded if it is shown to have been caused by something else, such as an infection like a herpes virus, a cancer-related encephalitis, or acute disseminated encephalomyelitis (ADEM), a different condition that shows a distinct pattern on MRI.
+
+## The six-month rule and the severity requirement
+
+Every VICP claim must also meet the Vaccine Act's severity rule: effects lasting **more than six months** after the vaccine, death, or an injury that resulted in inpatient hospitalization and surgery ([42 U.S.C. § 300aa-11(c)(1)(D)](https://www.law.cornell.edu/uscode/text/42/300aa-11)). For encephalopathy claims, the Table's own six-month chronic encephalopathy rule usually lines up with this. Our post on [severity requirements](/blog/what-are-the-severity-requirements-for-a-vicp-claim) covers the rule in more detail.
+
+The Table also says that any acute complication or sequela (result) of a Table injury, "including death," counts as part of the Table injury unless the definition excludes it (42 CFR § 100.3(b)(1)). The *Sims* case below shows how that has been applied.
+
+## Which version of the Table applies
+
+HHS can change the Table, but a change applies only to petitions filed after it takes effect ([42 U.S.C. § 300aa-14(c)(4)](https://www.law.cornell.edu/uscode/text/42/300aa-14)). So a claim is judged under the Table that was in effect when the petition was filed. The definitions quoted in this guide are the ones in the current regulation. Older cases, like *Sims* below, used an earlier version with somewhat different wording.
+
+## Three real VICP decisions involving encephalopathy
+
+These are real decisions from the U.S. Court of Federal Claims. We include them only to show how the rules have been applied. Each outcome depended on that case's own medical records, experts and evidence. None of them predicts what will happen in another case, and none should be read as binding precedent.
+
+### Seizures within a day, but no Table encephalopathy: Nina v. Secretary of Health and Human Services
+
+- **Docket:** No. 19-1750V
+- **Decided:** Decision filed October 14, 2025, and posted publicly November 18, 2025 (Special Master Horner)
+- **Read it:** [Decision (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_19-vv-01750/pdf/USCOURTS-cofc-1_19-vv-01750-0.pdf)
+
+K.N., a baby about six months old, received several vaccines on April 11, 2018, including DTaP. She had seizures the next day. Her parents later argued that she had a Table encephalopathy from the DTaP vaccine, or in the alternative that the vaccine actually caused a seizure disorder that affected her language development.
+
+The special master noted it was undisputed that her seizures began within 24 hours of the DTaP vaccine. But under the Table, seizures alone are not enough, and an acute encephalopathy requires a significantly reduced level of consciousness lasting at least 24 hours. The decision found the family had not pointed to any evidence of reduced consciousness when her symptoms first appeared, and pointed out that the family's own expert had written that between seizures she "was alert and responsive." The Table claim failed, the off-Table causation claim was also rejected, and the family was found not entitled to compensation.
+
+This case shows why the Table's wording matters so much: timing inside the 72-hour window was not enough without the specific signs the Table requires.
+
+### MMR timing missed by one day, but an off-Table win: Whitehead v. Secretary of Health and Human Services
+
+- **Docket:** No. 18-1538V
+- **Decided:** Entitlement ruling filed September 29, 2021, and posted publicly October 25, 2021 (Chief Special Master Brian H. Corcoran); damages decision filed February 27, 2024
+- **Read it:** [Entitlement ruling (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_18-vv-01538/pdf/USCOURTS-cofc-1_18-vv-01538-0.pdf) and [damages decision (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_18-vv-01538/pdf/USCOURTS-cofc-1_18-vv-01538-1.pdf)
+
+K.J. was a little over a year old when he received several catch-up vaccines on January 17, 2017, including MMR. His parents argued that he had a Table encephalitis or encephalopathy after the MMR vaccine.
+
+The Chief Special Master dismissed the Table claim for three reasons. First, the records showed K.J.'s weakness, lethargy and difficulty moving began on January 21, 2017, four days after the vaccines. The ruling called that "too soon to meet the Table requirement, even if by a single day," because the MMR window starts at day 5. Second, his doctors ultimately did not conclude that he had an acute encephalopathy or encephalitis. Third, he returned to his baseline symptoms not long after they began, so the record did not show a chronic encephalopathy.
+
+The family still won, on a different basis. K.J. had a rare genetic variant linked to a disorder called biotin-thiamine-responsive basal ganglia disease. The Chief Special Master found, by a "more likely than not" standard, that the multiple vaccines he received likely triggered that preexisting genetic condition. The ruling described the family's evidence as "far from robust" but enough to meet their burden, and noted that a stronger showing by the government in a future case could lead to a different outcome. In 2024, the court adopted the government's proffer, which included a lump sum of $1,616,572.94 plus an annuity for future care.
+
+This case shows that missing the Table window does not automatically end a claim, but an off-Table claim depends heavily on expert evidence. The award reflects one child's specific injuries and needs and does not say what another family might receive.
+
+### A Table encephalopathy upheld on review: Sims v. Secretary of Health and Human Services
+
+- **Docket:** No. 15-1526V
+- **Decided:** Special master's ruling on entitlement filed March 7, 2024 (Special Master Roth); Court of Federal Claims opinion and order denying the government's motion for review, reissued publicly June 25, 2025, after first being filed under seal on June 10, 2025 (Judge Carolyn N. Lerner)
+- **Read it:** [Ruling on entitlement (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_15-vv-01526/pdf/USCOURTS-cofc-1_15-vv-01526-2.pdf) and [opinion on review (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_15-vv-01526/pdf/USCOURTS-cofc-1_15-vv-01526-4.pdf)
+
+This is a heartbreaking case. A.E.S. was 11 weeks old when she received DTaP-containing and other routine vaccines at her two-month checkup on December 16, 2013. She died that evening. Her parents filed in December 2015, so the case was decided under the version of the Table in effect at that time.
+
+The special master found that A.E.S. had a Table encephalopathy that resulted in her death. Based on the parents' testimony and a medical expert's opinion, she found that in the afternoon after the vaccines A.E.S. was not tracking or making eye contact, along with other changes in behavior. Decreased or absent eye contact is one of the Table's signs of a significantly decreased level of consciousness. The special master also noted it was undisputed that there was no evidence she died of a factor unrelated to the vaccines. The award was $300,000: the $250,000 death benefit set by the Vaccine Act plus $50,000 for pain and suffering.
+
+The government asked the Court of Federal Claims to review the decision. One question was whether a Table encephalopathy can be found when a baby dies before the 24-hour symptom period could be completed. The court held that it can, but only if the child showed signs of encephalopathy, as the Table defines them, before death that were not simply symptoms of dying. It also said the Table does not allow recovery for every death within 72 hours of a DTaP vaccine. The court found the special master made no legal error and denied the motion for review.
+
+This case shows how strict the Table's proof requirements are even when a claim succeeds. The outcome turned on specific findings about this baby's behavior, weighed against competing expert opinions.
+
+## Filing deadlines
+
+For most VICP injury claims, the petition must be filed within **36 months of the first symptom** of the injury. For a death, it must be filed within 24 months of the death and no more than 48 months after the first symptom of the injury that led to it ([42 U.S.C. § 300aa-16](https://www.law.cornell.edu/uscode/text/42/300aa-16)). The clock starts with the first symptom, not the diagnosis. Reporting to VAERS is not the same as filing a claim and does not stop the clock. Parents or legal guardians can file on behalf of a child. See [how long you have to file](/blog/how-long-do-i-have-to-file-a-vaccine-injury-claim) and [who can file](/blog/who-can-file-a-vaccine-injury-claim).
+
+## Records that often matter in encephalopathy claims
+
+In the decisions above, the exact time symptoms began, what doctors observed about alertness and responsiveness, and whether problems lasted beyond six months all played a part. Records that often matter include:
+
+- The vaccination record, with the date, time and every vaccine given that day
+- A dated timeline of the first symptoms, written down as close to the time as possible, including how alert your child was, whether they made eye contact and how they responded to you
+- Emergency department, hospital and pediatrician notes
+- Neurology consults, EEG reports and brain MRI or CT reports
+- Spinal fluid (lumbar puncture) results, if any were done
+- Genetic testing results, if any were done
+- Developmental, therapy and school records showing changes over at least the next six months
+- Any videos or photos taken at the time, kept with their original dates
+
+Our post on [what medical records you need](/blog/what-medical-records-do-i-need-for-a-vaccine-injury-claim) can help you get organized, and [what to do in the first 30 days](/blog/first-30-days-suspected-vaccine-injury) covers early steps.
+
+## Get connected with an attorney
+
+If you or your child had a serious change in brain function after a vaccine, a lawyer who handles VICP cases can explain how the Table's timing rules, symptom definitions, exclusions and six-month rule may apply, and what an off-Table claim would involve. VaccineInjuries.org is not a law firm and does not evaluate claims. We can connect you with an independent attorney who does.
+
+[Get Connected With an Attorney](/intake). It is free to submit your information, and there is no obligation.
+
+## Disclaimer
+
+This article is for informational purposes only and is not legal or medical advice. Court decisions are described in plain language for general education. Outcomes depend on the specific facts and records of each case, and a past decision does not predict the result of another claim. Reading this page does not create an attorney-client relationship. If someone has a seizure, is hard to wake, or is not responding normally after a vaccine or at any other time, get emergency medical care right away; for advice about a claim, speak with a qualified attorney.
+    `.trim(),
+  },
 ];
