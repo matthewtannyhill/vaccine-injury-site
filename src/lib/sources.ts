@@ -383,6 +383,34 @@ export const SOURCES = {
     title: "Althaus v. Sec'y of Health & Human Servs., No. 18-1868V (Fed. Cl. Spec. Mstr. Feb. 10, 2026) — Decision dismissing petition (GovInfo)",
     url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_18-vv-01868/pdf/USCOURTS-cofc-1_18-vv-01868-0.pdf",
   },
+  cdcDtapVis: {
+    title: "CDC — DTaP (Diphtheria, Tetanus, Pertussis) Vaccine Information Statement (Aug. 6, 2021)",
+    url: "https://www.cdc.gov/vaccines/hcp/current-vis/dtap.html",
+  },
+  cdcMmrVis: {
+    title: "CDC — MMR (Measles, Mumps, and Rubella) Vaccine Information Statement (Jan. 31, 2025)",
+    url: "https://www.cdc.gov/vaccines/hcp/current-vis/mmr.html",
+  },
+  caseNina2025: {
+    title: "Nina v. Sec'y of Health & Human Servs., No. 19-1750V (Fed. Cl. Spec. Mstr. Oct. 14, 2025) — Decision denying entitlement (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_19-vv-01750/pdf/USCOURTS-cofc-1_19-vv-01750-0.pdf",
+  },
+  caseWhiteheadEntitlement2021: {
+    title: "Whitehead v. Sec'y of Health & Human Servs., No. 18-1538V (Fed. Cl. Spec. Mstr. Sept. 29, 2021) — Entitlement Ruling (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_18-vv-01538/pdf/USCOURTS-cofc-1_18-vv-01538-0.pdf",
+  },
+  caseWhiteheadDamages2024: {
+    title: "Whitehead v. Sec'y of Health & Human Servs., No. 18-1538V (Fed. Cl. Spec. Mstr. Feb. 27, 2024) — Decision Awarding Damages (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_18-vv-01538/pdf/USCOURTS-cofc-1_18-vv-01538-1.pdf",
+  },
+  caseSimsEntitlement2024: {
+    title: "Sims v. Sec'y of Health & Human Servs., No. 15-1526V (Fed. Cl. Spec. Mstr. Mar. 7, 2024) — Ruling on Entitlement (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_15-vv-01526/pdf/USCOURTS-cofc-1_15-vv-01526-2.pdf",
+  },
+  caseSimsReview2025: {
+    title: "Sims v. Sec'y of Health & Human Servs., No. 15-1526V (Fed. Cl. June 25, 2025) — Opinion and Order denying motion for review (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_15-vv-01526/pdf/USCOURTS-cofc-1_15-vv-01526-4.pdf",
+  },
 } satisfies Record<string, Source>;
 
 /** Core official sources linked from /about, /faq, /disclaimer, and llms.txt. */
