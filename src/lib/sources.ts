@@ -110,6 +110,10 @@ export const SOURCES = {
     title: "42 U.S.C. § 300aa-16 — Limitations of actions (Cornell LII)",
     url: "https://www.law.cornell.edu/uscode/text/42/300aa-16",
   },
+  usc300aa33: {
+    title: "42 U.S.C. § 300aa-33 — Definitions, including \"legal representative\" (Cornell LII)",
+    url: "https://www.law.cornell.edu/uscode/text/42/300aa-33",
+  },
   usc300aa21: {
     title: "42 U.S.C. § 300aa-21 — Election after judgment; continuing or withdrawing a petition (Cornell LII)",
     url: "https://www.law.cornell.edu/uscode/text/42/300aa-21",
@@ -410,6 +414,38 @@ export const SOURCES = {
   caseSimsReview2025: {
     title: "Sims v. Sec'y of Health & Human Servs., No. 15-1526V (Fed. Cl. June 25, 2025) — Opinion and Order denying motion for review (GovInfo)",
     url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_15-vv-01526/pdf/USCOURTS-cofc-1_15-vv-01526-4.pdf",
+  },
+  caseBrandtRuling2025: {
+    title: "Brandt v. Sec'y of Health & Human Servs., No. 23-1549V (Fed. Cl. Spec. Mstr. July 30, 2025) — Ruling on Entitlement and Dismissal of Death Benefit Claim (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_23-vv-01549/pdf/USCOURTS-cofc-1_23-vv-01549-0.pdf",
+  },
+  caseBrandtReview2025: {
+    title: "Brandt v. Sec'y of Health & Human Servs., No. 23-1549V (Fed. Cl. Nov. 13, 2025) — Opinion and Order denying motion for review as premature (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_23-vv-01549/pdf/USCOURTS-cofc-1_23-vv-01549-2.pdf",
+  },
+  caseBrandtDamages2026: {
+    title: "Brandt v. Sec'y of Health & Human Servs., No. 23-1549V (Fed. Cl. Spec. Mstr. Jan. 30, 2026) — Decision on Damages (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_23-vv-01549/pdf/USCOURTS-cofc-1_23-vv-01549-3.pdf",
+  },
+  caseMackEntitlement2025: {
+    title: "Mack v. Sec'y of Health & Human Servs., No. 24-1232V (Fed. Cl. Spec. Mstr. Nov. 14, 2025) — Ruling on Entitlement (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_24-vv-01232/pdf/USCOURTS-cofc-1_24-vv-01232-0.pdf",
+  },
+  caseMackDamages2026: {
+    title: "Mack v. Sec'y of Health & Human Servs., No. 24-1232V (Fed. Cl. Spec. Mstr. Mar. 17, 2026) — Decision Awarding Damages (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_24-vv-01232/pdf/USCOURTS-cofc-1_24-vv-01232-1.pdf",
+  },
+  caseFalzonDismissal2022: {
+    title: "Falzon v. Sec'y of Health & Human Servs., No. 21-1082V (Fed. Cl. Spec. Mstr. Aug. 15, 2022) — Decision Dismissing Petition (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_21-vv-01082/pdf/USCOURTS-cofc-1_21-vv-01082-0.pdf",
+  },
+  caseFalzonReview2023: {
+    title: "Falzon v. Sec'y of Health & Human Servs., No. 21-1082V (Fed. Cl. Jan. 23, 2023) — Memorandum and Order denying motion for review (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_21-vv-01082/pdf/USCOURTS-cofc-1_21-vv-01082-1.pdf",
+  },
+  caseFalzonFedCir2024: {
+    title: "Falzon v. HHS, No. 2023-1659 (Fed. Cir. July 15, 2024) (nonprecedential) — affirming (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-ca13-23-01659/pdf/USCOURTS-ca13-23-01659-0.pdf",
   },
 } satisfies Record<string, Source>;
 

@@ -4124,4 +4124,175 @@ If you or your child had a serious change in brain function after a vaccine, a l
 This article is for informational purposes only and is not legal or medical advice. Court decisions are described in plain language for general education. Outcomes depend on the specific facts and records of each case, and a past decision does not predict the result of another claim. Reading this page does not create an attorney-client relationship. If someone has a seizure, is hard to wake, or is not responding normally after a vaccine or at any other time, get emergency medical care right away; for advice about a claim, speak with a qualified attorney.
     `.trim(),
   },
+  {
+    slug: "vicp-claim-for-death-after-vaccine",
+    title: "Can I File a VICP Claim for a Loved One Who Died After a Vaccine?",
+    seoTitle: "Death After a Vaccine: Can Family File a VICP Claim?",
+    excerpt:
+      "Yes, the legal representative of the estate can file. Here is who can file, the two-part death deadline, the $250,000 death benefit, and three real cases.",
+    date: "November 2026",
+    datePublished: "2026-11-04",
+    lastReviewed: "2026-11-04",
+    category: "Eligibility",
+    sources: [
+      S.hrsaWhoCanFile,
+      S.usc300aa11,
+      S.usc300aa15,
+      S.usc300aa16,
+      S.usc300aa33,
+      S.vaccineRules,
+      S.injuryTable,
+      S.hrsaVicpData,
+      S.hrsaVicpDataReportOct2026,
+      S.hrsaCicp,
+      S.vaers,
+      S.caseMackEntitlement2025,
+      S.caseMackDamages2026,
+      S.caseBrandtRuling2025,
+      S.caseBrandtReview2025,
+      S.caseBrandtDamages2026,
+      S.caseFalzonDismissal2022,
+      S.caseFalzonReview2023,
+      S.caseFalzonFedCir2024,
+    ],
+    content: `
+## The short answer
+
+Yes. If someone died after receiving a covered vaccine, the National Vaccine Injury Compensation Program (VICP) allows a claim to be filed on their behalf. The Vaccine Act says "the legal representative of any person who died as the result of the administration of a vaccine set forth in the Vaccine Injury Table" may file a petition ([42 U.S.C. § 300aa-11(b)(1)(A)](https://www.law.cornell.edu/uscode/text/42/300aa-11)). HRSA's [Who Can File](https://www.hrsa.gov/vaccine-compensation/eligible) page puts it this way: you may file if you are "the legal representative of the estate of a deceased person who received a covered vaccine."
+
+Three things matter most in a death claim:
+
+- **Who files.** Usually a person with legal authority over the estate, such as an executor, administrator or personal representative. The court asks for documents showing that authority.
+- **The deadline.** A death claim has a two-part deadline: within **2 years of the death** and within **4 years of the first symptom** of the injury that led to the death ([42 U.S.C. § 300aa-16(a)(3)](https://www.law.cornell.edu/uscode/text/42/300aa-16)). Both must be met.
+- **What can be paid.** The Vaccine Act sets a **$250,000** award "for the estate of the deceased" in the event of a vaccine-related death ([42 U.S.C. § 300aa-15(a)(2)](https://www.law.cornell.edu/uscode/text/42/300aa-15)). Other compensation may be available for what the person went through before they died.
+
+We are sorry if you are reading this because you lost someone. This guide explains the rules in plain words and walks through three real court decisions. It is general information, not legal advice.
+
+It also helps to keep perspective. Vaccines are generally safe, and serious injuries are rare. HRSA notes that "very rarely, people experience more serious side effects, like allergic reactions" ([HRSA — VICP data](https://www.hrsa.gov/vaccine-compensation/data)). Deaths are a small share of VICP claims: of the 30,322 petitions filed from October 1, 1988, through October 1, 2026, HRSA's [monthly data report](https://web.archive.org/web/20261015000519/https://www.hrsa.gov/sites/default/files/hrsa/vicp/vicp-stats-10-01-26.pdf) counts 1,462 as death claims. A filed claim is not a finding that a vaccine caused a death.
+
+## Who can file a claim after a death?
+
+The Vaccine Act allows a petition by "the legal representative of any person who died as the result of the administration of a vaccine" on the Vaccine Injury Table ([42 U.S.C. § 300aa-11(b)(1)(A)](https://www.law.cornell.edu/uscode/text/42/300aa-11)). In the three cases below, the person filing acted for the estate and is described in the court papers as an administrator or executor, as a legal representative and administrator, or as a personal representative appointed under state law.
+
+The court's [Vaccine Rules](https://www.uscfc.uscourts.gov/sites/cfc/files/Vaccine%20Rules%207.27.26.pdf) say that if a petition "is filed on behalf of a deceased person," it must also include "documents establishing the authority to file the petition in a representative capacity" or a statement explaining when that documentation will be available (Vaccine Rule 2(c)(2)(C)). In practice, that usually means papers from a probate court, such as letters of administration or letters testamentary.
+
+Two more details are worth knowing:
+
+- The Vaccine Act's definitions section defines "legal representative" as "a parent or an individual who qualifies as a legal guardian under State law" ([42 U.S.C. § 300aa-33(2)](https://www.law.cornell.edu/uscode/text/42/300aa-33)). How that fits with estate paperwork in a particular family's situation is a question for a lawyer.
+- "Only one petition may be filed with respect to each administration of a vaccine" ([42 U.S.C. § 300aa-11(b)(2)](https://www.law.cornell.edu/uscode/text/42/300aa-11)). Family members generally should coordinate rather than file separately.
+
+Our post on [who can file a vaccine injury claim](/blog/who-can-file-a-vaccine-injury-claim) covers the other situations, such as filing for a child.
+
+## What has to be shown in a death claim
+
+The same basic rules apply as in any VICP claim, with a few differences:
+
+- **A covered vaccine.** The vaccine must be one listed on the [Vaccine Injury Table](https://www.ecfr.gov/current/title-42/chapter-I/subchapter-J/part-100/section-100.3). COVID-19 vaccines are not on the Table. Claims involving certain countermeasures go to a separate program, the [Countermeasures Injury Compensation Program (CICP)](https://www.hrsa.gov/cicp), which has a one-year filing deadline from the date the countermeasure was received and its own survivor death benefit. See [our post on COVID-19 vaccine claims](/blog/can-i-sue-for-covid-vaccine-side-effects).
+- **Where it was given.** Generally in the United States or its trust territories, with limited exceptions (for example, U.S. citizens serving abroad in the military or as federal employees, and their dependents) ([42 U.S.C. § 300aa-11(c)(1)(B)](https://www.law.cornell.edu/uscode/text/42/300aa-11)).
+- **Causation.** The petition has to show the death resulted from the vaccine. That can be done through the Table or, for conditions not on the Table, by proving the vaccine actually caused it. The Table says that "any acute complication or sequela, including death," of a listed Table injury counts as part of that Table injury unless the injury's definition excludes it ([42 C.F.R. § 100.3(b)(1)](https://www.ecfr.gov/current/title-42/chapter-I/subchapter-J/part-100/section-100.3)). Our posts on [Table versus off-Table injuries](/blog/difference-between-table-injury-and-off-table-injury) and [how causation is proven](/blog/how-to-prove-vaccine-caused-injury-althen-test) go into more detail.
+- **Severity.** The usual six-month rule is not the only way to meet the severity requirement. The Act's list includes a person who "died from the administration of the vaccine" ([42 U.S.C. § 300aa-11(c)(1)(D)](https://www.law.cornell.edu/uscode/text/42/300aa-11)). See [severity requirements](/blog/what-are-the-severity-requirements-for-a-vicp-claim).
+- **No prior civil recovery.** The person must not have already collected an award or settlement in a civil lawsuit for the same injury or death (§ 300aa-11(c)(1)(E)).
+
+## The deadline for a death claim
+
+This is where families most often run into trouble. For a vaccine given after October 1, 1988, the Vaccine Act says no death petition may be filed "after the expiration of 24 months from the date of the death," and no such petition may be filed "more than 48 months after the date of the occurrence of the first symptom or manifestation of onset or of the significant aggravation of the injury from which the death resulted" ([42 U.S.C. § 300aa-16(a)(3)](https://www.law.cornell.edu/uscode/text/42/300aa-16)).
+
+In plain words, a death claim must be filed:
+
+1. Within **2 years (24 months) after the date of death**, and
+2. Within **4 years (48 months) after the first symptom** of the injury that led to the death.
+
+Whichever date comes first is the practical cutoff. Two simple examples based on the statute's wording:
+
+| First symptom | Date of death | 2 years after death | 4 years after first symptom | Earlier date |
+| --- | --- | --- | --- | --- |
+| January 2025 | March 2025 | March 2027 | January 2029 | **March 2027** |
+| January 2020 | December 2023 | December 2025 | January 2024 | **January 2024** |
+
+For comparison, an injury claim (when the person did not die) generally must be filed within 36 months of the first symptom ([42 U.S.C. § 300aa-16(a)(2)](https://www.law.cornell.edu/uscode/text/42/300aa-16)). HRSA's [Who Can File](https://www.hrsa.gov/vaccine-compensation/eligible) page also notes that "the Court may extend a deadline using equitable tolling in very limited circumstances." The *Falzon* case below shows how hard that can be.
+
+Reporting the death to VAERS does not start a claim. VAERS says, "Submitting a VAERS report is not connected to the process of filing a claim for injury compensation with VICP or CICP" ([VAERS FAQ](https://vaers.hhs.gov/faq.html)). Our post on [how long you have to file](/blog/how-long-do-i-have-to-file-a-vaccine-injury-claim) covers all the VICP deadlines.
+
+Deadlines depend on the exact dates in the records, and the cases below show that a few months can decide a claim. If you are anywhere near two years from a loved one's death, talk to a lawyer promptly.
+
+## What compensation is available in a death case?
+
+Under [42 U.S.C. § 300aa-15(a)](https://www.law.cornell.edu/uscode/text/42/300aa-15), compensation in a death case can include:
+
+- **The death benefit:** "In the event of a vaccine-related death, an award of $250,000 for the estate of the deceased" (§ 300aa-15(a)(2)).
+- **Pain and suffering before death:** an award "not to exceed $250,000" for "actual and projected pain and suffering and emotional distress from the vaccine-related injury" (§ 300aa-15(a)(4)). In the *Mack* and *Brandt* cases below, this was paid to the estate for what the person went through before they died.
+- **Other items**, such as unreimbursed expenses for the person's care. In *Brandt*, the government said the damages for the injury part of the claim covered past pain and suffering, "in addition to past unreimbursed expenses and any loss of earnings during that period."
+
+Attorneys' fees and costs are handled separately under § 300aa-15(e). See [how VICP attorneys get paid](/blog/how-do-vicp-attorneys-get-paid) and [how much compensation is available](/blog/how-much-compensation-is-available-in-a-vaccine-injury-case).
+
+## Three real VICP death-claim decisions
+
+These are real decisions by special masters and judges of the U.S. Court of Federal Claims. We include them only to show how the rules above have played out. Each outcome depended on that case's own facts and records. None of them predicts what will happen in another case, and none should be read as binding precedent.
+
+### Filed just in time, and compensated: Mack v. Secretary of Health and Human Services
+
+- **Docket:** No. 24-1232V
+- **Decided:** Ruling on entitlement November 14, 2025; decision awarding damages filed March 17, 2026 and posted April 23, 2026 (Chief Special Master Brian H. Corcoran)
+- **Read it:** [Ruling on entitlement (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_24-vv-01232/pdf/USCOURTS-cofc-1_24-vv-01232-0.pdf); [Decision awarding damages (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_24-vv-01232/pdf/USCOURTS-cofc-1_24-vv-01232-1.pdf)
+
+James Carhartt received a flu vaccine on October 13, 2021. His wife alleged that he developed Guillain-Barré syndrome (GBS), a Table injury for flu vaccines, and that he died from it in August 2022. She filed the petition on August 9, 2024, shortly before the two-year anniversary of his death.
+
+The decisions explain that she first filed as his surviving spouse "due to the impending statute of limitations" and because she had not yet been named personal representative of his estate. She was appointed personal representative under Colorado law on November 8, 2024, then filed an amended petition with the estate documents, and the case caption was changed. The government conceded the case was appropriate for compensation for a GBS Table injury and vaccine-related death, and the Chief Special Master found the estate entitled to compensation.
+
+The damages decision awarded **$500,000** to her as personal representative of the estate: $250,000 for pain and suffering and $250,000 for "the statutory benefit for a vaccine-related death." It also awarded $299,496.97 to satisfy a Colorado Medicaid lien.
+
+### Injury claim allowed, death benefit time-barred: Brandt v. Secretary of Health and Human Services
+
+- **Docket:** No. 23-1549V
+- **Decided:** Ruling on entitlement and dismissal of the death benefit claim July 30, 2025 (Chief Special Master Brian H. Corcoran); motion for review denied as premature November 13, 2025 (Judge Elaine D. Kaplan); decision on damages January 30, 2026
+- **Read it:** [Ruling (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_23-vv-01549/pdf/USCOURTS-cofc-1_23-vv-01549-0.pdf); [Opinion and order on review (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_23-vv-01549/pdf/USCOURTS-cofc-1_23-vv-01549-2.pdf); [Decision on damages (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_23-vv-01549/pdf/USCOURTS-cofc-1_23-vv-01549-3.pdf)
+
+David Taylor received a flu vaccine on September 15, 2020. About ten days later he developed GBS. He was hospitalized, needed a breathing tube and a tracheostomy, and died on December 10, 2020. His estate's administrator filed a petition on September 8, 2023. The ruling notes it was "filed nearly 33 months after Mr. Taylor's December 2020 death."
+
+The government conceded a Table flu/GBS injury, and the Chief Special Master found the estate entitled to compensation for the injury Mr. Taylor suffered from the start of his symptoms until his death. But the death benefit claim was dismissed as untimely. The petitioner argued that a death claim based on "significant aggravation" of existing conditions only had to be filed within four years. The Chief Special Master disagreed: "In short, the key conjunctive word is 'and' – establishing that a death claim must satisfy these two filing requirements." He added that the petitioner had not alleged, and the record did not support, any reason for equitable tolling.
+
+The petitioner asked a judge to review that ruling, but the court found the request premature because damages for the injury part had not yet been decided. On January 30, 2026, the Chief Special Master awarded **$200,000** for Mr. Taylor's past pain and suffering, with no death benefit. The government's damages filing notes the petitioner said she intended to seek review of the death benefit ruling. As of November 4, 2026, GovInfo listed no later decision in the case, and we do not know whether that ruling was reviewed.
+
+### Missed by 119 days, no tolling: Falzon v. Secretary of Health and Human Services
+
+- **Docket:** No. 21-1082V
+- **Decided:** Special master's decision dismissing the petition August 15, 2022 (Special Master Katherine E. Oler); motion for review denied January 23, 2023, published January 25, 2023 (Judge Eleni M. Roumel); affirmed in a nonprecedential decision by the U.S. Court of Appeals for the Federal Circuit on July 15, 2024
+- **Read it:** [Special master's decision (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_21-vv-01082/pdf/USCOURTS-cofc-1_21-vv-01082-0.pdf); [Memorandum and order (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_21-vv-01082/pdf/USCOURTS-cofc-1_21-vv-01082-1.pdf); [Federal Circuit decision (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-ca13-23-01659/pdf/USCOURTS-ca13-23-01659-0.pdf)
+
+Paul Giaccio received a flu vaccine on November 13, 2018, and died on November 19, 2018. His mother, as legal representative and administrator of his estate, filed a petition on March 18, 2021, alleging that the vaccine caused or worsened the infection that led to his death. That was 119 days after the two-year deadline.
+
+She argued for equitable tolling, pointing to the COVID-19 pandemic and to serious hardships her lawyer faced during that period, including his father's illness and death and his own COVID-19 illness. The special master dismissed the petition as untimely. On review, the judge found that even if some of those periods counted, they added up to 113 days, not enough to cover the 119-day gap. The judge wrote: "While the Court laments that Petitioner will be unable to pursue her untimely claim under the Vaccine Act, the law mandates such a result." The Federal Circuit affirmed.
+
+The special master also explained that an expert report is not one of the documents the Vaccine Rules require with a petition, so waiting for one was not a reason to file late.
+
+## What these cases have in common
+
+- **The two-year clock from the date of death is strict.** *Brandt* and *Falzon* both lost the death claim on timing, even with sympathetic facts.
+- **The estate can still recover for what happened before death.** In *Brandt*, the injury part of the claim went forward even though the death benefit did not.
+- **Estate paperwork can follow, but the deadline does not wait.** In *Mack*, the decisions describe a petition filed before the estate appointment, with the documents added later. Whether that approach would work in another case is a question for a lawyer.
+
+## Records that often matter in a death claim
+
+The Vaccine Act lists records a petition should include, including vaccination records, medical records and, "if applicable, a death certificate, and if applicable, autopsy results" ([42 U.S.C. § 300aa-11(c)(2)](https://www.law.cornell.edu/uscode/text/42/300aa-11)). Records that often matter include:
+
+- The vaccination record, with the date and every vaccine given
+- The death certificate and any autopsy or medical examiner's report
+- Emergency, hospital and doctor records from after the vaccine
+- Medical records from before the vaccine, to show prior health
+- Probate court papers showing who has authority over the estate
+- A written timeline of the first symptoms and what happened next, with dates
+
+Our post on [what medical records you need](/blog/what-medical-records-do-i-need-for-a-vaccine-injury-claim) can help you get organized.
+
+## Get connected with an attorney
+
+If someone you love died after a vaccine, a lawyer who handles VICP cases can explain how the deadlines, estate requirements and compensation rules may apply to your family's situation. VaccineInjuries.org is not a law firm and does not evaluate claims. We can connect you with an independent attorney who does. Under the Vaccine Act, attorneys' fees in VICP cases are handled through the program; see [how VICP attorneys get paid](/blog/how-do-vicp-attorneys-get-paid).
+
+[Get Connected With an Attorney](/intake). It is free to submit your information, and there is no obligation.
+
+## Disclaimer
+
+This article is for informational purposes only and is not legal or medical advice. Court decisions are described in plain language for general education. Outcomes depend on the specific facts and records of each case, and a past decision does not predict the result of another claim. Reading this page does not create an attorney-client relationship. For advice about a possible claim, including deadlines and estate requirements, speak with a qualified attorney.
+    `.trim(),
+  },
 ];
