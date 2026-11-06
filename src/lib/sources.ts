@@ -447,6 +447,31 @@ export const SOURCES = {
     title: "Falzon v. HHS, No. 2023-1659 (Fed. Cir. July 15, 2024) (nonprecedential) — affirming (GovInfo)",
     url: "https://www.govinfo.gov/content/pkg/USCOURTS-ca13-23-01659/pdf/USCOURTS-ca13-23-01659-0.pdf",
   },
+
+  caseAvera2008: {
+    title: "Avera v. Sec'y of Health & Human Servs., 515 F.3d 1343 (Fed. Cir. 2008) — CAFC opinion PDF",
+    url: "https://www.cafc.uscourts.gov/opinions-orders/07-5098.pdf",
+  },
+  caseShaw2010: {
+    title: "Shaw v. Sec'y of Health & Human Servs., 609 F.3d 1372 (Fed. Cir. 2010) — CAFC opinion PDF",
+    url: "https://www.cafc.uscourts.gov/opinions-orders/09-5117.pdf",
+  },
+  osmFeeSchedules: {
+    title: "U.S. Court of Federal Claims — OSM Attorneys' Forum Hourly Rate Fee Schedules",
+    url: "https://www.uscfc.uscourts.gov/osm-attorneys-forum-hourly-rate-fee-schedules",
+  },
+  caseYoungInterim2023: {
+    title: "Young v. Sec'y of Health & Human Servs., No. 19-475V (Fed. Cl. Spec. Mstr. Dec. 6, 2023) — Decision Awarding Interim Attorneys' Fees and Costs (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_19-vv-00475/pdf/USCOURTS-cofc-1_19-vv-00475-0.pdf",
+  },
+  caseLemieuxInterim2024: {
+    title: "Lemieux v. Sec'y of Health & Human Servs., No. 19-1121V (Fed. Cl. Spec. Mstr. July 11, 2024) — Decision on Interim Attorneys' Fees and Costs (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_19-vv-01121/pdf/USCOURTS-cofc-1_19-vv-01121-0.pdf",
+  },
+  caseRiveraCruzInterim2025: {
+    title: "Rivera Cruz v. Sec'y of Health & Human Servs., No. 18-1388V (Fed. Cl. Spec. Mstr. Feb. 24, 2025) — Decision Awarding Interim Attorneys' Fees and Costs (GovInfo)",
+    url: "https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_18-vv-01388/pdf/USCOURTS-cofc-1_18-vv-01388-0.pdf",
+  },
 } satisfies Record<string, Source>;
 
 /** Core official sources linked from /about, /faq, /disclaimer, and llms.txt. */
