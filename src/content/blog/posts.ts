@@ -557,14 +557,14 @@ The examples below are taken from the current Vaccine Injury Table (42 CFR § 10
 
 ### Seasonal Influenza Vaccine
 - Anaphylaxis (severe allergic reaction) — within 4 hours
-- SIRVA (Shoulder Injury Related to Vaccine Administration) — shoulder pain and limited range of motion starting within 48 hours, thought to result from the vaccine or needle reaching the structures around the shoulder joint
-- Vasovagal syncope (fainting) — within 1 hour
-- Guillain-Barré Syndrome (GBS), a rare neurological condition affecting the peripheral nerves — 3 to 42 days after vaccination
+- [SIRVA (Shoulder Injury Related to Vaccine Administration)](/injuries/sirva) — shoulder pain and limited range of motion starting within 48 hours, thought to result from the vaccine or needle reaching the structures around the shoulder joint
+- [Vasovagal syncope (fainting)](/injuries/syncope-fainting) — within 1 hour
+- [Guillain-Barré Syndrome (GBS)](/injuries/guillain-barre-syndrome), a rare neurological condition affecting the peripheral nerves — 3 to 42 days after vaccination
 
 ### MMR (Measles, Mumps, Rubella)
 - Anaphylaxis — within 4 hours
 - Encephalopathy or encephalitis (brain injury or inflammation) — 5 to 15 days
-- Thrombocytopenic purpura (very low platelets), for measles-containing vaccines — 7 to 30 days
+- [Thrombocytopenic purpura (very low platelets), for measles-containing vaccines](/blog/itp-after-mmr-vaccine-vicp) — 7 to 30 days
 - Chronic arthritis, for rubella-containing vaccines — 7 to 42 days
 
 ### Hepatitis B Vaccine
@@ -906,7 +906,7 @@ A sore arm after a vaccine is common.
 
 But SIRVA is not just ordinary arm soreness.
 
-SIRVA stands for Shoulder Injury Related to Vaccine Administration, and in the right circumstances, it may be relevant in a vaccine injury claim.
+SIRVA stands for [Shoulder Injury Related to Vaccine Administration](/injuries/sirva), and in the right circumstances, it may be relevant in a vaccine injury claim.
 
 ## SIRVA is different from normal short-term soreness
 
@@ -1532,7 +1532,7 @@ SIRVA is shoulder pain and limited motion that starts within 48 hours of a shot 
 
 ### Fainting (vasovagal syncope)
 
-Fainting after injected vaccines is fairly common among teens, and it is usually harmless on its own. The Table includes it because a faint can lead to a fall and a real injury, like a head injury, a broken tooth, or a fracture.
+[Fainting after injected vaccines](/injuries/syncope-fainting) is fairly common among teens, and it is usually harmless on its own. The Table includes it because a faint can lead to a fall and a real injury, like a head injury, a broken tooth, or a fracture.
 
 Under the Table, the loss of consciousness must happen within one hour of the shot. The Table definition also excludes fainting caused by things like heart rhythm problems, seizures, or other neurological or metabolic conditions. If a child fainted after an HPV shot and was hurt in the fall, the records from that day can be important.
 
@@ -1608,7 +1608,7 @@ HRSA’s National Vaccine Injury Compensation Program covers most vaccines routi
 
 HRSA’s public covered-vaccines page lists categories such as diphtheria, Hib, hepatitis A and B, HPV, seasonal influenza, measles, mumps, meningococcal, pertussis, pneumococcal conjugate, polio, rotavirus, rubella, tetanus, and varicella (chickenpox). RSV does not appear on that list.
 
-HRSA also notes explicitly that herpes zoster (shingles) vaccine is not a VICP-covered vaccine. RSV sits in a similar place from a coverage standpoint: it is a licensed, recommended product for certain groups, but it is not currently on the VICP covered-vaccines list.
+HRSA also notes explicitly that [herpes zoster (shingles) vaccine](/blog/shingles-vaccine-vicp-coverage) is not a VICP-covered vaccine. RSV sits in a similar place from a coverage standpoint: it is a licensed, recommended product for certain groups, but it is not currently on the VICP covered-vaccines list.
 
 So if the only shot in question is an RSV vaccine, a VICP petition is generally not the federal path described for covered vaccines. This is a coverage rule about which categories the program includes. It is not a statement that RSV vaccines never cause problems, or that every reaction after an RSV shot is unrelated to vaccination. Coverage and medical causation are different questions.
 
@@ -1921,7 +1921,7 @@ HRSA’s [covered-vaccines materials](https://www.hrsa.gov/vaccine-compensation/
 
 So adult Tdap boosters, pregnancy Tdap, childhood DTaP series doses, and tetanus-containing products used for wound care generally sit inside the VICP coverage category when the product is one of these covered vaccines.
 
-That is different from some adult-only products. For example, HRSA states that herpes zoster (shingles) vaccine is not covered by the VICP. COVID-19 vaccines are generally handled under the Countermeasures Injury Compensation Program (CICP), not the VICP.
+That is different from some adult-only products. For example, HRSA states that [herpes zoster (shingles) vaccine](/blog/shingles-vaccine-vicp-coverage) is not covered by the VICP. COVID-19 vaccines are generally handled under the Countermeasures Injury Compensation Program (CICP), not the VICP.
 
 If your record says Tdap, Td, DTaP, DT, or TT, the first coverage question usually points toward the VICP rather than assuming the program does not apply.
 
@@ -1986,7 +1986,7 @@ Brachial neuritis is defined on the Table as dysfunction limited to the upper-ex
 
 Anaphylaxis on the Table means an acute, severe systemic reaction involving two or more organ systems, with onset in the short window after vaccination.
 
-Vasovagal syncope means fainting related to a transient drop in blood flow to the brain after an injected vaccine, within one hour. It is usually brief, but falls can cause injury.
+[Vasovagal syncope](/injuries/syncope-fainting) means fainting related to a transient drop in blood flow to the brain after an injected vaccine, within one hour. It is usually brief, but falls can cause injury.
 
 Encephalopathy or encephalitis after pertussis-containing vaccines has detailed Table definitions and exclusion criteria. Seizures alone, fussiness, or short-lived irritability do not automatically meet those definitions.
 
@@ -2064,7 +2064,7 @@ HRSA explains that for a vaccine category to be covered by the VICP, it generall
 2. Subject to a federal excise tax, and
 3. Added to the VICP by the Secretary of Health and Human Services.
 
-That policy design helps explain why some adult vaccines sit outside the program even when related products are inside it. The same pattern shows up elsewhere on HRSA’s list: seasonal flu vaccines are covered, while herpes zoster (shingles) vaccines are not; COVID-19 vaccines are handled under the separate Countermeasures Injury Compensation Program (CICP), not the VICP.
+That policy design helps explain why some adult vaccines sit outside the program even when related products are inside it. The same pattern shows up elsewhere on HRSA’s list: seasonal flu vaccines are covered, while [herpes zoster (shingles) vaccines](/blog/shingles-vaccine-vicp-coverage) are not; COVID-19 vaccines are handled under the separate Countermeasures Injury Compensation Program (CICP), not the VICP.
 
 For pneumococcal products, HRSA’s published distinction is specific: conjugate yes, polysaccharide no.
 
@@ -2323,7 +2323,7 @@ GBS belongs in these conversations because it is a serious condition programs ta
 
 Many routinely recommended vaccines are covered under the National Vaccine Injury Compensation Program (VICP), a federal no-fault program. COVID-19 vaccine injury claims are generally handled under the Countermeasures Injury Compensation Program (CICP), which has its own rules and process.
 
-Within the VICP, the Vaccine Injury Table lists certain injuries that may be presumed to be vaccine-related when specific timing and other Table requirements are met. Under the current [Vaccine Injury Table](https://www.ecfr.gov/current/title-42/chapter-I/subchapter-J/part-100/section-100.3), Guillain-Barré syndrome is listed for seasonal influenza vaccines, with a first symptom 3 to 42 days after vaccination and a detailed clinical definition that must be met. When Table criteria are met, the petitioner may not need to prove causation the same way as for a non-Table injury.
+Within the VICP, the Vaccine Injury Table lists certain injuries that may be presumed to be vaccine-related when specific timing and other Table requirements are met. Under the current [Vaccine Injury Table](https://www.ecfr.gov/current/title-42/chapter-I/subchapter-J/part-100/section-100.3), [Guillain-Barré syndrome is listed for seasonal influenza vaccines](/injuries/guillain-barre-syndrome), with a first symptom 3 to 42 days after vaccination and a detailed clinical definition that must be met. When Table criteria are met, the petitioner may not need to prove causation the same way as for a non-Table injury.
 
 If a GBS case does not meet Table requirements — for example, timing outside the listed window, or a vaccine not listed for GBS that way — an "off-Table" claim may still be possible in some situations. Those cases typically require evidence that the vaccine more likely than not caused the injury.
 
@@ -2677,7 +2677,7 @@ These are real decisions from the Office of Special Masters at the U.S. Court of
 - **Decided:** October 30, 2024 (Chief Special Master Brian H. Corcoran)
 - **Read it:** [Decision on attorney's fees and costs (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_21-vv-00118/pdf/USCOURTS-cofc-1_21-vv-00118-1.pdf)
 
-The petitioner alleged a shoulder injury related to vaccine administration (SIRVA) after a flu shot and was awarded compensation in June 2024, based on an agreement (a "stipulation") between the parties. The lawyer then asked for $22,094.00 in fees and $539.11 in costs. The petitioner filed a signed statement saying he had no personal out-of-pocket expenses. The Chief Special Master found the request reasonable and awarded the full $22,633.11, with no reductions.
+The petitioner alleged a [shoulder injury related to vaccine administration (SIRVA)](/injuries/sirva) after a flu shot and was awarded compensation in June 2024, based on an agreement (a "stipulation") between the parties. The lawyer then asked for $22,094.00 in fees and $539.11 in costs. The petitioner filed a signed statement saying he had no personal out-of-pocket expenses. The Chief Special Master found the request reasonable and awarded the full $22,633.11, with no reductions.
 
 ### Fees cut, but still far more than the award: Hasanovic v. Secretary of Health and Human Services
 
@@ -2685,7 +2685,7 @@ The petitioner alleged a shoulder injury related to vaccine administration (SIRV
 - **Decided:** March 13, 2025 (Special Master Jennifer A. Shah)
 - **Read it:** [Decision on attorneys' fees and costs (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_21-vv-01828/pdf/USCOURTS-cofc-1_21-vv-01828-1.pdf)
 
-The petitioner alleged anaphylaxis and vasovagal syncope (fainting) with other effects after a Tdap vaccine. The case settled by stipulation, and she was awarded $9,500.00. Her lawyers then asked for $62,483.20 in fees and $1,579.96 in costs. The special master paid one lawyer's 2022 work at a paralegal rate because that lawyer wasn't yet admitted to the Court of Federal Claims bar, and cut the fees by 5% more for clerical and administrative entries. The final award for fees and costs was $59,909.11.
+The petitioner alleged anaphylaxis and [vasovagal syncope (fainting)](/injuries/syncope-fainting) with other effects after a Tdap vaccine. The case settled by stipulation, and she was awarded $9,500.00. Her lawyers then asked for $62,483.20 in fees and $1,579.96 in costs. The special master paid one lawyer's 2022 work at a paralegal rate because that lawyer wasn't yet admitted to the Court of Federal Claims bar, and cut the fees by 5% more for clerical and administrative entries. The final award for fees and costs was $59,909.11.
 
 This case shows two things. Fee requests get real scrutiny, even in a case the government settled. And the fee award was its own separate amount, about six times the petitioner's compensation in this case.
 
@@ -3179,7 +3179,7 @@ Our [transverse myelitis injury guide](/injuries/transverse-myelitis) summarizes
 
 The Vaccine Injury Table lists specific injuries for specific vaccines, each with a time window. If an injury fits the Table, causation is presumed unless another cause is shown. TM does not appear on the Table at all, so every TM claim is an off-Table claim. Our guide to [Table vs. off-Table injuries](/blog/difference-between-table-injury-and-off-table-injury) explains the difference.
 
-The final diagnosis matters, too. Guillain-Barré syndrome (GBS) *is* on the Table for seasonal flu vaccines, with onset 3 to 42 days after vaccination. But the Table's GBS definition lists **myelitis** among the diagnoses that rule out Table GBS. So when early records say "GBS versus a spinal cord problem," and the final diagnosis is TM, the claim is generally treated as off-Table.
+The final diagnosis matters, too. [Guillain-Barré syndrome (GBS)](/injuries/guillain-barre-syndrome) *is* on the Table for seasonal flu vaccines, with onset 3 to 42 days after vaccination. But the Table's GBS definition lists **myelitis** among the diagnoses that rule out Table GBS. So when early records say "GBS versus a spinal cord problem," and the final diagnosis is TM, the claim is generally treated as off-Table.
 
 ## What an off-Table claim has to prove
 
@@ -3215,7 +3215,7 @@ The special master was careful to say this was not a finding that there is no li
 - **Decided:** Opinion and order filed under seal April 2, 2026, and reissued publicly April 23, 2026 (Judge Zachary N. Somers, U.S. Court of Federal Claims), sustaining Special Master Christian J. Moran's October 7, 2025 decision denying compensation
 - **Read it:** [Opinion and order (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_19-vv-00503/pdf/USCOURTS-cofc-1_19-vv-00503-3.pdf)
 
-Trenton Goodwin received an HPV vaccine on March 22, 2018, when he was a minor. On May 30, 2018, 68 days later, he was hospitalized with numbness, weakness, balance problems and trouble standing, and an MRI led to a TM diagnosis that both sides' neurologists agreed was correct. His mother filed the claim on April 4, 2019.
+Trenton Goodwin received an [HPV vaccine](/blog/hpv-vaccine-vicp-coverage) on March 22, 2018, when he was a minor. On May 30, 2018, 68 days later, he was hospitalized with numbness, weakness, balance problems and trouble standing, and an MRI led to a TM diagnosis that both sides' neurologists agreed was correct. His mother filed the claim on April 4, 2019.
 
 The case went back and forth. The special master first denied the claim in 2024 because of the timing. The Court of Federal Claims sent it back for a fuller explanation. After more expert reports and a multi-day hearing, the special master denied it again on October 7, 2025, this time finding that the claim failed all three parts of the *Althen* test. On review, the court explained that "the special master concluded that the medically accepted onset window for transverse myelitis following vaccination is up to 42 days," found that the special master's reasoning was not arbitrary, an abuse of discretion or contrary to law, and sustained the denial.
 
@@ -3476,7 +3476,7 @@ For pain and suffering, the Vaccine Act caps the award at $250,000 ([42 U.S.C. �
 
 ## Three real cases, one for each path
 
-These are real decisions from the U.S. Court of Federal Claims. All three happen to involve fainting (vasovagal syncope) after a vaccine, which makes it easier to compare how the process played out. We include them only to show how each path works. Each outcome depended on that case's own facts and records, none predicts what would happen in another case, and none should be read as binding precedent.
+These are real decisions from the U.S. Court of Federal Claims. All three happen to involve [fainting (vasovagal syncope)](/injuries/syncope-fainting) after a vaccine, which makes it easier to compare how the process played out. We include them only to show how each path works. Each outcome depended on that case's own facts and records, none predicts what would happen in another case, and none should be read as binding precedent.
 
 ### Concession and proffer: Eberling v. Secretary of Health and Human Services
 
@@ -3484,7 +3484,7 @@ These are real decisions from the U.S. Court of Federal Claims. All three happen
 - **Decided:** October 8, 2024 (Chief Special Master Brian H. Corcoran)
 - **Read it:** [Decision awarding damages, with the government's proffer attached (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_22-vv-00778/pdf/USCOURTS-cofc-1_22-vv-00778-1.pdf)
 
-Andrew Eberling filed on July 18, 2022, alleging that he fainted after receiving an HPV vaccine on August 2, 2019, and suffered injuries including a broken nose and cuts to his face. The case was assigned to the court's Special Processing Unit. On September 10, 2024, the government filed a Rule 4(c) report saying the case was appropriate for compensation as a vasovagal syncope Table injury, and the Chief Special Master issued a ruling on entitlement the same day. On October 4, 2024, the government filed a proffer of $10,000 for pain and suffering, and the petitioner agreed. Four days later, the Chief Special Master awarded that amount.
+Andrew Eberling filed on July 18, 2022, alleging that he fainted after receiving an [HPV vaccine](/blog/hpv-vaccine-vicp-coverage) on August 2, 2019, and suffered injuries including a broken nose and cuts to his face. The case was assigned to the court's Special Processing Unit. On September 10, 2024, the government filed a Rule 4(c) report saying the case was appropriate for compensation as a vasovagal syncope Table injury, and the Chief Special Master issued a ruling on entitlement the same day. On October 4, 2024, the government filed a proffer of $10,000 for pain and suffering, and the petitioner agreed. Four days later, the Chief Special Master awarded that amount.
 
 This case shows how fast the last steps can move once the government concedes. Most of the time was spent before the concession.
 
@@ -3777,7 +3777,7 @@ These are real opinions from judges of the U.S. Court of Federal Claims reviewin
 - **Decided:** Filed under seal March 9, 2026, and publicly filed March 24, 2026 (Judge Armando O. Bonilla)
 - **Read it:** [Opinion and order (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_21-vv-00567/pdf/USCOURTS-cofc-1_21-vv-00567-1.pdf)
 
-The petitioner received a flu shot on January 14, 2020, and filed a Table claim for SIRVA. Her first message to her doctor, two days after the shot, described a strong reaction in detail but did not mention shoulder pain, and neither did the record of a visit about two weeks later. The first mention of shoulder pain in her medical records came in May 2020. On November 20, 2025, the special master denied compensation, finding she had not proved that her shoulder pain began within the Table's 48-hour window, along with two other SIRVA requirements.
+The petitioner received a flu shot on January 14, 2020, and filed a Table claim for [SIRVA](/injuries/sirva). Her first message to her doctor, two days after the shot, described a strong reaction in detail but did not mention shoulder pain, and neither did the record of a visit about two weeks later. The first mention of shoulder pain in her medical records came in May 2020. On November 20, 2025, the special master denied compensation, finding she had not proved that her shoulder pain began within the Table's 48-hour window, along with two other SIRVA requirements.
 
 She filed a motion for review on December 19, 2025, arguing that the special master had created a "bright-line rule" against claims whose early records don't mention the shoulder. The judge disagreed. The opinion says the special master "did not foreclose that possibility for Ms. Cavanaugh as a matter of law; it merely concluded that she did not carry her burden as a matter of fact." The motion was denied, the decision was upheld, and the petition was dismissed. The opinion also notes that she did not challenge the other two findings against her.
 
@@ -3787,7 +3787,7 @@ She filed a motion for review on December 19, 2025, arguing that the special mas
 - **Decided:** Filed under seal April 2, 2026, and reissued April 23, 2026 (Judge Zachary N. Somers)
 - **Read it:** [Opinion and order (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_22-vv-01384/pdf/USCOURTS-cofc-1_22-vv-01384-1.pdf)
 
-The petitioner alleged that a pneumococcal vaccine he received on September 30, 2019, caused polymyalgia rheumatica (PMR). On October 6, 2025, the Chief Special Master denied entitlement, finding that the petitioner had not shown the vaccine could cause PMR. The petitioner filed a motion for review on November 5, 2025.
+The petitioner alleged that [a pneumococcal vaccine](/blog/pneumococcal-vaccine-vicp-coverage) he received on September 30, 2019, caused polymyalgia rheumatica (PMR). On October 6, 2025, the Chief Special Master denied entitlement, finding that the petitioner had not shown the vaccine could cause PMR. The petitioner filed a motion for review on November 5, 2025.
 
 The judge found that the Chief Special Master's decision "did not adequately explain his reasoning for denying Petitioner's claim." The court granted the motion, vacated the decision, and sent the case back for a new decision within 90 days. The opinion was careful to add: "Although the result the chief special master reached in this case may ultimately be correct, the Court simply cannot sustain that result based on the lack of explanation given." In other words, winning a review here did not mean winning compensation. As of October 28, 2026, GovInfo listed no later decision in this case, and we do not know how it ended.
 
@@ -3904,7 +3904,7 @@ These are real decisions by special masters of the U.S. Court of Federal Claims.
 - **Decided:** December 16, 2025 (Special Master Thomas L. Gowen), ruling on entitlement
 - **Read it:** [Ruling on entitlement (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_19-vv-01121/pdf/USCOURTS-cofc-1_19-vv-01121-1.pdf)
 
-Joel Lemieux filed on August 1, 2019, alleging that a flu vaccine he received on October 11, 2016, caused immune thrombocytopenia (ITP), a condition where the platelet count drops. ITP after a flu vaccine is not a Table injury, so he had to prove causation. The government recommended against compensation, and the case went to an entitlement hearing on May 16, 2024, with experts testifying for both sides.
+Joel Lemieux filed on August 1, 2019, alleging that a flu vaccine he received on October 11, 2016, caused [immune thrombocytopenia (ITP)](/injuries/itp-thrombocytopenic-purpura), a condition where the platelet count drops. ITP after a flu vaccine is not a Table injury, so he had to prove causation. The government recommended against compensation, and the case went to an entitlement hearing on May 16, 2024, with experts testifying for both sides.
 
 Timing was disputed. A record written nearly two years later said his bruising began two to three days after the shot, which the government's expert said was too fast for the proposed theory. The special master found the records made in November and December 2016, closer to the events, "more reliable as to the date of onset," and found onset about three weeks after vaccination. He found all three prongs met, noting that "there was no alternative cause found in the medical records," and concluded that the petitioner "is entitled to compensation." Damages were left for a separate order.
 
@@ -3916,7 +3916,7 @@ This case shows how much the dates in early medical records can matter.
 - **Decided:** March 13, 2026 (Special Master Christian J. Moran), published decision denying entitlement
 - **Read it:** [Decision denying entitlement (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_19-vv-00468/pdf/USCOURTS-cofc-1_19-vv-00468-0.pdf)
 
-Lawrence Romine filed on March 29, 2019, alleging that the Prevnar 13 pneumococcal vaccine he received on March 15, 2018, caused Guillain-Barré syndrome (GBS). GBS is on the Table only for seasonal flu vaccines, so this was an off-Table claim. His symptoms began about 13 days after the shot, and the decision notes that the government's own expert accepted that timing as one where an inference of causation is appropriate.
+Lawrence Romine filed on March 29, 2019, alleging that the [Prevnar 13 pneumococcal vaccine](/blog/pneumococcal-vaccine-vicp-coverage) he received on March 15, 2018, caused [Guillain-Barré syndrome (GBS)](/injuries/guillain-barre-syndrome). GBS is on the Table only for seasonal flu vaccines, so this was an off-Table claim. His symptoms began about 13 days after the shot, and the decision notes that the government's own expert accepted that timing as one where an inference of causation is appropriate.
 
 Even so, the claim failed on prong one. After a hearing where four experts and Mr. Romine testified, the special master found that "He has not presented a reliable theory to explain how Prevnar can cause GBS. Accordingly, he is not entitled to compensation." The decision openly acknowledges that "in other cases, petitioners presenting the same claim have prevailed," and says the different results may come from how different special masters have weighed similar evidence.
 
@@ -4235,7 +4235,7 @@ These are real decisions by special masters and judges of the U.S. Court of Fede
 - **Decided:** Ruling on entitlement November 14, 2025; decision awarding damages filed March 17, 2026 and posted April 23, 2026 (Chief Special Master Brian H. Corcoran)
 - **Read it:** [Ruling on entitlement (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_24-vv-01232/pdf/USCOURTS-cofc-1_24-vv-01232-0.pdf); [Decision awarding damages (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_24-vv-01232/pdf/USCOURTS-cofc-1_24-vv-01232-1.pdf)
 
-James Carhartt received a flu vaccine on October 13, 2021. His wife alleged that he developed Guillain-Barré syndrome (GBS), a Table injury for flu vaccines, and that he died from it in August 2022. She filed the petition on August 9, 2024, shortly before the two-year anniversary of his death.
+James Carhartt received a flu vaccine on October 13, 2021. His wife alleged that he developed [Guillain-Barré syndrome (GBS)](/injuries/guillain-barre-syndrome), a Table injury for flu vaccines, and that he died from it in August 2022. She filed the petition on August 9, 2024, shortly before the two-year anniversary of his death.
 
 The decisions explain that she first filed as his surviving spouse "due to the impending statute of limitations" and because she had not yet been named personal representative of his estate. She was appointed personal representative under Colorado law on November 8, 2024, then filed an amended petition with the estate documents, and the case caption was changed. The government conceded the case was appropriate for compensation for a GBS Table injury and vaccine-related death, and the Chief Special Master found the estate entitled to compensation.
 
