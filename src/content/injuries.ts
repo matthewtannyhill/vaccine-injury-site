@@ -145,7 +145,7 @@ Your doctor may record the injury using a more specific shoulder diagnosis. For 
     tableNotes: [
       "The Table definition requires all four of these: no history of pain, inflammation, or dysfunction of that shoulder before the vaccine that would explain the symptoms; pain within the time period; pain and reduced range of motion limited to the shoulder where the shot was given; and no other condition that would explain the symptoms.",
       "The regulation states that SIRVA \"is not a neurological injury.\" Abnormal nerve testing points away from Table SIRVA, though it may support a different claim, such as [brachial neuritis](/injuries/brachial-neuritis).",
-      "SIRVA is not listed for rotavirus or oral polio vaccines, which are not given as shots in the arm. Rotavirus has its own Table injury, [intussusception](/blog/intussusception-after-rotavirus-vaccine-vicp). COVID-19 vaccines are not covered by the VICP; those claims go to the [CICP](/blog/can-i-sue-for-covid-vaccine-side-effects).",
+      "SIRVA is not listed for rotavirus or oral polio vaccines, which are not given as shots in the arm. COVID-19 vaccines are not covered by the VICP; those claims go to the [CICP](/blog/can-i-sue-for-covid-vaccine-side-effects).",
       "If the facts don't fit the Table definition, an off-Table claim may still be possible, but it requires proof that the vaccine caused the injury. [Injuries the program can cover](/blog/what-injuries-qualify-for-vaccine-compensation) includes both Table and off-Table claims. SIRVA is also listed for tetanus-containing vaccines; [how Tdap and Td fit the program](/blog/tdap-td-vaccine-vicp-coverage) is a separate question from the shoulder definition.",
     ],
     records: [
@@ -199,7 +199,7 @@ Your doctor may record the injury using a more specific shoulder diagnosis. For 
     metaTitle: "Guillain-Barré Syndrome (GBS) After a Vaccine — Table Rules & Deadlines",
     seoTitle: "When Guillain-Barré Starts After a Vaccine, and the Deadline",
     description:
-      "If Guillain-Barré starts 3 to 42 days after a seasonal flu shot, it is on the Vaccine Injury Table. You can file within three years of the first symptom.",
+      "If Guillain-Barré starts 3 to 42 days after a seasonal flu shot, it is on the Vaccine Injury Table. File within three years after the first symptom.",
     summary:
       "A rare disorder in which the immune system attacks the peripheral nerves, causing weakness that can come on quickly. It is on the Table for seasonal flu vaccines when it starts 3 to 42 days after the shot.",
     onTable: true,
@@ -786,7 +786,7 @@ The faint itself is usually harmless. The Vaccine Injury Table notes that vasova
     tableQuote:
       "Vasovagal syncope (also sometimes called neurocardiogenic syncope) means loss of consciousness (fainting) and postural tone caused by a transient decrease in blood flow to the brain occurring after the administration of an injected vaccine.",
     tableNotes: [
-      "Vasovagal syncope is not listed for rotavirus or oral polio vaccines, which are not injected. The rotavirus Table injury is [intussusception](/blog/intussusception-after-rotavirus-vaccine-vicp), not fainting.",
+      "Vasovagal syncope is not listed for rotavirus or oral polio vaccines, which are not injected.",
       "Loss of consciousness caused by heart disease, heart rhythm problems, transient ischemic attacks, hyperventilation, metabolic or neurological conditions, or seizures is not considered vasovagal syncope under the Table.",
       "Repeated fainting episodes after the 1-hour period are not considered a sequela of the Table injury.",
       "Injuries from the fall still have to meet the VICP rule for [how serious an injury must be](/blog/what-are-the-severity-requirements-for-a-vicp-claim).",
