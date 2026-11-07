@@ -4303,4 +4303,138 @@ If someone you love died after a vaccine, a lawyer who handles VICP cases can ex
 This article is for informational purposes only and is not legal or medical advice. Court decisions are described in plain language for general education. Outcomes depend on the specific facts and records of each case, and a past decision does not predict the result of another claim. Reading this page does not create an attorney-client relationship. For advice about a possible claim, including deadlines and estate requirements, speak with a qualified attorney.
     `.trim(),
   },
+  {
+    slug: "interim-attorneys-fees-vicp",
+    title: "Can a VICP Lawyer Get Paid Before the Case Ends? Interim Fees Explained",
+    seoTitle: "VICP Interim Attorneys' Fees Explained",
+    excerpt:
+      "In long VICP cases, a special master can award interim attorneys' fees before the end. Here is how that works, with three real decisions.",
+    date: "November 2026",
+    datePublished: "2026-11-06",
+    lastReviewed: "2026-11-06",
+    category: "Cost & Compensation",
+    sources: [
+      S.usc300aa15,
+      S.caseAvera2008,
+      S.caseShaw2010,
+      S.osmFeeSchedules,
+      S.cfcOsm,
+      S.hrsaCicp,
+      S.caseYoungInterim2023,
+      S.caseLemieuxInterim2024,
+      S.caseRiveraCruzInterim2025,
+    ],
+    content: `
+## The short answer
+
+In the National Vaccine Injury Compensation Program (VICP), a lawyer's fees are usually paid by the program at the end of the case, not by you out of pocket. But VICP cases can take years. When a case has dragged on and the lawyer has already put in a lot of work — often including costly medical experts — a special master can award **interim** attorneys' fees and costs *before* the case is finished.
+
+That authority comes from Federal Circuit case law reading the Vaccine Act's fee statute, [42 U.S.C. § 300aa-15(e)](https://www.law.cornell.edu/uscode/text/42/300aa-15). Interim fees are not automatic. The special master still has to find that the petition was brought in good faith with a reasonable basis, and that an interim award makes sense on the facts — for example, because the case has been pending a long time, expensive experts were needed, or waiting until the end would create an undue hardship.
+
+A word of perspective first. Vaccines are generally safe, and serious vaccine injuries are rare. This post is about how lawyer pay works inside a long federal claim, not about whether any particular vaccine caused an injury.
+
+If you want the broader fee rules (including fees after a case ends, and what happens when a claim loses), see [how VICP attorneys get paid](/blog/how-do-vicp-attorneys-get-paid). For why cases run long, see [how long a VICP claim takes](/blog/how-long-does-a-vicp-claim-take).
+
+## What the law actually says about fees
+
+The Vaccine Act does not use the word "interim." What it does say, in § 300aa-15(e), is:
+
+- **If compensation is awarded,** the special master or court "shall also award" an amount to cover reasonable attorneys' fees and other costs.
+- **If compensation is not awarded,** the special master or court "may" still award reasonable fees and costs if the petition was brought in good faith and there was a reasonable basis for the claim.
+- **No extra fee is allowed.** "No attorney may charge any fee for services in connection with a petition filed under section 300aa–11 of this title which is in addition to any amount awarded as compensation by the special master or court under paragraph (1)."
+
+So the statute covers *whether* fees can be paid and *that* the lawyer cannot bill you on top of what the court awards. The timing question — can fees be paid partway through — comes from how courts have read that statute.
+
+## Where "interim" fees come from
+
+In *Avera v. Secretary of Health and Human Services*, 515 F.3d 1343 (Fed. Cir. 2008), the U.S. Court of Appeals for the Federal Circuit held that the Vaccine Act does not ban interim fee awards. The court wrote that "[i]nterim fees are particularly appropriate in cases where proceedings are protracted and costly experts must be retained." ([CAFC opinion PDF](https://www.cafc.uscourts.gov/opinions-orders/07-5098.pdf))
+
+Two years later, in *Shaw v. Secretary of Health and Human Services*, 609 F.3d 1372 (Fed. Cir. 2010), the same court said that where the claimant shows "that the cost of litigation has imposed an undue hardship and that there exists a good faith basis for the claim, it is proper for the special master to award interim attorneys' fees." ([CAFC opinion PDF](https://www.cafc.uscourts.gov/opinions-orders/09-5117.pdf))
+
+Special masters treat those ideas — **protracted proceedings**, **costly experts**, and **undue hardship** — as factors in a flexible balance, not as a rigid checklist. An interim award is discretionary. A short, simple case will often wait until the end.
+
+## What has to be true before interim fees are paid
+
+Before looking at timing, the special master still applies the same gate in § 300aa-15(e)(1):
+
+1. **Good faith** — generally, an honest belief that a vaccine injury occurred.
+2. **Reasonable basis** — objective support for the claim (medical records, and often an expert opinion), not just a subjective hope.
+
+If those are met, the special master then asks whether an *interim* award is appropriate under the *Avera* / *Shaw* factors, and whether the requested hours, rates, and costs are **reasonable**. Rates are often checked against the Office of Special Masters' [Attorneys' Forum Hourly Rate Fee Schedules](https://www.uscfc.uscourts.gov/osm-attorneys-forum-hourly-rate-fee-schedules). Hours that look excessive, clerical, or poorly documented can be cut — even on an interim request.
+
+Interim fees do not decide the injury claim. They are a separate payment for work already done. The entitlement or damages question can still go either way afterward.
+
+## Three real interim-fee decisions
+
+These are real decisions by special masters of the U.S. Court of Federal Claims. We include them only to show how interim fees work in practice. Each outcome depended on that case's own facts, billing records, and timing. None of them predicts what will happen in another case, and none should be read as binding precedent.
+
+### Young v. Secretary of Health and Human Services
+
+- **Docket:** No. 19-475V
+- **Decided:** December 6, 2023 (Special Master Herbrina D. Sanders)
+- **Read it:** [Decision Awarding Interim Attorneys' Fees and Costs (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_19-vv-00475/pdf/USCOURTS-cofc-1_19-vv-00475-0.pdf)
+
+Jeffrey Young and Tara Young filed in 2019 on behalf of their child, alleging chronic arthritis after an MMR vaccine (later amended to include a Table claim and a causation-in-fact claim involving MMR and varicella). The government contested entitlement. Both sides filed multiple expert reports. By the time of the fee motion, the case had been pending more than four years and still had no entitlement decision.
+
+Counsel asked for **$71,878.60** total ($48,745.40 in fees, plus costs and $1,000 in petitioners' documented litigation expenses). The special master found good faith and reasonable basis, pointed to the protracted proceedings and accumulated fees and costs, and awarded the full **$71,878.60** as interim fees and costs, with no reductions.
+
+### Lemieux v. Secretary of Health and Human Services
+
+- **Docket:** No. 19-1121V
+- **Decided:** July 11, 2024 (Special Master Thomas L. Gowen)
+- **Read it:** [Decision on Interim Attorneys' Fees and Costs (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_19-vv-01121/pdf/USCOURTS-cofc-1_19-vv-01121-0.pdf)
+
+Joel Lemieux alleged immune thrombocytopenia (ITP) after a 2016 flu vaccine. The case, filed in 2019, involved competing expert reports, unsuccessful settlement talks, and an entitlement hearing in May 2024.
+
+Counsel then asked for **$222,279.54** in interim fees and costs ($189,264.40 in fees and $33,015.14 in costs, much of it expert time for reports and hearing testimony). Special Master Gowen noted that he does not routinely grant interim applications and generally looks for a case pending longer than about 1.5 years, fees above roughly $30,000, and/or expert costs above roughly $15,000 — informal guideposts, not hard rules. This case met those thresholds after a multi-year history and a hearing. He awarded the full **$222,279.54**.
+
+### Rivera Cruz v. Secretary of Health and Human Services
+
+- **Docket:** No. 18-1388V
+- **Decided:** February 24, 2025 (Special Master Jennifer A. Shah)
+- **Read it:** [Decision Awarding Interim Attorneys' Fees and Costs (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_18-vv-01388/pdf/USCOURTS-cofc-1_18-vv-01388-0.pdf)
+
+Evelin Rivera Cruz alleged Guillain-Barré syndrome after a 2015 flu vaccine. The petition was filed in 2018. The government contested entitlement. The parties exchanged expert reports, held an entitlement hearing in July 2023, and filed post-hearing briefs. In July 2024, counsel filed a first motion for interim fees seeking **$95,576.95**.
+
+Special Master Shah granted the motion **in part** and awarded **$94,448.55**. The decision walks through good faith, reasonable basis, and the *Avera* factors (protracted proceedings, costly experts, undue hardship), then trims some fee entries and corrects a $250 math error on an expert invoice. The result shows two things at once: interim fees can be awarded years into a contested case, and the amount still gets a real reasonableness review.
+
+## What these cases have in common
+
+Across *Young*, *Lemieux*, and *Rivera Cruz*:
+
+- Each case had already been pending for years when interim fees were requested.
+- Each involved substantial expert work, not just paperwork.
+- The government typically deferred to the special master on whether an interim award was appropriate, rather than agreeing that fees were owed as a matter of right.
+- The special master still checked good faith, reasonable basis, rates, hours, and costs.
+- An interim award did not, by itself, resolve whether the petitioner would ultimately be compensated for the alleged injury.
+
+That pattern matches what *Avera* and *Shaw* described: interim fees are a tool for long, expensive cases, not a routine paycheck in every short claim.
+
+## COVID-19 claims are different
+
+Claims involving COVID-19 vaccines generally go to the Countermeasures Injury Compensation Program (CICP), not the VICP. HRSA's CICP materials state that the program is **not authorized to reimburse attorneys' fees**. If you talk with a lawyer about a CICP claim, ask how they charge. Our posts on [COVID-19 vaccine claims](/blog/can-i-sue-for-covid-vaccine-side-effects) and [how VICP attorneys get paid](/blog/how-do-vicp-attorneys-get-paid) explain the contrast.
+
+## Questions worth asking a lawyer
+
+If you are talking with a VICP lawyer about a possible claim, questions like these can make the fee conversation clearer:
+
+- If my case runs for years, do you ever seek interim fees, and in what kinds of situations?
+- Who pays experts up front, and how are those costs handled if the case settles or loses?
+- If the special master awards interim fees, does that change anything about how my compensation (if any) is calculated?
+- How is a CICP matter different from a VICP matter on fees?
+
+You should not be asked to pay a separate contingency fee on top of what the court awards in a VICP case. That is what § 300aa-15(e)(3) forbids.
+
+## Get connected with an attorney
+
+A lawyer who handles VICP cases can explain how fees work in a long claim and what records matter most. VaccineInjuries.org is not a law firm and does not evaluate claims. We can connect you with an independent attorney who does. Under the Vaccine Act, attorneys' fees in VICP cases are handled through the program; see [how VICP attorneys get paid](/blog/how-do-vicp-attorneys-get-paid).
+
+[Get Connected With an Attorney](/intake). It is free to submit your information, and there is no obligation.
+
+## Disclaimer
+
+This article is for informational purposes only and is not legal or medical advice. Court decisions are described in plain language for general education. Outcomes depend on the specific facts and records of each case, and a past decision does not predict the result of another claim. Reading this page does not create an attorney-client relationship. For advice about your situation, speak with a qualified attorney.
+    `.trim(),
+  }
+
 ];
