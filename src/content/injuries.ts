@@ -128,7 +128,7 @@ export const injuryHubs: InjuryHub[] = [
 
 SIRVA is a **musculoskeletal** injury, involving tendons, ligaments, and bursae, rather than a nerve injury. That distinction matters: a nerve problem in the arm after a vaccine, such as [brachial neuritis](/injuries/brachial-neuritis), is evaluated differently.
 
-Your doctor may record the injury using a more specific shoulder diagnosis. For a claim, what matters is the overall picture in the medical records, including when the pain started. Under the Table, the Court considers the entire medical record.`,
+Your doctor may record the injury using a more specific shoulder diagnosis. For a claim, what matters is the overall picture in the medical records, including when the pain started. Under the Table, the Court considers the entire medical record. A case can end in a settlement, a proffer, or a ruling, which is covered in [how VICP compensation is decided](/blog/how-vicp-compensation-is-decided). A longer walkthrough of the shoulder injury itself is in [what SIRVA is and whether it can qualify](/blog/what-is-sirva-and-can-it-qualify-for-compensation).`,
     symptoms: [
       "Pain in the shoulder of the arm that received the shot",
       "Reduced range of motion, such as trouble lifting the arm, reaching overhead, or reaching behind the back",
@@ -136,7 +136,7 @@ Your doctor may record the injury using a more specific shoulder diagnosis. For 
       "Symptoms limited to the shoulder where the vaccine was given",
     ],
     onset:
-      "For a Table SIRVA claim, the regulation requires that pain begin within 48 hours of vaccination. Because timing is central, the earliest medical note that records your shoulder pain, and when it began, carries a lot of weight.",
+      "For a Table SIRVA claim, the regulation requires that pain begin within 48 hours of vaccination. Because timing is central, the earliest medical note that records your shoulder pain, and when it began, carries a lot of weight. The 48-hour window is separate from the program's [severity requirement](/blog/what-are-the-severity-requirements-for-a-vicp-claim).",
     tableIntro:
       "Yes. Shoulder Injury Related to Vaccine Administration is listed on the Vaccine Injury Table for nearly every vaccine category that is injected, with the same time period for each:",
     tableEntries: allInjected("≤48 hours."),
@@ -146,7 +146,7 @@ Your doctor may record the injury using a more specific shoulder diagnosis. For 
       "The Table definition requires all four of these: no history of pain, inflammation, or dysfunction of that shoulder before the vaccine that would explain the symptoms; pain within the time period; pain and reduced range of motion limited to the shoulder where the shot was given; and no other condition that would explain the symptoms.",
       "The regulation states that SIRVA \"is not a neurological injury.\" Abnormal nerve testing points away from Table SIRVA, though it may support a different claim, such as [brachial neuritis](/injuries/brachial-neuritis).",
       "SIRVA is not listed for rotavirus or oral polio vaccines, which are not given as shots in the arm. COVID-19 vaccines are not covered by the VICP; those claims go to the [CICP](/blog/can-i-sue-for-covid-vaccine-side-effects).",
-      "If the facts don't fit the Table definition, an off-Table claim may still be possible, but it requires proof that the vaccine caused the injury.",
+      "If the facts don't fit the Table definition, an off-Table claim may still be possible, but it requires proof that the vaccine caused the injury. [Injuries the program can cover](/blog/what-injuries-qualify-for-vaccine-compensation) includes both Table and off-Table claims. SIRVA is also listed for tetanus-containing vaccines; [how Tdap and Td fit the program](/blog/tdap-td-vaccine-vicp-coverage) is a separate question from the shoulder definition.",
     ],
     records: [
       "Vaccination record showing the date, the vaccine given, and which arm",
@@ -155,7 +155,7 @@ Your doctor may record the injury using a more specific shoulder diagnosis. For 
       "Physical therapy records, including range-of-motion measurements",
       "Records of injections, surgery, or other treatment for the shoulder",
       "Earlier records showing that shoulder had no prior problems",
-      "Notes on how the injury affects work, sleep, and daily tasks",
+      "Notes on how the injury affects work, sleep, and daily tasks. Those limits often come up in [what a VICP award can include](/blog/how-much-compensation-is-available-in-a-vaccine-injury-case)",
     ],
     faqs: [
       {
@@ -197,9 +197,9 @@ Your doctor may record the injury using a more specific shoulder diagnosis. For 
     shortName: "Guillain-Barré syndrome",
     term: "Guillain-Barré syndrome",
     metaTitle: "Guillain-Barré Syndrome (GBS) After a Vaccine — Table Rules & Deadlines",
-    seoTitle: "Guillain-Barré After a Flu Shot: 3–42 Day Table Rule",
+    seoTitle: "When Guillain-Barré Starts After a Vaccine, and the Deadline",
     description:
-      "When does Guillain-Barré start after a vaccine? GBS 3 to 42 days after a seasonal flu shot is on the Vaccine Injury Table. Symptoms, deadlines, records.",
+      "If Guillain-Barré starts 3 to 42 days after a seasonal flu shot, it is on the Vaccine Injury Table. File within three years after the first symptom.",
     summary:
       "A rare disorder in which the immune system attacks the peripheral nerves, causing weakness that can come on quickly. It is on the Table for seasonal flu vaccines when it starts 3 to 42 days after the shot.",
     onTable: true,
@@ -208,9 +208,9 @@ Your doctor may record the injury using a more specific shoulder diagnosis. For 
       "Guillain-Barré syndrome is rare. NINDS notes that it usually starts a few days or weeks after a respiratory or gastrointestinal infection, and that most people eventually recover.",
     overview: `Guillain-Barré syndrome (GBS) is a rare neurological disorder in which the body's immune system mistakenly attacks part of the peripheral nervous system, the nerves outside the brain and spinal cord. According to the [National Institute of Neurological Disorders and Stroke](https://www.ninds.nih.gov/health-information/disorders/guillain-barre-syndrome), it often begins suddenly and can worsen over hours, days, or weeks.
 
-The [CDC](https://www.cdc.gov/vaccine-safety/about/guillain-barre.html) notes that GBS often follows an infection with a virus or bacteria. Timing after a vaccine, on its own, doesn't show that the vaccine was the cause, which is why the full medical history, including any recent illness, matters.
+The [CDC](https://www.cdc.gov/vaccine-safety/about/guillain-barre.html) notes that GBS often follows an infection with a virus or bacteria. Timing after a vaccine, on its own, doesn't show that the vaccine was the cause, which is why the full medical history, including any recent illness, matters. [A settlement does not, by itself, establish that the vaccine was the cause](/blog/does-a-vaccine-injury-settlement-mean-the-vaccine-caused-the-injury).
 
-People with GBS are usually treated in the hospital. NINDS notes that most people eventually recover, even from severe cases, though some continue to have weakness afterward.`,
+People with GBS are usually treated in the hospital. NINDS notes that most people eventually recover, even from severe cases, though some continue to have weakness afterward. If the injury leads to death, [how a family files](/blog/vicp-claim-for-death-after-vaccine) follows different timing rules.`,
     symptoms: [
       "Weakness that often starts in the feet and legs and can spread upward",
       "Tingling, \"pins and needles,\" or pain, often in the feet, hands, legs, or back",
@@ -225,9 +225,9 @@ People with GBS are usually treated in the hospital. NINDS notes that most peopl
     tableEntries: [{ vaccines: CAT.flu, window: "3-42 days (not less than 3 days and not more than 42 days)." }],
     tableNotes: [
       "The Table describes GBS as \"an acute monophasic peripheral neuropathy\" in which the time from first symptoms to the worst point of weakness \"is between 12 hours and 28 days,\" followed by a plateau or improvement.",
-      "The Table excludes cases where another diagnosis is more likely, and it lists conditions that rule out Table GBS, including chronic immune demyelinating polyradiculopathy ([CIDP](/injuries/cidp)) and myelitis.",
-      "After other VICP-covered vaccines, GBS is not on the Table. A claim would be off-Table and would need proof that the vaccine caused it.",
-      "Other nerve conditions follow different Table rules. [Brachial neuritis](/injuries/brachial-neuritis), which is limited to the nerves of the shoulder and arm, is listed for tetanus-containing vaccines (2 to 28 days), not flu vaccines.",
+      "The Table excludes cases where another diagnosis is more likely, and it lists conditions that rule out Table GBS, including chronic immune demyelinating polyradiculopathy ([CIDP](/injuries/cidp)) and [myelitis](/injuries/transverse-myelitis). [How a transverse myelitis claim works](/blog/transverse-myelitis-after-vaccine-vicp-claims) is separate, because that injury is off-Table.",
+      "After other VICP-covered vaccines, GBS is not on the Table. A claim would be off-Table and would need proof that the vaccine caused it. The program those claims are filed in is described in [what the Vaccine Injury Compensation Program is](/blog/what-is-the-vaccine-injury-compensation-program).",
+      "Other nerve conditions follow different Table rules. [Brachial neuritis](/injuries/brachial-neuritis), which is limited to the nerves of the shoulder and arm, is listed for tetanus-containing vaccines (2 to 28 days), not flu vaccines. Encephalopathy and encephalitis are a different Table category, mainly for certain pertussis-containing and measles-containing vaccines, explained in [encephalopathy or encephalitis after a vaccine](/blog/encephalopathy-after-vaccine-vicp).",
       "COVID-19 vaccines are covered by the CICP rather than the VICP, and there is currently no COVID-19 injury table.",
     ],
     records: [
@@ -771,7 +771,7 @@ The Vaccine Injury Table uses the term **thrombocytopenic purpura** rather than 
       "People who faint after a shot generally recover within a few minutes, and serious injuries from a faint are uncommon. The CDC recommends that people sit or lie down to be vaccinated and be observed for 15 minutes afterward to help prevent falls.",
     overview: `Fainting (syncope) is a temporary loss of consciousness caused by a brief drop in blood flow to the brain ([CDC](https://www.cdc.gov/vaccine-safety/about/fainting.html)). The CDC notes that people have fainted after nearly all vaccines and many other medical procedures, that fainting after vaccination is most often reported in adolescents, and that scientists think it is related to the vaccination process rather than the vaccines themselves.
 
-The faint itself is usually harmless. The Vaccine Injury Table notes that vasovagal syncope "is usually a benign condition but may result in falling and injury with significant sequela." In practice, claims usually involve what happened during the fall, such as a head injury, broken bone, or dental injury.`,
+The faint itself is usually harmless. The Vaccine Injury Table notes that vasovagal syncope "is usually a benign condition but may result in falling and injury with significant sequela." In practice, claims usually involve what happened during the fall, such as a head injury, broken bone, or dental injury. If you want a plain description of how this site connects people with an independent attorney, see [how getting connected works](/how-it-works).`,
     symptoms: [
       "Warning signs such as nausea, lightheadedness, sweating, or looking pale",
       "Brief loss of consciousness and muscle tone",
@@ -789,7 +789,7 @@ The faint itself is usually harmless. The Vaccine Injury Table notes that vasova
       "Vasovagal syncope is not listed for rotavirus or oral polio vaccines, which are not injected.",
       "Loss of consciousness caused by heart disease, heart rhythm problems, transient ischemic attacks, hyperventilation, metabolic or neurological conditions, or seizures is not considered vasovagal syncope under the Table.",
       "Repeated fainting episodes after the 1-hour period are not considered a sequela of the Table injury.",
-      "Injuries from the fall still have to meet the VICP's severity requirement.",
+      "Injuries from the fall still have to meet the VICP rule for [how serious an injury must be](/blog/what-are-the-severity-requirements-for-a-vicp-claim).",
     ],
     records: [
       "Vaccination record showing the vaccine and the time it was given",
@@ -797,7 +797,7 @@ The faint itself is usually harmless. The Vaccine Injury Table notes that vasova
       "Names of anyone who saw the fall",
       "EMS, emergency room, or urgent care records",
       "Imaging such as CT scans or X-rays, and dental records if teeth were injured",
-      "Follow-up records showing how long the injury affected you",
+      "Follow-up records showing how long the injury affected you, which often matter when people ask [what an award can pay for](/blog/how-much-compensation-is-available-in-a-vaccine-injury-case)",
     ],
     faqs: [
       {

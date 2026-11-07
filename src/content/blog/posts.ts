@@ -1486,8 +1486,9 @@ If you think you may have a claim, the most important step is talking to someone
   {
     slug: "hpv-vaccine-vicp-coverage",
     title: "Is the HPV Vaccine (Gardasil) Covered by the VICP?",
+    seoTitle: "HPV Vaccine Injury: Can You File, and What's the Deadline?",
     excerpt:
-      "Yes. HRSA lists human papillomavirus (HPV) vaccines as covered by the VICP. Learn which Vaccine Injury Table conditions apply, what happens if your injury isn't on the Table, and which records to gather.",
+      "Yes. HPV vaccines are covered by the VICP. A serious injury may qualify. Injury claims are generally filed within three years of the first symptom.",
     date: "October 2026",
     datePublished: "2026-10-05",
     lastReviewed: "2026-10-06",
@@ -1496,7 +1497,7 @@ If you think you may have a claim, the most important step is talking to someone
     content: `
 The HPV vaccine is usually given to preteens, but many teens and adults get it too. If you or your child had a serious reaction after an HPV shot, one of the first questions is whether the federal vaccine compensation program even applies.
 
-The short answer is yes. The Health Resources and Services Administration (HRSA), which runs the National Vaccine Injury Compensation Program (VICP), lists human papillomavirus vaccines as [covered vaccines](https://www.hrsa.gov/vaccine-compensation/covered-vaccines). That means a serious injury after an HPV shot may be eligible for a VICP claim, as long as the other program requirements are met.
+The short answer is yes. The Health Resources and Services Administration (HRSA), which runs the [National Vaccine Injury Compensation Program (VICP)](/blog/what-is-the-vaccine-injury-compensation-program), lists human papillomavirus vaccines as [covered vaccines](https://www.hrsa.gov/vaccine-compensation/covered-vaccines). That means a serious injury after an HPV shot may be eligible for a VICP claim, as long as the other program requirements are met.
 
 This guide explains what the coverage means in plain English, which conditions are on the federal Vaccine Injury Table for HPV vaccines, what happens if an injury isn't on the Table, and what records tend to matter. It is general education, not medical or legal advice.
 
@@ -1512,7 +1513,7 @@ One detail matters for adults. HRSA says the Table's presumptions apply even if 
 
 The Vaccine Injury Table lists specific conditions and time windows for each covered vaccine. If a listed condition meets the Table's definition and the first symptom shows up inside the listed window, the law presumes the vaccine caused it, unless another cause is shown.
 
-For HPV vaccines, the Table currently lists three conditions:
+For HPV vaccines, the Table currently lists three conditions. The same conditions are also written up as [separate guides for each injury](/injuries):
 
 | Condition | First symptom must appear within |
 |---|---|
@@ -1524,7 +1525,7 @@ HPV vaccines have been on the Table since February 1, 2007, according to the reg
 
 ### Anaphylaxis
 
-Anaphylaxis is a sudden, severe allergic reaction involving two or more body systems. Under the Table, symptoms must begin within four hours of the shot. We cover it in more depth in our [anaphylaxis guide](/blog/anaphylaxis-after-vaccine-vicp).
+Anaphylaxis is a sudden, severe allergic reaction involving two or more body systems. Under the Table, symptoms must begin within four hours of the shot. We cover it in more depth in our [anaphylaxis guide](/blog/anaphylaxis-after-vaccine-vicp) and on the [anaphylaxis injury guide](/injuries/anaphylaxis).
 
 ### SIRVA
 
@@ -1542,14 +1543,14 @@ Some people report health problems after an HPV vaccine that are not on the Tabl
 
 The VICP also handles off-Table claims. In those cases, the person filing has to prove the vaccine caused the injury, usually with medical records and expert medical opinion. HRSA describes this directly: if an injury isn't on the Table, or doesn't meet the Table requirements, you must prove causation with evidence such as expert testimony, medical records, or medical opinion.
 
-Off-Table claims are usually harder and take more medical evidence. Our explainer on [Table vs. off-Table injuries](/blog/difference-between-table-injury-and-off-table-injury) covers the difference.
+Off-Table claims are usually harder and take more medical evidence. Our explainer on [Table vs. off-Table injuries](/blog/difference-between-table-injury-and-off-table-injury) covers the difference. A wider list is in [injuries the program can cover](/blog/what-injuries-qualify-for-vaccine-compensation).
 
 ## The basic VICP requirements still apply
 
 Whether a claim is on or off the Table, the usual program rules still apply:
 
 - Severity. In general, the effects must have lasted more than six months, or led to inpatient hospitalization and surgery, or resulted in death. See [what the severity requirements are](/blog/what-are-the-severity-requirements-for-a-vicp-claim).
-- Deadlines. For an injury, a claim generally must be filed within three years of the first symptom. For a death, it is generally within two years of the death and within four years of the first symptom of the injury that led to it. See [how long you have to file](/blog/how-long-do-i-have-to-file-a-vaccine-injury-claim).
+- Deadlines. For an injury, a claim generally must be filed within three years of the first symptom. For a death, it is generally within two years of the death and within four years of the first symptom of the injury that led to it. See [how long you have to file](/blog/how-long-do-i-have-to-file-a-vaccine-injury-claim) and [how a family files after a death](/blog/vicp-claim-for-death-after-vaccine).
 - Who can file. Parents or legal guardians usually file for minors. See [who can file a vaccine injury claim](/blog/who-can-file-a-vaccine-injury-claim).
 
 Because HPV shots are often given in a series, people sometimes lose track of which dose came before the first symptom. Dates matter for both the Table windows and the filing deadline, so it helps to pin them down early.
@@ -1572,7 +1573,7 @@ For covered vaccines like HPV, federal law generally requires injury claims to g
 
 ## When to talk with a vaccine injury lawyer
 
-VICP claims are heard in the U.S. Court of Federal Claims, and the process has its own rules, deadlines, and medical evidence standards. Lawyers who focus on these cases know how the Table works and how off-Table claims are built.
+VICP claims are heard in the U.S. Court of Federal Claims, and the process has its own rules, deadlines, and medical evidence standards. [What a Salt Lake City search still runs into](/blog/salt-lake-city-vaccine-injury-attorney) is that same federal court, plus the local records that go with it. Lawyers who focus on these cases know how the Table works and how off-Table claims are built.
 
 The program may pay reasonable attorney fees and costs in many cases, including some that don't win, as long as the claim was filed in good faith with a reasonable basis. That's one reason people often talk with a lawyer before deciding whether to file. See [how to find a vaccine injury attorney](/blog/how-to-find-a-vaccine-injury-attorney).
 
@@ -1588,13 +1589,14 @@ This article is for general education only and is not medical or legal advice.
   {
     slug: "rsv-vaccine-vicp-coverage",
     title: "Is the RSV Vaccine Covered by the VICP?",
+    seoTitle: "RSV Vaccine Injury: Is It Covered, and Can You File?",
     excerpt:
-      "As of HRSA’s covered-vaccines list (reviewed September 2026), RSV vaccines are not in the VICP. Learn what that means, how new vaccine categories get covered, and how CICP PREP Act declarations currently treat RSV.",
+      "No. HRSA's September 2026 covered-vaccine list does not include RSV. Its CICP materials do not list RSV as a countermeasure either.",
     date: "October 2026",
     datePublished: "2026-10-05",
     lastReviewed: "2026-10-06",
     category: "Compensation Programs",
-    sources: [S.hrsaCoveredVaccines, S.hrsaVicpFaq, S.hrsaCicpCovered, S.hrsaCicpFiling, S.hrsaWhoCanFile, S.cdcRsv],
+    sources: [S.hrsaCoveredVaccines, S.hrsaVicpFaq, S.hrsaCicpCovered, S.hrsaCicpFiling, S.hrsaWhoCanFile, S.cdcRsv, S.injuryTable],
     content: `
 RSV vaccines are newer options for older adults and, in some cases, for pregnant people. When someone has a serious problem after an RSV shot, a natural next question is whether the National Vaccine Injury Compensation Program (VICP) applies.
 
@@ -1606,7 +1608,7 @@ That answer matters because the VICP only covers vaccine categories that meet sp
 
 HRSA’s National Vaccine Injury Compensation Program covers most vaccines routinely given in the United States. For a vaccine category to be covered, HRSA states that the Centers for Disease Control and Prevention (CDC) must recommend the category for routine administration to children or pregnant women, and it must be subject to an excise tax by federal law. The category must also be added to the VICP by the Secretary of Health and Human Services.
 
-HRSA’s public covered-vaccines page lists categories such as diphtheria, Hib, hepatitis A and B, HPV, seasonal influenza, measles, mumps, meningococcal, pertussis, pneumococcal conjugate, polio, rotavirus, rubella, tetanus, and varicella (chickenpox). RSV does not appear on that list.
+HRSA’s public covered-vaccines page lists categories such as diphtheria, Hib, hepatitis A and B, HPV, seasonal influenza, measles, mumps, meningococcal, pertussis, pneumococcal conjugate, polio, rotavirus, rubella, tetanus, and varicella (chickenpox). RSV does not appear on that list. For rotavirus, which is on the list, the Vaccine Injury Table lists [intussusception](/blog/intussusception-after-rotavirus-vaccine-vicp).
 
 HRSA also notes explicitly that [herpes zoster (shingles) vaccine](/blog/shingles-vaccine-vicp-coverage) is not a VICP-covered vaccine. RSV sits in a similar place from a coverage standpoint: it is a licensed, recommended product for certain groups, but it is not currently on the VICP covered-vaccines list.
 
@@ -1665,13 +1667,13 @@ RSV is not among those listed declarations. On the materials HRSA publishes for 
 
 Be precise about what that means: official pages do not currently put routine RSV vaccines (Abrysvo, Arexvy, mResvia) on the VICP covered list or on the CICP PREP Act declaration list HRSA summarizes. If a declaration or coverage rule changed after those review dates, the live HRSA pages would be the place to confirm. This article does not invent a pathway that those pages do not describe.
 
-COVID-19 vaccines remain the common example of products handled under the CICP rather than the VICP. That contrast is useful — and it does not, by itself, place RSV into the CICP.
+COVID-19 vaccines remain the common example of products handled under the CICP rather than the VICP. [Which documents help a COVID-19 vaccine injury request](/blog/what-documents-help-a-covid-19-vaccine-injury-claim) is a different list from a VICP petition. That contrast is useful — and it does not, by itself, place RSV into the CICP.
 
 ## What this means if you were seriously hurt after an RSV shot
 
 If your only vaccination at issue is an RSV vaccine, do not assume a VICP petition is available. HRSA’s covered-vaccine list is the starting point. Based on current public HRSA materials, do not assume a CICP claim is available either.
 
-That does not mean you have no options, and it does not mean you should ignore symptoms. It means the pathway may be different from the federal no-fault petition process many vaccine-injury articles describe for covered shots.
+That does not mean you have no options — [a plain-English overview of the programs and their limits](/blog/understanding-vaccine-injury-claims-legal-rights-and-options) is a starting point — and it does not mean you should ignore symptoms. It means the pathway may be different from the federal no-fault petition process many vaccine-injury articles describe for covered shots.
 
 A few practical points:
 
@@ -1689,9 +1691,9 @@ A few practical points:
 4. Ask a clinician about ongoing care needs.
 5. If the injury was serious or lasting, consider talking with counsel familiar with vaccine-related claims so you can learn whether any compensation pathway fits your facts.
 
-Deadlines matter in federal programs that do apply. For VICP injury petitions involving covered vaccines, HRSA materials state that petitions generally must be filed within three years after the first symptom or significant aggravation of the injury. Death claims follow different timing rules. For the CICP, HRSA states that a Request for Benefits generally must be filed within one year of receiving or using the countermeasure. Those clocks are not a substitute for advice about an RSV-only case; they are a reminder that waiting can close doors when a covered product is involved.
+Deadlines matter in federal programs that do apply. For VICP injury petitions involving covered vaccines, HRSA materials state that petitions generally must be filed inside [the usual three-year deadline](/blog/how-long-do-i-have-to-file-a-vaccine-injury-claim) after the first symptom or significant aggravation of the injury. Death claims follow different timing rules. For the CICP, HRSA states that a Request for Benefits generally must be filed within one year of receiving or using the countermeasure. Those clocks are not a substitute for advice about an RSV-only case; they are a reminder that waiting can close doors when a covered product is involved.
 
-Reporting a reaction to VAERS (the Vaccine Adverse Event Reporting System) can help public health monitoring. It does not start a VICP or CICP claim, and it does not stop filing clocks on programs that apply.
+Reporting a reaction to VAERS (the Vaccine Adverse Event Reporting System) can help public health monitoring, but [a VAERS report is not a claim](/blog/should-i-report-my-vaccine-reaction-to-vaers). It does not start a VICP or CICP claim, and it does not stop filing clocks on programs that apply.
 
 ## A calm next step
 
@@ -1756,7 +1758,7 @@ A brief scare that fully resolved may not meet those thresholds even when the ex
 
 ## COVID-19 vaccines usually follow a different path
 
-COVID-19 vaccines are generally handled under the Countermeasures Injury Compensation Program (CICP), not the VICP. If the reaction followed a COVID-19 vaccine or another covered countermeasure, the filing path, standards, and deadlines are different from a typical VICP Table claim.
+COVID-19 vaccines are generally handled under the Countermeasures Injury Compensation Program (CICP), not the VICP. If the reaction followed a COVID-19 vaccine or another covered countermeasure, the filing path, standards, and deadlines are different from a typical VICP Table claim. [Which documents help a COVID-19 vaccine injury request](/blog/what-documents-help-a-covid-19-vaccine-injury-claim) is a different set from the VICP records below.
 
 If someone received both a VICP-covered vaccine (for example, a seasonal flu shot) and a COVID-19 vaccine around the same time, HRSA notes that a person may be able to file with either program or both, depending on the facts. Eligibility for compensation under either program still depends on the specifics of the claim.
 
@@ -2021,18 +2023,18 @@ VaccineInjuries.org is an educational resource for people trying to understand v
   {
     slug: "pneumococcal-vaccine-vicp-coverage",
     title: "Are Pneumococcal Vaccines Covered by the VICP?",
-    seoTitle: "Pneumonia Shot Injury: Is PCV or PPSV Covered by the VICP?",
+    seoTitle: "Pneumococcal Vaccine Injury: Can You File a VICP Claim?",
     excerpt:
-      "Hurt after a pneumonia shot? The VICP covers pneumococcal conjugate (PCV) vaccines but not polysaccharide (PPSV) shots. Here's how to tell which you got.",
+      "A conjugate pneumococcal injury may be covered by the VICP. A polysaccharide shot is not. Injury claims: within three years after the first symptom.",
     date: "October 2026",
     datePublished: "2026-10-05",
     lastReviewed: "2026-10-06",
     category: "Compensation Programs",
     sources: [S.hrsaCoveredVaccines, S.hrsaVicpFaq, S.hrsaWhoCanFile, S.injuryTable],
     content: `
-Pneumococcal vaccines protect against infections caused by Streptococcus pneumoniae, including some forms of pneumonia, bloodstream infection, and meningitis. Adults and children get these shots for different reasons, and the brand names on a card can look similar.
+If you were seriously hurt after a pneumococcal (pneumonia) shot, the Health Resources and Services Administration (HRSA) says conjugate vaccines are covered by the VICP and polysaccharide vaccines are not. For a covered vaccine, an injury petition generally must be filed within three years after the first symptom or significant aggravation.
 
-If you were seriously hurt after a pneumococcal vaccine, one of the first practical questions is whether the National Vaccine Injury Compensation Program (VICP) applies. According to the Health Resources and Services Administration (HRSA), the answer depends on which type of pneumococcal vaccine you received.
+Pneumococcal vaccines protect against infections caused by Streptococcus pneumoniae, including some forms of pneumonia, bloodstream infection, and meningitis. Adults and children get these shots for different reasons, and the brand names on a card can look similar.
 
 This guide explains that distinction in plain English, how to check your record, and what to do next. It is educational information, not medical or legal advice.
 
@@ -2054,6 +2056,8 @@ HRSA’s FAQ explains the practical split this way:
 - Pneumococcal conjugate vaccines (for example, products commonly abbreviated PCV) are the type that has been covered under the VICP. HRSA notes these vaccines have been covered since December 18, 1999, and they are routinely given to infants and young children. Adults may receive conjugate products as well, depending on age and medical history.
 - Pneumococcal polysaccharide vaccines (for example, products commonly abbreviated PPSV or PPV, including the 23-valent polysaccharide vaccine often discussed for adults age 65 and older and for some people with higher-risk conditions) are not VICP-covered vaccines.
 
+Rotavirus is a separate category on HRSA's covered-vaccines list. The Vaccine Injury Table's listing for that vaccine is [intussusception](/blog/intussusception-after-rotavirus-vaccine-vicp).
+
 Product names, abbreviations, and lot numbers on the vaccination record are the reliable way to sort this out. Asking the clinic or pharmacy which exact product was given is often faster than guessing from memory.
 
 ## How coverage rules work in general
@@ -2064,7 +2068,7 @@ HRSA explains that for a vaccine category to be covered by the VICP, it generall
 2. Subject to a federal excise tax, and
 3. Added to the VICP by the Secretary of Health and Human Services.
 
-That policy design helps explain why some adult vaccines sit outside the program even when related products are inside it. The same pattern shows up elsewhere on HRSA’s list: seasonal flu vaccines are covered, while [herpes zoster (shingles) vaccines](/blog/shingles-vaccine-vicp-coverage) are not; COVID-19 vaccines are handled under the separate Countermeasures Injury Compensation Program (CICP), not the VICP.
+That policy design helps explain why some adult vaccines sit outside the program even when related products are inside it. The same pattern shows up elsewhere on HRSA’s list: seasonal flu vaccines are covered, while [herpes zoster (shingles) vaccines](/blog/shingles-vaccine-vicp-coverage) are not; COVID-19 vaccines are handled under the separate Countermeasures Injury Compensation Program (CICP), not the VICP. [How COVID-19 vaccine claims work](/blog/can-i-sue-for-covid-vaccine-side-effects) is a different process.
 
 For pneumococcal products, HRSA’s published distinction is specific: conjugate yes, polysaccharide no.
 
@@ -2072,9 +2076,9 @@ For pneumococcal products, HRSA’s published distinction is specific: conjugate
 
 If your only vaccination at issue was a pneumococcal polysaccharide (PPSV/PPV) vaccine, do not assume a VICP petition is available. HRSA states that those products are not covered.
 
-If you received a pneumococcal conjugate (PCV) vaccine and believe you were seriously injured, the VICP may be the federal program to look at — again depending on timing, severity, medical evidence, and other eligibility rules.
+If you received a pneumococcal conjugate (PCV) vaccine and believe you were seriously injured, the [Vaccine Injury Compensation Program](/blog/what-is-the-vaccine-injury-compensation-program) may be the federal program to look at — again depending on timing, severity, medical evidence, and other eligibility rules.
 
-Coverage is not the same thing as causation. Being covered means the program’s pathway can apply. It does not mean every problem after a shot was caused by the vaccine, and it does not mean every covered case is compensated.
+Coverage is not the same thing as causation. Being covered means the program’s pathway can apply. It does not mean every problem after a shot was caused by the vaccine, and it does not mean every covered case is compensated. [The program's yearly compensation counts](/blog/how-many-vicp-claims-compensated-each-year) are not a prediction for one person.
 
 A few practical points:
 
@@ -2093,7 +2097,7 @@ If you received more than one vaccine around the same time (for example, a pneum
 4. Ask a clinician about ongoing care needs.
 5. If the injury was serious or lasting, consider talking with counsel familiar with vaccine-related claims so you can learn whether any compensation pathway fits your facts.
 
-Deadlines matter in federal programs that do apply. For VICP injury petitions involving covered vaccines, HRSA states that petitions generally must be filed within three years after the first symptom or significant aggravation of the injury. Death claims follow different timing rules. Those clocks are a reminder that waiting can close doors when a covered vaccine is involved.
+Deadlines matter in federal programs that do apply. For VICP injury petitions involving covered vaccines, HRSA states that petitions generally must be [filed within three years](/blog/how-long-do-i-have-to-file-a-vaccine-injury-claim) after the first symptom or significant aggravation of the injury. [Death claims follow different timing rules](/blog/vicp-claim-for-death-after-vaccine). Those clocks are a reminder that waiting can close doors when a covered vaccine is involved.
 
 ## Bottom line
 
@@ -2107,9 +2111,9 @@ VaccineInjuries.org is an educational resource for people trying to understand v
   {
     slug: "shingles-vaccine-vicp-coverage",
     title: "Is the Shingles Vaccine Covered by the VICP?",
-    seoTitle: "Shingles Vaccine Injury: Is Shingrix Covered by the VICP?",
+    seoTitle: "Shingles Injury: Shingrix Is Not Covered by the VICP",
     excerpt:
-      "HRSA says shingles (zoster) vaccines like Shingrix are not covered by the VICP, unlike chickenpox vaccines. What that means and what to look into next.",
+      "No. HRSA says shingles vaccines such as Shingrix are not covered by the VICP. Chickenpox vaccines are covered and use the usual VICP filing deadlines.",
     date: "October 2026",
     datePublished: "2026-10-05",
     lastReviewed: "2026-10-06",
@@ -2151,13 +2155,13 @@ HRSA explains that for a vaccine category to be covered by the VICP, it generall
 
 Shingles vaccines are primarily adult vaccines. They are not framed the same way as childhood or pregnancy-routine categories that sit at the center of VICP coverage. That policy design is a major reason zoster products sit outside the program even though related childhood varicella products are inside it.
 
-Other common adults shots can still be covered when they fall into a covered category. Seasonal flu vaccines, for example, are covered by the VICP even when given to adults. COVID-19 vaccines are handled under a different program, the Countermeasures Injury Compensation Program (CICP), not the VICP.
+Other common adult shots can still be covered when they fall into a covered category. Seasonal flu vaccines, for example, are covered by the VICP even when given to adults, and [Tdap and Td are covered as well](/blog/tdap-td-vaccine-vicp-coverage). COVID-19 vaccines are handled under a different program, the Countermeasures Injury Compensation Program (CICP), not the VICP. [Claims for a COVID-19 vaccine follow a different process](/blog/can-i-sue-for-covid-vaccine-side-effects) than a shingles question.
 
 ## What this means if you were seriously hurt after a shingles shot
 
 If your only vaccination at issue is a shingles vaccine, do not assume a VICP petition is available. HRSA’s covered-vaccine list is the starting point.
 
-That does not mean you have no options, and it does not mean you should ignore symptoms. It means the pathway may be different from the VICP process many vaccine-injury articles describe.
+That does not mean you have no options — [a plain-English overview of vaccine injury claims](/blog/understanding-vaccine-injury-claims-legal-rights-and-options) lays out the federal programs and the usual limits — and it does not mean you should ignore symptoms. It means the pathway may be different from the VICP process many vaccine-injury articles describe.
 
 A few practical points:
 
@@ -2176,7 +2180,7 @@ If you received more than one vaccine around the same time (for example, a shing
 4. Ask a clinician about ongoing care needs.
 5. If the injury was serious or lasting, consider talking with counsel familiar with vaccine-related claims so you can learn whether any compensation pathway fits your facts.
 
-Deadlines matter in federal programs that do apply. For VICP injury petitions involving covered vaccines, HRSA states that petitions generally must be filed within three years after the first symptom or significant aggravation of the injury. Death claims follow different timing rules. Those VICP clocks are not a substitute for advice about a shingles-only case; they are a reminder that waiting can close doors when a covered vaccine is involved.
+Deadlines matter in federal programs that do apply. For VICP injury petitions involving covered vaccines, HRSA states that petitions generally must be filed within [the three-year window](/blog/how-long-do-i-have-to-file-a-vaccine-injury-claim) after the first symptom or significant aggravation of the injury. Death claims follow different timing rules. Those VICP clocks are not a substitute for advice about a shingles-only case; they are a reminder that waiting can close doors when a covered vaccine is involved.
 
 ## Bottom line
 
@@ -2242,11 +2246,11 @@ Mild soreness that resolves quickly is not what these programs are designed to a
 
 Shoulder pain that does not go away. SIRVA involves shoulder pain and limited range of motion after an intramuscular vaccine in the upper arm. It is treated as a musculoskeletal problem related to how the shot was administered into or around the shoulder structures, not as a neurological injury. Early medical notes that capture when pain started and how it limited movement matter a great deal. Our [SIRVA injury guide](/injuries/sirva) covers symptoms and the Table rule in more detail.
 
-Sudden progressive weakness weeks later. GBS is a rare neurological condition. It can follow infections and, in some contexts, appears in vaccine-injury discussions. For seasonal flu vaccines, the Table window for GBS is roughly 3 to 42 days after vaccination. Timing alone does not prove causation, and only a clinician can diagnose GBS. Progressive weakness needs prompt medical care. Our [Guillain-Barré syndrome guide](/blog/guillain-barre-vaccine-injury-claims) explains more, and the [GBS injury guide](/injuries/guillain-barre-syndrome) walks through the Table definition.
+Sudden progressive weakness weeks later. GBS is a rare neurological condition. It can follow infections and, in some contexts, appears in vaccine-injury discussions. For seasonal flu vaccines, the Table window for GBS is roughly 3 to 42 days after vaccination. Timing alone does not prove causation, and only a clinician can diagnose GBS. Progressive weakness needs prompt medical care. Our [Guillain-Barré syndrome guide](/blog/guillain-barre-vaccine-injury-claims) explains more, and the [GBS injury guide](/injuries/guillain-barre-syndrome) walks through the Table definition. That definition treats [CIDP](/injuries/cidp) as a different diagnosis from Table GBS.
 
 A severe allergic reaction right after the shot. Anaphylaxis is a medical emergency. The Table lists a short onset window (within 4 hours). Emergency records and the vaccination timeline are the core documents. See our [anaphylaxis injury guide](/injuries/anaphylaxis) for more.
 
-None of these labels replace a doctor’s evaluation. The Table is a legal framework for certain petitions; it is not a self-diagnosis checklist.
+None of these labels replace a doctor’s evaluation. The Table is a legal framework for certain petitions; it is not a self-diagnosis checklist. Other conditions are described in the [guides to specific injuries](/injuries).
 
 ## Deadlines still matter
 
@@ -2324,6 +2328,8 @@ GBS belongs in these conversations because it is a serious condition programs ta
 Many routinely recommended vaccines are covered under the National Vaccine Injury Compensation Program (VICP), a federal no-fault program. COVID-19 vaccine injury claims are generally handled under the Countermeasures Injury Compensation Program (CICP), which has its own rules and process.
 
 Within the VICP, the Vaccine Injury Table lists certain injuries that may be presumed to be vaccine-related when specific timing and other Table requirements are met. Under the current [Vaccine Injury Table](https://www.ecfr.gov/current/title-42/chapter-I/subchapter-J/part-100/section-100.3), [Guillain-Barré syndrome is listed for seasonal influenza vaccines](/injuries/guillain-barre-syndrome), with a first symptom 3 to 42 days after vaccination and a detailed clinical definition that must be met. When Table criteria are met, the petitioner may not need to prove causation the same way as for a non-Table injury.
+
+That clinical definition also draws a line around other diagnoses. The Table treats myelitis as something other than Table GBS, so [transverse myelitis](/injuries/transverse-myelitis) is evaluated on its own. [How a transverse myelitis claim is put together](/blog/transverse-myelitis-after-vaccine-vicp-claims) is an off-Table question.
 
 If a GBS case does not meet Table requirements — for example, timing outside the listed window, or a vaccine not listed for GBS that way — an "off-Table" claim may still be possible in some situations. Those cases typically require evidence that the vaccine more likely than not caused the injury.
 
@@ -2502,7 +2508,7 @@ Most VICP claims take years, not months. The Health Resources and Services Admin
 
 That is an average. Some claims wrap up in about a year. Others take longer, especially when the medical questions are disputed or a decision is appealed.
 
-It also helps to keep perspective. Vaccines are generally safe, and serious injuries are rare. HRSA estimates that for petitions filed from 2006 to 2024, about one person was compensated for every 1 million doses of covered vaccines distributed in the U.S. But if you are that one person, a long, uncertain wait is hard. Knowing what to expect can make it a little easier.
+It also helps to keep perspective. Vaccines are generally safe, and serious injuries are rare. HRSA estimates that for petitions filed from 2006 to 2024, about one person was compensated for every 1 million doses of covered vaccines distributed in the U.S. [HRSA's year-by-year compensation figures](/blog/how-many-vicp-claims-compensated-each-year) break that program-wide picture down further. But if you are that one person, a long, uncertain wait is hard. Knowing what to expect can make it a little easier.
 
 This post covers the VICP, which handles claims in the U.S. Court of Federal Claims. Claims involving COVID-19 vaccines go to a different program, the Countermeasures Injury Compensation Program (CICP), which HHS decides through an administrative process rather than a court case. The [CICP and VICP comparison from HRSA](https://www.hrsa.gov/cicp/cicp-vicp) explains the differences.
 
@@ -2823,9 +2829,9 @@ These are real decisions from the U.S. Court of Federal Claims. We describe them
 - **Decided:** Ruling on entitlement December 6, 2024; decision awarding damages February 6, 2025 (Chief Special Master Brian H. Corcoran)
 - **Read it:** [Ruling on entitlement (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_24-vv-00585/pdf/USCOURTS-cofc-1_24-vv-00585-0.pdf) and [decision awarding damages (GovInfo)](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_24-vv-00585/pdf/USCOURTS-cofc-1_24-vv-00585-1.pdf)
 
-On April 16, 2024, two parents filed a petition on behalf of their minor son, alleging that he suffered vasovagal syncope after receiving HPV, Tdap, and meningococcal conjugate vaccines on June 29, 2023. (Those are the same three adolescent vaccines the CDC names as most often linked to fainting reports.) The case was assigned to the court's Special Processing Unit, which, according to the court's [Guidelines for Practice](https://www.uscfc.uscourts.gov/guidelines-practice-under-national-vaccine-injury-compensation-program), is meant for claims that appear reasonably likely to settle early.
+On April 16, 2024, two parents filed a petition on behalf of their minor son, alleging that he suffered vasovagal syncope after receiving HPV, Tdap, and meningococcal conjugate vaccines on June 29, 2023. Parents usually file for a child; [who is allowed to file](/blog/who-can-file-a-vaccine-injury-claim) spells that out. (Those are the same three adolescent vaccines the CDC names as most often linked to fainting reports.) The case was assigned to the court's Special Processing Unit, which, according to the court's [Guidelines for Practice](https://www.uscfc.uscourts.gov/guidelines-practice-under-national-vaccine-injury-compensation-program), is meant for claims that appear reasonably likely to settle early.
 
-On December 5, 2024, the government filed its report conceding the claim. It agreed that the family had met the Table criteria and that the son had residual effects for more than six months. The next day, the Chief Special Master found the family entitled to compensation. In February 2025, the government proposed $55,000 for pain and suffering, used to buy an annuity that pays out in later years, and the parents agreed. The Chief Special Master awarded that amount.
+On December 5, 2024, the government filed its report conceding the claim. It agreed that the family had met the Table criteria and that the son had residual effects for more than six months. The next day, the Chief Special Master found the family entitled to compensation. In February 2025, the government proposed $55,000 for pain and suffering, used to buy an annuity that pays out in later years, and the parents agreed. The Chief Special Master awarded that amount. That path — a concession, then an agreed amount — is one of the ways [VICP compensation gets decided](/blog/how-vicp-compensation-is-decided).
 
 **Time from filing to damages decision:** under 10 months. The published decisions do not describe the son's specific injuries.
 
@@ -2853,9 +2859,9 @@ She filed a Table claim for vasovagal syncope, but her medical records consisten
 
 She had also argued, in the alternative, that the vaccine caused a vasovagal reaction that led to her fall. That is an "off-Table" claim, which means there is no presumption and the petitioner has to prove the vaccine caused the injury. The government eventually stopped defending the case on entitlement, and the Chief Special Master found that she had proved this claim. He found that the flu vaccine can cause a vasovagal response, that her dizziness and weakness within minutes of the shot caused her fall, and that her injury led to inpatient hospitalization and surgery.
 
-Her recovery was long. The damages decision describes three knee surgeries, ending in a total knee replacement, and about a year of medically excused time away from work. The two sides could not agree on pain and suffering. She asked for $250,000 (the most the Vaccine Act allows for pain and suffering under [42 U.S.C. § 300aa-15](https://www.law.cornell.edu/uscode/text/42/300aa-15)), and the government proposed $150,000. The Chief Special Master awarded $190,000.
+Her recovery was long. The damages decision describes three knee surgeries, ending in a total knee replacement, and about a year of medically excused time away from work. The two sides could not agree on pain and suffering. She asked for $250,000 (the most the Vaccine Act allows for pain and suffering under [42 U.S.C. § 300aa-15](https://www.law.cornell.edu/uscode/text/42/300aa-15)), and the government proposed $150,000. The Chief Special Master awarded $190,000. The categories the program can pay, including that pain-and-suffering cap, are summarized in [how compensation is calculated](/blog/how-much-compensation-is-available-in-a-vaccine-injury-case).
 
-The decision also explains why there are few court decisions like this one: "Because most vaccine injury claims involving syncope, presyncope, and vasovagal response are resolved informally, there are few reasoned decisions that can guide this outcome."
+The decision also explains why there are few court decisions like this one: "Because most vaccine injury claims involving syncope, presyncope, and vasovagal response are resolved informally, there are few reasoned decisions that can guide this outcome." An informal resolution is not the same thing as a court finding that the vaccine caused the injury. [What a settlement does and does not prove](/blog/does-a-vaccine-injury-settlement-mean-the-vaccine-caused-the-injury) explains that distinction.
 
 ## Records that help
 
@@ -2876,7 +2882,7 @@ The CDC says many falls from fainting can be prevented by having the person sit 
 
 ## Get connected with an attorney
 
-If you or your child fainted after a vaccine and were seriously hurt in the fall, a lawyer who handles VICP cases can explain whether the Table rules may fit your situation and what records matter most. VaccineInjuries.org is not a law firm and does not evaluate claims. We can connect you with an independent attorney who does.
+If you or your child fainted after a vaccine and were seriously hurt in the fall, a lawyer who handles VICP cases can explain whether the Table rules may fit your situation and what records matter most. VaccineInjuries.org is not a law firm and does not evaluate claims. [How getting connected works](/how-it-works) is a short description of that step. We can connect you with an independent attorney who does.
 
 [Get Connected With an Attorney](/intake). It is free to submit your information, and there is no obligation.
 
@@ -2929,6 +2935,8 @@ Under [42 CFR § 100.3](https://www.ecfr.gov/current/title-42/chapter-I/subchapt
 
 - **Injury listed:** thrombocytopenic purpura
 - **Onset window:** 7 to 30 days after vaccination (not less than 7 days and not more than 30 days)
+
+MMR vaccines also have a separate Table listing for encephalopathy or encephalitis, with a different onset window: the first symptom 5 to 15 days after the shot (not less than 5 days and not more than 15 days). That injury is explained in [encephalopathy or encephalitis after a DTaP or MMR vaccine](/blog/encephalopathy-after-vaccine-vicp).
 
 The Table's qualifications and aids to interpretation (QAIs) define thrombocytopenic purpura as clinical signs such as petechiae, significant bruising, or spontaneous bleeding, **and** a serum platelet count less than **50,000/mm³**, with normal red and white blood cell indices. The Table definition also excludes thrombocytopenia from other listed causes, including immune thrombocytopenic purpura mediated by viral or fungal infections, toxins, or drugs.
 
@@ -3329,7 +3337,7 @@ The main reason is how VICP lawyers are paid. Under the Vaccine Act ([42 U.S.C. 
 
 The court's Guidelines describe it this way: "Unlike the contingent fee system prevailing in most other tort litigation, petitioners' reasonable attorneys' fees and costs are paid by the Vaccine Program, including, in most cases, fees and costs for unsuccessful litigants."
 
-In other words, the system is set up so that a VICP lawyer's pay is set by the special master and paid by the program, rather than taken as a percentage of your award. It is still smart to ask any lawyer, before you sign anything, exactly how fees and costs will be handled in your case. Our explainer on [how VICP attorneys get paid](/blog/how-do-vicp-attorneys-get-paid) goes into more detail.
+In other words, the system is set up so that a VICP lawyer's pay is set by the special master and paid by the program, rather than taken as a percentage of your award. It is still smart to ask any lawyer, before you sign anything, exactly how fees and costs will be handled in your case. Our explainer on [how VICP attorneys get paid](/blog/how-do-vicp-attorneys-get-paid) goes into more detail. The program is federal, so those rules do not change by city. [What a Salt Lake City search actually involves](/blog/salt-lake-city-vaccine-injury-attorney) still comes back to the same VICP process.
 
 Other reasons people hire a lawyer include knowing which records matter, finding and working with medical experts (especially for injuries that are not on the Vaccine Injury Table), and negotiating with government lawyers who handle these cases every day.
 
