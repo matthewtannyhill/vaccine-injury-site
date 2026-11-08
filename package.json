@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "test": "node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON --experimental-strip-types --import ./scripts/register-test-hooks.mjs --test src/lib/attribution.test.ts"
+    "test": "node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON --experimental-strip-types --import ./scripts/register-test-hooks.mjs --test src/lib/*.test.ts",
+    "indexnow": "node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON --experimental-strip-types --import ./scripts/register-test-hooks.mjs scripts/indexnow.ts"
   },
   "dependencies": {
     "@next/third-parties": "^16.2.2",

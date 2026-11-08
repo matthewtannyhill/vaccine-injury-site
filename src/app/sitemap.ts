@@ -1,34 +1,15 @@
 import type { MetadataRoute } from "next";
-import { blogPosts } from "@/content/blog/posts";
-import { injuryHubs } from "@/content/injuries";
-import { SITE_URL, CORE_PAGES_LAST_MODIFIED } from "@/lib/site";
+import { SITE_URL } from "@/lib/site";
+import { indexablePages } from "@/lib/site-urls";
 
 // lastModified values are ISO dates (YYYY-MM-DD). Bump CORE_PAGES_LAST_MODIFIED in
-// src/lib/site.ts when core pages change; blog posts use their own lastReviewed date.
-const staticPages: MetadataRoute.Sitemap = [
-  { url: SITE_URL, lastModified: CORE_PAGES_LAST_MODIFIED, priority: 1.0 },
-  { url: `${SITE_URL}/about`, lastModified: CORE_PAGES_LAST_MODIFIED, priority: 0.8 },
-  { url: `${SITE_URL}/blog`, lastModified: CORE_PAGES_LAST_MODIFIED, priority: 0.7 },
-  { url: `${SITE_URL}/injuries`, lastModified: CORE_PAGES_LAST_MODIFIED, priority: 0.8 },
-  { url: `${SITE_URL}/faq`, lastModified: CORE_PAGES_LAST_MODIFIED, priority: 0.8 },
-  { url: `${SITE_URL}/how-it-works`, lastModified: CORE_PAGES_LAST_MODIFIED, priority: 0.8 },
-  { url: `${SITE_URL}/intake`, lastModified: CORE_PAGES_LAST_MODIFIED, priority: 0.9 },
-  { url: `${SITE_URL}/disclaimer`, lastModified: CORE_PAGES_LAST_MODIFIED, priority: 0.3 },
-  { url: `${SITE_URL}/privacy-policy`, lastModified: CORE_PAGES_LAST_MODIFIED, priority: 0.3 },
-];
-
+// src/lib/site.ts when core pages change; blog posts and injury hubs use their own
+// lastReviewed date. The path list lives in src/lib/site-urls.ts so IndexNow submits
+// the same URLs the sitemap advertises.
 export default function sitemap(): MetadataRoute.Sitemap {
-  const posts: MetadataRoute.Sitemap = blogPosts.map((post) => ({
-    url: `${SITE_URL}/blog/${post.slug}`,
-    lastModified: post.lastReviewed ?? post.datePublished,
-    priority: 0.7,
+  return indexablePages().map((page) => ({
+    url: page.path === "/" ? SITE_URL : `${SITE_URL}${page.path}`,
+    lastModified: page.lastModified,
+    priority: page.priority,
   }));
-
-  const hubs: MetadataRoute.Sitemap = injuryHubs.map((hub) => ({
-    url: `${SITE_URL}/injuries/${hub.slug}`,
-    lastModified: hub.lastReviewed,
-    priority: 0.8,
-  }));
-
-  return [...staticPages, ...hubs, ...posts];
 }

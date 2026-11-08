@@ -1,5 +1,6 @@
 import Link from "next/link";
 import type { ReactNode } from "react";
+import { inlineMarkupPattern, splitRow, toGroups } from "@/lib/markdown-blocks";
 
 /**
  * Renders the lightweight markdown used in blog posts and hub pages:
@@ -7,13 +8,11 @@ import type { ReactNode } from "react";
  * plus inline [text](url) links and **bold**.
  */
 
-const INLINE = /\[([^\]]+)\]\(([^)\s]+)\)|\*\*([^*]+)\*\*/g;
-
 export function renderInline(text: string): ReactNode[] {
   const nodes: ReactNode[] = [];
   let last = 0;
   let key = 0;
-  for (const match of text.matchAll(INLINE)) {
+  for (const match of text.matchAll(inlineMarkupPattern())) {
     const index = match.index ?? 0;
     if (index > last) nodes.push(text.slice(last, index));
     const [, label, href, bold] = match;
@@ -42,61 +41,6 @@ export function renderInline(text: string): ReactNode[] {
   }
   if (last < text.length) nodes.push(text.slice(last));
   return nodes;
-}
-
-function splitRow(line: string): string[] {
-  return line
-    .trim()
-    .replace(/^\|/, "")
-    .replace(/\|$/, "")
-    .split("|")
-    .map((cell) => cell.trim());
-}
-
-type Group =
-  | { kind: "h2" | "h3" | "p"; text: string }
-  | { kind: "ul" | "ol"; items: string[] }
-  | { kind: "table"; lines: string[] };
-
-function kindOf(line: string): "h2" | "h3" | "ul" | "ol" | "table" | "p" {
-  if (line.startsWith("## ")) return "h2";
-  if (line.startsWith("### ")) return "h3";
-  if (line.startsWith("- ")) return "ul";
-  if (/^\d+\.\s/.test(line)) return "ol";
-  if (line.trim().startsWith("|")) return "table";
-  return "p";
-}
-
-/**
- * Splits content into blocks (blank-line separated), then groups consecutive lines of the
- * same kind, so an intro sentence followed directly by "- " items renders as a paragraph + list.
- */
-function toGroups(content: string): Group[] {
-  const groups: Group[] = [];
-  for (const block of content.split("\n\n")) {
-    const blockStart = groups.length;
-    const lines = block.split("\n").filter((l) => l.trim() !== "");
-    for (const line of lines) {
-      const kind = kindOf(line);
-      // Only merge with the previous group if it started in this same block.
-      const prev = groups.length > blockStart ? groups[groups.length - 1] : undefined;
-      if (kind === "h2" || kind === "h3") {
-        groups.push({ kind, text: line.replace(/^#{2,3}\s/, "") });
-      } else if (kind === "ul" || kind === "ol") {
-        const item = kind === "ul" ? line.replace(/^- /, "") : line.replace(/^\d+\.\s/, "");
-        if (prev && prev.kind === kind) prev.items.push(item);
-        else groups.push({ kind, items: [item] });
-      } else if (kind === "table") {
-        if (prev && prev.kind === "table") prev.lines.push(line);
-        else groups.push({ kind, lines: [line] });
-      } else if (prev && prev.kind === "p") {
-        prev.text += ` ${line}`;
-      } else {
-        groups.push({ kind: "p", text: line });
-      }
-    }
-  }
-  return groups;
 }
 
 export default function PostContent({ content }: { content: string }) {
