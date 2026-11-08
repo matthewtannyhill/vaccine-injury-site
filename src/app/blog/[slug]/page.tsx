@@ -9,7 +9,7 @@ import JsonLd from "@/components/JsonLd";
 import PostContent from "@/components/PostContent";
 import SourcesList from "@/components/SourcesList";
 import { EDITORIAL_TEAM, SITE_NAME } from "@/lib/site";
-import { articleJsonLd, breadcrumbJsonLd } from "@/lib/seo";
+import { blogPageJsonLd } from "@/lib/blog-jsonld";
 import { formatDate } from "@/lib/dates";
 
 type Props = {
@@ -59,33 +59,13 @@ export default async function BlogPostPage({ params }: Props) {
   const post = blogPosts.find((p) => p.slug === slug);
   if (!post) notFound();
 
-  const path = `/blog/${post.slug}`;
   const author = post.author ?? EDITORIAL_TEAM;
   const reviewedLater = post.lastReviewed !== post.datePublished;
   const relatedHubs = hubsForPost(post.slug);
 
   return (
     <>
-      <JsonLd
-        data={[
-          articleJsonLd({
-            path,
-            headline: post.title,
-            description: post.excerpt,
-            datePublished: post.datePublished,
-            dateModified: post.lastReviewed,
-            author,
-            image: post.heroImage?.src,
-            section: post.category,
-            sources: post.sources,
-          }),
-          breadcrumbJsonLd([
-            { name: "Home", path: "/" },
-            { name: "Resources", path: "/blog" },
-            { name: post.title, path },
-          ]),
-        ]}
-      />
+      <JsonLd data={blogPageJsonLd(post)} />
 
       <div className="bg-white px-4 pt-6">
         <div className="max-w-3xl mx-auto">

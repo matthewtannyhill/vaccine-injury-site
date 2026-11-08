@@ -29,6 +29,10 @@ export type BlogPost = {
   /**
    * Markdown-ish body. Blocks are separated by blank lines. Supports ##/### headings,
    * "- " and "1. " lists, simple pipe tables, [text](url) links, and **bold**.
+   * A ## or ### heading that ends with "?" is a visible question; the body under it
+   * (until the next same-or-higher heading) is its answer. FAQPage JSON-LD is built
+   * from those pairs. Unanswered prompt lists (for example "Questions to ask a lawyer")
+   * are not questions and are left out of the schema.
    */
   content: string;
 };

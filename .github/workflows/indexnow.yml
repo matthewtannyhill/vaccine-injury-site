@@ -1,0 +1,34 @@
+# After a push to main, tell IndexNow about the URLs this commit changed.
+# Runs only once Vercel reports the production deployment as successful.
+# Failures are logged and do not fail the job, so they cannot block deploys.
+name: IndexNow
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+  deployments: read
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Submit changed URLs to IndexNow
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          INDEXNOW_SHA: ${{ github.sha }}
+          INDEXNOW_BEFORE: ${{ github.event.before }}
+        run: node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON --experimental-strip-types --import ./scripts/register-test-hooks.mjs scripts/indexnow.ts --changed --wait --soft
