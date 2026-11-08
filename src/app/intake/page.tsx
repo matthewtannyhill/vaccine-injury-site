@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
+import { getAttributionForSubmit } from "@/lib/attribution-storage";
 
 const US_STATES = [
   "Alabama","Alaska","Arizona","Arkansas","California","Colorado","Connecticut","Delaware",
@@ -122,7 +123,10 @@ export default function IntakePage() {
       const res = await fetch("/api/submit-lead", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(form),
+        body: JSON.stringify({
+          ...form,
+          attribution: getAttributionForSubmit(),
+        }),
       });
       const data = await res.json();
       if (!res.ok) {

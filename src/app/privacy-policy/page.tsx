@@ -26,6 +26,9 @@ export default function PrivacyPolicyPage() {
               <li>Vaccine type and injury or reaction details</li>
               <li>A brief description of your situation</li>
             </ul>
+            <p className="mt-2">
+              When you submit the intake form, we also record the page that referred you, the first page of your visit, the last page you viewed before the form, and any campaign or ad-click parameters from that visit.
+            </p>
             <p className="mt-2">We also collect standard technical information such as IP address, browser type, and pages visited through analytics tools.</p>
           </div>
 

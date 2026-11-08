@@ -5,9 +5,12 @@ import JsonLd from "@/components/JsonLd";
 import { Geist } from "next/font/google";
 import { GoogleAnalytics } from "@next/third-parties/google";
 import { Analytics } from "@vercel/analytics/next";
+import Script from "next/script";
 import "./globals.css";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
+import AttributionCapture from "@/components/AttributionCapture";
+import { earlyCaptureScript } from "@/lib/attribution";
 
 const geist = Geist({
   variable: "--font-geist-sans",
@@ -40,6 +43,10 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${geist.variable} h-full`}>
       <body className="min-h-full flex flex-col bg-white text-gray-900 antialiased">
+        <Script id="vi-attribution" strategy="beforeInteractive">
+          {earlyCaptureScript()}
+        </Script>
+        <AttributionCapture />
         <JsonLd data={[organizationJsonLd, websiteJsonLd]} />
         <Nav />
         <main className="flex-1">{children}</main>

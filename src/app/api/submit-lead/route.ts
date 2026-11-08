@@ -43,6 +43,7 @@ export async function POST(request: NextRequest) {
       injuryDate: injuryDate ? String(injuryDate) : "",
       description: description ? String(description).trim() : "",
       consent: Boolean(consent),
+      attribution: body.attribution,
     });
 
     return NextResponse.json({ success: true }, { status: 200 });
