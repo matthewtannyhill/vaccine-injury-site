@@ -119,7 +119,7 @@ export const injuryHubs: InjuryHub[] = [
     description:
       "What is SIRVA? Learn the symptoms of shoulder pain and stiffness after a shot, the Table's 48-hour rule, the 6-month severity rule, and deadlines.",
     summary:
-      "A shoulder injury — not a nerve injury — that can follow a shot given in the upper arm. The main SIRVA symptoms are shoulder pain and reduced range of motion that don't fade like ordinary soreness.",
+      "SIRVA (shoulder injury related to vaccine administration) is shoulder pain and limited range of motion after a vaccine given in the upper arm. It is a musculoskeletal injury, not a nerve injury, and it is listed on the VICP Vaccine Injury Table for most injected covered vaccines when shoulder pain begins within 48 hours of the shot. A VICP injury petition is filed with the U.S. Court of Federal Claims, generally within three years after the first symptom.",
     onTable: true,
     tableLabel: "On the Table for most covered vaccines",
     uncommonNote:
@@ -159,6 +159,10 @@ Your doctor may record the injury using a more specific shoulder diagnosis. For 
     ],
     faqs: [
       {
+        q: "What is SIRVA?",
+        a: "SIRVA stands for shoulder injury related to vaccine administration. The Vaccine Injury Table defines it as shoulder pain and limited range of motion after a vaccine intended for intramuscular administration in the upper arm. Those symptoms are thought to result from vaccine or needle trauma reaching the bursa and other shoulder structures, causing inflammation. SIRVA is a musculoskeletal injury, not a nerve injury.",
+      },
+      {
         q: "Is a sore arm after a shot the same as SIRVA?",
         a: "No. Mild soreness where a shot was given is common and usually fades within a few days. SIRVA refers to shoulder pain and reduced range of motion that begin within 48 hours of the vaccine and persist, and it has a specific definition in the Vaccine Injury Table.",
       },
@@ -174,6 +178,10 @@ Your doctor may record the injury using a more specific shoulder diagnosis. For 
         q: "What if I had shoulder problems before the vaccine?",
         a: "The Table definition requires no prior history of pain, inflammation, or dysfunction in that shoulder that would explain the symptoms after the vaccine. Earlier shoulder issues do not automatically rule out a claim, but they can make a Table claim harder, so the earlier records would be reviewed closely.",
       },
+      {
+        q: "How long do I have to file a SIRVA claim with the VICP?",
+        a: "For a VICP injury petition, you generally must file within three years after the first symptom or manifestation of onset or of the significant aggravation of the injury. The petition is filed with the U.S. Court of Federal Claims, and a copy is sent to the Department of Health and Human Services. A report to VAERS is not a claim and does not stop that clock. Death claims follow different limits: generally within two years of the death and within four years of the first symptom of the injury that led to the death.",
+      },
     ],
     relatedPosts: [
       "what-is-sirva-and-can-it-qualify-for-compensation",
@@ -185,9 +193,17 @@ Your doctor may record the injury using a more specific shoulder diagnosis. For 
       "what-injuries-qualify-for-vaccine-compensation",
       "what-medical-records-do-i-need-for-a-vaccine-injury-claim",
     ],
-    sources: [S.injuryTable, S.hrsaCoveredVaccines, S.hrsaWhoCanFile, S.hrsaVicp],
+    sources: [
+      S.injuryTable,
+      S.hrsaCoveredVaccines,
+      S.hrsaWhoCanFile,
+      S.hrsaHowToFile,
+      S.usc300aa11,
+      S.usc300aa16,
+      S.hrsaVicp,
+    ],
     datePublished: PUBLISHED,
-    lastReviewed: REVIEWED,
+    lastReviewed: "2026-11-12",
   },
 
   // ─── GBS ─────────────────────────────────────────────────────────────────────
