@@ -197,6 +197,41 @@ describe("BlogPosting dates", () => {
   });
 });
 
+describe("SIRVA hub first-screen answer and FAQs", () => {
+  test("keeps the title, meta, slug, and H1, and emits six FAQPage questions in order", () => {
+    const hub = injuryHubs.find((item) => item.slug === "sirva");
+    assert.ok(hub);
+    assert.equal(hub.slug, "sirva");
+    assert.equal(hub.name, "SIRVA (Shoulder Injury Related to Vaccine Administration)");
+    assert.equal(hub.seoTitle, "SIRVA Symptoms: Shoulder Pain After a Vaccine & VICP Claims");
+    assert.equal(
+      hub.description,
+      "What is SIRVA? Learn the symptoms of shoulder pain and stiffness after a shot, the Table's 48-hour rule, the 6-month severity rule, and deadlines.",
+    );
+    assert.match(hub.summary, /^SIRVA \(shoulder injury related to vaccine administration\) is shoulder pain/);
+    assert.match(hub.summary, /within 48 hours of the shot\./);
+    assert.match(hub.summary, /generally within three years after the first symptom\.$/);
+    assert.deepEqual(
+      hub.faqs.map((item) => item.q),
+      [
+        "What is SIRVA?",
+        "Is a sore arm after a shot the same as SIRVA?",
+        "Which vaccines list SIRVA on the Vaccine Injury Table?",
+        "Does SIRVA have to last a certain amount of time to qualify?",
+        "What if I had shoulder problems before the vaccine?",
+        "How long do I have to file a SIRVA claim with the VICP?",
+      ],
+    );
+    assert.match(hub.faqs[0]?.a ?? "", /musculoskeletal injury, not a nerve injury\.$/);
+    assert.match(
+      hub.faqs[5]?.a ?? "",
+      /within three years after the first symptom or manifestation of onset/,
+    );
+    assert.equal(hub.lastReviewed, "2026-11-12");
+    assertFaqPageMatches(faqPageJsonLd(hub.faqs, "/injuries/sirva") as JsonLd, hub.faqs, "/injuries/sirva");
+  });
+});
+
 describe("existing FAQ pages", () => {
   test("homepage, /faq, and injury guides already build FAQPage from the visible items", () => {
     assertFaqPageMatches(faqPageJsonLd(homeFaqs, "/") as JsonLd, homeFaqs, "/");
