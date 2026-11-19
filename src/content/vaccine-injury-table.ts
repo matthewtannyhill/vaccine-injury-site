@@ -281,7 +281,7 @@ export const tableNotes: TableNote[] = [
     id: "anaphylaxis",
     title: "Anaphylaxis",
     paragraphs: [
-      "Where anaphylaxis is listed, the time period is ≤4 hours. It is listed for tetanus-toxoid vaccines, pertussis-containing vaccines, measles/mumps/rubella component vaccines, inactivated polio, hepatitis B, varicella, seasonal influenza, meningococcal, and HPV vaccines. It is not listed for Hib, rotavirus, pneumococcal conjugate, or hepatitis A vaccines.",
+      "Where anaphylaxis is listed, the time period is ≤4 hours. It is listed for tetanus-toxoid vaccines, pertussis-containing vaccines, measles/mumps/rubella component vaccines, inactivated polio, hepatitis B, varicella, seasonal influenza, meningococcal, and HPV vaccines. It is not listed for Hib, rotavirus, pneumococcal conjugate, hepatitis A, or live oral polio (OPV) vaccines, or for category XVII (new vaccines).",
       "The definition requires one acute event with two or more organ systems involved at the same time. The regulation notes that most cases resolve without sequela, which is separate from the program's severity requirement.",
     ],
     quote: {
@@ -294,7 +294,7 @@ export const tableNotes: TableNote[] = [
     id: "sirva",
     title: "SIRVA",
     paragraphs: [
-      "Shoulder Injury Related to Vaccine Administration is listed for the injected vaccine categories in the Table, with a time period of ≤48 hours. It is not listed for rotavirus or for live oral polio vaccine. The regulation describes SIRVA as a musculoskeletal injury of the shoulder after a vaccine intended for intramuscular use in the upper arm, and states that it is not a neurological injury.",
+      "Shoulder Injury Related to Vaccine Administration is listed for most injected vaccine categories in the Table, with a time period of ≤48 hours. Measles, mumps, and rubella vaccines, including MMR, are covered under category III. Categories IV (rubella-only) and V (measles-only) do not list SIRVA. It is also not listed for rotavirus or live oral polio (OPV). The regulation describes SIRVA as a musculoskeletal injury of the shoulder after a vaccine intended for intramuscular use in the upper arm, and states that it is not a neurological injury.",
       "All four of the following are required: no history of pain, inflammation, or dysfunction of that shoulder before the injection that would explain the later findings; pain within the Table time period; pain and reduced range of motion limited to the shoulder that received the injection; and no other condition that would explain the symptoms.",
     ],
     quote: {
@@ -307,7 +307,7 @@ export const tableNotes: TableNote[] = [
     id: "syncope",
     title: "Vasovagal syncope",
     paragraphs: [
-      "Vasovagal syncope is listed for the injected vaccine categories, with a time period of ≤1 hour. The definition requires loss of consciousness and postural tone caused by a transient decrease in blood flow to the brain after an injected vaccine. Loss of consciousness from organic heart disease, cardiac arrhythmias, transient ischemic attacks, hyperventilation, metabolic conditions, neurological conditions, or seizures is not vasovagal syncope under the Table. Recurrent episodes after the time period are not a sequela of an episode that met the Table.",
+      "Vasovagal syncope is listed for most injected vaccine categories, with a time period of ≤1 hour. It is on the same categories as SIRVA. Measles, mumps, and rubella vaccines, including MMR, are covered under category III. Categories IV (rubella-only) and V (measles-only) do not list it, and neither do rotavirus or live oral polio (OPV). The definition requires loss of consciousness and postural tone caused by a transient decrease in blood flow to the brain after an injected vaccine. Loss of consciousness from organic heart disease, cardiac arrhythmias, transient ischemic attacks, hyperventilation, metabolic conditions, neurological conditions, or seizures is not vasovagal syncope under the Table. Recurrent episodes after the time period are not a sequela of an episode that met the Table.",
     ],
     quote: {
       text: "Vasovagal syncope (also sometimes called neurocardiogenic syncope) means loss of consciousness (fainting) and postural tone caused by a transient decrease in blood flow to the brain occurring after the administration of an injected vaccine.",

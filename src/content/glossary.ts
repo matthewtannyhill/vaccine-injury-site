@@ -362,7 +362,7 @@ export const glossaryTerms: GlossaryTerm[] = [
     name: "SIRVA (shoulder injury related to vaccine administration)",
     alternateName: "Shoulder injury related to vaccine administration",
     definition: [
-      "SIRVA is a Table injury for injected vaccine categories in 42 CFR 100.3, with a time period of ≤48 hours. The regulation describes shoulder pain and limited range of motion after a vaccine intended for intramuscular administration in the upper arm. It states that SIRVA is not a neurological injury. All four regulatory criteria have to be met, including no prior history in that shoulder that would explain the symptoms, pain within the time period, symptoms limited to the injected shoulder, and no other condition that explains the symptoms.",
+      "SIRVA is a Table injury for most injected vaccine categories in 42 CFR 100.3, with a time period of ≤48 hours. Measles, mumps, and rubella vaccines, including MMR, are covered under category III. Categories IV (rubella-only) and V (measles-only) do not list SIRVA, and neither do rotavirus or live oral polio (OPV). The regulation describes shoulder pain and limited range of motion after a vaccine intended for intramuscular administration in the upper arm. It states that SIRVA is not a neurological injury. All four regulatory criteria have to be met, including no prior history in that shoulder that would explain the symptoms, pain within the time period, symptoms limited to the injected shoulder, and no other condition that explains the symptoms.",
     ],
     sources: [S.injuryTable],
     links: [
@@ -398,7 +398,7 @@ export const glossaryTerms: GlossaryTerm[] = [
     id: "anaphylaxis",
     name: "Anaphylaxis",
     definition: [
-      "Anaphylaxis is on the Vaccine Injury Table for many, but not all, covered vaccine categories, with a time period of ≤4 hours. Paragraph (c)(1) defines it as an acute, severe, and potentially lethal systemic reaction that occurs as a single discrete event with simultaneous involvement of two or more organ systems. It is not listed for Hib, rotavirus, pneumococcal conjugate, or hepatitis A vaccines.",
+      "Anaphylaxis is on the Vaccine Injury Table for many, but not all, covered vaccine categories, with a time period of ≤4 hours. Paragraph (c)(1) defines it as an acute, severe, and potentially lethal systemic reaction that occurs as a single discrete event with simultaneous involvement of two or more organ systems. It is not listed for Hib, rotavirus, pneumococcal conjugate, hepatitis A, or live oral polio (OPV) vaccines, or for category XVII (new vaccines).",
     ],
     sources: [S.injuryTable],
     links: [{ href: "/injuries/anaphylaxis", label: "Anaphylaxis injury guide" }],
@@ -417,7 +417,7 @@ export const glossaryTerms: GlossaryTerm[] = [
     name: "Vasovagal syncope",
     alternateName: "Fainting",
     definition: [
-      "Vasovagal syncope is on the Vaccine Injury Table for injected vaccine categories, with a time period of ≤1 hour. Paragraph (c)(13) defines it as loss of consciousness and postural tone caused by a transient decrease in blood flow to the brain after an injected vaccine. Loss of consciousness from the other conditions listed in that paragraph, including seizures and cardiac arrhythmias, is not Table vasovagal syncope. The regulation also calls this neurocardiogenic syncope.",
+      "Vasovagal syncope is on the Vaccine Injury Table for most injected vaccine categories, with a time period of ≤1 hour. It follows the same categories as SIRVA. Measles, mumps, and rubella vaccines, including MMR, are covered under category III. Categories IV (rubella-only) and V (measles-only) do not list it, and neither do rotavirus or live oral polio (OPV). Paragraph (c)(13) defines it as loss of consciousness and postural tone caused by a transient decrease in blood flow to the brain after an injected vaccine. Loss of consciousness from the other conditions listed in that paragraph, including seizures and cardiac arrhythmias, is not Table vasovagal syncope. The regulation also calls this neurocardiogenic syncope.",
     ],
     sources: [S.injuryTable],
     links: [{ href: "/injuries/syncope-fainting", label: "Fainting injury guide" }],
