@@ -26,6 +26,8 @@ Key facts the site explains (always confirm against the official sources below):
 - [Who can file a vaccine injury claim?](https://www.vaccineinjuries.org/blog/who-can-file-a-vaccine-injury-claim)
 - [How long do I have to file?](https://www.vaccineinjuries.org/blog/how-long-do-i-have-to-file-a-vaccine-injury-claim)
 - [Severity requirements for a VICP claim](https://www.vaccineinjuries.org/blog/what-are-the-severity-requirements-for-a-vicp-claim)
+- [Vaccine Injury Table](https://www.vaccineinjuries.org/vaccine-injury-table): every current 42 CFR 100.3 category, injury, and onset window, copied from the regulation, with what on-Table and off-Table mean
+- [VICP glossary](https://www.vaccineinjuries.org/glossary): definitions of VICP and CICP terms, including the Table, deadlines, fees, and the $250,000 statutory amounts
 - [Table vs. off-Table injuries](https://www.vaccineinjuries.org/blog/difference-between-table-injury-and-off-table-injury)
 - [What injuries qualify?](https://www.vaccineinjuries.org/blog/what-injuries-qualify-for-vaccine-compensation)
 - [COVID-19 vaccine claims and the CICP](https://www.vaccineinjuries.org/blog/can-i-sue-for-covid-vaccine-side-effects)

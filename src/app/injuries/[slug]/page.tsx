@@ -195,6 +195,10 @@ export default async function InjuryHubPage({ params }: Props) {
               >
                 the difference between Table and off-Table injuries
               </Link>
+              , or see every onset window on the{" "}
+              <Link href="/vaccine-injury-table" className="text-blue-700 underline hover:text-blue-800">
+                Vaccine Injury Table
+              </Link>
               .
             </p>
           </section>

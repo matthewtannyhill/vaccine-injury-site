@@ -17,6 +17,17 @@ export default function FAQPage() {
           <p className="text-blue-200 text-lg">
             Answers to the most common questions about vaccine injury claims, compensation, and the legal process.
           </p>
+          <p className="text-blue-200 text-sm mt-4">
+            Looking up a word? See the{" "}
+            <Link href="/glossary" className="underline hover:text-white">
+              glossary
+            </Link>
+            . Looking up an onset window? See the{" "}
+            <Link href="/vaccine-injury-table" className="underline hover:text-white">
+              Vaccine Injury Table
+            </Link>
+            .
+          </p>
         </div>
       </section>
 

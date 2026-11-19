@@ -1,5 +1,7 @@
 import { blogPosts } from "@/content/blog/posts";
+import { GLOSSARY_PATH, GLOSSARY_REVIEWED } from "@/content/glossary";
 import { injuryHubs } from "@/content/injuries";
+import { VACCINE_TABLE_PATH, VACCINE_TABLE_REVIEWED } from "@/content/vaccine-injury-table";
 import { CORE_PAGES_LAST_MODIFIED } from "@/lib/site";
 
 export type IndexablePage = {
@@ -19,7 +21,9 @@ export function indexablePages(): IndexablePage[] {
     { path: "/about", lastModified: CORE_PAGES_LAST_MODIFIED, priority: 0.8 },
     { path: "/blog", lastModified: CORE_PAGES_LAST_MODIFIED, priority: 0.7 },
     { path: "/injuries", lastModified: CORE_PAGES_LAST_MODIFIED, priority: 0.8 },
+    { path: VACCINE_TABLE_PATH, lastModified: VACCINE_TABLE_REVIEWED, priority: 0.8 },
     { path: "/faq", lastModified: CORE_PAGES_LAST_MODIFIED, priority: 0.8 },
+    { path: GLOSSARY_PATH, lastModified: GLOSSARY_REVIEWED, priority: 0.7 },
     { path: "/how-it-works", lastModified: CORE_PAGES_LAST_MODIFIED, priority: 0.8 },
     { path: "/intake", lastModified: CORE_PAGES_LAST_MODIFIED, priority: 0.9 },
     { path: "/disclaimer", lastModified: CORE_PAGES_LAST_MODIFIED, priority: 0.3 },

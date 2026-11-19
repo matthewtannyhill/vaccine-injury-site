@@ -66,7 +66,15 @@ export default function InjuriesIndexPage() {
               >
                 Vaccine Injury Table (42 CFR 100.3)
               </a>
-              , quoting the regulation&apos;s time periods directly.
+              , quoting the regulation&apos;s time periods directly. The full list, by vaccine category, is on the{" "}
+              <Link href="/vaccine-injury-table" className="text-blue-700 underline hover:text-blue-800">
+                Vaccine Injury Table
+              </Link>{" "}
+              page. Terms used in these guides are defined in the{" "}
+              <Link href="/glossary" className="text-blue-700 underline hover:text-blue-800">
+                glossary
+              </Link>
+              .
             </p>
           </div>
 
