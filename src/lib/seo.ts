@@ -225,3 +225,118 @@ export function conditionPageJsonLd({
       : {}),
   };
 }
+
+function citationList(sources?: Source[]) {
+  if (!sources?.length) return {};
+  return {
+    citation: sources.map((s) => ({ "@type": "CreativeWork", name: s.title, url: s.url })),
+  };
+}
+
+/**
+ * Reference article (Vaccine Injury Table and similar explainers). Article plus a WebPage
+ * main entity so dateModified is available on both types. Not a MedicalWebPage.
+ */
+export function referenceArticleJsonLd({
+  path,
+  headline,
+  description,
+  datePublished,
+  dateModified,
+  sources,
+}: {
+  path: string;
+  headline: string;
+  description: string;
+  datePublished: string;
+  dateModified: string;
+  sources?: Source[];
+}) {
+  const url = absoluteUrl(path);
+  return {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline,
+    description,
+    url,
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": url,
+      url,
+      name: headline,
+      dateModified,
+    },
+    datePublished,
+    dateModified,
+    author: { "@type": "Organization", name: EDITORIAL_TEAM, url: EDITORIAL_TEAM_URL },
+    publisher: { "@type": "Organization", "@id": ORGANIZATION_ID, name: SITE_NAME, url: SITE_URL },
+    isPartOf: { "@id": WEBSITE_ID },
+    inLanguage: "en-US",
+    ...citationList(sources),
+  };
+}
+
+/** Dated WebPage for a reference document such as the glossary. */
+export function referenceWebPageJsonLd({
+  path,
+  name,
+  description,
+  datePublished,
+  dateModified,
+  sources,
+}: {
+  path: string;
+  name: string;
+  description: string;
+  datePublished: string;
+  dateModified: string;
+  sources?: Source[];
+}) {
+  const url = absoluteUrl(path);
+  return {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": url,
+    url,
+    name,
+    description,
+    inLanguage: "en-US",
+    isPartOf: { "@id": WEBSITE_ID },
+    publisher: { "@id": ORGANIZATION_ID },
+    author: { "@type": "Organization", name: EDITORIAL_TEAM, url: EDITORIAL_TEAM_URL },
+    datePublished,
+    dateModified,
+    lastReviewed: dateModified,
+    ...citationList(sources),
+  };
+}
+
+export type DefinedTermInput = {
+  id: string;
+  name: string;
+  description: string;
+  alternateName?: string;
+};
+
+/** DefinedTermSet whose terms point at the on-page anchors. */
+export function definedTermSetJsonLd(terms: DefinedTermInput[], path: string, name: string) {
+  const url = absoluteUrl(path);
+  const setId = `${url}#defined-term-set`;
+  return {
+    "@context": "https://schema.org",
+    "@type": "DefinedTermSet",
+    "@id": setId,
+    name,
+    description: name,
+    url,
+    hasDefinedTerm: terms.map((term) => ({
+      "@type": "DefinedTerm",
+      "@id": `${url}#${term.id}`,
+      name: term.name,
+      description: term.description,
+      url: `${url}#${term.id}`,
+      inDefinedTermSet: { "@id": setId },
+      ...(term.alternateName ? { alternateName: term.alternateName } : {}),
+    })),
+  };
+}
