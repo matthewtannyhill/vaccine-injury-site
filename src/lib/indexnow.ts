@@ -183,6 +183,8 @@ const FILE_EFFECTS: Record<string, Effect> = {
   "src/app/blog/[slug]/page.tsx": { kind: "blog-posts" },
   "src/app/injuries/page.tsx": { kind: "paths", paths: ["/injuries"] },
   "src/app/injuries/[slug]/page.tsx": { kind: "injury-hubs" },
+  "src/app/vaccine-injury-table/page.tsx": { kind: "paths", paths: ["/vaccine-injury-table"] },
+  "src/app/glossary/page.tsx": { kind: "paths", paths: ["/glossary"] },
   "src/app/faq/page.tsx": { kind: "paths", paths: ["/faq"] },
   "src/app/faq/layout.tsx": { kind: "paths", paths: ["/faq"] },
   "src/app/how-it-works/page.tsx": { kind: "paths", paths: ["/how-it-works"] },
@@ -207,6 +209,8 @@ const FILE_EFFECTS: Record<string, Effect> = {
   "src/content/blog/posts.ts": { kind: "posts-file" },
   "src/content/injuries.ts": { kind: "injuries-file" },
   "src/content/faq.ts": { kind: "paths", paths: ["/", "/faq"] },
+  "src/content/vaccine-injury-table.ts": { kind: "paths", paths: ["/vaccine-injury-table"] },
+  "src/content/glossary.ts": { kind: "paths", paths: ["/glossary"] },
   "src/lib/sources.ts": { kind: "sourced-pages" },
   "src/components/SourcesList.tsx": { kind: "sourced-pages" },
   "src/components/CTABanner.tsx": { kind: "cta" },
@@ -275,7 +279,15 @@ export function pathsForChangedFiles(files: string[], options: ChangedFileOption
         addPaths(paths, injuryPaths(options.injurySlugs));
         break;
       case "sourced-pages":
-        addPaths(paths, ["/about", "/faq", "/disclaimer", ...blogPaths(options.blogSlugs), ...injuryPaths(options.injurySlugs)]);
+        addPaths(paths, [
+          "/about",
+          "/faq",
+          "/disclaimer",
+          "/vaccine-injury-table",
+          "/glossary",
+          ...blogPaths(options.blogSlugs),
+          ...injuryPaths(options.injurySlugs),
+        ]);
         break;
       case "cta":
         addPaths(paths, ["/", "/about", "/how-it-works", "/injuries", ...blogPaths(options.blogSlugs)]);

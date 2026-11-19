@@ -17,6 +17,8 @@ export default function Footer() {
               <li><Link href="/how-it-works" className="hover:text-white transition-colors">How It Works</Link></li>
               <li><Link href="/faq" className="hover:text-white transition-colors">FAQ</Link></li>
               <li><Link href="/injuries" className="hover:text-white transition-colors">Injury Guides</Link></li>
+              <li><Link href="/vaccine-injury-table" className="hover:text-white transition-colors">Vaccine Injury Table</Link></li>
+              <li><Link href="/glossary" className="hover:text-white transition-colors">Glossary</Link></li>
               <li><Link href="/blog" className="hover:text-white transition-colors">Articles</Link></li>
               <li><Link href="/intake" className="hover:text-white transition-colors">Get Connected With an Attorney</Link></li>
             </ul>

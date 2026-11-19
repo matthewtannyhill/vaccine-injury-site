@@ -19,6 +19,8 @@ export default function Nav() {
             <Link href="/how-it-works" className="hover:text-blue-900 transition-colors">How It Works</Link>
             <Link href="/faq" className="hover:text-blue-900 transition-colors">FAQ</Link>
             <Link href="/injuries" className="hover:text-blue-900 transition-colors">Injury Guides</Link>
+            <Link href="/vaccine-injury-table" className="hidden lg:inline hover:text-blue-900 transition-colors">Injury Table</Link>
+            <Link href="/glossary" className="hidden lg:inline hover:text-blue-900 transition-colors">Glossary</Link>
             <Link href="/blog" className="hover:text-blue-900 transition-colors">Resources</Link>
             <Link href="/about" className="hover:text-blue-900 transition-colors">About</Link>
             <Link
@@ -47,6 +49,8 @@ export default function Nav() {
             <Link href="/how-it-works" onClick={() => setOpen(false)}>How It Works</Link>
             <Link href="/faq" onClick={() => setOpen(false)}>FAQ</Link>
             <Link href="/injuries" onClick={() => setOpen(false)}>Injury Guides</Link>
+            <Link href="/vaccine-injury-table" onClick={() => setOpen(false)}>Injury Table</Link>
+            <Link href="/glossary" onClick={() => setOpen(false)}>Glossary</Link>
             <Link href="/blog" onClick={() => setOpen(false)}>Resources</Link>
             <Link href="/about" onClick={() => setOpen(false)}>About</Link>
             <Link

@@ -4,10 +4,11 @@ import { allFaqItems } from "@/content/faq";
 import { breadcrumbJsonLd, faqPageJsonLd, pageMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = pageMetadata({
-  title: "Frequently Asked Questions",
-  ogTitle: "Vaccine Injury Compensation FAQ | VaccineInjuries.org",
+  // Written to stand alone in search results, so it skips the " | VaccineInjuries.org" suffix.
+  // Open Graph and Twitter titles use the same string (siteName still carries the brand).
+  title: { absolute: "Vaccine Injury FAQ: Deadlines, Eligibility, and Costs" },
   description:
-    "Frequently asked questions about vaccine injury compensation, eligibility, filing deadlines, and how the claims process works.",
+    "Answers on vaccine injury compensation: who can file, the usual 36-month VICP deadline, costs and fees, and how COVID-19 claims go through the CICP.",
   path: "/faq",
 });
 
