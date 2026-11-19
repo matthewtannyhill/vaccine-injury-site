@@ -339,6 +339,28 @@ export const SOURCES = {
     title: "MedlinePlus (NIH) — Fainting",
     url: "https://medlineplus.gov/ency/article/003092.htm",
   },
+  medlineBursitis: {
+    title: "MedlinePlus (NIH) — Bursitis",
+    url: "https://medlineplus.gov/bursitis.html",
+  },
+  mayoFrozenShoulder: {
+    title: "Mayo Clinic — Frozen shoulder: symptoms and causes (page updated May 1, 2026)",
+    url: "https://www.mayoclinic.org/diseases-conditions/frozen-shoulder/symptoms-causes/syc-20372684",
+  },
+  aaosRotatorCuff: {
+    title: "American Academy of Orthopaedic Surgeons OrthoInfo — Rotator Cuff Tears",
+    url: "https://orthoinfo.aaos.org/en/diseases--conditions/rotator-cuff-tears/",
+  },
+  woodSirva2022: {
+    title:
+      "Wood and Ilyas — Shoulder Injury Related to Vaccine Administration: Diagnosis and Management, Journal of Hand Surgery Global Online (2022) (PMC8797178)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8797178/",
+  },
+  cagleSirva2021: {
+    title:
+      "Cagle — Shoulder Injury after Vaccination: A Systematic Review, Revista Brasileira de Ortopedia (2021) (PMC8249056)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8249056/",
+  },
   nhlbiItp: {
     title: "NHLBI (NIH) — Immune Thrombocytopenia (ITP)",
     url: "https://www.nhlbi.nih.gov/health/immune-thrombocytopenia",

@@ -44,6 +44,9 @@ export default async function InjuryHubPage({ params }: Props) {
   const related = hub.relatedPosts
     .map((s) => blogPosts.find((p) => p.slug === s))
     .filter((p): p is (typeof blogPosts)[number] => Boolean(p));
+  const questionPosts = (hub.relatedQuestions ?? [])
+    .map((s) => blogPosts.find((p) => p.slug === s))
+    .filter((p): p is (typeof blogPosts)[number] => Boolean(p));
   const otherHubs = injuryHubs.filter((h) => h.slug !== hub.slug);
 
   return (
@@ -235,6 +238,26 @@ export default async function InjuryHubPage({ params }: Props) {
               ))}
             </div>
           </section>
+
+          {questionPosts.length > 0 && (
+            <section aria-labelledby="related-questions-heading">
+              <h2 id="related-questions-heading" className="text-2xl font-bold text-gray-900 mb-2">
+                Related {hub.shortName} questions
+              </h2>
+              <p className="text-gray-700 leading-relaxed mb-3">
+                Shorter pages on one question each, with links back to this guide.
+              </p>
+              <ul className="space-y-2">
+                {questionPosts.map((post) => (
+                  <li key={post.slug}>
+                    <Link href={`/blog/${post.slug}`} className="text-blue-700 hover:underline">
+                      {post.title}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          )}
 
           {related.length > 0 && (
             <section aria-labelledby="related-heading">

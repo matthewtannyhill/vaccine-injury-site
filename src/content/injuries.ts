@@ -61,6 +61,11 @@ export type InjuryHub = {
   faqs: FaqItem[];
   /** Blog post slugs (must exist in src/content/blog/posts.ts). */
   relatedPosts: string[];
+  /**
+   * Shorter single-question posts rendered in their own link block
+   * ("Related SIRVA questions" on the SIRVA hub). Also used by hubsForPost.
+   */
+  relatedQuestions?: string[];
   sources: Source[];
   /** ISO YYYY-MM-DD. */
   datePublished: string;
@@ -192,6 +197,12 @@ Your doctor may record the injury using a more specific shoulder diagnosis. For 
       "difference-between-table-injury-and-off-table-injury",
       "what-injuries-qualify-for-vaccine-compensation",
       "what-medical-records-do-i-need-for-a-vaccine-injury-claim",
+    ],
+    relatedQuestions: [
+      "sirva-symptoms-and-diagnosis",
+      "is-sirva-permanent",
+      "frozen-shoulder-bursitis-rotator-cuff-after-vaccine",
+      "what-records-help-a-sirva-claim",
     ],
     sources: [
       S.injuryTable,
@@ -854,5 +865,7 @@ export function getInjuryHub(slug: string): InjuryHub | undefined {
 
 /** Hubs that list a given blog post as related (used for "Related injury guides" on posts). */
 export function hubsForPost(postSlug: string): InjuryHub[] {
-  return injuryHubs.filter((hub) => hub.relatedPosts.includes(postSlug));
+  return injuryHubs.filter(
+    (hub) => hub.relatedPosts.includes(postSlug) || (hub.relatedQuestions ?? []).includes(postSlug),
+  );
 }

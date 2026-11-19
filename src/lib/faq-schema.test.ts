@@ -2,7 +2,7 @@ import assert from "node:assert/strict";
 import { describe, test } from "node:test";
 import { blogPosts } from "@/content/blog/posts";
 import { allFaqItems, homeFaqs } from "@/content/faq";
-import { injuryHubs } from "@/content/injuries";
+import { hubsForPost, injuryHubs } from "@/content/injuries";
 import { blogPageJsonLd } from "@/lib/blog-jsonld";
 import { extractFaqItems } from "@/lib/faq-extract";
 import { faqPageJsonLd, type FaqItem } from "@/lib/seo";
@@ -243,6 +243,44 @@ describe("existing FAQ pages", () => {
         hub.faqs,
         `/injuries/${hub.slug}`,
       );
+    }
+  });
+});
+
+describe("SIRVA question cluster", () => {
+  const slugs = [
+    "sirva-symptoms-and-diagnosis",
+    "is-sirva-permanent",
+    "frozen-shoulder-bursitis-rotator-cuff-after-vaccine",
+    "what-records-help-a-sirva-claim",
+  ] as const;
+
+  test("publishes four cited posts and lists them on the SIRVA hub", () => {
+    const hub = injuryHubs.find((item) => item.slug === "sirva");
+    assert.ok(hub);
+    assert.deepEqual(hub.relatedQuestions, [...slugs]);
+    assert.equal(hub.seoTitle, "SIRVA Symptoms: Shoulder Pain After a Vaccine & VICP Claims");
+    assert.equal(hub.lastReviewed, "2026-11-12");
+
+    for (const slug of slugs) {
+      const post = blogPosts.find((item) => item.slug === slug);
+      assert.ok(post, slug);
+      assert.equal(post.datePublished, "2026-11-18");
+      assert.equal(post.lastReviewed, "2026-11-18");
+      assert.ok(post.seoTitle);
+      assert.ok(post.seoTitle.length <= 60, `${slug} seoTitle ${post.seoTitle.length}`);
+      assert.ok(post.excerpt.length > 0 && post.excerpt.length <= 155, `${slug} excerpt ${post.excerpt.length}`);
+      assert.ok(post.sources.length >= 4, slug);
+      assert.match(post.content, /\/injuries\/sirva(?:#table-heading)?\)/);
+      assert.match(post.content, /\/injuries\/sirva#table-heading/);
+      assert.match(post.content, /\/intake/);
+      assert.equal(/our attorneys/i.test(post.content), false, slug);
+      assert.equal(/\$\d/.test(post.content), false, slug);
+      const words = post.content.split(/\s+/).filter(Boolean).length;
+      assert.ok(words >= 600 && words <= 1100, `${slug} ${words} words`);
+      assert.ok(extractFaqItems(post.content).length >= 3, slug);
+      assert.ok(hubsForPost(slug).some((item) => item.slug === "sirva"), slug);
+      assert.ok(indexablePages().some((page) => page.path === `/blog/${slug}`), slug);
     }
   });
 });
