@@ -4460,7 +4460,7 @@ This article is for informational purposes only and is not legal or medical advi
     category: "Filing & Evidence",
     sources: [S.usc300aa11, S.injuryTable, S.hrsaHowToFile, S.hrsaWhoCanFile, S.vaers, S.woodSirva2022, S.aaosRotatorCuff],
     content: `
-The records that carry the most weight for shoulder injury related to vaccine administration (SIRVA) are the ones that line up with the Vaccine Injury Table. Those are the vaccination record, especially which arm, the earliest note of when pain started, earlier records for that same shoulder, and later notes that measure motion. You do not need a complete file before you ask questions. This page is the shoulder-specific map. A general checklist is in [what medical records a vaccine injury claim uses](/blog/what-medical-records-do-i-need-for-a-vaccine-injury-claim). The condition itself is explained in the [SIRVA guide](/injuries/sirva).
+The records that carry the most weight for shoulder injury related to vaccine administration ([SIRVA](/glossary#sirva)) are the ones that line up with the [Vaccine Injury Table](/vaccine-injury-table#sirva). Those are the vaccination record, especially which arm, the earliest note of when pain started, earlier records for that same shoulder, and later notes that measure motion. You do not need a complete file before you ask questions. This page is the shoulder-specific map. A general checklist is in [what medical records a vaccine injury claim uses](/blog/what-medical-records-do-i-need-for-a-vaccine-injury-claim). The condition itself is explained in the [SIRVA guide](/injuries/sirva).
 
 COVID-19 vaccines are not part of the VICP. Those requests go to a different program, described in [COVID-19 vaccine claims](/blog/can-i-sue-for-covid-vaccine-side-effects).
 
@@ -4544,7 +4544,7 @@ This article is general information, not legal or medical advice. It does not sa
       S.medlineBursitis,
     ],
     content: `
-Frozen shoulder, shoulder bursitis, and a rotator cuff tear are diagnoses a clinician may write down. They are not separate Vaccine Injury Table entries. They can be how SIRVA appears when the Table definition is met, and they are not Table SIRVA when it is not. An off-Table petition is still possible if the evidence shows the vaccine caused the condition. The condition can also be unrelated to the vaccine. The full guide is [SIRVA](/injuries/sirva).
+Frozen shoulder, shoulder bursitis, and a rotator cuff tear are diagnoses a clinician may write down. They are not separate [Vaccine Injury Table](/vaccine-injury-table#sirva) entries. They can be how [SIRVA](/glossary#sirva) appears when the Table definition is met, and they are not Table SIRVA when it is not. An off-Table petition is still possible if the evidence shows the vaccine caused the condition. The condition can also be unrelated to the vaccine. The full guide is [SIRVA](/injuries/sirva).
 
 [42 CFR § 100.3(c)(10)](https://www.ecfr.gov/current/title-42/chapter-I/subchapter-J/part-100/section-100.3) describes SIRVA as shoulder pain and limited motion after an intramuscular vaccine in the upper arm, thought to follow needle trauma or vaccine material reaching the bursa. It is an injury to musculoskeletal structures, and the regulation names tendons, ligaments, and bursae. For each injected category that lists SIRVA, the time period is ≤48 hours. See [Is SIRVA on the Vaccine Injury Table?](/injuries/sirva#table-heading).
 
@@ -4619,7 +4619,7 @@ SIRVA is not defined as a permanent injury. Published courses run from improveme
 
 Filing is a separate question. Under [42 U.S.C. § 300aa-11(c)(1)(D)](https://www.law.cornell.edu/uscode/text/42/300aa-11), and on [HRSA's Who Can File page](https://www.hrsa.gov/vaccine-compensation/eligible), effects must have lasted more than six months after vaccination, or the injury must have resulted in inpatient hospitalization and surgical intervention, or in death. More than six months does not mean the problem is permanent, and it does not say whether a petition would be paid.
 
-Mild soreness after a shot is common. Wood and Ilyas (2022) describe most injection-related shoulder complaints as gone within 24 to 48 hours. SIRVA is the uncommon case that persists. They call it rare, and say it can lead to persistent and possibly permanent injury. The 48-hour rule is in the [SIRVA guide](/injuries/sirva#table-heading). COVID-19 vaccines are not in the VICP. See [COVID-19 vaccine claims](/blog/can-i-sue-for-covid-vaccine-side-effects).
+Mild soreness after a shot is common. Wood and Ilyas (2022) describe most injection-related shoulder complaints as gone within 24 to 48 hours. SIRVA is the uncommon case that persists. They say it can lead to persistent and possibly permanent injury. The 48-hour rule is on the [Vaccine Injury Table](/vaccine-injury-table#sirva), in the [glossary](/glossary#sirva), and in the [SIRVA guide](/injuries/sirva#table-heading). COVID-19 vaccines are not in the VICP. See [COVID-19 vaccine claims](/blog/can-i-sue-for-covid-vaccine-side-effects).
 
 ## Is SIRVA permanent?
 
@@ -4685,7 +4685,7 @@ This article is general information, not legal or medical advice. It does not pr
     category: "Qualifying Injuries",
     sources: [S.injuryTable, S.hrsaCoveredVaccines, S.woodSirva2022, S.cagleSirva2021, S.aaosRotatorCuff, S.medlineBursitis],
     content: `
-On the Vaccine Injury Table, SIRVA means shoulder pain and limited range of motion after a vaccine given into the muscle of the upper arm. Pain has to begin within 48 hours. It has to be limited to the shoulder that received the shot. And no other condition can explain it. Doctors often record a more specific shoulder diagnosis, such as bursitis or a rotator cuff problem. Those names are clinical. A fourth requirement is no earlier problem in that shoulder that would explain the findings. [42 CFR § 100.3(c)(10)](https://www.ecfr.gov/current/title-42/chapter-I/subchapter-J/part-100/section-100.3) states all four, listed below. The quoted time periods are in the [SIRVA guide](/injuries/sirva#table-heading).
+On the [Vaccine Injury Table](/vaccine-injury-table#sirva), [SIRVA](/glossary#sirva) means shoulder pain and limited range of motion after a vaccine given into the muscle of the upper arm. Pain has to begin within 48 hours. It has to be limited to the shoulder that received the shot. And no other condition can explain it. Doctors often record a more specific shoulder diagnosis, such as bursitis or a rotator cuff problem. Those names are clinical. A fourth requirement is no earlier problem in that shoulder that would explain the findings. [42 CFR § 100.3(c)(10)](https://www.ecfr.gov/current/title-42/chapter-I/subchapter-J/part-100/section-100.3) states all four, listed below. The quoted time periods are in the [SIRVA guide](/injuries/sirva#table-heading).
 
 Mild soreness at the injection site is common and usually brief. SIRVA is the uncommon shoulder problem that does not fade that way. COVID-19 vaccines are not covered by the VICP; see [COVID-19 vaccine claims](/blog/can-i-sue-for-covid-vaccine-side-effects).
 

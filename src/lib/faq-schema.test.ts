@@ -273,6 +273,8 @@ describe("SIRVA question cluster", () => {
       assert.ok(post.sources.length >= 4, slug);
       assert.match(post.content, /\/injuries\/sirva(?:#table-heading)?\)/);
       assert.match(post.content, /\/injuries\/sirva#table-heading/);
+      assert.match(post.content, /\/vaccine-injury-table#sirva/);
+      assert.match(post.content, /\/glossary#sirva/);
       assert.match(post.content, /\/intake/);
       assert.equal(/our attorneys/i.test(post.content), false, slug);
       assert.equal(/\$\d/.test(post.content), false, slug);
