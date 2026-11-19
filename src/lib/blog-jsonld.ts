@@ -11,7 +11,7 @@ export function blogPageJsonLd(post: BlogPost): object[] {
     articleJsonLd({
       path,
       headline: post.title,
-      description: post.excerpt,
+      description: post.seoDescription ?? post.excerpt,
       datePublished: post.datePublished,
       dateModified: post.lastReviewed,
       author: post.author ?? EDITORIAL_TEAM,

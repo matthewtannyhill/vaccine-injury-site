@@ -9,8 +9,13 @@ export type BlogPost = {
    * characters and lead with the words people actually search (see Search Console).
    */
   seoTitle?: string;
-  /** Meta description and post-card summary. Keep under 155 characters. */
+  /** Card summary on the blog index, and the default meta description. Keep under 155 characters. */
   excerpt: string;
+  /**
+   * Optional meta description when the search snippet should differ from the card excerpt.
+   * Keep under 155 characters.
+   */
+  seoDescription?: string;
   /** Display date (month and year) shown in the post list. */
   date: string;
   /** First published, ISO YYYY-MM-DD. Used for the byline, structured data, and sitemap. */
@@ -3279,6 +3284,9 @@ This article is for informational purposes only and is not legal or medical advi
   {
     slug: "do-i-need-a-lawyer-to-file-a-vicp-claim",
     title: "Do I Need a Lawyer to File a VICP Claim?",
+    seoTitle: "Do I Need a Lawyer to File a VICP Claim? You Can File Alone",
+    seoDescription:
+      "No. You can file a VICP petition on your own, but HRSA says most people hire a lawyer. See what filing alone involves and how program-paid fees work.",
     excerpt:
       "No, the law lets you file a VICP petition on your own, but HRSA says most people hire a lawyer. Here is what filing without one involves, how lawyers are paid in the VICP, and three real court decisions involving people who filed on their own.",
     date: "October 2026",
