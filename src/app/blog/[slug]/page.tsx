@@ -25,16 +25,17 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const post = blogPosts.find((p) => p.slug === slug);
   if (!post) return {};
   const path = `/blog/${post.slug}`;
+  const description = post.seoDescription ?? post.excerpt;
   const images = post.heroImage ? [{ url: post.heroImage.src, alt: post.heroImage.alt }] : undefined;
   return {
     // seoTitle is written to fit search results on its own, so it skips the " | VaccineInjuries.org" suffix.
     title: post.seoTitle ? { absolute: post.seoTitle } : post.title,
-    description: post.excerpt,
+    description,
     alternates: { canonical: path },
     authors: [{ name: post.author ?? EDITORIAL_TEAM, url: "/about#editorial-team" }],
     openGraph: {
       title: post.title,
-      description: post.excerpt,
+      description,
       url: path,
       type: "article",
       siteName: SITE_NAME,
@@ -48,7 +49,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     twitter: {
       card: images ? "summary_large_image" : "summary",
       title: post.title,
-      description: post.excerpt,
+      description,
       ...(images ? { images: images.map((i) => i.url) } : {}),
     },
   };
