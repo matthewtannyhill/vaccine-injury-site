@@ -4466,13 +4466,13 @@ COVID-19 vaccines are not part of the VICP. Those requests go to a different pro
 
 ## What records does the Vaccine Act name?
 
-A VICP petition has to be accompanied by supporting documentation. [42 U.S.C. § 300aa-11(c)](https://www.law.cornell.edu/uscode/text/42/300aa-11) names, among other items:
+A VICP petition has to be accompanied by supporting documentation. [42 U.S.C. § 300aa-11(c)(2)](https://www.law.cornell.edu/uscode/text/42/300aa-11) names, among other items:
 
 - Vaccination records associated with the vaccine
 - Pre- and post-injury physician or clinic records
 - All post-injury inpatient and outpatient records, including provider notes, test results, and medication records
 
-If a record of that kind cannot be obtained, the statute says the petition should identify it and the reasons it is unavailable. [HRSA's how-to-file page](https://www.hrsa.gov/vaccine-compensation/how-to-file) says the petition filed with the U.S. Court of Federal Claims includes the medical records. HRSA also notes that most people hire a lawyer because the petition is a legal document. Hiring one is not a requirement of this site, and this page is not a filing manual.
+If a record of that kind cannot be obtained, the statute says the petition should identify it and the reasons it is unavailable. [HRSA's how-to-file page](https://www.hrsa.gov/vaccine-compensation/how-to-file) says the petition filed with the U.S. Court of Federal Claims includes the medical records. HRSA also notes that most people hire a lawyer because the petition is a legal document. HRSA also says you can prepare the petition yourself. A lawyer is not required. This page is not a filing manual.
 
 ## Why does the vaccine record need to show which arm?
 
@@ -4572,7 +4572,7 @@ AAOS states that most tears are from the tendon wearing down over time, more oft
 
 [HRSA](https://www.hrsa.gov/vaccine-compensation/covered-vaccines) says that if the first symptom occurs in the time period and the injury meets the Table definition, the vaccine is presumed to have caused it unless another cause is proven. If the definition is not met, the petitioner must prove causation with evidence such as medical records, medical opinion, or expert testimony.
 
-For these three diagnoses, the Table test is the SIRVA definition, not the name in the chart. It is not met when pain began after ≤48 hours, when symptoms are not limited to the vaccinated shoulder, when another condition explains them (including a nerve injury such as [brachial neuritis](/injuries/brachial-neuritis)), or when an earlier problem in that shoulder explains the findings. The regulation requires all of those elements, and it says SIRVA is not a neurological injury. Missing one means the case is not Table SIRVA. An off-Table petition can still be filed. It needs a heavier causation showing, described in [Table versus off-Table injuries](/blog/difference-between-table-injury-and-off-table-injury) and [how off-Table causation is analyzed](/blog/how-to-prove-vaccine-caused-injury-althen-test). Symptoms and the exam are in [SIRVA symptoms and diagnosis](/blog/sirva-symptoms-and-diagnosis).
+For these three diagnoses, the Table test is the SIRVA definition, not the name in the chart. It is not met when pain began more than 48 hours after the vaccination, when symptoms are not limited to the vaccinated shoulder, when another condition explains them (including a nerve injury such as [brachial neuritis](/injuries/brachial-neuritis)), or when an earlier problem in that shoulder explains the findings. The regulation requires all of those elements, and it says SIRVA is not a neurological injury. Missing one means the case is not Table SIRVA. An off-Table petition can still be filed. It needs a heavier causation showing, described in [Table versus off-Table injuries](/blog/difference-between-table-injury-and-off-table-injury) and [how off-Table causation is analyzed](/blog/how-to-prove-vaccine-caused-injury-althen-test). Symptoms and the exam are in [SIRVA symptoms and diagnosis](/blog/sirva-symptoms-and-diagnosis).
 
 SIRVA is not listed for rotavirus or oral polio vaccine. For injected categories that list it, the period is ≤48 hours.
 
@@ -4623,15 +4623,15 @@ Mild soreness after a shot is common. Wood and Ilyas (2022) describe most inject
 
 ## Is SIRVA permanent?
 
-No. [42 CFR § 100.3](https://www.ecfr.gov/current/title-42/chapter-I/subchapter-J/part-100/section-100.3) defines SIRVA as shoulder pain and limited motion after an upper-arm intramuscular vaccine. The definition has no duration.
+Not necessarily. [42 CFR § 100.3](https://www.ecfr.gov/current/title-42/chapter-I/subchapter-J/part-100/section-100.3) defines SIRVA as shoulder pain and limited motion after an upper-arm intramuscular vaccine, and the definition sets no duration. Some cases resolve. Wood and Ilyas note it can lead to prolonged and even permanent shoulder dysfunction.
 
-Wood and Ilyas wrote that long-term outcomes are not well documented and that published results vary widely. In the data they reviewed, they said the majority reported residual pain with permanently decreased motion after treatment. Those data are mostly people who filed VICP claims, not everyone with a sore arm. Of 476 SIRVA petitions from 2010 through 2016, 116 (about 24 percent) had fully resolved by the last reported visit. In a 2010 series of 13 petitioners who already had symptoms for more than six months, 4 reported complete recovery, and symptoms lasted from six months to many years. [Wood and Ilyas (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8797178/). Those files are often incomplete, and a last clinic note is not lifetime follow-up.
+Wood and Ilyas wrote that long-term outcomes are not well documented, that data sources are often incomplete, and that many patients are lost to follow-up. In the data they reviewed, they said the majority reported residual pain with permanently decreased motion after treatment. Those data are mostly people who filed VICP claims, not everyone with a sore arm. Of 476 SIRVA petitions from 2010 through 2016, 116 (about 24 percent) had fully resolved by the last reported visit. In a 2010 series of 13 petitioners who already had symptoms for more than six months, 4 reported complete recovery, and symptoms lasted from six months to many years. [Wood and Ilyas (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8797178/).
 
-Cagle's 2021 review of 56 published accounts found a different pattern. Of 44 accounts with follow-up, 31 were described as improved and 13 still had symptoms. He concluded that, without a nerve injury, near or full recovery was the most common reported outcome. [Cagle (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8249056/). Case reports can over-represent unusual courses, so neither "always permanent" nor "always temporary" is a fair summary.
+Cagle's 2021 review of 56 published accounts found a different pattern. Of 44 accounts with follow-up, 31 were described as improved and 13 still had symptoms. He concluded that, without a nerve injury, near or full recovery was the most common reported outcome. [Cagle (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8249056/). Wood and Ilyas note that case reports and small series tend to show higher recovery rates than larger retrospective studies, so neither 'always permanent' nor 'always temporary' is a fair summary.
 
 ## How long can SIRVA symptoms last?
 
-Published accounts run from weeks to many years. Cagle found no clear link between the vaccine given and how long symptoms lasted. Care in those accounts included physical therapy, steroid injection, anti-inflammatory medicine, and sometimes surgery. Wood and Ilyas describe the usual first step, absent nerve injury or infection, as rest, activity changes, anti-inflammatory medicine, and physical therapy, with a steroid injection or surgery reserved for problems that do not settle. Treatment choices belong with the treating doctor.
+Published accounts run from weeks to many years. Wood and Ilyas describe the usual first step, absent nerve injury or infection, as rest, activity changes, anti-inflammatory medicine, and physical therapy, with a steroid injection or surgery reserved for problems that do not settle.
 
 If the diagnosis is frozen shoulder, [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/frozen-shoulder/symptoms-causes/syc-20372684) (updated May 1, 2026) says that condition typically improves within 1 to 3 years. That describes frozen shoulder in general, not every shoulder problem after a vaccine, and it is not a VICP rule. See [bursitis, frozen shoulder, and rotator cuff tears](/blog/frozen-shoulder-bursitis-rotator-cuff-after-vaccine).
 
@@ -4653,7 +4653,7 @@ Soreness that fades in a day or two would not meet the six-month path. Limits st
 
 ## Does six months of symptoms mean the injury is permanent?
 
-No. Six months is only the shortest duration that meets one statutory path. People still improve after it, including in Mayo's account of frozen shoulder. Passing six months does not mean the problem is lifelong, and it does not mean a petition will be paid.
+No. Lasting more than six months is only the minimum for one statutory path. People still improve after it, including in Mayo's account of frozen shoulder. Lasting more than six months does not mean the problem is lifelong, and it does not mean a petition will be paid.
 
 ## Related SIRVA questions
 
