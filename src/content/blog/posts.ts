@@ -1720,7 +1720,7 @@ This article is for informational purposes only and is not legal or medical advi
   {
     slug: "anaphylaxis-after-vaccine-vicp",
     title: "Anaphylaxis After a Vaccine: What the VICP Table Says",
-    seoTitle: "Anaphylaxis After a Vaccine: The 4-Hour VICP Table Rule",
+    seoTitle: "Severe Allergic Reaction After a Vaccine? 4-Hour VICP Rule",
     excerpt:
       "Severe allergic reaction after a shot? Anaphylaxis within 4 hours is on the Vaccine Injury Table for many covered vaccines. See the rules and records.",
     date: "October 2026",
@@ -2743,7 +2743,7 @@ This article is for informational purposes only and is not legal advice. Court d
   {
     slug: "fainting-after-vaccine-syncope-claims",
     title: "Fainting After a Vaccine: A Plain-English Guide to Vasovagal Syncope Claims",
-    seoTitle: "Injured in a Faint After a Shot? 3 Real VICP Syncope Cases",
+    seoTitle: "Fainting After a Vaccine: The 1-Hour Rule and 3 Cases",
     excerpt:
       "Fainting after a shot is usually harmless, but a fall can cause real injuries. Learn the 1-hour Table rule for vasovagal syncope and see 3 real decisions.",
     date: "October 2026",

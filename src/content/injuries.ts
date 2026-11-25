@@ -787,7 +787,7 @@ The Vaccine Injury Table uses the term **thrombocytopenic purpura** rather than 
     shortName: "Fainting (syncope) injuries",
     term: "vasovagal syncope (fainting)",
     metaTitle: "Fainting (Vasovagal Syncope) After a Vaccine — Table Rules & Injuries",
-    seoTitle: "Fainting After Vaccination: VICP Table Rule (Within 1 Hour)",
+    seoTitle: "Fainted After a Shot? The 1-Hour Rule and Fall Injuries",
     description:
       "Fainted after a shot and hurt in the fall? See how the Vaccine Injury Table treats vasovagal syncope within 1 hour, which records matter, and deadlines.",
     summary:
